@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Uygulama verilerini senkronize et</item>
+        <item>Ana ekran düzenini Yedekle</item>
+        <item>Sistem ayarlarını yedekle</item>
+        <item>Cihazı bul</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını senkronize edin</item>
+        <item>Uygulamaları, ana ekran düzenini ve duvar kağıdını yedekleyin</item>
+        <item>WLAN ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
+        <item>Cihazınızı kaybederseniz uzaktan kilitleyin</item>
+    </string-array>
+</resources>
