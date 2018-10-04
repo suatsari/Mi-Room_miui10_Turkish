@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="denoise_entries">
+        <item>Varsayılan</item>
+        <item>Etkin</item>
+        <item>Devre dışı</item>
+    </string-array>
+    <string-array name="ai_scene_names">
+        <item>无</item>
+        <item>文档</item>
+        <item>花</item>
+        <item>食物</item>
+        <item>ppt</item>
+        <item>天空</item>
+        <item>日出日落</item>
+        <item>猫</item>
+        <item>狗</item>
+        <item>绿植</item>
+        <item>夜景</item>
+        <item>雪景</item>
+        <item>海边</item>
+        <item>秋色</item>
+        <item>烛光</item>
+        <item>汽车</item>
+        <item>草地</item>
+        <item>枫叶</item>
+        <item>多肉</item>
+        <item>建筑</item>
+        <item>城市</item>
+        <item>多云</item>
+        <item>阴天</item>
+        <item>逆光人像</item>
+        <item>剪影</item>
+        <item>人像</item>
+        <item>Takı</item>
+        <item>Buda heykeli</item>
+        <item>Sığır</item>
+        <item>Köri</item>
+        <item>Motosiklet</item>
+        <item>Tapınak</item>
+        <item>Plaj</item>
+        <item>Sualtı</item>
+    </string-array>  
+</resources>
