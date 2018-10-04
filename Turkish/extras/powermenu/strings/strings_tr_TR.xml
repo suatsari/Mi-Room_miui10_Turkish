@@ -1,0 +1,12 @@
+<resources>
+    <string name="label_airplane_mode">Uçak Modu</string>
+    <string name="label_silent_mode">Sessiz</string>
+    <string name="label_reboot">Yeniden Başlat</string>
+    <string name="label_shutdown">Kapat</string>
+    <string name="label_alert_fastboot">Fastboot</string>
+    <string name="label_alert_reboot">Yeniden Başlatmak için dokunun</string>
+    <string name="label_alert_recovery">Kurtarma Modu</string>
+    <string name="label_alert_shutdown">Kapatmak için dokunun</string>
+    <string name="label_emergency_call">Acil Çağrı</string>
+    <string name="label_blank">Geri</string>
+</resources>
