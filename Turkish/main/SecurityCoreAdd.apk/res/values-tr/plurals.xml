@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="fileCount">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
+    <plurals name="first_space_notification_format">
+        <item quantity="other">İlk Alanda %d bildirim</item>
+        <item quantity="one">İlk Alanda %d Bildirim</item>
+    </plurals>
+    <plurals name="second_space_notification_format">
+        <item quantity="other">İkinci Alanda %d bildirim</item>
+        <item quantity="one">İkinci Alanda %d Bildirim</item>
+    </plurals>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">%d uygulamaları ara</item>
+        <item quantity="one">%d uygulamasıyla ara</item>
+    </plurals>
+</resources>

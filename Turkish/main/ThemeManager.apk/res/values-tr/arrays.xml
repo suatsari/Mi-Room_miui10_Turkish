@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_names">
+        <item>Lock.ogg</item>
+        <item>Unlock.ogg</item>
+        <item>EffectTick.ogg</item>
+        <item>KeypressDelete.ogg</item>
+        <item>KeypressReturn.ogg</item>
+        <item>KeypressStandard.ogg</item>
+        <item>KeypressSpacebar.ogg</item>
+        <item>CameraClick.ogg</item>
+        <item>VideoRecord.ogg</item>
+        <item>CameraCountDown.ogg</item>
+        <item>CameraBeepSuccess.ogg</item>
+        <item>CameraBeepFail.ogg</item>
+        <item>CameraBeepInProgress.ogg</item>
+        <item>CameraBeepInProgress1.ogg</item>
+        <item>CameraBeepInProgress2.ogg</item>
+        <item>MusicShake.ogg</item>
+        <item>MessageComplete.ogg</item>
+        <item>SoundRecorderPlay.ogg</item>
+        <item>SoundRecorderPause.ogg</item>
+        <item>SoundRecorderRewind.ogg</item>
+        <item>LowBattery.ogg</item>
+    </string-array>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Kilitli</item>
+        <item>Kilitsiz</item>
+        <item>EffectTick</item>
+        <item>KeypressDelete</item>
+        <item>KeypressReturn</item>
+        <item>KeypressStandard</item>
+        <item>KeypressSpacebar</item>
+        <item>CameraClick</item>
+        <item>VideoRecord</item>
+        <item>CameraCountDown</item>
+        <item>CameraBeepSuccess</item>
+        <item>CameraBeepFail</item>
+        <item>CameraBbeepInProgress</item>
+        <item>CameraBeepInProgress1</item>
+        <item>CameraBeepInProgress2</item>
+        <item>MusicShake</item>
+        <item>MessageComplete</item>
+        <item>SoundRecorderPlay</item>
+        <item>SoundRecorderPause</item>
+        <item>SoundRecorderRewind</item>
+        <item>LowBattery</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_cover_name">
+        <item>Eğlence</item>
+        <item>Manzara</item>
+        <item>Yıldızlı Gökyüzü</item>
+        <item>Bitki</item>
+        <item>Hayvan</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_cover_res">
+        <item>wallpaper-settings-res/wallpaper_settings_precust_entertainment.webp</item>
+        <item>wallpaper-settings-res/wallpaper_settings_precust_scenery.webp</item>
+        <item>wallpaper-settings-res/wallpaper_settings_precust_starry_sky.webp</item>
+        <item>wallpaper-settings-res/wallpaper_settings_precust_plant.webp</item>
+        <item>wallpaper-settings-res/wallpaper_settings_precust_animal.webp</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_name">
+        <item>Manzara</item>
+        <item>Hayvan</item>
+        <item>Bitki</item>
+        <item>Yaratıcı</item>
+        <item>Yaşam tarzı</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_global_cover_res">
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_scenery.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_animal.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_plant.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_creative.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_lifestyle.webp</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_name">
+        <item>Hayvan</item>
+        <item>Bina</item>
+        <item>Yaratıcı</item>
+        <item>Karikatür</item>
+        <item>Manzara</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_india_cover_res">
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_animal.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_building.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_creative.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_cartoon.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_scenery.webp</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_name">
+        <item>Manzara</item>
+        <item>Hayvan</item>
+        <item>Yaratıcı</item>
+        <item>Bitki</item>
+        <item>Yaşam tarzı</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_brazil_cover_res">
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_scenery.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_animal.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_creative.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_plant.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_lifestyle.webp</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_name">
+        <item>Manzara</item>
+        <item>Hayvan</item>
+        <item>Yaratıcı</item>
+        <item>Bitki</item>
+        <item>Yaşam tarzı</item>
+    </string-array>
+    <string-array name="wallpaper_settings_precust_hong_kong_cover_res">
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_scenery.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_animal.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_creative.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_plant.webp</item>
+        <item>wallpaper-settings-res-global/wallpaper_settings_precust_lifestyle.webp</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>paket adı devre dışı</item>
+    </string-array>	
+</resources>

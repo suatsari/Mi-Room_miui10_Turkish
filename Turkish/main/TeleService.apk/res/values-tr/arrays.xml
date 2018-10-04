@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Sadece Ev</item>
+        <item>Otomatik</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Üçlü Mod</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Üçlü Mod</item>
+    </string-array>
+    <string-array name="call_backlight_entries">
+        <item>Yalnızca gelen çağrı</item>
+        <item>Aramayı cevapladıktan sonra</item>
+        <item>Gelen arama her zaman</item>
+        <item>Giden arama her zaman</item>
+    </string-array>
+    <string-array name="call_entries">
+        <item>Hiçbir şey yapma</item>
+        <item>Çeviriciyi aç</item>
+        <item>Kapat ve masaüstüne git</item>
+        <item>Çeviriciden çık ve kilitle</item>
+    </string-array>
+    <string-array name="incall_small_background_entries">
+        <item>Varsayılan</item>
+        <item>Ajan</item>
+        <item>Tavşan</item>
+        <item>Maske</item>
+        <item>MI logo</item>
+        <item>Bilinmeyen</item>
+    </string-array>
+    <string-array name="incall_background_entries">
+        <item>Varsayılan</item>
+        <item>Çığlık</item>
+        <item>Kanlı eller</item>
+        <item>Kapandaki adam</item>
+        <item>Hitman</item>
+        <item>Camın arkasındaki el</item>
+    </string-array>
+    <string-array name="set_samplingrate_entries">
+        <item>Varsayılan (8000 Hz)</item>
+        <item>16000 Hz</item>
+        <item>22050 Hz</item>
+        <item>44100 Hz</item>
+    </string-array>
+    <string-array name="set_bitrate_entries">
+        <item>Varsayılan (8 kbps)</item>
+        <item>24 kbps</item>
+        <item>32 kbps</item>
+        <item>48 kbps</item>
+        <item>64 kbps</item>
+        <item>96 kbps</item>
+        <item>128 kbps</item>
+    </string-array>
+    <string-array name="show_search_entries">
+        <item>Göster</item>
+        <item>Kişilerde göster</item>
+        <item>Çeviricide göster</item>
+        <item>Gizle</item>
+    </string-array>
+    <string-array name="key_call_entries">
+        <item>Gizle</item>
+        <item>Göster</item>
+    </string-array>
+    <string-array name="call_home_entries">
+        <item>Aramayı kabul</item>
+        <item>Aramayı reddet</item>
+        <item>Sesi kapat</item>
+        <item>Devre dışı</item>
+    </string-array>
+</resources>
