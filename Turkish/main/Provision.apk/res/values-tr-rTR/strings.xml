@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_enabled">Erişilebilirlik etkinleştirildi.</string>
+  <string name="agree">Kabul</string>
+  <string name="agree_terms">Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim.</string>
+  <string name="app_name">Hüküm</string>
+  <string name="application_permissions">Uygulama izinleri</string>
+  <string name="back">Geri</string>
+  <string name="cm_terms_content">Size verilen hizmetleri iyileştirmek için, seçtiğiniz mobil şebeke operatörü, kişisel verilerinizi ve bu cihazla ilgili bilgileri, WLAN şebekeleri veya mobil veri bağlantısı kullanarak kendi sunucularına yükleyebilir. Bu bilgiler, yalnızca hizmetlerin kalitesini artırmak ve daha kişiselleştirilmiş bir içerik sağlamak için istatistiksel amaçlar için kullanılacaktır. Bu bilgiler kişisel olarak sizi tanımlamak için kullanılmaz ve üçüncü taraflara açıklanmaz.</string>
+  <string name="cm_terms_title">Mobil Şebekenin Operatör Anlaşması</string>
+  <string name="congratulation_label">Artık hazırsınız!​</string>
+  <string name="congratulation_swipe">Sisteme girmek için yukarı doğru kaydırın</string>
+  <string name="congratulation_title">Kurulum tamamlandı</string>
+  <string name="content_description_complete">Tamam</string>
+  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_start">Başlat</string>
+  <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutun.</string>
+  <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerini doğrulayın veya uygulamalarda ve hizmetlerde oturum açın.</string>
+  <string name="desc_international_fingerprint">Parmakizinizi kullanarak cihazın kilidi açabilir veya uygulamalara ve hizmetlere oturum açabilirsiniz.</string>
+  <string name="disagree">İptal</string>
+  <string name="enable_accessibility_canceled">Erişilebilirlik iptal edildi.</string>
+  <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack\'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine ve ardından ekrana iki kez dokunun.</string>
+  <string name="enable_accessibility_dialog_negative_btn">İptal</string>
+  <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
+  <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
+  <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. %s klavyesinin Gizlilik Politikası görüntüle</string>
+  <string name="input_method_category">E-Posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz.</string>
+  <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
+  <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
+  <string name="item_fingerprint">Parmakizi</string>
+  <string name="item_lock_screen_password">Sadece ekran kilidi</string>
+  <string name="language_picker_other_languages_title">Diğer Diller</string>
+  <string name="language_settings">Dil seçin</string>
+  <string name="locale_picker_title">Konumunuzu seçin</string>
+  <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını görüntüleyin: %s</string>
+  <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet Şartlarını görüntüleyin: %s</string>
+  <string name="multisim_settings_category">SIM kart ayarları</string>
+  <string name="multisim_settings_title">2 SIM kart algılandı</string>
+  <string name="navigation_picker_gesture_guide">Hareket kılavuzu</string>
+  <string name="navigation_picker_radio_text_full_screen">Tam ekran hareketleri</string>
+  <string name="navigation_picker_radio_text_virtual_key">Düğmeler</string>
+  <string name="next">Sonraki</string>
+  <string name="next_fingerprint">Sonraki</string>
+  <string name="other_settings">Ek Ayarlar</string>
+  <string name="other_settings_ad_enable">Kişiselleştirilmiş Reklam Önerisi</string>
+  <string name="other_settings_ad_enable_summary">Davranış verilerinize göre kişiselleştirilmiş reklamlar önerilir</string>
+  <string name="other_settings_auto_update">Otomatik güncelle</string>
+  <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en müsait zamanı seçecektir.</string>
+  <string name="other_settings_location">Konum</string>
+  <string name="other_settings_location_summary">Uygulamaların yerinizi belirlemesine izin verir</string>
+  <string name="other_settings_upload_debug_log_summary">Tanı verileri, donanım, işletim sistemi ve uygulamaların kullanımı hakkında bilgi içerebilir. Veri sistemindeki sorunları bulmak ve analiz etmek için kullanılır, sizin kişisel verilerinizi asla içermez.</string>
+  <string name="other_settings_upload_debug_log_title">Veri Tanımlamasını Otomatik Gönder</string>
+  <string name="other_settings_user_experience">Kullanıcı Deneyim Programı</string>
+  <string name="other_settings_user_experience_summary">Anonim kullanım verileri göndererek MIUI geliştirilmesine yardımcı olun</string>
+  <string name="pref_title_data_slot">Tercih edilen veri SIM kartı</string>
+  <string name="pref_title_voice_slot">Tercih edilen Ses SIM kartı</string>
+  <string name="privacy_policy">"Gizlilik Politikası "</string>
+  <string name="provision_inputmethod_policy_description">\nSeçilen klavyenin Gizlilik Politikasını görüntüleyin.</string>
+  <string name="provision_inputmethod_policy_description1">"Gizlilik Politikası "</string>
+  <string name="setting_locale">Konum ayarlanıyor...</string>
+  <string name="shut_down">Kapatın</string>
+  <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
+  <string name="sim_card_detecting_check">SIM kartı bulunamadı. SIM kartın düzgün takıldığından ve bakiyenizde yeterli paranızın olduğundan emin olun.</string>
+  <string name="sim_card_detecting_title">SIM kartı kontrol et</string>
+  <string name="sim_card_detection">SIM kartı takın</string>
+  <string name="sim_card_detection_info">SIM kartı takmak için, cihazınızla birlikte verilen talimatları okuyun.</string>
+  <string name="sim_dectection_next">Devam</string>
+  <string name="sim_redetection">Tekrar kontrol et</string>
+  <string name="skip_underline">Bu adımı atla</string>
+  <string name="summary_not_set">Ayarlanmadı</string>
+  <string name="system_navigation_mode">Sistem gezinme modu</string>
+  <string name="terms_of_use">Hükümler ve Koşullar</string>
+  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Topladığımız bilgileri, bunları nasıl kullandığımızı ve sizin için hangi seçeneklerin bulunduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.
+  
+MIUI\'yi kullanabilmeniz için Hizmet Şartlarımız ve Gizlilik Politikamızı kabul etmeniz gerekir. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır."</string>
+  <string name="title_fingerprint">Şifreyi belirle</string>
+  <string name="user_agreement">Hizmet Şartları</string>
+  <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
+  <string name="voice_assist_title">Sesle uyanın</string>
+  <string name="welcome">Hoşgeldiniz!</string>
+  <string name="sim_card_detecting_confirm_turn_on_network">Mobil veri ağlarına bağlanmaya izin verilsin mi? Bunu yaparsanız, taktığınız SIM kart mobil veri ağlarına bağlanmak için kullanılır.</string>
+  <string name="sim_card_detection_mobile_not_available">SIM kart ağa bağlanamadı</string>
+  <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız geçerli bir operatör şebekesine bağlanamadı. Yeterli bakiyeniz olduğundan emin olun ve tekrar bağlanmayı deneyin.</string>
+  <string name="start_up_slogan">Tam ekran deneyimi için tasarlandı</string>
+  <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Politikasını okudum ve kabul ettim.</string>
+  <string name="agree_terms_input_method_kika">Kika Gizlilik Politikasını okudum ve kabul ettim.</string>
+  <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
+  <string name="terms_of_use_lable_default_input_method_facemoji">"
+
+Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir."</string>
+  <string name="terms_of_use_lable_default_input_method_kika">"
+
+Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir."</string>
+  <string name="voice_assist_condition">"Şu durumlarda Mi AI kullanmak mümkün olacak:
+1. Ekran açıkken.
+2. Ekranı kapalı müzik dinlerken."</string> 
+  <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
+  <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
+  <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
+  <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>
+  <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Mi Bulut, Cihazı bul, Ana ekran, Oyun merkezi, MAB, MIUI Daemon ve MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string> 
+  <string name="voice_assist_advice">Mi AI, ses kontrollerini kullanmanıza izin verir, ancak daha fazla güç tüketir (Her saat +1%).</string>
+  <string name="ai_button_desc">Mi AI\'yı tetiklemek ve sadece sesinizi kullanarak telefonunuzdaki görevleri tamamlamak için bu düğmeyi kullanın</string>
+  <string name="ai_button_double_press">İki kere basın</string>
+  <string name="ai_button_double_press_desc">Mi AI özelliklerini ayarlama</string>
+  <string name="ai_button_long_press">Basın ve basılı tutun</string>
+  <string name="ai_button_long_press_desc">Komutu söyle ve düğmeyi bırak</string>
+  <string name="ai_button_single_press">Basın</string>
+  <string name="ai_button_single_press_desc">Mi AI tetikleyici</string>
+  <string name="ai_button_title">AI düğmesi hakkında</string>
+  <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Politikası ve Kullanıcı Sözleşmesi dahil)</string>
+</resources>
