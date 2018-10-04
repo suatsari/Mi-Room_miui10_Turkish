@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Önceki Sayfa</item>
+        <item>Sekmeye Geç</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Başlangıç Sayfası</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Masaüstü</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Hayır, teşekkürler</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Tamam</item>
+        <item>Takip et</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Tarayıcının Mesajı</item>
+        <item>Mi ile Olypmpics Takibi</item>
+    </string-array>	
+    <string-array name="pref_fling_on_border_gesture_values">
+        <item>back_forward</item>
+        <item>switch_tabs</item>
+        <item>yok</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+       <item>Dikey görünüm</item>
+       <item>Yatay görünüm</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="suggestion_topic_tips">
+        <item>Odak İzleme</item>
+        <item>Merkezi Sorun</item>
+     </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Her zaman sor</item>
+        <item>Açık</item>
+        <item>Kapalı</item>
+     </string-array>	 
+</resources>
