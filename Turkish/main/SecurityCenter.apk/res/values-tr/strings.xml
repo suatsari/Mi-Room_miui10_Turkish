@@ -470,12 +470,12 @@
   <string name="card_main_applock_summary">Seçilen uygulamaları bir şifreyle koruyun.</string>
   <string name="card_main_applock_title">Uygulama Kilidi</string>
   <string name="card_main_deepclean_action">Temizle</string>
-  <string name="card_main_deepclean_qq_title">QQ temizleyici</string>
+  <string name="card_main_deepclean_qq_title">Ağ testi</string>
   <string name="card_main_deepclean_summary">Gereksiz dosyaları sil</string>
   <string name="card_main_deepclean_title">Derin Temizlik</string>
   <string name="card_main_deepclean_wechat_action">Temizle</string>
   <string name="card_main_deepclean_wechat_summary">Depolama alanını boşaltmak için WeChat önbelleğini temizle</string>
-  <string name="card_main_deepclean_wechat_title">WeChat Önbelleği</string>
+  <string name="card_main_deepclean_wechat_title">Koruma</string>
   <string name="card_main_gamebooster_title">Oyun Hızını Arttır</string>
   <string name="card_main_hbassistant_summary">Hız artırın &amp; oyun deneyimini geliştirin</string>
   <string name="card_main_hbassistant_title">Uygulama Kilidi</string>
