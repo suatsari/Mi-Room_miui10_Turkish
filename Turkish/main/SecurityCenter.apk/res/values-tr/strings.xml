@@ -218,7 +218,7 @@
   <string name="app_manager_show_detail_infos">Tümünü gör</string>
   <string name="app_manager_start_by">%s tarafından başlatıldı</string>
   <string name="app_manager_system_mobile_disable">Veriyi Kapat</string>
-  <string name="app_manager_title">Uygulamayı Yönet</string>
+  <string name="app_manager_title">Uygulamaları yönet</string>
   <string name="app_manager_total_size">Toplam</string>
   <string name="app_manager_uninstall">Kaldır</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Sistem uygulamalarını kaldırmak, bazı MIUI bileşenlerinin düzgün şekilde çalışmasını engelleyebilir. Yine de kaldırılsın mı?</string>
@@ -352,7 +352,7 @@
   <string name="battery_charging_prompt">Şarj ediliyor...</string>
   <string name="battery_desc_apps">Uygulamaların tükettiği pil</string>
   <string name="battery_desc_bluetooth">Bluetooth\'un tükettiği pil</string>
-  <string name="battery_desc_display">Aydınlatma ve arka ışığın tükettiği pil</string>
+  <string name="battery_desc_display">Ekran ve arka ışık tarafından kullanılan pil</string>
   <string name="battery_desc_other_apps">Diğer uygulamaların tükettiği pil</string>
   <string name="battery_desc_radio">Telefon sinyalinin tükettiği pil</string>
   <string name="battery_desc_standby">Telefon boştayken tükettiği pil</string>
@@ -373,7 +373,7 @@
   <string name="battery_stats_charging_label">Şarj ediliyor</string>
   <string name="battery_stats_gps_on_label">GPS açık</string>
   <string name="battery_stats_on_battery">Pil: %1$s</string>
-  <string name="battery_stats_phone_signal_label">Mobil şebeke sinyali</string>
+  <string name="battery_stats_phone_signal_label">Mobil ağ sinyali</string>
   <string name="battery_stats_screen_on_label">Ekran açık</string>
   <string name="battery_stats_wake_lock_label">Uyanık</string>
   <string name="battery_stats_wifi_running_label">Wi‑Fi</string>
@@ -1425,15 +1425,15 @@
   <string name="power_center_repeat">Tekrarla</string>
   <string name="power_center_state_off">Kapalı</string>
   <string name="power_center_state_on">Açık</string>
-  <string name="power_center_time_to_boot">Açık Kalma Süresi:</string>
-  <string name="power_center_time_to_shutdown">Kapalı Kalma Süresi:</string>
+  <string name="power_center_time_to_boot">Açık kalma zamanı</string>
+  <string name="power_center_time_to_shutdown">Kapalı kalma zamanı</string>
   <string name="power_center_title">Güç</string>
   <string name="power_consume_hardware_total_format">Donanım: %s</string>
   <string name="power_consume_other">Diğer</string>
   <string name="power_consume_rank_hardware">Donanım</string>
   <string name="power_consume_rank_software">Uygulamalar</string>
   <string name="power_consume_rank_title">Pil Kullanımı</string>
-  <string name="power_consume_software_total_format">Uygulama: %s</string>
+  <string name="power_consume_software_total_format">Uygulamalar: %s</string>
   <string name="power_customize_giveup_change">Değişiklikler iptal edilsin mi?</string>
   <string name="power_dialog_cancel">İptal</string>
   <string name="power_dialog_ok">Tamam</string>
@@ -2228,7 +2228,7 @@
   <string name="usage_type_data_send">Mobil Veri Gönderimi</string>
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Sinyal olmadan geçen zaman</string>
-  <string name="usage_type_on_time">Açık Kalma Süresi:</string>
+  <string name="usage_type_on_time">Açık zaman</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Açık Kalma Zamanı:</string>
   <string name="usage_type_wifi_running">WLAN Açık:</string>

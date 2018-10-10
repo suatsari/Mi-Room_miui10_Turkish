@@ -419,7 +419,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_skip_login">Oturum açmayı atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
-  <string name="passport_skip_setup_account_title">Kurulumu Atla</string>
+  <string name="passport_skip_setup_account_title">Mi Bulut kullanma?</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>

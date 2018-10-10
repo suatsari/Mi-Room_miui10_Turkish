@@ -43,7 +43,12 @@
   <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
   <string name="cloud_app_restore_wifi_prompt">Bir Mi Bulut yedeklemesini geri yüklemek için, bir WLAN ağına bağlanmanız gerekir.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">\"Cihazınız WLAN\'a bağlıyken şunlar Mi Bulut\'ta yedeklenir: \n*\u0009\u0009\u0009\u0009Uygulamalar, Ana Ekran Düzeni ve Duvar Kağıtları \n*\u0009\u0009\u0009\u0009Alarm, Saat ve Saat Ayarları\n*\u0009\u0009\u0009\u0009Bildirim Ayarları \n*\u0009\u0009\u0009\u0009MIUI ve Sistem Ayarları \nNot: Yüklediğiniz uygulamaların verileri Mi Bulut\'ta yedeklenmeyecek\"</string>
+  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN\'a bağlandığında, bu öğeler Mi Bulut\'a yedeklenecek:
+*  Uygulamalar, Ana ekran düzeni ve duvar kağıtları
+*  Alarm, saat ve zaman Ayarları 
+*  Bildirim ayarları 
+*  MIUI ve sistem ayarları
+Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="cloud_back_up_frequence_choice_title">Yedekleme Planı</string>
   <string name="cloud_back_up_frequence_long">Her 7 günde bir</string>
   <string name="cloud_back_up_frequence_short">Hergün</string>
@@ -143,7 +148,6 @@
   <string name="restore_task_in_process">Geri yükleniyor...</string>
   <string name="restore_unfinished">Geri yüklüyor, daha sonra tekrar deneyin</string>
   <string name="retry">Yeniden Dene</string>
-  <string name="self_phone">Bu Telefon</string>
   <string name="settings_backup">Sistem Ayarları</string>
   <string name="size_unknown">Boyut bilinmiyor</string>
   <string name="start_backup_to_micloud">Uygulamaları Mi Bulut\'a yedekle</string>
@@ -159,7 +163,6 @@
   <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
   <string name="home_hint_global_launcher">Poco Masaüstü</string>
   <string name="home_restore_error">Ana ekranı geri yükleme başarısız oldu</string>
-  <string name="self_phone_home">Bu telefon: %s</string>
   <string name="btn_restore_abort">İptal</string>
   <string name="btn_restore_cancel">İptal</string>
   <string name="btn_restore_resume">Devam</string>
@@ -170,5 +173,11 @@
   <string name="title_alert_restore_error">Geri yüklenemedi</string> 
   <string name="error_retry_later">Başarısız, lütfen daha sonra tekrar deneyin.</string>
   <string name="home_hint_other_launcher">Diğer Ana ekran</string>
-  <string name="unsupported_home">Lütfen en yeni işletim sistemine güncelleyin.</string> 
+  <string name="unsupported_home">Lütfen en yeni işletim sistemine güncelleyin.</string>
+  <string name="load_backup_failed">Yedekleri yükleme başarısız</string>
+  <string name="loading_user_backup">Kullanıcı yedekleri yükleniyor…</string>
+  <string name="main_space">Ana alan</string>
+  <string name="try_continue">Devam etmek için dokunun</string>
+  <string name="second_space">İkinci alan</string>
+  <string name="self_device">Bu telefonun </string>  
 </resources>

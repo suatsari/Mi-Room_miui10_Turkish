@@ -51,8 +51,8 @@
   <string name="low_battery_error_title">Düşük Pil</string>
   <string name="mark_point_list_title">İşaretliler</string>
   <string name="message_file_size_error">%s tarafından desteklenen kayıt azami uzunluğa ulaşmıştır.</string>
-  <string name="network_tip_dialog_cancel">İptal</string>
-  <string name="network_tip_dialog_content">Konuşma tanınması motorunun normal çalışabilmesi için internete bağlanması gerekiyor.</string>
+  <string name="network_tip_dialog_cancel">Kabul etmiyorum</string>
+  <string name="network_tip_dialog_content">Kaydedicinin normal çalışması için internete bağlanması gerekir. Kabul?</string>
   <string name="network_tip_dialog_ok">İzin ver</string>
   <string name="network_tip_dialog_title">İnternet bağlantısı gerekiyor</string>
   <string name="new_record_name">Yeni kayıt</string>

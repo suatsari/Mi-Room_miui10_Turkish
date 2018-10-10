@@ -1129,4 +1129,5 @@
   <string name="show_more_attachment">Daha fazla ek</string>
   <string name="overlays_tip_23">Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
   <string name="mail_search_lab">arama etiketi</string>
+  <string name="add_file_exception">İstisna ekle. Lütfen diğer yollardan eklemeyi deneyin.</string>
 </resources>

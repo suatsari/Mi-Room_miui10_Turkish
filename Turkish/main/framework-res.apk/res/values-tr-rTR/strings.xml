@@ -1549,5 +1549,8 @@ Kapatmak ister misiniz?"</string>
   <string name="alert_windows_notification_channel_name">%s diğer uygulamala üzerinde göster</string>
   <string name="alert_windows_notification_message">%s için bu özelliği kullanmasını istemiyorsanız, ayarları açın ve kapat öğesine dokunun.</string>
   <string name="alert_windows_notification_title">%s diğer uygulamaların üzerinde görüntüleniyor</string>
-  <string name="alert_windows_notification_turn_off_action">KAPAT</string>  
+  <string name="alert_windows_notification_turn_off_action">KAPAT</string>
+  <string name="notification_description">Sesli arama durumu</string>
+  <string name="status_communication_speaker_summary">Eller serbest arama devam ediyor. Kulaklıklar bağlandığında ses hala hoparlör aracılığıyla çalınır.</string>
+  <string name="status_communication_summary">Bir arama devam ediyor. Şimdi sadece Arama ses seviyesini ayarlayabilirsiniz.</string>  
 </resources>

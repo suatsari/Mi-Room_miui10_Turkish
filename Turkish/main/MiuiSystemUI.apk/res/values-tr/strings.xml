@@ -1700,4 +1700,8 @@
   <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
   <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için, üzerine basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Uçak modu</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Sadece acil arama</string>
+  <string name="lock_screen_no_sim_card_no_service">Servis yok</string>
+  <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi fener kullanamazsınız.</string>  
 </resources>

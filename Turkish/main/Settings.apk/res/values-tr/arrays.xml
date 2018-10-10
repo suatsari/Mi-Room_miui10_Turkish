@@ -1262,5 +1262,14 @@
   <string-array name="status_bar_settings_notification_shade_shortcut_entries">
     <item>Arama</item>
     <item>Ayarlar</item>
+  </string-array>
+  <string-array name="ai_key_item_name">
+    <item>Google sesli yardımcıyı uyandır</item>
+    <item>Kamerayı aç - Geri çekim</item>
+    <item>Kamerayı aç - Proaktif</item>
+    <item>Önceki uygulamayı aç</item>
+    <item>El fenerini aç</item>
+    <item>Gece modunu aç</item>
+    <item>Hayır</item>
   </string-array>  
 </resources>

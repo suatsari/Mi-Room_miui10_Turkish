@@ -8,4 +8,8 @@
         <item quantity="other">%d dosya bekliyor</item>
         <item quantity="one">1 dosya bekliyor</item>
     </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">%1$d öğe indirilemedi</item>
+        <item quantity="one">%1$d öğe indirilemedi</item>
+    </plurals>	
 </resources>
