@@ -1,18 +1,181 @@
 
-******************************************************
- Xiaomi MIUI 10  Türkçe Çevirisi Hakkında
-******************************************************
-•	Sürüm 			: Miui 10
-•	Türkçe Çeviri   : Miui 10 update
-•	Çevirmen		: Suat SARIOĞLU
-•	Rumuz			: suatsari
-•	E-posta adresi	: suatsarioglu@gmail.com
-•	Çeviri Romu		: Mi-Room
-•	Rom Adresi		: http://portal.mi-room.ru
-******************************************************
-			Bilgiler
-******************************************************
-		Değerli Xiaomi Kullanıcıları;
-	 Eksik veya hatalı gördüğünüz çevirileri lütfen
-     https://t.me/suatsarioglu üzerinden bildirin. 
-	 Repo haftalık düzenli olarak güncellenecektir.
+[PROJE TİMİ MI-ROOM]
+
+Nikita MiRoom - Proje yöneticisi.
+DriffeX - Baş yönetici, derlemelerin yazarı, çevirmen, tasarımcı. 2011'den beri MIUI firmware'i yerelleştirme konusunda deneyimli.
+NitroOxid - Yeniden paketleme, firmware hazırlanması
+HexEdit - Süreç otomasyonu için yazılım geliştirme
+Mixa55555 - Takım Lideri, Beta Testleri
+
+[ÖZEL TEŞEKKÜR]
+
+BurgerZ, jBART ​​ürün yazılımının montajı için bir araç geliştiricisidir.
+Zenk, Rusça çevirinin temellerinin ortak yazarıdır.
+Ploik, MiuiPro projesi ile birçok yararlı yamanın, yardımın, işbirliğinin yazarıdır.
+Malchik-Solnce - Bazı yamalar yazarı, yardımcı.
+Unix3dgforce- Komut dosyası oluşturma aracının yazarı..
+MIUI Rusya - MIUI için yararlı gelişme.
+Mi-Room Beta Ekibi - bir test ekibi.
+Varius - Projenin geliştirilmesine yardımcı oldu.
+Eaz9 - Yükleme animasyonunu oluşturdu.
+Suatsari & ClassiCTR - Türkçe dil geliştirme.
+
+[TELİF HAKKI]
+
+Tüm resmi kaynaklar ve MIUI markası Xiaomi'ye aittir.
+
+[MI-ROOM MONTAJI]
+
+Mi-Room, ana Xiaomi geliştirme ekibinin çalıştığı MIUI'nin resmi Çince sürümlerini temel alıyor. MIUI'nin Çince versiyonları, global olanlardan daha sık güncellenir, daha kapsamlı bir şekilde çalışırlar ve gereksiz lokalizasyonlarla aşırı yüklenmezler, çünkü çok fazla kritik hata meydana gelebilir.
+Rus yerelleşmesinin temeli, DriffeX ve Zenk tarafından desteklenen MIUI Rusya ekibinin bir çevirisidir.
+Firmware, Apktool + HEX hibrit teknolojisini ve jBART ​​programını kullanarak, sistem uygulamalarının yapısını bozmadan ve sistemin stabilitesinin resmi Çin MIUI firmware seviyesinde olduğu gibi monte edilir.
+MIUI Mi-Room ürün yazılımında, yalnızca Google hizmetlerinin doğru çalışması için temel GAPPS paketinin yanı sıra sistemin kararlılığını etkilemeyen en gerekli yamalar ve ek işlevler de dahil olmak üzere en gerekli yazılım vardır.
+Ayrıca, diğer ülkeler de uygun olmayan tüm Çin hizmetleri devre dışıdır.
+
+[TEMEL MONTAJ ÖZELLİKLERİ]
+
+SİSTEM
+• Rusçaya tam ve yüksek kaliteli tercüme (çeviri, 2011 yılında MIUI Rusya ekibi tarafından kuruldu: DriffeX ve Zenk).
+• Sistemin yüksek kaliteli lokalizasyonu ve grafik kaynaklarının iyileştirilmesi.
+• İlgili olmayan tüm Çince özellikleri ve hizmetleri devre dışı bırakın.
+• Rus lokalizasyonu sırasında daha iyi görüntü için tüm sistem uygulamalarında maksimum font optimizasyonu.
+• Rusya için ilgisiz olan Çin yazılımını ve diğer çöpleri çıkardı ve aynı zamanda dahili ve operasyonel belleği de alıyor.
+• Önemli İnternet kaynaklarını etkilemeyen kendi doğru reklam engellemesini kullanır.
+• Tüm sistem uygulamalarında reklamları devre dışı bırakın.
+• Saat dilimlerinin güncellenmiş veritabanı.
+• Rus operatörlerinin isimlerinin daha iyi tanımlanması ve gösterilmesi.
+• APN erişim noktalarının otomatik ayarlarının güncellenmiş veritabanı.
+• "Varsayılan" ve "Infinity" temaları için DriffeX'ten genişletilmiş bir simgeler paketi eklendi. Simgelerin sayısı doldurulur.
+• Gerekli tüm Google hizmetleri yüklenir.
+• Özel indirilen animasyon "MiRoom" eklendi.
+• ROOT hakları ve SafetyNet için önceden yüklenmiş Magisk.
+• NFC desteğine sahip cihazlarda Google Pay ödemesinin doğru çalışması.
+• SafetyNet kontrolü, çoğu cihazda Magisk olmadan bile çalışır.
+• Gelişmiş Güç Menüsü: Kurtarma ve Fastboot modlarına yeniden başlatma özelliğini ekledi.
+• Mi Fit uygulamasının herhangi bir modifikasyonunun düzgün çalışması.
+• Rusça'da sistem düzeyinde kesirli sayıların sabit gösterimi.
+• 2 klavye önceden kurulu: Gboard (sistem) ve Smartkeyboard MIUI MOD (silinme olasılığı ile).
+• Yeni emoji ifadeleri eklendi.
+• "Sesi kısma + Güç" tuşlarına bastığınızda ekran görüntüsünün anında oluşturulması.
+• 2,4 ve 5 GHz'de Wi-Fi'nın uygun şekilde çalışması.
+• Uygulama imza doğrulaması devre dışı bırakıldı. Örneğin, uygulamanın resmi sürümünün üstüne değiştirilmiş olanı yükleyebilirsiniz.
+• Android 7-8'e sahip cihazlarda ürün yazılımının hızlı kurulumu.
+
+UYGULAMA KASASI
+• Geliştirilmiş saat widget'ları: sabit tarih formatı, yazı tipi boyutları.
+• Telif hakkı müzik widget'ları eklendi.
+• Farklı simgeler ızgarasını seçebilme. (orijinali önerilir).
+• Mi asistanının tam lokalizasyonu.
+• Mi asistanındaki tarihe tıklayarak fotoğrafınızı 5 kat olarak ayarlayabilme.
+
+İLETİŞİM VE TELEFON
+• T9 çeviricideki kişiler için gelişmiş arama.
+• Kartların siyah listesini Mi hesabıyla senkronize etme özelliği eklendi.
+• Tüm diller için rehberlerin sabit akıllı gruplandırılması.
+• Kişilerin isme göre sabit sıralanması.
+• Greatslon'dan gelen sayıların genişletilmiş jeo-tanımlı veri tabanı eklendi.
+• Çevirici türünü seçme yeteneği: Rusça ve İngilizce-Rusça.
+• Aramalar sırasında optimize edilmiş flaş frekansı. (ayarlara dahil)
+• Geliştirilmiş çağrı kayıt kalitesi.
+
+AYARLAR
+• "Cihaz hakkında" bölümünün yeni görünümü.
+• Gelişmiş ayarlara eklenmiş simgeler.
+• Ayarlar ekranındaki yazı tiplerini değiştirme becerisi.
+• Ses tuşlarıyla parçaları değiştirebilme özelliği eklendi. (tuşların ve jestlerin ayarlarında aktif hale getirilir).
+• Şarj bağlantısı / şarj bağlantısını kesme sesi özelliği eklendi.
+• Şarj işleminin tamamlanması için sesin etkinleştirilmesi / devre dışı bırakılması özelliği eklendi.
+• Düşük pil uyarısı sesini açma / kapatma özelliği eklendi.
+• Silme sesi etkinleştirme / devre dışı bırakma özelliği eklendi.
+• Zaman ayarını etkinleştirme sesi etkinleştirme / devre dışı bırakma özelliği eklendi.
+• Bazı cihazlar için "Geliştiriciler İçin" ayarlarında ek parametreler eklendi.
+
+TARAYICI
+• Tarayıcının tam yerelleştirilmesi.
+• Reklam devre dışı.
+• Ana sayfada değiştirilen bağlantılar. Şimdi kaldırılabilir
+• Ana arama motorları eklendi: Google, Yandex, Yahoo, Bing, Baidu.
+• Youtube, Google Play, AliExpress, w3bsit3-dns.com, Vikipedi, DuckDuckGo'da bir istek girerken hızlı arama yapma özelliği eklendi.
+• Uygulamanın otomatik güncellemesi devre dışı bırakılmıştır.
+
+GÜVENLİK
+• Görevlerin otomatikleştirilmesi için destek eklendi.
+• Geliştirilmiş uygulama ana ekranı, kullanılmayan Çince fonksiyonları kaldırıldı.
+• İzinlerin uygun yönetimi: tüm uygulama izinleri tek bir yerde bulunur.
+
+YEDEKLEME
+• ICloud'dan kişileri ve mesajları alma özelliği eklendi.
+• Herhangi bir (hatta korumalı) üçüncü taraf uygulamaları için yedekleme oluşturma ve geri yükleme yeteneği.
+• USB üzerinden yedekleme oluşturma ve geri yükleme yeteneği.
+
+TAKVİM
+• Rus tatilleri için destek eklendi, bu sayede tatillerde otomatik alarmı yapılandırabilirsiniz.
+
+KAMERA
+• Bazı cihazlar için aktifleştirilmiş ek özellikler.
+• Bazı cihazlar için video kaydederken geliştirilmiş ses kalitesi.
+
+PUSULA
+• Değişen basınç göstergesi mm Hg. Mad. hpa yerine.
+
+BİLDİRİM PANELİ
+• Hızlı bir şekilde yanıt verebilme özelliğine sahip global ürün yazılımı olarak yeni tip bildirimler.
+• Anahtar sayısı: 5, arka arkaya, panel kapalı, üst üste 6.
+• Bildirimlerde yazı tiplerinin sabit gösterimi.
+• Bildirim panelinde "İnternet" anahtarına basılı tutarsanız, ağ türünün bir seçimi açılır.
+• Önemsiz bildirimleri tek bir kategoride gruplandırmanıza izin veren "Önemli Bildirimler Değil" için destek eklendi.
+
+KONULAR
+• Üçüncü taraf kaynaklardan herhangi bir tema ve yazı tipi uygulama yeteneği eklendi.
+• Zil seslerini ve yazı tiplerini indirme yeteneği eklendi.
+• Yerel konular Ruslaştırılmıştır.
+
+ILETKEN
+• Ana sayfadaki popüler klasörleri tanımlamak için yerel veritabanı eklendi (Telegram, VK, Müzik, WhatsApp, vb. Klasörleri)
+
+HAVA
+• Gündoğumu ve gün batımı grafikleri gösteriliyor.
+• Değişen basınç göstergesi mm Hg. Mad. hpa yerine.
+
+POSTA
+• Fotoğrafsız avatarların sabit ekranı.
+
+GALERİ
+• Kolajlar ve posterler oluşturmak için aktif destek.
+• Klip oluşturmak için aktif destek.
+• Fotoğraf editöründe çıkartma desteği eklendi.
+• Tüm grafikleri karıştırın.
+• Ekran görüntüsü ve ekran kayıtlarının klasörü, standart Android'de olduğu gibi Google Fotoğraflar'daki üçüncü taraf galerilerindeki fotoğrafları sıralamak için Resimler'e taşındı.
+
+MÜZİK
+• Çince çevrimiçi içerik kaldırıldı.
+• Çince özellikleri kaldırıldı.
+• Müzik tanıma servisi ACRCloud eklendi.
+• Güvenli bir sesin bildirimi devre dışıdır, bu da kulaklık bağlandığında sesi en üst seviyeye çıkarmanıza izin verir.
+
+VİDEO
+• Video oynatıcının Çince versiyonu, global olanla değiştirilir.
+
+MI DROP
+• Güncelleme ve silme becerisine sahip uygulamanın resmi global sürümü.
+
+GLOBAL ARAMA
+• Tam bir kurumsal arama MIUI eklendi.
+• Çalıştır masaüstünden yukarı kaydırın.
+• Masaüstünde yukarı doğru kaydırarak varsayılan aramayı seçebilme. Standart aramayı Google'dan değiştirebilirsiniz.
+• Çevrimiçi içeriği, SMS mesajlarını, ayarları, masaüstündeki uygulamaları ve çok daha fazlasını arama yeteneği.
+
+KİLİT EKRANI
+• Çin servisleri yerine popüler uygulamaların hızlı başlat menüsünü değiştirdi. Yana doğru kaydırın.
+• Günlük Duvar Kağıtları için destek eklendi.
+
+İNDİRME
+• Kaldırılan öneriler ve Çin servisleri.
+• Xunlei hızlanma işleminin doğru çalışması.
+
+SAAT
+• Hava alarmı desteği eklendi.
+• Alarmı hafta içi ayarlama özelliği eklendi.
+
+NOT
+• Bazı işlevler ve özellikler MIUI'nin cihazlarına ve versiyonlarına bağlı olarak değişebilir.
