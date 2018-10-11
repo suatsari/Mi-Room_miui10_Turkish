@@ -147,9 +147,9 @@
   <string name="delete_error">Dosyalar silinemedi, tekrar deneyin</string>
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
   <string name="delete_file_error">Dosya silinemedi</string>
-  <string name="delete_files">%1$d silinsin mi?</string>
-  <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
-  <string name="delete_folders">%1$d silinsin mi?</string>
+  <string name="delete_files">%1$d dosya silinsin mi?</string>
+  <string name="delete_folder">Bu klasör silinsin mi?</string>
+  <string name="delete_folders">%1$d klasör silinsin mi?</string>
   <string name="delete_video">Sil</string>
   <string name="delete_video_dialog_tip">Video silindikten sonra geri alınamaz.</string>
   <string name="delete_video_dialog_title">Videoyu sil</string>
