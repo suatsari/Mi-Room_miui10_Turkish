@@ -33,7 +33,7 @@
   <string name="backup_failed">"Yedekleme başarısız"</string>
   <string name="backup_file_error">"Yedeklenemedi."</string>
   <string name="backup_finished">Yedekleme tamamlandı</string>
-  <string name="backup_hint">Telefonunuzu kapatmayınız</string>
+  <string name="backup_hint">Telefonunuzu kapatmayın</string>
   <string name="backup_hint_onpad">Telefonunuzu açık tutun</string>
   <string name="backup_is_running">Cihaz yedekleniyor</string>
   <string name="backup_items_app_tailer">" uygulama veri dosyaları "</string>
