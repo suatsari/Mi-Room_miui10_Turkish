@@ -7,5 +7,17 @@
 	<plurals name="livetalk_left_minute">
         <item quantity="other">%d dakika kaldı</item>
         <item quantity="one">%d dakika kaldı</item>
-     </plurals>
+    </plurals>
+	<plurals name="duration_seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">1 saniye</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">1 dakika</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>	 
 </resources>

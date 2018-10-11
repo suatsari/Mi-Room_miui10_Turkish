@@ -2,10 +2,9 @@
 <resources>
   <string name="ErrorTooManyRequests">Çok fazla talep işleniyor. Daha sonra tekrar deneyin.</string>
   <string name="ack_record">Onay kaydı</string>
-  <string name="airplane_can_not_share">"Bluetooth paylaşıldığında uçak moduna geçilemez!"</string>
   <string name="airplane_error_msg">"Uçak Modunda Bluetooth kullanılamaz!"</string>
   <string name="airplane_error_title">Uçak Modu</string>
-  <string name="app_name">Bluetooth Paylaşımı</string>
+  <string name="app_name">Bluetooth</string>
   <string name="auth_notif_message">%1$s için anahtarı girin</string>
   <string name="auth_notif_ticker">Obex Kimlik Doğrulama isteği</string>
   <string name="auth_notif_title">Oturum Anahtarı</string>
@@ -88,12 +87,11 @@
   <string name="enabling_progress_content">Bluetooth açılıyor…</string>
   <string name="enabling_progress_title">Lütfen bekleyin…</string>
   <string name="goto_package">Aç: %1$s</string>
-  <string name="hello">Merhaba Dünya , Test Etkinliği</string>
   <string name="inbound_history_title">Gelen Transferler</string>
   <string name="inbound_noti_title">Bluetooth Paylaşımı: Alınan dosyalar</string>
   <string name="incoming_file_confirm_Notification_caption">Bu dosyayı almak istiyor musunuz?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s, %2$s gönderilmeye hazır</string>
-  <string name="incoming_file_confirm_Notification_title">Bluetooth Paylaşımı: Gelen dosya</string>
+  <string name="incoming_file_confirm_Notification_title">Gelen dosya</string>
   <string name="incoming_file_confirm_cancel">Reddet</string>
   <string name="incoming_file_confirm_content">Gelen dosya kabul edilsin mi?</string>
   <string name="incoming_file_confirm_ok">Kabul</string>
@@ -155,12 +153,10 @@
   <string name="pbap_authentication_timeout_message">%1$s ile oturum girişi zaman aşımına uğradı</string>
   <string name="pbap_session_key_dialog_header">Bluetooth oturum anahtarı gerekli</string>
   <string name="pbap_session_key_dialog_title">%1$s için oturum anahtarını girin</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">BluetoothAvrcpData yönetimine erişmek için ve görüntülemek için uygulamaya izin verir.</string>
   <string name="permdesc_bluetoothMap">Bluetooth Mesaj Erişim Profili içerik sağlayıcısına erişmek ve müşterilerine IMAP mesajları göndermek için izni verir.</string>
   <string name="permdesc_bluetoothShareManager">Uygulamaya dosya transferi ve Bluetooth paylaşım erişimi için izin verir</string>
   <string name="permdesc_bluetoothWhitelist">Kullanıcı onayı olmadan bu cihaza dosya göndermek için geçici olarak uygulamaya izin verir.</string>
   <string name="permdesc_fm_receiver">FM alıcı işlevlerine erişmek için bir uygulamaya izin verir.</string>
-  <string name="permlab_bluetoothAvrcpDataManager">avrcp metadata izin verir.</string>
   <string name="permlab_bluetoothMap">Bluetooth Mesaj Erişim Profili içerik sağlayıcısına erişir.</string>
   <string name="permlab_bluetoothShareManager">İndirme yöneticisine erişir.</string>
   <string name="permlab_bluetoothWhitelist">İzin verilen Bluetooth cihazına erişir.</string>
@@ -231,4 +227,7 @@
   <string name="upload_succ_line5">Dosya gönderildi</string>
   <string name="upload_succ_ok">Tamam</string>
   <string name="upload_success">%1$s gönderimi tamamlandı.</string>
+  <string name="a2dp_sink_mbs_label">Bluetooth Ses</string>
+  <string name="opp_notification_group">Bluetooth Paylaşımı</string>
+  <string name="pbap_notification_group">Bluetooth Kişi paylaşımı</string>  
 </resources>

@@ -110,8 +110,8 @@
     <item quantity="one">%d risk,</item>
   </plurals>
   <plurals name="hints_handle_item_text_virus_number">
-    <item quantity="other">%d trojan,</item>
-    <item quantity="one">%d trojan,</item>
+    <item quantity="other">%d trojan</item>
+    <item quantity="one">%d trojan</item>
   </plurals>
   <plurals name="hints_permission_apps_count">
     <item quantity="other">%d uygulama</item>
