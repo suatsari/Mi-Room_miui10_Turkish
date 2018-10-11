@@ -2,7 +2,7 @@
 <resources>
     <plurals name="fw_blocked_count_call">
         <item quantity="other">%d çağrı</item>
-        <item quantity="one">1 çağrı</item>
+        <item quantity="one">1 çağrım</item>
     </plurals>
     <plurals name="fw_blocked_count_sms">
         <item quantity="other">%d SMS</item>
