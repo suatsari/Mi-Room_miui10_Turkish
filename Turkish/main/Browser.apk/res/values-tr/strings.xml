@@ -1302,7 +1302,7 @@
   <string name="suggestion_clear_item_message">Bu giriş kaydı öğesini temizlediğinizi onaylıyor musunuz?</string>
   <string name="suggestion_hotwords_title_change_button_text">DAHA FAZLA DEĞİŞTİR</string>
   <string name="suggestion_hotwords_title_text">En iyi arama</string>
-  <string name="suggestion_input_history_title_text">GİRİŞ TARİHİ</string>
+  <string name="suggestion_input_history_title_text">GİRİŞ GEÇMİŞİ</string>
   <string name="suggestion_input_hitory_clear_text">TEMİZLE</string>
   <string name="url_hint_head">Herkesin aradığı：</string> 
   <string name="pref_privacy_policy">Gizlilik Politikası</string> 
