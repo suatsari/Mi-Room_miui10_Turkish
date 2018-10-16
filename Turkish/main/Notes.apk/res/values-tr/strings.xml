@@ -271,4 +271,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>
   <string name="setting_other">DİĞER</string>
   <string name="setting_privacy">Gizlilik Politikası</string> 
+  <string name="cta_confirm_cancel">İzin verme</string>
+  <string name="cta_confirm_ok">İzin ver</string>
+  <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
+  <string name="cta_dialog_title">İzin gerekli</string>  
 </resources>

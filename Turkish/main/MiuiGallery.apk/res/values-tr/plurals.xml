@@ -260,4 +260,8 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">En fazla %d fotoğraf seçin</item>
+        <item quantity="one">En fazla %d fotoğraf seçin</item>
+    </plurals>	
 </resources>

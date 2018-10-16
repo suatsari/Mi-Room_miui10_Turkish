@@ -603,4 +603,8 @@
   <string name="wait_test">test için bekliyor</string>
   <string name="waiting">4s bekliyor.</string>
   <string name="yes">Evet</string>
+  <string name="cit_camera_fast_check_title">Kamera hızlı test</string>
+  <string name="cit_tool_bluetooth_tx_m">Bluetooth BR / EDR 2.441GHz Frekans Test Moduna girin</string>
+  <string name="cit_tool_bluetooth_le_tx_4x_payload">yük:</string>
+  <string name="cit_tool_bluetooth_le_tx_50_payload">yük:</string>  
 </resources>

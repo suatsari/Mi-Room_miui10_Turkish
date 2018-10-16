@@ -1313,5 +1313,13 @@ mevcut"</string>
   <string name="story_remove_confirm_positive">Kaldır</string>
   <string name="story_remove_confirm_title">Fotoğraflar kaldırılıyor</string>
   <string name="story_rename_invalid_char">Hikayenin başlığında \"%s\" kullanamazsınız. Harfleri, rakamları ve Çince karakterleri kullanın.</string>
-  <string name="story_rename_invalid_prefix">Hikaye başlıkları \".\" veya \"_\" ile başlayamaz</string>  
+  <string name="story_rename_invalid_prefix">Hikaye başlıkları \".\" veya \"_\" ile başlayamaz</string> 
+  <string name="collage_select_image_range">Kolajlar 1-4 arası fotoğraf içerebilir</string>
+  <string name="frame_not_support_image_ratio">Bu en boy oranı desteklenmiyor</string>
+  <string name="operation_produce">Yaratıcılık</string>
+  <string name="photo_editor_crop_auto_tips">Otomatik olarak kırpılmış</string>
+  <string name="photo_editor_frame">Çerçeve</string>
+  <string name="photo_movie_select_image_range">Klipler 3-6 arası fotoğraf içerebilir</string>
+  <string name="select_image_operation">Fotoğraf ekleme</string>
+  <string name="unsupport_video">%s videolarla çalışmıyor</string>  
 </resources>

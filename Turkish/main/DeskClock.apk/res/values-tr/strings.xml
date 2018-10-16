@@ -209,7 +209,7 @@
   <string name="timer_pause_timer">Zamanlayıcıyı duraklat</string>
   <string name="timer_running">Zamanlayıcı çalışıyor</string>
   <string name="timer_start_timer">Zamanlayıcıyı başlat</string>
-  <string name="worldclock_input_hint_text">Şehir girin</string>
+  <string name="worldclock_input_hint_text">Ülke veya şehir ara</string>
   <string name="worldclock_search_city">Şehir seç</string>
   <string name="worldclock_world_time">Zaman dilimleri</string>
   <string name="worldcolock_timezone_current">Şuan: %1$s</string>
@@ -231,5 +231,9 @@
   <string name="invalid_timer_length">Zamanlayıcı süresi geçersiz</string>
   <string name="other_category_title">Diğer</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="timer_created">Zamanlayıcı başarıyla eklendi</string>  
+  <string name="timer_created">Zamanlayıcı başarıyla eklendi</string> 
+  <string name="timer_alert_mute_off">Zamanlayıcı durduğunda alarm çalacaktır.</string>
+  <string name="timer_alert_mute_on">Zamanlayıcı durduğunda alarm çalmaz</string>
+  <string name="timer_alert_mute_remind">Alarmı susturmak için dokunun</string>
+  <string name="timer_alert_mute_switch">Sessiz zamanlayıcı alarmlarına geçiş</string>  
 </resources>

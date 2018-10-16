@@ -37,7 +37,7 @@
         <item quantity="one">Bu alarm silinsin mi?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Seçili zaman dilimi silinsin mi?</item>
+        <item quantity="other">Seçili zaman dilimleri silinsin mi?</item>
         <item quantity="one">Bu zaman dilimi silinsin mi?</item>
     </plurals>
     <plurals name="second">

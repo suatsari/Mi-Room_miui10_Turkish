@@ -5877,5 +5877,8 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="gxzw_dialog_message">Ekrandaki parmak izi sensörünü normal şekilde kullanabilmek için ekran koruyucu kullanmayın. Ekran koruyucusunun hala gerekli olduğunu düşünüyorsanız, yetkili uyumlu seçenekler arasından seçim yapın.</string>
   <string name="gxzw_dialog_not_show_again">Tekrar gösterme</string>
   <string name="gxzw_dialog_ok">Anladım</string>
-  <string name="gxzw_dialog_title">Ekrandaki parmak izi sensörü hakkında</string>  
+  <string name="gxzw_dialog_title">Ekrandaki parmak izi sensörü hakkında</string>
+  <string name="camera_front">Ön %s</string>
+  <string name="camera_rear">Arka %s</string>
+  <string name="device_camera">Kamera</string>  
 </resources>
