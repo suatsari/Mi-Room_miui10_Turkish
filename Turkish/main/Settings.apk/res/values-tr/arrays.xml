@@ -349,9 +349,9 @@
     <item>Önemsiz</item>
   </string-array>
   <string-array name="check_importance_summary">
-    <item>MIUI hangi bildirimlerin doğrudan görünmesi gerektiğine karar verecektir</item>
-    <item>Bildirim alanında bildirimler görünür</item>
-    <item>Bildirimler ayrı bir klasörde görünür</item>
+    <item>Doğrudan görünecek bildirimlere MIUI karar verecek</item>
+    <item>Bildirimler, bildirim alanında görünecek</item>
+    <item>Bildirimler, ayrı bir klasörde görünecek</item>
   </string-array>
   <string-array name="city_name">
     <item>Abidjan</item>

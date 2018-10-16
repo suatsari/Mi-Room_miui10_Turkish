@@ -1247,7 +1247,7 @@
   <string name="refresh_description">Yenile</string>
   <string name="short_video_description">Video kanalı</string>
   <string name="short_video_tip">Bak! Eğlenceli video</string>
-  <string name="suggestion_clear_record_message">Boş giriş kaydını onaylıyor musunuz?</string>
+  <string name="suggestion_clear_record_message">Arama geçmişini temizlemeyi onaylıyor musunuz?</string>
   <string name="title_notice_push">Push özelliğini aç</string>
   <string name="save_file_suffix"> dosya</string>
   <string name="action_imme_open">Hemen aç</string>
@@ -1302,7 +1302,7 @@
   <string name="suggestion_clear_item_message">Bu giriş kaydı öğesini temizlediğinizi onaylıyor musunuz?</string>
   <string name="suggestion_hotwords_title_change_button_text">DAHA FAZLA DEĞİŞTİR</string>
   <string name="suggestion_hotwords_title_text">En iyi arama</string>
-  <string name="suggestion_input_history_title_text">GİRİŞ GEÇMİŞİ</string>
+  <string name="suggestion_input_history_title_text">ARAMA GEÇMİŞİ</string>
   <string name="suggestion_input_hitory_clear_text">TEMİZLE</string>
   <string name="url_hint_head">Herkesin aradığı：</string> 
   <string name="pref_privacy_policy">Gizlilik Politikası</string> 
