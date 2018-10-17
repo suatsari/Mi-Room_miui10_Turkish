@@ -2476,5 +2476,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="device_manager_apply_step_3">Devam etmeden önce olası tüm riskleri anladığınızdan emin olun. Şimdi bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string> 
   <string name="first_aid_result_summary_not_finished">Tarama tamamlanmadı. Bazı riskler algılanmamış olabilir.</string> 
   <string name="card_main_deepclean_whatsapp_title">WhatsApp temizleyici</string>
-  <string name="card_main_hwtest_title">Donanım testi</string>  
+  <string name="card_main_hwtest_title">Donanım testi</string>
+  <string name="summary_rcs_switch">Ücret ödemeden Çin Mobil kullanıcılarına SMS gönder</string>  
+  <string name="title_rcs_switch">Çin Mobil Mesajlaşma\'yı aç</string>  
 </resources>

@@ -1093,5 +1093,7 @@ Mutlu Ol"</string>
   <string name="sliding_pro_center">PRO Merkezi</string>
   <string name="unlimited_downloads">Sınırsız indirme</string>
   <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string> 
-  <string name="expand_button_title">Gelişmiş</string>  
+  <string name="expand_button_title">Gelişmiş</string> 
+  <string name="toast_is_pro">Siz zaten bir PRO üyesiniz.</string>
+  <string name="toast_not_pro">Bu özelliği sadece PRO üyeleri kullanılabilir.</string>  
 </resources>
