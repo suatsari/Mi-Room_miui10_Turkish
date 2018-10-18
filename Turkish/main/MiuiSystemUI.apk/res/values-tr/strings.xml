@@ -1344,10 +1344,14 @@
   <string name="status_bar_airplane">Uçak modu</string>
   <string name="status_bar_alarm">Alarm</string>
   <string name="status_bar_clear_all_button">Temizle</string>
-  <string name="status_bar_clock_date_format">d MMMM, EEEE</string>
-  <string name="status_bar_clock_date_format_12">EEEE, MMMM d</string>
-  <string name="status_bar_date_format">d MMMM\nEEEE</string>
-  <string name="status_bar_date_format_12">d MMMM\nEEEE</string>
+  <string name="status_bar_clock_date_format">d MMM, E</string>
+  <string name="status_bar_clock_date_format_12">d MMM, E</string>
+  <string name="status_bar_clock_date_time_format">H:mm d MMM</string>
+  <string name="status_bar_clock_date_time_format_12">h:mm aa,d MMM</string>  
+  <string name="status_bar_date_format">"E
+d MMM"</string>
+  <string name="status_bar_date_format_12">"E
+d MMM"</string>
   <string name="status_bar_ethernet">Ethernet</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemini ayarla</string>
   <string name="status_bar_latest_events_title">Bildirimler</string>

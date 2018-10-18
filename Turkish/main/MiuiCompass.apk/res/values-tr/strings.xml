@@ -6,7 +6,7 @@
   <string name="altitude_uncalibrate_cancel">İptal</string>
   <string name="altitude_uncalibrate_msg">"GPS veya mobil veri bağlantısı olmadan doğru rakımı kalibre edemezsiniz."</string>
   <string name="altitude_uncalibrate_refresh">Tekrar dene</string>
-  <string name="altitude_uncalibrate_tip">"Rakım kalibre edilemedi"</string>
+  <string name="altitude_uncalibrate_tip">Kalibre edilmemiş veriler</string>
   <string name="altitude_unit">m</string>
   <string name="angle">%.0f</string>
   <string name="app_description_content">Pusula; navigasyon ve yönlendirme için kullanılır ve yönünüzü gösterir. Uygulamayı kaldırmadan önce bu özelliklere sahip olup-olmadığınızdan emin olun.</string>

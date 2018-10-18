@@ -608,5 +608,6 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="close_front_flash_toast">Cihazınız aşırı ısınmış. Şimdi flaş kullanamazsınız.</string> 
   <string name="accessibility_camera_lighting_close_panel">Aydınlatma menüsü kapalı</string>
   <string name="accessibility_camera_lighting_open_panel">Aydınlatma menüsü açık</string>
-  <string name="lighting_pattern_null">Boş</string>  
+  <string name="lighting_pattern_null">Boş</string>
+  <string name="ultra_wide_mode">Süper geniş açı</string>
 </resources>
