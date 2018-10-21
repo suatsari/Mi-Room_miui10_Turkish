@@ -1286,8 +1286,7 @@
   <string name="guide_finance_text">finans</string>
   <string name="guide_games_text">oyunlar</string>
   <string name="guide_history_text">geçmiş</string>
-  <string name="guide_human_type_main_title">Sizi anlayan tarayıcı</string>
-  <string name="guide_human_type_subtitle">Harika öneriler alın</string>
+  <string name="guide_know_type_subtitle">Harika öneriler alın</string>
   <string name="guide_label_chosen_hint">En çok %d kategori seçebilirsiniz</string>
   <string name="guide_military_text">askeri</string>
   <string name="guide_motor_text">motor</string>

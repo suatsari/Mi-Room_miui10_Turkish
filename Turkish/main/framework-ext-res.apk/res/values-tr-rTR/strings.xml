@@ -192,5 +192,6 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="miui_warning_tip_info">%1$s içinde bir hata oluştu. Şimdi bu uygulama kapatılsın mı?</string>
   <string name="talk_back_water_mark_string1">TalkBack açık</string>
   <string name="talk_back_water_mark_string2">Kapatmak için \"Ses+\" ve \"Ses-\" tuşlarına 3 saniye boyunca basılı tutun</string>
-  <string name="security_permission_network_failed_text">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>  
+  <string name="security_permission_network_failed_text">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string> 
+  <string name="security_permission_open_wifi_settings">WLAN ayarlarını aç</string>  
 </resources>

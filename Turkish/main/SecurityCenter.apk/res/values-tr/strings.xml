@@ -2478,5 +2478,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="card_main_deepclean_whatsapp_title">WhatsApp temizleyici</string>
   <string name="card_main_hwtest_title">Donanım testi</string>
   <string name="summary_rcs_switch">Ücret ödemeden Çin Mobil kullanıcılarına SMS gönder</string>  
-  <string name="title_rcs_switch">Çin Mobil Mesajlaşma\'yı aç</string>  
+  <string name="title_rcs_switch">Çin Mobil Mesajlaşma\'yı aç</string> 
+  <string name="gamebox_app_not_find">Önce uygulamayı yükleyin.</string>
+  <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string>  
 </resources>

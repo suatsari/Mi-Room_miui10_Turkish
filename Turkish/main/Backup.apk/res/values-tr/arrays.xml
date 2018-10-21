@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="trans_succeed_survey_title">
-    <item>Genel değerlendirme</item>
-    <item>Transfer süresi</item>
-    <item>Sürecin basitliği</item>
-    <item>Talimatların netliği</item>
-  </string-array>
-  <string-array name="trans_succeed_rating_hint">
-    <item>Hiç memnun değil</item>
-    <item>Pek memnun değil</item>
-    <item>Tarafsız</item>
-    <item>Biraz memnun</item>
-    <item>Çok memnun</item>
+  <string-array name="mi_stat_cancel_survey_key">
+    <item>transfer_takes_too_long</item>
+    <item>connection_was_interrupted</item>
+    <item>i_selected_wrong_items_to_transfer</item>
+    <item>too_many_steps</item>
+    <item>my_phone_battery_is_low</item>
+    <item>transferred_items_are_corrupted</item>
+    <item>i_started_the_transfer_accidentally</item>
+    <item>diğer</item>
   </string-array>
   <string-array name="trans_cancel_survey_title">
     <item>Transfer çok uzun sürüyor</item>
@@ -22,5 +19,18 @@
     <item>Aktarılan öğeler bozuk</item>
     <item>Transfer yanlışlıkla başladı</item>
     <item>Diğer</item>
+  </string-array>
+  <string-array name="trans_succeed_rating_hint">
+    <item>Hiç memnun değil</item>
+    <item>Pek memnun değil</item>
+    <item>Tarafsız</item>
+    <item>Biraz memnun</item>
+    <item>Çok memnun</item>
+  </string-array>
+  <string-array name="trans_succeed_survey_title">
+    <item>Genel değerlendirme</item>
+    <item>Transfer süresi</item>
+    <item>Sürecin basitliği</item>
+    <item>Talimatların netliği</item>
   </string-array>
 </resources>
