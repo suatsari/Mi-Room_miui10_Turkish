@@ -508,7 +508,7 @@
   <string name="title_component">Temayı Özelleştir</string>
   <string name="title_my_audio_resource">Zil Seslerim</string>
   <string name="title_my_miwallpaper_resource">Canlı Duvar Kağıtlarım</string>
-  <string name="title_my_miwallpaper_video_file_resource">Video duvar kağıtlarım</string>
+  <string name="title_my_miwallpaper_video_file_resource">Duvar kağıdı filmlerim</string>
   <string name="title_my_wallpaper_resource">Duvar Kağıtlarım</string>
   <string name="title_system_audio_notification_resource">Sistem bildirimleri</string>
   <string name="title_system_audio_resource">Sistem Zil Sesleri</string>
@@ -602,5 +602,9 @@
   <string name="exit_extreme_mode_dialog_title">Aşırı modunu kapat</string>
   <string name="extreme_mode_dialog_message">Bu özellik Aşırı modda mevcut değildir. Kullanabilmek için Aşırı modu kapatın.</string>
   <string name="extreme_mode_dialog_ok">Anladım</string>
-  <string name="extreme_mode_dialog_title">Uyarı</string>  
+  <string name="extreme_mode_dialog_title">Uyarı</string>
+  <string name="component_title_settings_video_wallpaper">Özel efektler ile duvar kağıtları</string>
+  <string name="theme_detail_tab_comment">Yorumlar</string>
+  <string name="theme_detail_tab_recommend">Önerilen</string>
+  <string name="theme_detail_tab_theme">Temalar</string>  
 </resources>

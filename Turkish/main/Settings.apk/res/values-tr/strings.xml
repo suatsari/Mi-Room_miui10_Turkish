@@ -1442,7 +1442,7 @@
   <string name="dialog_title_hdmi_color_calibration">Renk düzeltme hazır ayarı</string>
   <string name="dialog_title_login">Mi Hesabınızda oturum açın</string>
   <string name="dialog_yes">Evet</string>
-  <string name="direct_boot_unaware_dialog_message">Not: Bu klavyeyi yalnızca cihazınızın kilidini açtığınızda cihazınızı yeniden başlattığınızda kullanabilirsiniz.</string>
+  <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrası, telefonunuzun kilidi açılana kadar bu uygulama başlatılamaz.</string>
   <string name="disable_overlays">Donanım bindirmeleri devre dışı bırak</string>
   <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
   <string name="disable_power_key_long_press_under_keyguard">Güç düğme menüsünü kapat</string>
@@ -4187,7 +4187,7 @@
   <string name="skip_lock_screen_confirm_msg">Kilit erkanında Bildirimler, Müzik Çalar Kontrolü, Kamera ve Mi Ana Sayfa devre dışı.</string>
   <string name="skip_step">Atla</string>
   <string name="slider_app_open">Uygulamayı aç</string>
-  <string name="slider_app_open_name">Aç</string>
+  <string name="slider_app_open_name">%1$s aç</string>
   <string name="slider_app_open_none">Yok</string>
   <string name="slider_button_title">Değişiklik</string>
   <string name="slider_choose_app">Uygulama seç</string>
@@ -5911,4 +5911,8 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="camera_rear">Arka %s</string>
   <string name="device_camera">Kamera</string>
   <string name="status_bar_settings_peek_notification_icon">Gelen bildirimler için simgeleri göster</string>
+  <string name="slider_global_summary_app">Uygulamayı başlatmak için ekranı aşağı doğru çekin</string>
+  <string name="slider_global_summary_drawer">Araçları açmak için ekranı aşağı doğru çekin</string>
+  <string name="slider_global_summary_selfie">Bir selfie çekmek için ekranı aşağı doğru çekin</string>
+  <string name="slider_tool_none_summary">Ekranı aşağı çekin, yanıt fonksiyonu yok</string>  
 </resources>

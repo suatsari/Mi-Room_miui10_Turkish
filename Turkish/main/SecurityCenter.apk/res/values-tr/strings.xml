@@ -2480,5 +2480,6 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="summary_rcs_switch">Ücret ödemeden Çin Mobil kullanıcılarına SMS gönder</string>  
   <string name="title_rcs_switch">Çin Mobil Mesajlaşma\'yı aç</string> 
   <string name="gamebox_app_not_find">Önce uygulamayı yükleyin.</string>
-  <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string>  
+  <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string> 
+  <string name="ad_split_screen_title">Kilidi açmak için lütfen tam ekran moduna geçin</string>  
 </resources>

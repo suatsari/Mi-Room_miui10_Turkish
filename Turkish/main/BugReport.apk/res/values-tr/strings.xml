@@ -320,4 +320,33 @@
   <string name="privacy_policy_title">Gizlilik politikası</string>
   <string name="tab_title_preferences">Ayarlar</string>
   <string name="privacy_category_title">Gizlilik</string>
+  <string name="catch_full_log_action_cancel">İptal</string>
+  <string name="catch_full_log_action_complete">Bitir ve yükle</string>
+  <string name="catch_full_log_action_start">Günlük oluştur</string>
+  <string name="catch_full_log_add_original_photo">Fotoğraf ekle</string>
+  <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
+  <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
+  <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
+  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel verimliliğini etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
+  <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
+  <string name="catch_full_log_item_content_catch_direct">"Adımlar:
+1. Bildirmek ve çoğaltmak istediğiniz özelliğe geri dönün.
+2. Bu sayfaya geri dönün ve \"Bitir ve yükle\" ye dokunun."</string>
+  <string name="catch_full_log_item_content_need_open">"Adımlar:
+1. \"Günlük oluştur\" a dokunun.
+2. Bildirmek ve çoğaltmak istediğiniz özelliğe geri dönün.
+3. Bu sayfaya geri dönün ve \"Bitir ve yükle\" ye dokunun."</string>
+  <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve sesli arama</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Gecikme</string>
+  <string name="catch_full_log_item_title_gps">Konum hizmetleri</string>
+  <string name="catch_full_log_item_title_sensor">Sensörler</string>
+  <string name="catch_full_log_item_title_signal">Telefon, sinyal ve mobil ağlar</string>
+  <string name="catch_full_log_item_title_wifi">WLAN ve Mi Drop</string>
+  <string name="catch_full_log_notification_content">Günlüklere geri dönmek için dokunun</string>
+  <string name="catch_full_log_notification_title">Günlük oluşturuluyor…</string>
+  <string name="catch_full_log_start_dump_hprof">Gecikme günlüğü oluştur</string>
+  <string name="catch_full_log_submit_directly">Gönder</string>
+  <string name="title_catch_full_log">Kayıtlar</string>
+  <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string> 
 </resources>

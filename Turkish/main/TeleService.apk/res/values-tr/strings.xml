@@ -1449,7 +1449,7 @@
   <string name="tty_mode_option_title">TTY Modu</string>
   <string name="turn_off_dual_4g_failed">Dual 4G\'yi kapatamadım.</string>
   <string name="turn_on_dual_4g_failed">Dual 4G\'yi açamadım.</string>
-  <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur, bu özellik gelen çağrıda titreşim açıksa çalışmaz.</string>
+  <string name="turnover_mute_summary">Telefon ekran yukarı bakacak şekilde yatay bir yüzeyde olduğunda, zil sesini susturmak, titreşimi kapatmak ve bildirim ışığını söndürmek için onu çevirin.</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevirin</string>
   <string name="undefined">Yok</string>
   <string name="unknown">Bilinmiyor</string>

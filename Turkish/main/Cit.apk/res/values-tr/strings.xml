@@ -316,7 +316,7 @@
   <string name="cit_sd_unmount">SD kart çıkart</string>
   <string name="cit_sd_unmount_sucess">SD kart çıkartıldı</string>
   <string name="cit_signature_check_label">imza kontrolü:</string>
-  <string name="cit_sim_check_summary">Sim kart bilgisi ve durumunun doğru olarak görüntülendiğini onaylayın</string>
+  <string name="cit_sim_check_summary">SIM kartın durumunun ve bilgisinin doğru olarak görüntülendiğinden emin olun, sadece iki SIM kart aynı anda varsa doğru durumu geçebilir</string>
   <string name="cit_sim_check_title">Sim kart</string>
   <string name="cit_sim_error_unknown">Bilinmiyor</string>
   <string name="cit_sim_network_operator">Ağ servis sağlayıcı:</string>
