@@ -72,5 +72,9 @@
     <plurals name="mark_number_dialog_subtitle">
        <item quantity="other">%1$d kişi %2$s olarak işaretlenmiş</item>
        <item quantity="one">%1$d kişi %2$s olarak işaretlenmiş</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+       <item quantity="other">Mesaj %1$s ve %2$d diğer insanlar tarafından alındı</item>
+       <item quantity="one">Mesaj %1$s ve %2$d diğer kişi tarafından alındı</item>
     </plurals>	
 </resources>

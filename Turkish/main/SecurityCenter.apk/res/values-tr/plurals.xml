@@ -358,5 +358,9 @@
    <plurals name="first_aid_card_float_window_summary">
      <item quantity="other">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
      <item quantity="one">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
+   </plurals> 
+   <plurals name="notification_battery_consume_abnormal_summary">
+     <item quantity="other">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
+     <item quantity="one">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
    </plurals>   
 </resources>

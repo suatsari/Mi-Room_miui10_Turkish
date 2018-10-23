@@ -4203,7 +4203,7 @@
   <string name="slider_title_jixie">Mekanik</string>
   <string name="slider_title_keji">Teknoloji</string>
   <string name="slider_title_lingdong">Akıl</string>
-  <string name="slider_title_zippo">ZIPPO</string>
+  <string name="slider_title_zippo">Çakmak</string>
   <string name="slider_tool_drawer">Araçları aç</string>
   <string name="slider_tool_none">Yok</string>
   <string name="slider_video_tool_summary">Video izlerken mevcut kısayolları görmek için ekranı aşağı doğru çekin</string>
@@ -5911,8 +5911,9 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="camera_rear">Arka %s</string>
   <string name="device_camera">Kamera</string>
   <string name="status_bar_settings_peek_notification_icon">Gelen bildirimler için simgeleri göster</string>
-  <string name="slider_global_summary_app">Uygulamayı başlatmak için ekranı aşağı doğru çekin</string>
-  <string name="slider_global_summary_drawer">Araçları açmak için ekranı aşağı doğru çekin</string>
+  <string name="slider_global_summary_app">Bir uygulamayı açmak için ekranı aşağı çekin</string>
+  <string name="slider_global_summary_drawer">Mevcut kısayolları görmek için ekranı aşağı doğru çekin</string>
   <string name="slider_global_summary_selfie">Bir selfie çekmek için ekranı aşağı doğru çekin</string>
-  <string name="slider_tool_none_summary">Ekranı aşağı çekin, yanıt fonksiyonu yok</string>  
+  <string name="slider_tool_none_summary">Kaydırıcı kısayolu atanmadı</string>
+  <string name="status_bar_settings_notification_style">Bildirim stili</string>  
 </resources>

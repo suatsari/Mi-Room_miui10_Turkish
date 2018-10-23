@@ -7,6 +7,7 @@
     <string name="addBlackList">Engelle</string>
     <string name="add_attachment">Ek Ekle</string>
     <string name="add_contact">vCard</string>
+	<string name="add_miui_contact">Kişi</string>
     <string name="add_music">Müzik Ekle</string>
     <string name="add_number_to_sender">%s için numara ekle</string>
     <string name="add_picture">Resim ekle</string>
@@ -745,7 +746,7 @@ Yapılan girişim: %s."</string>
     <string name="rcs_send_rms_remind_title">Çin Mobil Mesajlaşma kullanarak mesaj gönderin</string>
     <string name="rcs_setting">Çin Mobil Mesajlaşma ayarları</string>
     <string name="rcs_silence_message">Mesaj bildirimleri sessiz</string>
-    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse Çin Mobil multimedya mesajlarını SMS\'e dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
+    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse Çin Mobil multimedya mesajlarını MMS\'ye dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
     <string name="rcs_summary_auto_resend_sms">Orijinal mesaj gönderilemezse Çin Mobil metin mesajlarını SMS\'e dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
     <string name="rcs_summary_silence_message">Masaüstü istemcisi çalışırken bildirimler sessiz</string>
     <string name="rcs_wait_for_retry_text">Bekliyor…</string>
@@ -781,5 +782,6 @@ Yapılan girişim: %s."</string>
     <string name="cmcc_privacy">Çin Mobil Operatörü Gizlilik Sözleşmesi</string>
     <string name="mark_number_by_own_dialog_subtitle">%1$s olarak işaretlendi</string>
     <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. Çin Mobil SIM kart varsayılan veri kartınız değil.</string>
-    <string name="rcs_service_agreement">Hizmet sözleşmesi</string>	
+    <string name="rcs_service_agreement">Hizmet sözleşmesi</string>
+    <string name="rcs_unavailable">Çin Mobil Mesajlaşma\'yı şimdi kullanamazsınız. Çin Mobil SIM kart varsayılan veri kartınız değil.</string>	
 </resources>
