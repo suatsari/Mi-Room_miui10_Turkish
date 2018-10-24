@@ -5917,5 +5917,13 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="slider_tool_none_summary">Kaydırıcı kısayolu atanmadı</string>
   <string name="status_bar_settings_notification_style">Bildirim stili</string>
   <string name="enable_atrace">Atrace\'yi aç</string>
-  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>   
+  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string> 
+  <string name="allow_device_id_access">Cihaz kimliğine sahip uygulamalar</string>
+  <string name="device_id">Cihaz kimliği</string>
+  <string name="pref_show_lunar_calendar_title">Kilit ekranında geleneksel Çin takvimini göster</string>
+  <string name="restore_device_id_content">Kişiselleştirilmiş öneriyi sıfırla</string>
+  <string name="restore_device_id_title">Cihaz kimliğini geri yükle</string>
+  <string name="restore_dialog_content">Cihaz kimliğinin geri yüklenmesi kişiselleştirilmiş tavsiyenizi sıfırlayacaktır.</string>
+  <string name="restore_dialog_positive">Geri yükle</string>
+  <string name="restore_dialog_title">Hatırlatma</string>  
 </resources>

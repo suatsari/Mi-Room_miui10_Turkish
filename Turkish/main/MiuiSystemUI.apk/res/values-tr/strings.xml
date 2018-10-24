@@ -1657,8 +1657,8 @@ d MMM"</string>
   <string name="structure_face_data_input_timeout_title">Tekrar dene</string>
   <string name="structure_face_data_manage_delete_msg">3B yüz verilerini silin</string>
   <string name="structure_face_hardware_abnormal_btn">Anladım</string>
-  <string name="structure_face_hardware_abnormal_msg">Lazer hatası nedeniyle yüz verisi kaydedilemiyor. Yardım almak için müşteri hizmetlerine başvurun.</string>
-  <string name="structure_face_hardware_abnormal_title">Lazer hatası</string>
+  <string name="structure_face_hardware_abnormal_msg">Bir donanım hatası oluştu. Cihazınızı yeniden başlatın. Bu yardımcı olmazsa, yardım almak için 400–100-5678 numaralı telefonu arayın.</string>
+  <string name="structure_face_hardware_abnormal_title">Donanım hatası</string>
   <string name="structure_face_modules_abnormal_btn">Yeniden başlat</string>
   <string name="structure_face_modules_abnormal_msg">Optik modül hatası nedeniyle yüz verisi kaydedilemiyor. Cihazınızı yeniden başlatın ve tekrar deneyin.</string>
   <string name="structure_face_modules_abnormal_title">Optik modül hatası</string>
@@ -1712,5 +1712,6 @@ d MMM"</string>
   <string name="sos_status_bar_summary">çıkmak için tıklayın</string>
   <string name="sos_status_bar_title">SOS</string>  
   <string name="enable_atrace">Atrace\'yi aç</string>
-  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>  
+  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
+  <string name="structure_face_unlock_tof_covered">Yüz verisi eklenemedi. Ekrandan uzaklaşın.</string>  
 </resources>
