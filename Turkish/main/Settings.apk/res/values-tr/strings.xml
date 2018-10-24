@@ -5915,5 +5915,7 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="slider_global_summary_drawer">Mevcut kısayolları görmek için ekranı aşağı doğru çekin</string>
   <string name="slider_global_summary_selfie">Bir selfie çekmek için ekranı aşağı doğru çekin</string>
   <string name="slider_tool_none_summary">Kaydırıcı kısayolu atanmadı</string>
-  <string name="status_bar_settings_notification_style">Bildirim stili</string>  
+  <string name="status_bar_settings_notification_style">Bildirim stili</string>
+  <string name="enable_atrace">Atrace\'yi aç</string>
+  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>   
 </resources>
