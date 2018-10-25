@@ -1202,6 +1202,10 @@
   <string name="daltonizer_mode_tritanomaly">Renk Körlüğü (mavi-sarı)</string>
   <string name="daltonizer_type">Düzeltme Modu</string>
   <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kıl</string>
+  <string name="dangerous_option">Yüksek riskli geliştirici seçenekleri</string>
+  <string name="dangerous_option_hint">%1$s etkin. Ayarları değiştirmek için dokunun.</string>
+  <string name="dangerous_option_hint_title">Yüksek riskli özellik etkin</string>
+  <string name="dangerous_option_switch_title">Yüksek riskli özellikler hakkında bilgi verin</string>   
   <string name="dashboard_title">Ayarlar</string>
   <string name="data_limit">Veri Limiti</string>
   <string name="data_saver_off">Kapalı</string>
@@ -5925,5 +5929,17 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="restore_device_id_title">Cihaz kimliğini geri yükle</string>
   <string name="restore_dialog_content">Cihaz kimliğinin geri yüklenmesi kişiselleştirilmiş tavsiyenizi sıfırlayacaktır.</string>
   <string name="restore_dialog_positive">Geri yükle</string>
-  <string name="restore_dialog_title">Hatırlatma</string>  
+  <string name="restore_dialog_title">Hatırlatma</string> 
+  <string name="call_records_name_1">Debbie Smith</string>
+  <string name="call_records_name_2">Jason Lee</string>
+  <string name="call_records_name_3">Tom Fowles</string>
+  <string name="call_records_summary_1">09:35 ÖÖ | 26 saniye | Turkcell</string>
+  <string name="call_records_summary_2">16 Ağustos | 1dk 16sn | Türk Telekom</string>
+  <string name="call_records_summary_3">16 Ağustos | 2dk 24sn | Vodafone</string>
+  <string name="launcher_icon">Simgeler</string>
+  <string name="miui_optimization_disabled">MIUI optimizasyonunu kapatın</string>
+  <string name="page_layout_34">Telefon</string>
+  <string name="page_layout_35">Notlar</string>
+  <string name="switch_access_service_on">Erişim Anahtarı</string>
+  <string name="words_title">Metin</string>  
 </resources>
