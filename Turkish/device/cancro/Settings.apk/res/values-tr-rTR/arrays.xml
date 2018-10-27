@@ -3,6 +3,6 @@
   <string-array name="miracast_policies">
     <item>Daha kısa bekle</item>
     <item>Standart</item>
-    <item>Yüksek Kalite</item>
+    <item>Yüksek kalite</item>
   </string-array>
 </resources>
