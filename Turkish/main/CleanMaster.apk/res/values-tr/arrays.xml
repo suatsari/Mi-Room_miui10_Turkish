@@ -23,4 +23,8 @@
         <item>Otomatik olarak temizle</item>
         <item>Temizle ve bildir</item>
     </string-array>
+	<string-array name="wechat_sort">
+      <item>Tarih</item>
+      <item>Boyut</item>
+   </string-array>
 </resources>

@@ -36,4 +36,8 @@
         <item quantity="other">Geribildirimden %1$s saniye sonra</item>
         <item quantity="one">Geribildirimden %1$s saniye sonra</item>
     </plurals>
+	    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">% 1 $s istasyonunun ortalaması</item>
+        <item quantity="one">% 1 $ s istasyonunun ortalaması</item>
+    </plurals>
 </resources>

@@ -108,7 +108,7 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_no_data">"Hava Durumu bilgisi alınamadı
   +Yenilemek veya ağ ayarlarını kontrol etmek için aşağı doğru çekin"</string>
-  <string name="data_provided_by">Veri Sağlayıcısı: </string>
+  <string name="data_provided_by">Veri tarafından sağlanan veriler </string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
   <string name="eu_region_version_first_start_network_msg">"Bu ürünü kullanarak, bu ürünün ağa bağlanacağını, aradığınız şehirlerin koordinatları ve Gizlilik Politikamızda belirtilen diğer veri türleri de dahil olmak üzere kişisel bilgilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul edersiniz. Bilgileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul et\" öğesine dokunarak Xiaomi'nin %1$s ve %2$s kabul edersiniz."</string>
@@ -118,7 +118,7 @@
   <string name="feedback_overcast">Bulutlu</string>
   <string name="feedback_result_fail_no_choice">Lütfen gördüğünüz hava durumunu seçin</string>
   <string name="feedback_result_success">Başarıyla gönderildi, geribildiriminiz için teşekkürler</string>
-  <string name="feedback_sand">Kumlu</string>
+  <string name="feedback_sandyKumlu</string>
   <string name="feedback_sunny">Güneşli</string>
   <string name="first_start_network_msg">Bu uygulamanın internete bağlanması ve normal çalışması için konumunuza erişmesi gerekiyor.</string>
   <string name="first_start_network_title">İnternet bağlantısı ve konum erişimi</string>
@@ -308,5 +308,14 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string> 
   <string name="content_desc_city_manage_del">Sil</string>
-  <string name="content_desc_city_manage_edit">Şehirleri yönet</string>  
+  <string name="content_desc_city_manage_edit">Düzenle</string>
+  <string name="activity_find_city_dialog_message_global">Doğru konum bilgisi almak için Hava Durumunun konumunuza erişmesine izin verin.</string>
+  <string name="aqi_detail_co_unit">Birim: mg/m³</string>
+  <string name="aqi_first_sub_desc_locate">İstasyon: %1$s (%2$s away)</string>
+  <string name="aqi_first_sub_desc_no_locate">AQI cinsinden ortalama %1$s</string>
+  <string name="feedback_cloudy">Bulutlu</string>
+  <string name="feedback_foggy">Sisli</string>
+  <string name="feedback_haze">Pus</string>
+  <string name="feedback_moderate_rain">Yağmur</string>
+  <string name="feedback_moderate_snow">Kar</string>  
 </resources>

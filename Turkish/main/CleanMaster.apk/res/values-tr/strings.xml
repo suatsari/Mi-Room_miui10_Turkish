@@ -671,4 +671,17 @@
   <string name="toast_updater_close_4g_text">Uygulamalar mobil veri (4G) kullanılarak güncellenmez</string>
   <string name="toast_updater_open_4g_text">Uygulamalar mobil veri (4G) kullanılarak güncellenecektir</string>
   <string name="cd_scanning">taranıyor</string>
+  <string name="app_clean_group_document_recv">Alınan dosyalar</string>
+  <string name="app_clean_group_document_send">Gönderilen dosyalar</string>
+  <string name="app_clean_group_image_recv">Alınan görüntüler</string>
+  <string name="app_clean_group_image_send">Gönderilen görüntüler</string>
+  <string name="facebook_clean_exit_confirm_cancel">Taramaya devam et</string>
+  <string name="facebook_clean_exit_confirm_msg">"Henüz Facebook'u taramadım. Şimdi tarama durdurulsun mu?"</string>
+  <string name="facebook_clean_exit_confirm_ok">Dur</string>
+  <string name="facebook_clean_exit_confirm_title">Taramayı durdur?</string>
+  <string name="facebook_cleaner">Facebook Temizleyici</string>
+  <string name="facebook_group_cache">Önbellek dosyaları</string>
+  <string name="facebook_group_gif">Gifler</string>
+  <string name="facebook_group_image">Resimler</string>
+  <string name="facebook_group_video">Videolar</string>
 </resources>

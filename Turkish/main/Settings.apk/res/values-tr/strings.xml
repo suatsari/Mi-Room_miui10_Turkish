@@ -5942,4 +5942,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="page_layout_35">Notlar</string>
   <string name="switch_access_service_on">Erişim Anahtarı</string>
   <string name="words_title">Metin</string>  
+  <string name="bootloader_tips">"Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız."</string>
+  <string name="bootloader_tips_ok">Anladım</string>
 </resources>

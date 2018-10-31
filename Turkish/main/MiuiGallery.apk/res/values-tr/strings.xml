@@ -1321,5 +1321,9 @@ mevcut"</string>
   <string name="photo_editor_frame">Çerçeve</string>
   <string name="photo_movie_select_image_range">Klipler 3-6 arası fotoğraf içerebilir</string>
   <string name="select_image_operation">Fotoğraf ekleme</string>
-  <string name="unsupport_video">%s videolarla çalışmıyor</string>  
+  <string name="unsupport_video">%s videolarla çalışmıyor</string>
+  <string name="operation_set_slide_wallpaper">Slayt gösterisi duvar kağıdı olarak ayarla</string>
+  <string name="picker_origin_request_progress_fail">"Bir ağ hatası nedeniyle orijinal görüntü indirilemedi."</string>
+  <string name="set_as_slide_wallpaper_description">Bu resim küçük, orjinali indirilsin mi?</string>
+  <string name="set_as_slide_wallpaper_title">Slayt gösterisi duvar kağıdı olarak ayarla</string>  
 </resources>

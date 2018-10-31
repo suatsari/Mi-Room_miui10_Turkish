@@ -1347,5 +1347,7 @@
   <string name="pref_download_setting">İndirme ayarları</string>
   <string name="suggestion_sliding_ads_info_mark_text">Reklamlar</string>  
   <string name="guide_slide_down">Lütfen aşağı kaydırın</string>
-  <string name="guide_slide_up">Lütfen yukarı kaydırın</string>   
+  <string name="guide_slide_up">Lütfen yukarı kaydırın</string> 
+  <string name="guide_chosen_type_main_title_behind">Ne seversin</string>
+  <string name="guide_chosen_type_main_title_front">Bize söyle</string>  
  </resources>
