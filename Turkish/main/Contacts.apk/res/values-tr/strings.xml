@@ -1490,4 +1490,8 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
 	<string name="preference_privacy_policy_title">Gizlilik Politikası</string>
 	<string name="rcs_app_name">Mini uygulama</string>
 	<string name="conference_call_disable_tip">Arama yapılamıyor. Cihazınızın VoLTE desteği ile 4G ağına bağlı olduğundan emin olun.</string>
+	<string name="scan_business_card">Kartvizit tara</string>
+    <string name="scan_bussiness_card_merge_tip">Çakışan veriler değiştirildi</string>
+    <string name="description_image_button_sim1_named_dial">SIM1 kullanarak çevir %s</string>
+    <string name="description_image_button_sim2_named_dial">SIM2 kullanarak çevir %s</string> 
 </resources>

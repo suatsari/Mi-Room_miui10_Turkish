@@ -625,4 +625,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="passport_register_using_other_ways">Kayıt için diğer yollar</string>
   <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string> 
   <string name="account_invalid_user_avatar">Bu fotoğraf geçersiz. Farklı bir tane dene.</string>
+  <string name="passport_input_phone_password">Lütfen cep telefonu numarası için şifreyi giriniz %s</string>
+  <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>
+  <string name="passport_sms_verification_code_login_or_register">SMS kullanarak giriş yapın veya kayıt olun</string>
 </resources>

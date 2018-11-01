@@ -1271,5 +1271,10 @@
     <item>El fenerini aç</item>
     <item>Gece modunu aç</item>
     <item>Hayır</item>
+  </string-array>
+    <string-array name="keyguard_notification_status_entries">
+    <item>Uyandırma ekranı</item>
+    <item>Animasyonu göster</item>
+    <item>"Ekranı uyandırma"</item>
   </string-array>  
 </resources>
