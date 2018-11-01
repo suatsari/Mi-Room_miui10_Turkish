@@ -144,12 +144,12 @@
     <item quantity="other">%1$d s %2$d d kaldı</item>
     <item quantity="one">%1$d s %2$d d kaldı</item>
   </plurals>
-    <plurals name="input_password_after_timeout_msg">
-        <item quantity="other">Şifreyi girmek, %d saat inaktivitesinden sonra gereklidir</item>
-        <item quantity="one">Şifreyi girmek, %d saat inaktivitesinden sonra gereklidir</item>
-    </plurals>
-    <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Kalıbı çizmek, %d saat inaktivitesinden sonra gereklidir</item>
-        <item quantity="one">Kalıbı çizmek, %d saat inaktivitesinden sonra gereklidir</item>
-    </plurals>  
+  <plurals name="input_password_after_timeout_msg">
+    <item quantity="other">Şifreyi girmek, %d saat inaktivitesinden sonra gereklidir</item>
+    <item quantity="one">Şifreyi girmek, %d saat inaktivitesinden sonra gereklidir</item>
+  </plurals>
+  <plurals name="input_pattern_after_timeout_msg">
+    <item quantity="other">Kalıbı çizmek, %d saat inaktivitesinden sonra gereklidir</item>
+    <item quantity="one">Kalıbı çizmek, %d saat inaktivitesinden sonra gereklidir</item>
+  </plurals>  
 </resources>
