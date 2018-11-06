@@ -30,7 +30,10 @@
   <string name="enable_hide_mode">MIUI Pil Tasarrufu\'nu etkinleştirin</string>
   <string name="error_filename_too_long">Girdiğiniz dosya ismi çok uzun.</string>
   <string name="extreme_power_config_mode_category">Aşırı mod</string>
-  <string name="extreme_power_config_mode_desc">Senkronizasyon, Bluetooth, GPS, NFC, çift tıklama, düğme ışıkları, bildirimler için uyanma, kilit ekranı yanı sıra bildirim ışıklarını kapatmak için aşırı moduna geçin. MIUI pil tasarrufuna odaklanacak.</string>
+  <string name="extreme_power_config_mode_desc">&lt;li&gt;"Aşırı pil tasarrufu, bir uygulamadan çıktıktan sonra bu uygulamanın tüm arka plan etkinliklerini durdurur ve Ana ekrana geri döner. Bu uygulama size bildirim göndermeyecek veya güncelleme almayacak."&lt;/li&gt;"
+"&lt;li&gt;Bir uygulamanın arka planda çalışmasını istiyorsanız, son uygulamalar bölümüne kilitleyin veya aşağıdaki arka plan istisnalarına ekleyin. Aşırı pil tasarrufu açıkken arka planda 4 uygulama seçilebilir.&lt;/li&gt;"
+"&lt;li&gt;Aşırı pil tasarrufu varsayılan olarak NFC'yi kapatır. Bunu Ayarlar'da değiştirebilirsiniz.&lt;/li&gt;"
+"&lt;li&gt;Cihazınızın tüm özelliklerini normal şekilde kullanabilmeniz için, pil %30 şarj olduğunda Aşırı pil tasarrufu otomatik olarak kapatılacaktır..&lt;/li&gt;</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
   <string name="failure">Hata</string>
   <string name="hide_mode_desc"><font color="#000000">Bir uygulama arka planda çalışırken, etkinlikleri izlenir. Bu işlev %s üzerinden kullanıcı verilerini alır ve kullanır</font></string>
@@ -95,5 +98,15 @@
   <string name="extreme_mode_max_item_alert">Aşırı modunda arka planda çalışacak en fazla 4 uygulama seçebilirsiniz.</string>
   <string name="message_i_know">Anladım</string>
   <string name="high_temp_state">Yüksek sıcaklık</string>
-  <string name="high_temp_state_message">Yüksek sıcaklık koruması, veri, wifi, uygulama, gps, kamera vb. kısıtlanacak</string>  
+  <string name="high_temp_state_message">Yüksek sıcaklık koruması, veri, wifi, uygulama, gps, kamera vb. kısıtlanacak</string>
+  <string name="atrace_saved">Başarıyla kaydedildi</string>
+  <string name="atrace_saving">Kıyafet günlüğünü kaydediliyor…</string>
+  <string name="atrace_start">İzleme günlüğünü kaydediliyor…</string>
+  <string name="extreme_add_white_list_summary">En fazla 4 uygulama ekle</string>
+  <string name="extreme_add_white_list_title"> Arka plan istisnaları</string>
+  <string name="extreme_power_config_mode_summary">Aşırı pil tasarrufu arka plan etkinliğini kısıtlar ve senkronizasyonu durdurur.</string>
+  <string name="extreme_power_settings_title">Ayarlar</string>
+  <string name="notification_exit_extreme_mode_text">Pil %s fazla şarj edildi</string>
+  <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapatıldı</string>
+  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açıldı</string>  
 </resources>

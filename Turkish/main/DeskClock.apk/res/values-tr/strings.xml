@@ -118,7 +118,7 @@
   <string name="setting_alarm_arriving_title">Zilden Önce Bildirim</string>
   <string name="settings">Ayarlar</string>
   <string name="shutdown_alarm_disable_summary">Telefon kapatıldığında alarm çalmaz</string>
-  <string name="shutdown_alarm_enable_summary">Telefon kapatıldığında alarm çalar</string>
+  <string name="shutdown_alarm_enable_summary">"Cihazınızı kapattıktan sonra en az 5 dakika süreyle ayarlanmışsa alarm kapanır"</string>
   <string name="shutdown_alarm_title">Kapalıyken Alarm Durumu</string>
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>

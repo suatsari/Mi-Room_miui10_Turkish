@@ -378,7 +378,7 @@
   <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string> 
   <string name="remove_button">Kaldır ve yeniden başlat</string>
   <string name="remove_button_time">Kaldır ve yeniden başlat(%ds)</string>
-  <string name="stop_xspace_alert_content">Tüm klonlu uygulamaları sildiniz. Klonlu uygulama hesapları ve uygulama verileri de silinsin mi? Bundan sonra, ihtiyacınız olduğunda tekrar klonlu uygulamalar oluşturmanız gerekecek.</string>
+  <string name="stop_xspace_alert_content">"Tüm ikili uygulamalar ve verileri kalıcı olarak silinecek. Bu değişikliği uygulamak için cihazınızı yeniden başlatmanız gerekecek. Hesapları şimdi sil?"</string>
   <string name="stop_xspace_alert_title">Klonlu uygulama hesaplarını silme</string> 
   <string name="use_xiaoai_open">Ses asistanını kullanarak uyandırma</string>
   <string name="agree">Kabul et</string>
@@ -421,5 +421,6 @@
   <string name="install_error">Yüklenemedi. Tekrar deneyin.</string>
   <string name="ent_install_dialog_content">Uygulamaları yükle ve cihazınızı şimdi yeniden başlat?</string> 
   <string name="confirm_close_password_desc">Şifreyi kapattıktan sonra Kilit ekranından İkinci alana giremezsiniz. Yine de kapatılsın mı?</string>
-  <string name="confirm_close_password_title">Şifreyi kapat</string>  
+  <string name="confirm_close_password_title">Şifreyi kapat</string>
+  <string name="xspace_remove">"Çift uygulamaların hesaplarını sil"</string>  
 </resources>

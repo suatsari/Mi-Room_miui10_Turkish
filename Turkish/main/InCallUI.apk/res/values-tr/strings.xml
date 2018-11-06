@@ -388,7 +388,7 @@ Yine de başka bir servis sağlayıcıya geçilsin mi?"</string>
   <string name="importSimEntry">İçe aktar</string>
   <string name="importToFDNfromContacts">Kişilerden içe aktar</string>
   <string name="importingSimContacts">SIM karttaki kişiler içe aktarılıyor...</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Telefon</string>
   <string name="incall_call_type_label_sip">İnternetten Ara</string>
   <string name="incall_error_call_failed">Arama yapılamadı</string>
   <string name="incall_error_emergency_only">Ağa kayıtlı değil</string>

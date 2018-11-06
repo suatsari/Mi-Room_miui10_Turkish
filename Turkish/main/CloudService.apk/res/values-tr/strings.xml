@@ -373,7 +373,7 @@
   <string name="micloud_privacy_cloud_off">Senkronizasyon kapalı</string>
   <string name="micloud_privacy_cloud_sync">Mi Bulut hizmetlerini aç</string>
   <string name="micloud_privacy_explanation">Mi Bulut hizmetlerini açmak için yetkilendirme</string>
-  <string name="micloud_privacy_licence_agreed">Mi Bulut Gizlilik Politikası\'na katılıyorum.</string>
+  <string name="micloud_privacy_licence_agreed">Mi Bulut'a Katıl &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/a&gt;.</string>
   <string name="micloud_privacy_licence_privacy_policy">Gizlilik Politikası</string>
   <string name="micloud_privacy_more">Daha</string>
   <string name="micloud_privacy_progress_content">Yetki veriliyor…</string>

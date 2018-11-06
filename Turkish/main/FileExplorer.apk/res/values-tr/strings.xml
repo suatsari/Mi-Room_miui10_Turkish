@@ -811,4 +811,5 @@
   <string name="you_liao_xunlei_str">Xunlei Ev Sahibi</string>
   <string name="youliao_master_rank">Youliao En İyi</string>
   <string name="operation_show_privacy_policy">Gizlilik Politikasını göster</string>
+  <string name="rename_input_null">Yeni dosya adı girin</string>
 </resources>

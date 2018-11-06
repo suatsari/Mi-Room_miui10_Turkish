@@ -1713,5 +1713,6 @@ d MMM"</string>
   <string name="sos_status_bar_title">SOS</string>  
   <string name="enable_atrace">Atrace\'yi aç</string>
   <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
-  <string name="structure_face_unlock_tof_covered">Yüz verisi eklenemedi. Ekrandan uzaklaşın.</string>  
+  <string name="structure_face_unlock_tof_covered">Yüz verisi eklenemedi. Ekrandan uzaklaşın.</string>
+  <string name="download_lock_wallpaper">Müzik indirmek için iki kez dokunun</string>  
 </resources>
