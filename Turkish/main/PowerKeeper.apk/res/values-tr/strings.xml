@@ -32,7 +32,7 @@
   <string name="extreme_power_config_mode_category">Aşırı mod</string>
   <string name="extreme_power_config_mode_desc">&lt;li&gt;"Aşırı pil tasarrufu, bir uygulamadan çıktıktan sonra bu uygulamanın tüm arka plan etkinliklerini durdurur ve Ana ekrana geri döner. Bu uygulama size bildirim göndermeyecek veya güncelleme almayacak."&lt;/li&gt;"
 "&lt;li&gt;Bir uygulamanın arka planda çalışmasını istiyorsanız, son uygulamalar bölümüne kilitleyin veya aşağıdaki arka plan istisnalarına ekleyin. Aşırı pil tasarrufu açıkken arka planda 4 uygulama seçilebilir.&lt;/li&gt;"
-"&lt;li&gt;Aşırı pil tasarrufu varsayılan olarak NFC'yi kapatır. Bunu Ayarlar'da değiştirebilirsiniz.&lt;/li&gt;"
+"&lt;li&gt;Aşırı pil tasarrufu varsayılan olarak NFC\'yi kapatır. Bunu Ayarlar'da değiştirebilirsiniz.&lt;/li&gt;"
 "&lt;li&gt;Cihazınızın tüm özelliklerini normal şekilde kullanabilmeniz için, pil %30 şarj olduğunda Aşırı pil tasarrufu otomatik olarak kapatılacaktır..&lt;/li&gt;</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
   <string name="failure">Hata</string>

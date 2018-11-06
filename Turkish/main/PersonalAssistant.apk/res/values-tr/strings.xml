@@ -1050,5 +1050,5 @@
   <string name="express_select_send_providers">Bir kurye servisi sağlayıcısı seçin</string>
   <string name="express_send_not_available">Hizmet geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin</string> 
   <string name="miot_device_click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>
-  <string name="cta_dialog_miot_text_all">Normal şekilde çalışabilmesi için, Mi Home'un ağınızı, konumunuzu, Bluetooth'unuzu açmak için yetkilendirmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>  
+  <string name="cta_dialog_miot_text_all">Normal şekilde çalışabilmesi için, Mi Home\'un ağınızı, konumunuzu, Bluetooth'unuzu açmak için yetkilendirmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>  
 </resources>
