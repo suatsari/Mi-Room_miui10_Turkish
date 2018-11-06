@@ -2488,5 +2488,5 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="om_promotion">Reklam</string>
   <string name="om_running_locked_apps">Kilitli çalışan uygulamalar</string>
   <string name="om_running_system_apps">Çalışan sistem uygulamaları</string>
-  <string name="om_running_third_apps">Üçüncü taraf uygulamaları çalıştırma</string>  
+  <string name="om_running_third_apps">Üçüncü taraf uygulamaları çalıştırma</string> 
 </resources>

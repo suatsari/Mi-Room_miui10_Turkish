@@ -362,5 +362,9 @@
    <plurals name="notification_battery_consume_abnormal_summary">
      <item quantity="other">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
      <item quantity="one">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
+   </plurals>
+   <plurals name="om_locked_apps_title">
+     <item quantity="other">%d kilitli uygulamalar</item>
+     <item quantity="one">%d kilitli uygulamalar</item>
    </plurals>   
 </resources>

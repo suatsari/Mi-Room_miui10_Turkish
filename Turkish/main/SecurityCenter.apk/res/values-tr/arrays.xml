@@ -95,8 +95,4 @@
     <item>Mobil kullanımı</item>
     <item>"WLAN kullanımı "</item>
   </string-array>
-  <plurals name="om_locked_apps_title">
-     <item quantity="other">%d kilitli uygulamalar</item>
-     <item quantity="one">%d kilitli uygulamalar</item>
-  </plurals>
 </resources>
