@@ -5946,9 +5946,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="bootloader_tips_ok">Anladım</string>
   <string name="keyguard_notification_status_title">Bildirimler</string>
   <string name="others">Diğer</string>
-  <string name="slider_vocie_online_theme">Çevrimiçi sesi kaydır</string>
-  <string name="sound_stereo_mode_summary">Sadece hoparlörle ses çaldığınızda kullanılabilir</string>
-  <string name="sound_stereo_mode_title">Stereo ses</string>
   <string name="input_pattern_hint_text">Kilit açma deseninizi çizin</string>
   <string name="slider_voice_online_theme">Çevrimiçi sesler</string>
   <string name="ai_button_title_global">AI düğmesi</string>
