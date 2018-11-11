@@ -1325,5 +1325,22 @@ mevcut"</string>
   <string name="operation_set_slide_wallpaper">Slayt gösterisi duvar kağıdı olarak ayarla</string>
   <string name="picker_origin_request_progress_fail">"Bir ağ hatası nedeniyle orijinal görüntü indirilemedi."</string>
   <string name="set_as_slide_wallpaper_description">Bu resim küçük, orjinali indirilsin mi?</string>
-  <string name="set_as_slide_wallpaper_title">Slayt gösterisi duvar kağıdı olarak ayarla</string>  
+  <string name="set_as_slide_wallpaper_title">Slayt gösterisi duvar kağıdı olarak ayarla</string>
+  <string name="document_provider_guide_step_1">1. \"Diğer\" düğmesine dokunun.</string>
+  <string name="document_provider_guide_step_2">2. Sekme \"Dahili depolama alanını göster\".</string>
+  <string name="document_provider_guide_step_3">3. Yan menü düğmesine dokunun.</string>
+  <string name="document_provider_guide_step_4">4. Seç \"SD kard\".</string>
+  <string name="document_provider_guide_step_5">5. Sekme \"Seç\".</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Galeri, öğeleri bunun yerine dahili depolamaya kaydedecektir. Bunu Ayarlar &gt; Depolama &gt; Depolama ayarlarından değiştirebilirsiniz.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">İzin verilemedi.</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Sonraki</string>
+  <string name="ext_sdcard_guide_last_page_button_text">İzin ver</string>
+  <string name="ext_sdcard_guide_text">Galeri SD karta erişmek için izninize ihtiyaç duyar. İşte yapabilecekleriniz:</string>
+  <string name="ext_sdcard_operation_failed_text">Galeri SD karta erişmek için izinlere ihtiyaç duyar.</string>
+  <string name="ext_sdcard_operation_failed_title">Bu işlem tamamlanamadı</string>
+  <string name="ext_sdcard_permission_request_button_text">Anladım</string>
+  <string name="ext_sdcard_permission_request_reason">Galeri SD karta erişmek için izninize ihtiyaç duyar. SD kartınızda saklanan fotoğrafları ve videoları silmenize ve düzenlemenize olanak tanır.</string>
+  <string name="ext_sdcard_permission_request_title">"Galeri'nin SD karta erişmesine izin ver"</string>
+  <string name="ext_sdcard_request_failed_button_text">Tamam</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Taşmaya hazırsın!</string>  
 </resources>

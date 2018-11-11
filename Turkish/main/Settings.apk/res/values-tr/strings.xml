@@ -5951,4 +5951,10 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="sound_stereo_mode_title">Stereo ses</string>
   <string name="input_pattern_hint_text">Kilit açma deseninizi çizin</string>
   <string name="slider_voice_online_theme">Çevrimiçi sesler</string>
+  <string name="ai_button_title_global">AI düğmesi</string>
+  <string name="ai_settings_long_click_category">AI düğmesine basılı tutun</string>
+  <string name="ai_settings_long_click_title">Basın ve basılı tutun</string>
+  <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
+  <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
+  <string name="single_press_AI_button">AI düğmesine basın</string>
 </resources>

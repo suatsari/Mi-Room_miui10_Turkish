@@ -1264,15 +1264,16 @@
     <item>Ayarlar</item>
   </string-array>
   <string-array name="ai_key_item_name">
-    <item>Google sesli yardımcıyı uyandır</item>
-    <item>Kamerayı aç - Geri çekim</item>
-    <item>Kamerayı aç - Proaktif</item>
-    <item>Önceki uygulamayı aç</item>
-    <item>El fenerini aç</item>
-    <item>Gece modunu aç</item>
-    <item>Hayır</item>
+     <item>Google Asistan ile konuş</item>
+     <item>Google aramayı aç</item>
+     <item>Arka kamera aç</item>
+     <item>Ön kamera aç</item>
+     <item>Önceki uygulamayı aç</item>
+     <item>El fenerini aç</item>
+     <item>Okuma modunu aç</item>
+     <item>Yok</item>
   </string-array>
-    <string-array name="keyguard_notification_status_entries">
+  <string-array name="keyguard_notification_status_entries">
     <item>Uyandırma ekranı</item>
     <item>Animasyonu göster</item>
     <item>"Ekranı uyandırma"</item>
