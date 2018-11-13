@@ -4306,7 +4306,7 @@
   <string name="status_bar_settings_show_floating_notification_summary">Ekranın üst kısmında önemli bildirimlere izin ver</string>
   <string name="status_bar_settings_show_flow_info">Veri kullanımını göster</string>
   <string name="status_bar_settings_show_home_message">Uygulamanın İkon Simgeleri</string>
-  <string name="status_bar_settings_show_keyguard_notification">Kilit Ekran Bildirimleri</string>
+  <string name="status_bar_settings_show_keyguard_notification">Kilit ekranı bildirimleri</string>
   <string name="status_bar_settings_show_network_speed">Bağlantı hızını göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
   <string name="status_bar_settings_show_wifi_name">WLAN\'ı Göster</string>

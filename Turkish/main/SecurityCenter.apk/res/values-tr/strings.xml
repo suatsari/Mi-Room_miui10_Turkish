@@ -951,8 +951,8 @@
   <string name="lock_screen_traffic_guide_notification_title">Veri kullanımını yönetmek için dokunun.</string>
   <string name="lock_screen_traffic_notify_body">%1$s, %2$s için kilitlendi, %3$s veri kullanıldı</string>
   <string name="lock_screen_traffic_purchase_textview">Mobil veri satınal</string>
-  <string name="lock_screen_traffic_warn_title">Kilit Ekran Bildirimleri</string>
-  <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
+  <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_category">Kilit ekranı bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
   <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
