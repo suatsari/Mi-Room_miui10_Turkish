@@ -610,12 +610,12 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="accessibility_camera_lighting_open_panel">Aydınlatma menüsü açık</string>
   <string name="lighting_pattern_null">Boş</string>
   <string name="ultra_wide_mode">Süper geniş açı</string>
-  <string name="beauty_body">Vücut</string>
+  <string name="beauty_body">Kalıplama</string>
   <string name="beauty_body_body">Zayıflama</string>
-  <string name="beauty_body_head">İnce kafa</string>
+  <string name="beauty_body_head">Kafa</string>
   <string name="beauty_body_legged">Uzun bacaklar</string>
   <string name="beauty_body_reset_tip">Vücut etkisi temizlendi</string>
-  <string name="beauty_body_shoulder">İnce omuz</string>
+  <string name="beauty_body_shoulder">Omuz</string>
   <string name="ultra_wide_close_tip">Süper geniş açı modu kapalı</string>
   <string name="ultra_wide_open_tip">Süper geniş açı modu</string>
 </resources>

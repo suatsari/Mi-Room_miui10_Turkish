@@ -74,7 +74,7 @@
   <string name="feedback_report_remind_login_desc">Mi Hesabıyla oturum açıp, mühendislerimizle iletişime geçebilirsiniz.</string>
   <string name="feedback_report_remind_login_desc2">"Raporunuz durumunu \"Raporlarım\" altından takip edebilirsiniz."</string>
   <string name="feedback_retest_label">İşlemin Adımları</string>
-  <string name="feedback_select_images">Resim Ekle</string>
+  <string name="feedback_select_images">Bir resim veya kısa video ekleyin</string>
   <string name="feedback_select_problem">Problemler</string>
   <string name="feedback_select_suggestion">Öneriler</string>
   <string name="feedback_select_upload_log">Günlük Ekle</string>
@@ -323,7 +323,7 @@
   <string name="catch_full_log_action_cancel">İptal</string>
   <string name="catch_full_log_action_complete">Bitir ve yükle</string>
   <string name="catch_full_log_action_start">Günlük oluştur</string>
-  <string name="catch_full_log_add_original_photo">Fotoğraf ekle</string>
+  <string name="catch_full_log_add_original_photo">Orijinal resim veya kısa video ekle</string>
   <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
   <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
   <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
@@ -348,5 +348,8 @@
   <string name="catch_full_log_start_dump_hprof">Gecikme günlüğü oluştur</string>
   <string name="catch_full_log_submit_directly">Gönder</string>
   <string name="title_catch_full_log">Kayıtlar</string>
-  <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string> 
+  <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string>
+  <string name="title_first_aid">İlk yardım</string>
+  <string name="toast_log_too_large">Yüklenemiyor. Günlük çok büyük.</string>
+  <string name="toast_screenshot_too_large">10 MB\'den büyük resimler veya videolar yüklenemiyor.</string>  
 </resources>

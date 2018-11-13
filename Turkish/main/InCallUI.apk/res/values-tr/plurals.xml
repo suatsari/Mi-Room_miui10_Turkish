@@ -19,5 +19,17 @@
     <plurals name="duration_hours">
         <item quantity="other">%d saat</item>
         <item quantity="one">1 saat</item>
-    </plurals>	 
+    </plurals>
+    <plurals name="conference_call_number">
+        <item quantity="other">%s insan</item>
+    <item quantity="one">%s kişi</item>
+        </plurals>
+    <plurals name="call_title_redialing_with_times">
+        <item quantity="other">%d kez tekrar aranır</item>
+        <item quantity="one">%d kez tekrar aranır</item>
+    </plurals>
+    <plurals name="antispam_marked_count">
+        <item quantity="other">%d MIUI kullanıcısı tarafından bildirildi</item>
+        <item quantity="one">%d MIUI kullanıcısı tarafından bildirildi</item>
+    </plurals>	
 </resources>

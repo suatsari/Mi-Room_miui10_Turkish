@@ -428,7 +428,7 @@
   <string name="trans_disconnected_tips_title">Uzak aygıt bağlantısı kesildi</string>
   <string name="trans_failed_details_page_title">Aktarma başarısız</string>
   <string name="trans_generate_qr_code_failed">QR Kod oluşturulamadı</string>
-  <string name="trans_generate_qrcode_failed">QR kodu oluşturulamadı. Tekrar deneyin.</string>
+  <string name="trans_generate_qrcode_failed">QR kodu oluşturulamadı. Diğer uygulamaları kapatın ve tekrar deneyin.</string>
   <string name="trans_generating_qrcode">QR kodu oluşturuluyor…</string>
   <string name="trans_install_guide_button_start">Başla</string>
   <string name="trans_install_guide_page_title">Eski telefonunuza Mi Mover\'ı yükleyin</string>

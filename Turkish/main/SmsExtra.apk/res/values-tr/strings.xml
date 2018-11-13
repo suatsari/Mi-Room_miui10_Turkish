@@ -36,5 +36,10 @@
   <string name="cm_privacy_dialog_spannable_tips">mobil operatör gizlilik protokolü</string>
   <string name="cm_privacy_dialog_tips">Akıllı SMS hizmeti operatör tarafından özelleştirilmiştir. %1s okuyup, hizmeti açmayı kabul ederseniz, hizmeti kullanım sırasında bağlamanız ve bulmanız gerekir. Kabul ediyor musun?</string>
   <string name="cm_privacy_dialog_title">Dikkat</string>
-  <string name="summary_pref_cm_smart_sms">Kart şablonları sağlayın, SMS servis numaraları vb.</string>  
+  <string name="summary_pref_cm_smart_sms">Kart şablonları sağlayın, SMS servis numaraları vb.</string>
+  <string name="allow_network_hint">\"Bilgileri otomatik güncelle\" özelliğini açın veya ağ bağlantınızı kontrol edin</string>
+  <string name="already_updated">Güncel</string>
+  <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
+  <string name="current_data_version">Mi Mesaj versiyonu</string>
+  <string name="updating">Güncelleniyor…</string>  
 </resources>

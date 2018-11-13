@@ -628,4 +628,14 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="passport_input_phone_password">Lütfen cep telefonu numarası için şifreyi giriniz %s</string>
   <string name="passport_international_register_by_email">E-posta adresini kullanarak bir hesap oluşturun</string>
   <string name="passport_sms_verification_code_login_or_register">SMS kullanarak giriş yapın veya kayıt olun</string>
+  <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
+  <string name="diagnosis_log_send_failed">Tanı günlüğü gönderilemedi.</string>
+  <string name="diagnosis_log_sent_format">"Tanı günlüğü gönderildi.
+ID:%s
+Lütfen bu kodu teknisyene gönderin."</string>
+  <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın.</string>
+  <string name="ok">Tamam</string>
+  <string name="send_diagnosis_log">Tanı günlüğünü gönder</string>
+  <string name="sending">Gönderiliyor...</string>
+  <string name="temporary_not_available">geçici mevcut değil</string>
 </resources>

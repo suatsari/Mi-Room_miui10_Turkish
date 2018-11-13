@@ -11,4 +11,6 @@ Cihaz kimliği geçerli IMEI veya MAC adresi olması gerekir. Cihaz kimliği olm
   <string name="sync_notification_title_format">Geçerli eşitleme öğesi: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmsf_activate_info">XMSF Etkinleştirme Bilgisi</string>
+  <string name="pop_up_allow_notify_dialog">İzin ver</string>
+  <string name="pop_up_deny_notify_dialog">Reddet</string>
 </resources>

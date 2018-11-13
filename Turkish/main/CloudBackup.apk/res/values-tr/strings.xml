@@ -161,7 +161,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="dialog_msg_restore_require_wlan">Yedek dosyaları geri yüklemek WLAN gerektirir.</string>
   <string name="dialog_title_require_wlan">WLAN gerekli</string>
   <string name="get_device_id_error">Cihaz kimliği alınamadı</string>
-  <string name="home_hint_global_launcher">Poco Masaüstü</string>
+  <string name="home_hint_global_launcher">POCO Başlatıcı</string>
   <string name="home_restore_error">Ana ekranı geri yükleme başarısız oldu</string>
   <string name="btn_restore_abort">İptal</string>
   <string name="btn_restore_cancel">İptal</string>
@@ -171,12 +171,12 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="msg_alert_restore_error">Mi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="title_alert_cancel_restore">Geri yüklemeyi durdur</string>
   <string name="title_alert_restore_error">Geri yüklenemedi</string> 
-  <string name="error_retry_later">Başarısız, lütfen daha sonra tekrar deneyin.</string>
-  <string name="home_hint_other_launcher">Diğer Ana ekran</string>
-  <string name="unsupported_home">Lütfen en yeni işletim sistemine güncelleyin.</string>
-  <string name="load_backup_failed">Yedekleri yükleme başarısız</string>
+  <string name="error_retry_later">Eylem tamamlanamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="home_hint_other_launcher">Diğer başlatıcı</string>
+  <string name="unsupported_home">MIUI\'yi en son sürüme güncelleyin.</string>
+  <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
   <string name="loading_user_backup">Kullanıcı yedekleri yükleniyor…</string>
-  <string name="main_space">Ana alan</string>
+  <string name="main_space">İlk alan</string>
   <string name="try_continue">Devam etmek için dokunun</string>
   <string name="second_space">İkinci alan</string>
   <string name="self_device">Bu telefonun </string>  

@@ -1349,5 +1349,17 @@
   <string name="guide_slide_down">Lütfen aşağı kaydırın</string>
   <string name="guide_slide_up">Lütfen yukarı kaydırın</string> 
   <string name="guide_chosen_type_main_title_behind">Ne seversin</string>
-  <string name="guide_chosen_type_main_title_front">Bize söyle</string>  
+  <string name="guide_chosen_type_main_title_front">Bize söyle</string>
+  <string name="action_menu_toast_incognito_off">Gizli modu kapat</string>
+  <string name="action_menu_toast_incognito_on">Gizli modu aç</string>
+  <string name="app_download_market_text">Daha hızlı ve daha güvenli indirmek için Mi Market\'i kullanın</string>
+  <string name="contextmenu_incognito">Gizli mod</string>
+  <string name="document_download_immediate">Hemen indir</string>
+  <string name="document_download_normal">Normal indir</string>
+  <string name="document_download_recommending">Güvenli indirme (Tavsiye edilir)</string>
+  <string name="download_dialog_file_length_default_txt">Sadece bir saniye…</string>
+  <string name="novel_toast_hint">Bu web sitesi kitaplığa eklendi</string>
+  <string name="pref_fling_gesture">Kaydırma hareketi</string>
+  <string name="publish_to_topic">konuya yayınla</string>
+  <string name="suggestion_sliding_item_more_text">DAHA FAZLA GÖR</string>  
  </resources>

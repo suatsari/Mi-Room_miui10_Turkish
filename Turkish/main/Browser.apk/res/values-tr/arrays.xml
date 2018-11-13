@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pref_fling_on_border_gesture_entries">
+    <string-array name="pref_fling_gesture_entries">
         <item>Önceki Sayfa</item>
         <item>Sekmeye Geç</item>
         <item>Yok</item>
@@ -38,7 +38,7 @@
         <item>Tarayıcının Mesajı</item>
         <item>Mi ile Olypmpics Takibi</item>
     </string-array>	
-    <string-array name="pref_fling_on_border_gesture_values">
+    <string-array name="pref_fling_gesture_values">
         <item>back_forward</item>
         <item>switch_tabs</item>
         <item>yok</item>

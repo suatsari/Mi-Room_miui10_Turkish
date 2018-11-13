@@ -1344,7 +1344,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="tethered_notification_title">Paylaşım veya iNet etkin</string>
   <string name="textSelectionCABTitle">Metin Seçimi</string>
   <string name="text_copied">Metin panoya kopyalandı.</string>
-  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+  <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Saati azalt</string>
   <string name="time_picker_decrement_minute_button">Dakikayı azalt</string>
   <string name="time_picker_decrement_set_am_button">ÖÖ zamanını ayarla</string>
