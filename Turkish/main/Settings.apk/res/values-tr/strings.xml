@@ -3282,7 +3282,7 @@
   <string name="privacy_authorize_revoke_title">Yetkilendirme ve iptal</string>
   <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor…</string>
   <string name="privacy_authorize_success">İzin verilen yetki başarıyla verildi</string>
-  <string name="privacy_authorize_title">Yetki ver</string>
+  <string name="privacy_authorize_title">Yetki verme</string>
   <string name="privacy_close_dlg_button_ok">Kapat</string>
   <string name="privacy_close_dlg_msg">Gizlilik şifresi kapalı olduğunda, öğeleriniz artık korunmaz.</string>
   <string name="privacy_close_dlg_title">Dikkat</string>

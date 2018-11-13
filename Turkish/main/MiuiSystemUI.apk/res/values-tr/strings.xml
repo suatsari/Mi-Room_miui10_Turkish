@@ -932,7 +932,7 @@
   <string name="miui_toast_zen_dnd_to_off">Sesler ve titreşim normale döndü</string>
   <string name="miui_toast_zen_standard_to_off">Zil sesleri normale döndü</string>
   <string name="miui_toast_zen_to_dnd">Ses yok ve titreşim kapalı</string>
-  <string name="miui_toast_zen_to_standard">Aramalar ve bildirimler için zil sesleri susturulur</string>
+  <string name="miui_toast_zen_to_standard">Aramalar ve bildirimler için zil sesleri susturuldu</string>
   <string name="mobile_data">Mobil veri</string>
   <string name="mobile_data_always_on">Mobil veri her zaman etkin</string>
   <string name="mobile_data_always_on_summary">Kablosuz bağlantı etkin bile olsa mobil veri kullanımını her zaman etkin tut (ağlar arasında hızlı geçiş yapmak için).</string>
