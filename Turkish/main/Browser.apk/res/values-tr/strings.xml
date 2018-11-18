@@ -1336,7 +1336,7 @@
   <string name="bookmark_url_not_exisit">Bu URL\'yi zaten sildiniz</string>
   <string name="guide_fiction_text">kurgu</string>
   <string name="guide_flash_type_main_title">Yıldırım hızında</string>
-  <string name="guide_flash_type_subtitle">Şaşırtıcı hız, pürüzsüz UI</string>
+  <string name="guide_flash_type_subtitle">Şaşırtıcı hız, pürüzsüz arayüz</string>
   <string name="nav_close_index_tab">%d öğeyi sil</string>
   <string name="nav_screen_tab_incognito_enter">Gizli sekmeye gir</string>
   <string name="nav_screen_tab_incognito_exit">Gizli sekmeden çık</string>

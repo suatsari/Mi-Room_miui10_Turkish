@@ -138,7 +138,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_power_mode">Performans</string>
   <string name="status_bar_toggle_privacy_mode">Misafir</string>
   <string name="status_bar_toggle_quiet_mode">Rahatsız Etme</string>
-  <string name="status_bar_toggle_rotate">Döndür</string>
+  <string name="status_bar_toggle_rotate">Döndürme kapalı</string>
   <string name="status_bar_toggle_screen_button">Tuşlar</string>
   <string name="status_bar_toggle_screenshot">Görüntü Al</string>
   <string name="status_bar_toggle_sync">Eşitle</string>

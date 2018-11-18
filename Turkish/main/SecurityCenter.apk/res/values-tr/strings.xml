@@ -592,7 +592,7 @@
   <string name="diagnostic_attention_dialog_message">%1$s için teşhis devam etmektedir. Tamamlanana kadar bekleyin ve yeniden deneyin.</string>
   <string name="dialog_app_roaming_message">Dolaşım sırasında  %1$s mobil veri kullanamazsınız. Yurtdışında mobil veri kullanımını sadece istisnalı uygulamalarda yapabilirsiniz.</string>
   <string name="dialog_app_roaming_title">%1$s için yurdışı dolaşım etkin değil</string>
-  <string name="dialog_msg_auto_start_declare">Bazı uygulamaların yanlış başlatılması, MIUI\'nin engellemesi şeklinde görülebilir. Her uygulamanın kendine ait izinlerini görmek için Ayarlar &gt; Uygulamalar bölümünü kontrol edin.</string>
+  <string name="dialog_msg_auto_start_declare">Bazı uygulamaların başlatılma sorunları, MIUI\'nin engellemesi şeklinde görülebilir. Her uygulamanın kendine ait izinlerini görmek için Ayarlar &gt; Uygulamalar bölümünü kontrol edin.</string>
   <string name="dialog_msg_stop_virus_scan">Tarama henüz tamamlanmadı, durdurmak istiyor musunuz?</string>
   <string name="dialog_no_longer_alert">Bir daha gösterme</string>
   <string name="dialog_remobe_luckymoney_cancle">Eski</string>
