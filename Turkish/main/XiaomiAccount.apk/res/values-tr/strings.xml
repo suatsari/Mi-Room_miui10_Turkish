@@ -416,7 +416,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_send_too_many_code">Bu numaraya çok fazla doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="passport_setting">Ayarlanıyor…</string>
   <string name="passport_sim_index_info">SIM kart %1$d - %2$s</string>
-  <string name="passport_skip_login">Oturum açmayı atla</string>
+  <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Mi Bulut kullanma?</string>
