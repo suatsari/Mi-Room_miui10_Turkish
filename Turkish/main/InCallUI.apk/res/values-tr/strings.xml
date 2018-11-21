@@ -1085,4 +1085,5 @@ mevcut değil"</string>
   <string name="prompt_no_volte_when_failed">VoLTE servisleri mevcut değil.</string>
   <string name="description_message_list_title">Hızlı cevaplar listesi</string>
   <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>
+  <string name="supp_service_notification_call_waiting">Aradığınız numara meşgul. Lütfen bekleyin…</string>
 </resources>

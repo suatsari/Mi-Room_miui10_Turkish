@@ -109,4 +109,5 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="ai_button_single_press_desc">Mi AI tetikleyici</string>
   <string name="ai_button_title">AI düğmesi hakkında</string>
   <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Politikası ve Kullanıcı Sözleşmesi dahil)</string>
+  <string name="zone_picker_title">Saat dilimini seç</string>
 </resources>

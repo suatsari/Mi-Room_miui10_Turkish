@@ -618,4 +618,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="beauty_body_shoulder">Omuz</string>
   <string name="ultra_wide_close_tip">Süper geniş açı modu kapalı</string>
   <string name="ultra_wide_open_tip">Süper geniş açı modu</string>
+  <string name="accessibility_camera_liveshot_off">Dinamik fotoğraf modu kapalı</string>
+  <string name="accessibility_camera_liveshot_on">Dinamik fotoğraf modu açık</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA</string>
+  <string name="ultra_wide_recommend_tip_hint">Süper geniş açı modunu açmanız önerilir</string>
 </resources>

@@ -61,4 +61,11 @@
     <item>Sadece al</item>
     <item>Reddet</item>
   </string-array>  
+  <string-array name="reason_type">
+    <item>Dolandırıcılık</item>
+    <item>Açık veya yasa dışı içerik</item>
+    <item>Spam</item>
+    <item>Diğer</item>
+    <item>Geri</item>
+  </string-array>
 </resources>

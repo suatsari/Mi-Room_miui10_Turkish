@@ -348,4 +348,10 @@
   <string name="default_folder_title_services">Hizmetler</string>
   <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama Kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
   <string name="use_theme_screen_cells_title">Temanın ekran düzenini geçersiz kılmasına izin ver</string>
+  <string name="announce_for_app_move_in_folder">Klasördeki %1$d konumuna taşındı</string>
+  <string name="announce_for_create_folder_with_app">%1$s ile bir klasör oluşturuldu</string>
+  <string name="announce_for_widget_span">Genişlik %1$d, yükseklik %2$d</string>
+  <string name="recommend_apps_no_data_toast">Şimdilik önerim yok.</string>
+  <string name="recommend_refresh">Yenile</string>
+  <string name="recommend_xout">Gösterme</string>
 </resources>

@@ -1187,7 +1187,7 @@
   <string name="respond_via_sms_canned_response_2">En kısa sürede seni arayacağım.</string>
   <string name="respond_via_sms_canned_response_3">Sonra arayacağım.</string>
   <string name="respond_via_sms_canned_response_4">Şu an müsait değilim. Ne oldu?</string>
-  <string name="respond_via_sms_cannot_empty">Reddetme mesjları boş olmaz</string>
+  <string name="respond_via_sms_cannot_empty">Mesaj boş bırakılamaz</string>
   <string name="respond_via_sms_confirmation_format">%s mesaj gönderildi.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı Cevap</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılanı Yükle</string>
@@ -1577,4 +1577,6 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="dds_switch_warning_message_data_off">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Mobil veri şu anda kapalı.</string>
   <string name="dds_switch_warning_message_data_on">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Gereksiz operatör ücretlerinden kaçınmak için mobil veri kapatıldı.</string>  
   <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="sip_account_disable">Hesap aktif değil. Çağrı kabul edilemez.</string>
+  <string name="sip_receive_call_disable">Çağrı kabul edilemez. Önce çağrıları kabul etmeye izin verin.</string>
 </resources>

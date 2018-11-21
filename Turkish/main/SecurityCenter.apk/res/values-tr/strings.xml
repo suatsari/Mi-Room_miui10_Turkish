@@ -338,7 +338,7 @@
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back_app_name">Uygulama kilidine dön</string>
   <string name="back_description_securitycenter">Geri</string>
-  <string name="back_modifypassword">Şifre değiştirme için geri dön</string>
+  <string name="back_modifypassword">Değişen şifre tipine geri dönün</string>
   <string name="back_sound_data">Bu hücresel mobil ağ gerektirir, lütfen yeniden deneyin!</string>
   <string name="back_sound_fail">Başarısız !</string>
   <string name="back_sound_success">Başarılı !</string>
@@ -1158,7 +1158,7 @@
   <string name="mixed_retry_button_text">İptal</string>
   <string name="mixed_settings_help_how_to_record">Parola nasıl ayarlanır</string>
   <string name="modify_password_mode">&lt;u&gt;Parola türünü değiştir&lt;/u&gt;</string>
-  <string name="modifypassword">Şifreyi değiştir</string>
+  <string name="modifypassword">Şifre değiştir</string>
   <string name="monitor_app_add">Ekle</string>
   <string name="monitor_app_more">Diğer</string>
   <string name="monitor_requests_from_pc">USB üzerinden uygulamaların yüklenmesini yönet</string>
@@ -1233,7 +1233,7 @@
   <string name="numeric_password_confirmed_header_confirm">Başarıyla ayarlandı. Onaylamak için dokunun.</string>
   <string name="numeric_password_confirmed_header_continue">Başarıyla ayarlandı. \"Sonraki\" öğesine dokunun.</string>
   <string name="numeric_pattern_entered_header">PIN başarıyla ayarlandı</string>
-  <string name="numeric_recording_incorrect_too_short">En az %d haneli girin.</string>
+  <string name="numeric_recording_incorrect_too_short">En az %d basamak girin.</string>
   <string name="numeric_recording_intro_header">Parolanı Gir</string>
   <string name="numeric_retry_button_text">İptal</string>
   <string name="numeric_settings_help_how_to_record">PIN nasıl ayarlanır</string>
@@ -2481,7 +2481,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="title_rcs_switch">Çin Mobil Mesajlaşma\'yı aç</string> 
   <string name="gamebox_app_not_find">Önce uygulamayı yükleyin.</string>
   <string name="gs_gamebox_slip">Açmak için ekranı aşağı doğru çekin</string> 
-  <string name="ad_split_screen_title">Kilidi açmak için lütfen tam ekran moduna geçin</string>
+  <string name="ad_split_screen_title">Kilidi açmak için bölünmüş ekrandan çık</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelini görüntülemek için kaydırıcıyı kullanın. Hızlı cevaplar ve ekran kayıt seçenekleri mevcuttur.</string>
   <string name="om_locked_apps_summary">Kilitli uygulamalar hız artışıyla göz ardı edilecektir.</string>
   <string name="om_not_finish_speedboost">Hız artışı gerekli</string>

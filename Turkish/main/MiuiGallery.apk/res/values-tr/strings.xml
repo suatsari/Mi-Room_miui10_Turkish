@@ -1342,5 +1342,6 @@ mevcut"</string>
   <string name="ext_sdcard_permission_request_reason">Galeri SD karta erişmek için izninize ihtiyaç duyar. SD kartınızda saklanan fotoğrafları ve videoları silmenize ve düzenlemenize olanak tanır.</string>
   <string name="ext_sdcard_permission_request_title">"Galeri'nin SD karta erişmesine izin ver"</string>
   <string name="ext_sdcard_request_failed_button_text">Tamam</string>
-  <string name="ext_sdcard_request_succeed_toast_text">Taşmaya hazırsın!</string>  
+  <string name="ext_sdcard_request_succeed_toast_text">Taşmaya hazırsın!</string>
+  <string name="photo_editor_talkback_crop_screen">Tam ekran en boy oranı</string>  
 </resources>

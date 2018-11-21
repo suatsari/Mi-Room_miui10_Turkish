@@ -610,4 +610,7 @@
   <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesilmiş, test bitti</string>
   <string name="cit_audio_cali_fast_test_title">Hoparlör amplifikatör kalibrasyonu hızlı test</string>
   <string name="cit_fast_screen_touch_check_title">Dokunmatik ekran kontrolü hızlı test</string>  
+  <string name="cit_diag_chaging_summary">Şarj günlük kayıt dosyalarını sdcard\'a kopyalayın</string>
+  <string name="cit_diag_chaging_title">Şarj günlük kaydını okuyun</string>
+  <string name="cit_diag_chaging_wait">Lütfen bekleyin... Dosyalar kopyalanıyor</string>
 </resources>

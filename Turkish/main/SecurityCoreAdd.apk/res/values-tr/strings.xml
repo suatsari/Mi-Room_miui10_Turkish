@@ -423,4 +423,8 @@
   <string name="confirm_close_password_desc">Şifreyi kapattıktan sonra Kilit ekranından İkinci alana giremezsiniz. Yine de kapatılsın mı?</string>
   <string name="confirm_close_password_title">Şifreyi kapat</string>
   <string name="xspace_remove">"Çift uygulamaların hesaplarını sil"</string>  
+  <string name="greenguard_child_des">Bağlı kalmak için uygulamamızı kullanın​</string>
+  <string name="greenguard_child_des_title">Arkadaşlarımdan ve ailemden yardıma ihtiyacım var</string>
+  <string name="greenguard_parent_des">Uygulamamızı indirin ve diğer kişilerin cihazlarını ekleyin</string>
+  <string name="greenguard_parent_des_title">Arkadaşlarıma ve aileme yardım etmeliyim</string>
 </resources>
