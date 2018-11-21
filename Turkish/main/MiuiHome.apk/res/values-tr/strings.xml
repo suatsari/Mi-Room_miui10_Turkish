@@ -354,4 +354,5 @@
   <string name="recommend_apps_no_data_toast">Şimdilik önerim yok.</string>
   <string name="recommend_refresh">Yenile</string>
   <string name="recommend_xout">Gösterme</string>
+  <string name="show_recents_recommend_title">Önerileri göster</string>  
 </resources>

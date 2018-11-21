@@ -111,6 +111,6 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Politikası ve Kullanıcı Sözleşmesi dahil)</string>
   <string name="zone_picker_title">Saat dilimini seç</string>
   <string name="other_settings_enhanced_lockscreen">Geliştirilmiş Kilit Ekranı deneyimi yaşayın</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Kilit ekranınız için fotoğraflar ve hikayeler alın. Ş&amp;K</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Ş&amp;K</string>  
+  <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görselleri ve hikayeleri alın. Şartlar ve koşullar geçerlidir.</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>  
 </resources>

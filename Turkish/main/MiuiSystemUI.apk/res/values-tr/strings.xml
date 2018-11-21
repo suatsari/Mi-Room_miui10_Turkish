@@ -1729,5 +1729,11 @@ d MMM"</string>
   <string name="lock_screen_magazine_default_content">Yeni görüntülerin günlük kısmı</string>
   <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
   <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
-  <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydır</string>  
+  <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydır</string>
+  <string name="recents_title_app_manager">Uygulamaları yönet</string>
+  <string name="recents_title_game">Oyunlar</string>
+  <string name="recents_title_garbage_cleanup">Temizleyici</string>
+  <string name="recents_title_garbage_deepclean">Derin temizlik</string>
+  <string name="recents_title_market">Uygulamaları bul</string>
+  <string name="recents_title_security_scan">Güvenlik taraması</string>  
 </resources>
