@@ -1130,4 +1130,9 @@
   <string name="overlays_tip_23">Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
   <string name="mail_search_lab">arama etiketi</string>
   <string name="add_file_exception">İstisna ekle. Lütfen diğer yollardan eklemeyi deneyin.</string>
+  <string name="dialog_agree">Kabul et</string>
+  <string name="dialog_disagree">Reddet</string>
+  <string name="list_empty_to_fresh">Posta yok, lütfen aşağı çekip yenilemeyi deneyin.</string>
+  <string name="notify_channel_no_disterb">Rahatsız etme modu yok</string>
+  <string name="privacy_des">Günlük bilgileri, bildirdiğiniz sorunu bulmak için e-posta uygulaması tarafından yazdırılan hata ayıklama bilgilerini ve cihaz bilgilerinizi içerir. Xiaomi\'nin %2$s okuduğunuzu ve kabul ettiğinizi belirtmek için aşağıdan %1$s seçin</string>  
 </resources>

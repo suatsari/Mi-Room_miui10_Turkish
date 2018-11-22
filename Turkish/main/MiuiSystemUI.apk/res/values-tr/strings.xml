@@ -90,7 +90,8 @@
   <string name="accessibility_home">Ana ekran</string>
   <string name="accessibility_ime_switch_button">Giriş yöntemini değiştir tuşu.</string>
   <string name="accessibility_key">Özel navigasyon düğmesi</string>
-  <string name="accessibility_left_button">Kısayol</string>
+  <string name="accessibility_left_control_center_button">Kısayol</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Duvar Kağıdı Döngüsü</string>
   <string name="accessibility_location_active">Konum istekleri etkin</string>
   <string name="accessibility_managed_profile">İş profili</string>
   <string name="accessibility_menu">Menü</string>
@@ -1722,5 +1723,11 @@ d MMM"</string>
   <string name="wapi_password_length_invalid">Şifre: 8-64 karakter olmalıdır</string>
   <string name="wapi_psk_type">Şifre türü</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
-  <string name="wapi_psk_type_hex">Onaltılık</string>  
+  <string name="wapi_psk_type_hex">Onaltılık</string>
+  <string name="clock_city_name_local">Yerel</string>
+  <string name="face_data_manage_unlock_slide_msg">Yüz kilidi ile kaydırıcı kısayollarını değiştirin</string>
+  <string name="lock_screen_magazine_default_content">Yeni görüntülerin günlük kısmı</string>
+  <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
+  <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
+  <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydır</string>  
 </resources>
