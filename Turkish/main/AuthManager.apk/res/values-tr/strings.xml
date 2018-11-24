@@ -283,7 +283,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="current_permission_template">%2$s\'de %1$s</string>
   <string name="default_permission_description">bilinmeyen eylem gerçekleşti</string>
   <string name="grant_confirm_question">Aşağıdaki izinleri vermek ister misiniz? Şu erişimi alacak:</string>
-  <string name="grant_dialog_button_allow">İzinli</string>
+  <string name="grant_dialog_button_allow">İzin ver</string>
   <string name="grant_dialog_button_deny">Reddet</string>
   <string name="location_settings">Konum Ayarları</string>
   <string name="location_warning">%1$s bu cihaz için konum hizmetleri sağlayıcısıdır. Konum erişimini Konum Ayarları\'ndan değiştirilebilirsiniz.</string>
@@ -294,7 +294,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="permission_group_title_privacy_related">Gizlilik</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
   <string name="permission_request_title">İzin Talebi</string>
-  <string name="permission_warning_template">%2$s %1$s izin versin mi?</string>
+  <string name="permission_warning_template">%1$s %2$s, izin verilsin mi?</string>
   <string name="permission_warning_template_ask">%1$s için aşağıdaki izinler verilsin mi?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" \"%2$s\" Root erişimi yok. Uygulama izinlerini Güvenlik &gt; İzinler altından değiştirebilirsiniz."</string>
   <string name="permisson_reject_notice_toast_text2">"%1$s için yetki yok."</string>
