@@ -351,5 +351,6 @@
   <string name="toast_catch_full_log_catching">Bir seferde sadece bir kayıt oluşturabilirsiniz.</string>
   <string name="title_first_aid">İlk yardım</string>
   <string name="toast_log_too_large">Yüklenemiyor. Günlük çok büyük.</string>
-  <string name="toast_screenshot_too_large">10 MB\'den büyük resimler veya videolar yüklenemiyor.</string>  
+  <string name="toast_screenshot_too_large">10 MB\'den büyük resimler veya videolar yüklenemiyor.</string>
+  <string name="feedback_status_commit_in_queue_title">Geribildirim için bekliyor</string>  
 </resources>

@@ -2515,7 +2515,13 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="traffic_setting_fragment_month_summary">Mobil veriler ve çağrı dakikaları aylık olarak güncellenir</string>
   <string name="traffic_setting_fragment_month_title">Aylık veri planı</string>
   <string name="traffic_setting_fragment_next">Sonraki</string>
-  <string name="traffic_setting_fragment_not_limited_summary">Sınırsız mobil veri seçeneği/string>
+  <string name="traffic_setting_fragment_not_limited_summary">Sınırsız mobil veri seçeneği</string>
   <string name="traffic_setting_fragment_not_limited_title">Sınırsız veri planı</string>
-  <string name="traffic_setting_fragment_packege_type">Veri planı ayarları</string>  
+  <string name="traffic_setting_fragment_packege_type">Veri planı ayarları</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Pil tasarrufu için ekran parlaklığını otomatik olarak ayarlayın</string>
+  <string name="deep_power_save_item_summary_bluetooth">Pil tasarrufu için Bluetooth\'u kapatın</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Pili korumak için 30 saniye boyunca hareketsiz kaldıktan sonra ekranı uyku moduna alın</string>
+  <string name="deep_power_save_item_title_auto_brightness">Otomatik parlaklığı aç</string>
+  <string name="deep_power_save_item_title_bluetooth">Bluetooth\'u kapat</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Ekranı uyku moduna al</string>  
 </resources>

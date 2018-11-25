@@ -235,5 +235,9 @@
   <string name="timer_alert_mute_off">Zamanlayıcı durduğunda alarm çalacaktır.</string>
   <string name="timer_alert_mute_on">Zamanlayıcı durduğunda alarm çalmaz</string>
   <string name="timer_alert_mute_remind">Alarmı susturmak için dokunun</string>
-  <string name="timer_alert_mute_switch">Sessiz zamanlayıcı alarmlarına geçiş</string>  
+  <string name="timer_alert_mute_switch">Sessiz zamanlayıcı alarmlarına geçiş</string>
+  <string name="repeat_count">Zamanlar</string>
+  <string name="snooze_duration">Erteleme</string>
+  <string name="snooze_duration_title">Erteleme</string>
+  <string name="snooze_duration_value">Aralık (dakika)</string>  
 </resources>

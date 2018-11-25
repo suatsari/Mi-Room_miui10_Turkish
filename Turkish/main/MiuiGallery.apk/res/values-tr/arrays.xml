@@ -153,5 +153,39 @@
      <item>Taşı</item>
      <item>Kopyala</item>
      <item>İptal</item>
-  </string-array>  
+  </string-array>
+  <string-array name="month">
+     <item>Ocak</item>
+     <item>Şubat</item>
+     <item>Mart</item>
+     <item>Nisan</item>
+     <item>Mayıs</item>
+     <item>Haziran</item>
+     <item>Temmuz</item>
+     <item>Ağustos</item>
+     <item>Eylül</item>
+     <item>Ekim</item>
+     <item>Kasım</item>
+     <item>Aralık</item>
+  </string-array>
+  <string-array name="season">
+     <item>İlk bahar</item>
+     <item>Yaz</item>
+     <item>Sonbahar</item>
+     <item>Kış</item>
+  </string-array>
+  <string-array name="last_month">
+     <item>Ocak</item>
+     <item>Şubat</item>
+     <item>Mart</item>
+     <item>Nisan</item>
+     <item>Mayıs</item>
+     <item>Haziran</item>
+     <item>Temmuz</item>
+     <item>Ağustos</item>
+     <item>Eylül</item>
+     <item>Ekim</item>
+     <item>Kasım</item>
+     <item>Aralık</item>
+  </string-array>   
 </resources>

@@ -366,5 +366,17 @@
    <plurals name="om_locked_apps_title">
      <item quantity="other">%d kilitli uygulamalar</item>
      <item quantity="one">%d kilitli uygulamalar</item>
-   </plurals>   
+   </plurals>
+   <plurals name="lockpattern_recording_incorrect_too_short">
+      <item quantity="other">En az %d noktayı bağlayın</item>
+      <item quantity="one">En az %d noktayı bağlayın</item>
+  </plurals>
+  <plurals name="numeric_recording_incorrect_too_short">
+      <item quantity="other">En az %d basamak girin</item>
+      <item quantity="one">En az %d basamak girin</item>
+  </plurals>
+  <plurals name="mixed_recording_incorrect_too_short">
+     <item quantity="other">En az %d karakter girin</item>
+     <item quantity="one">En az %d karakter girin</item>
+  </plurals>   
 </resources>

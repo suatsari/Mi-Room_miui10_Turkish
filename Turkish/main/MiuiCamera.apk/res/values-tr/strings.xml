@@ -622,4 +622,23 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="accessibility_camera_liveshot_on">Dinamik fotoğraf modu açık</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA</string>
   <string name="ultra_wide_recommend_tip_hint">Süper geniş açı modunu açmanız önerilir</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_off">Tam vücut modu, kapalı</string>
+  <string name="accessibility_camera_ultra_wide_bokeh_on">Tam vücut modu, açık</string>
+  <string name="accessibility_ultra_wide_off">Süper geniş açı, kapalı</string>
+  <string name="accessibility_ultra_wide_on">Süper geniş açı, açık</string>
+  <string name="ai_scene_top_tip">Ay modu</string>
+  <string name="beauty_tab_name_live_beauty">Güzellik</string>
+  <string name="beauty_tab_name_live_filter">Filtre</string>
+  <string name="custom_watermark_contains_senstive_words">Lütfen %1$S hassas metni değiştir</string>
+  <string name="custom_watermark_tips">Yukarıdaki metin, fotoğraf filigranının ikinci satırı olacaktır. Lütfen 15 harfle sınırlayın.</string>
+  <string name="custom_watermark_too_many_words">Karakter sınırını aştın</string>
+  <string name="custom_watermark_words">Kullanıcı filigran kelimelerini tanımlar</string>
+  <string name="custom_watermark_words_input_hint">Kelimeleri girin</string>
+  <string name="custom_watermark_words_save_success">Başarıyla kaydedildi</string>
+  <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
+  <string name="pref_camera_normal_wide_ldc_title">Yüz düzeltme</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Ultra geniş açı bozulma düzeltmesi</string>
+  <string name="pref_userdefine_watermark_title">Kullanıcı kamera filigranını tanımlar</string>
+  <string name="ultra_wide_bokeh_close_tip">Tam vücut modu kapalı</string>
+  <string name="ultra_wide_bokeh_open_tip">Tam vücut modu</string>  
 </resources>
