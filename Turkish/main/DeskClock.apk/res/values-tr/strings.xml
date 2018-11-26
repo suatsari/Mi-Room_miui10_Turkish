@@ -124,7 +124,6 @@
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
   <string name="slider_text">Kapatmak için yukarı kaydırın ▲</string>
   <string name="snooze_confirm_cancel">Alarmı iptal et</string>
-  <string name="snooze_duration_title">Erteleme Süresi</string>
   <string name="start">Başlat</string>
   <string name="start_up">Başlat</string>
   <string name="stat_repeat_everyday">Hergün</string>
