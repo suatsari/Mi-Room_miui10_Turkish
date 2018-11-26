@@ -613,4 +613,7 @@
   <string name="cit_diag_chaging_summary">Şarj günlük kayıt dosyalarını sdcard\'a kopyalayın</string>
   <string name="cit_diag_chaging_title">Şarj günlük kaydını okuyun</string>
   <string name="cit_diag_chaging_wait">Lütfen bekleyin... Dosyalar kopyalanıyor</string>
+  <string name="sar_sensor_data_check_description">Sar Sensörü Veri Toplama</string>
+  <string name="sar_sensor_data_check_summary">"Telefonu döndürün, bağlantı kutusuna takın
+Fikstürü telefonun yakınından uzaklaştırın."</string>
 </resources>

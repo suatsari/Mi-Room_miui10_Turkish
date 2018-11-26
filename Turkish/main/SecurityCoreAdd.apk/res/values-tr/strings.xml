@@ -427,4 +427,22 @@
   <string name="greenguard_child_des_title">Arkadaşlarımdan ve ailemden yardıma ihtiyacım var</string>
   <string name="greenguard_parent_des">Uygulamamızı indirin ve diğer kişilerin cihazlarını ekleyin</string>
   <string name="greenguard_parent_des_title">Arkadaşlarıma ve aileme yardım etmeliyim</string>
+  <string name="button_text_next_step">Sonraki</string>
+  <string name="button_text_next_step_timer">Sonraki adım (%d)</string>
+  <string name="cta_declaration_agree_and_continue">Kabul</string>
+  <string name="cta_declaration_message_format" formatted="false">Kurumsal modu kullanmadan önce &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; okumalı ve kabul etmelisiniz. Kurumsal modu etkinleştirmek için cihazınızın internete bağlanması gerekiyor. Kabul?</string>
+  <string name="cta_declaration_title">Şartlar ve koşullar</string>
+  <string name="dialog_message_service_error">Yetkilendirme iptal edilemedi ve fabrika verilerine sıfırlama işlemi gerçekleştirilemedi. Tekrar deneyin.​</string>
+  <string name="dialog_tip_need_network">Yetkilendirmeyi iptal etmek için cihazınızın internete bağlanması gerekiyor.</string>
+  <string name="dialog_title_service_error">Sunucu hatası</string>
+  <string name="dialog_undo_negative">İptal etme</string>
+  <string name="master_clear_apply_step_1">Yetkilendirmeyi iptal etmek için cihazınızın fabrika verilerine sıfırlama yapılması gerekiyor. Hesaplar, kişiler, fotoğraflar ve uygulamalar dahil tüm dosyalar ve veriler kalıcı olarak silinir. Yetkilendirmeyi iptal etmeden önce tüm önemli öğeleri bilgisayarınıza yedekleyin.</string>
+  <string name="master_clear_apply_step_2">Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun. \"Tamam\" seçeneğine dokunduktan sonra, cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirilecek, hesaplar, kişiler, fotoğraflar ve uygulamalar dahil olmak üzere tüm dosya ve veriler kalıcı olarak silinecektir.</string>
+  <string name="master_clear_apply_title">Dikkat</string>
+  <string name="more_settings">Daha</string>
+  <string name="undo_activated_dialog_message">Yetkilendirmeyi iptal etme, Kurumsal modu devre dışı bırakır ve cihazınızda fabrika verilerine sıfırlama gerçekleştirir. İlgili tüm özellikler artık mevcut olmayacak. Bunun yanı sıra, Xiaomi Kurumsal modu için gerekli bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge, vb.) toplamayı durduracaktır. Xiaomi\'nin Kurumsal mod için topladığı verileri kullanmadığını hatırlatmak isteriz. İlgili tüm tarafları bilgilendirmek için elimizden geleni yapacağız, ancak bu iptal işlemini onaylamak için şirketinizin yöneticilerine başvurmanızı öneririz. Yetkilendirme iptal edilip fabrika verilerine sıfırlama işlemi gerçekleştirilsin mi?</string>
+  <string name="undo_activated_dialog_ok">İptal et</string>
+  <string name="undo_grant_dialog_message">Yetkilendirmeyi iptal ettikten sonra Xiaomi bu özellik için gereken bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge vb.) toplamayı durduracaktır. Şimdi iptal edilsin mi?</string>
+  <string name="undo_privacy_menu">Yetkilendirmeyi iptal et</string>
+  <string name="undo_success">Başarıyla iptal edildi</string>
 </resources>

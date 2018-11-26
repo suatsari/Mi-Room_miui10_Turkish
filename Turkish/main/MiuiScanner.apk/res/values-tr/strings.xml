@@ -254,4 +254,10 @@
   <string name="translate_try_again">Tekrar denemek için dokunun</string>
   <string name="translate_type_take_pic">Fotoğraf</string>
   <string name="wifi_exist_fail">Kablosuz bağlantı noktası \"%1$s\" zaten mevcut. Silin ve tekrar deneyin</string>
+  <string name="module_title_plant">Bitki</string>
+  <string name="plant_fail">Tanımlanamadı</string>
+  <string name="plant_loading">Tanımlanıyor…</string>
+  <string name="plant_reg_fail_2">Bu nesne tanımlanamadı. Tarayıcı sadece bitkileri tanımlayabilir.</string>
+  <string name="plant_support">"(Teknik destek)"</string>
+  <string name="plant_title">Tanımlamak istediğiniz bitkiyi tarayın</string>
 </resources>

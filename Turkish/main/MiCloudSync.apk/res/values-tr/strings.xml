@@ -7,4 +7,5 @@
   <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı.</string>
   <string name="error_title">Senkronize edilemedi</string>
   <string name="error_unauthorized">Senkronizasyon, çok fazla giriş denemesi nedeniyle devre dışı bırakıldı.</string>
+  <string name="micloud_send_message_desc">Mi Mesajı gönderiliyor</string>
 </resources>
