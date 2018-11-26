@@ -1125,7 +1125,7 @@
   <string name="url_copy_done">URL panoya kopyalandı</string>
   <string name="url_find_on_page_result">Tarayıcıda Görüntüle</string>
   <string name="url_find_on_page_result_item">\"%s\" için tüm metni görüntüle</string>
-  <string name="url_hint">Bir URL girin veya Webde arayın</string>
+  <string name="url_hint">Bir URL girin veya Web\'de arayın</string>
   <string name="url_hint_from_search">Anahtar kelimeyi girin</string>
   <string name="url_opened_in_background">Arka plan sekmesinde aç</string>
   <string name="url_suggest_indicator_bookmark">Favoriler/Geçmiş</string>
