@@ -5965,5 +5965,8 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="power_key_how_start_detail">Güç düğmesine 0,5 saniye basılı tutun. Konuşmak için bırakın.</string>
   <string name="power_key_start_enjoy">Google Asistan hakkında daha fazla bilgi edinin.</string>
   <string name="power_key_start_guide">Tam ekran cihazlarda Güç düğmesini kullanarak Google Asistan\'ı uyandırma</string>
-  <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>  
+  <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
+  <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
+  <string name="title_font_v2">Metin &amp; arayüz öğeleri</string>
+  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string> 
 </resources>

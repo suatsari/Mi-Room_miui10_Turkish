@@ -812,4 +812,9 @@
   <string name="youliao_master_rank">Youliao En İyi</string>
   <string name="operation_show_privacy_policy">Gizlilik Politikasını göster</string>
   <string name="rename_input_null">Yeni dosya adı girin</string>
+  <string name="failed_not_access_sd_card">Önce SD karta erişime izin verin</string>
+  <string name="failed_obtain_permissions">İzin alınamadı</string>
+  <string name="not_support_documentui">Belge arayüzü bu aygıtta desteklenmiyor</string>
+  <string name="request_document_permission">SD kartınızdaki dosyaları yönetmek için Dosya Yöneticisi\'ne gerekli izinleri verin.</string>
+  <string name="request_document_permission_title">İzin gerekli</string>  
 </resources>
