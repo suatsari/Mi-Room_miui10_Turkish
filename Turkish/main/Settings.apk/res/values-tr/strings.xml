@@ -5992,5 +5992,11 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="title_font_v2">Metin &amp; arayüz öğeleri</string>
   <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>
   <string name="default_vol_stream_title">Varsayılan ses kontrolü akışı</string>
-  <string name="status_bar_settings_show_lte_for_4g">4G yerine LTE simgesi göster</string>  
+  <string name="status_bar_settings_show_lte_for_4g">4G yerine LTE simgesi göster</string>
+  <string name="default_launcher_set_jeejen_message">Jeejen\'i kurmak için Ana Ekran düğmesine basın</string>
+  <string name="default_launcher_set_system_message">Varsayılan başlatıcıyı geri yüklemek için Ana Ekran düğmesine basın</string>
+  <string name="dump_log">Sorunla ilgili günlükleri alın</string>
+  <string name="dump_log_summary">"Bu özellik, MIUI\'nin Alfa ve Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
+Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
+  <string name="dump_log_title">Bu özellik hakkında</string>  
 </resources>
