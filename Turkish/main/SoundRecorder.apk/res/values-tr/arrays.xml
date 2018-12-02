@@ -16,12 +16,13 @@
         <item>HD</item>
     </string-array>
     <string-array name="record_scenes_summaries">
-        <item>Daha kaliteli müzik kaydet</item>
+        <item>Daha iyi kalitede müzik kaydedin</item>
         <item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
         <item>Konuşmalarını net bir şekilde kaydetmek için telefonu 2 kişinin arasına yerleştirin</item>
         <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
+        <item>2 kanaldan kayıt yapın, kulaklıklarda stereo ses dinleyin</item>	
 		<item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
         <item>Konuşmalarını net bir şekilde kaydetmek için telefonu 2 kişinin arasına yerleştirin</item>
         <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
@@ -31,4 +32,9 @@
         <item>Standart</item>
         <item>Düşük</item>
     </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/sn, ~90MB/s</item>
+        <item>MP3, ~100kbit/sn, ~45MB/s</item>
+        <item>MP3, ~75kbit/sn, ~32MB/s</item>
+    </string-array>	
 </resources>

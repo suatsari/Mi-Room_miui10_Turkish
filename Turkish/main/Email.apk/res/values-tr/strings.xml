@@ -1020,7 +1020,7 @@
   <string name="special_text_sender_en">gönderici</string>
   <string name="special_text_sender_zh">Gönderen</string>
   <string name="storage">Depolama</string>
-  <string name="str_select_all">Hepsi</string>
+  <string name="str_select_all">Tümü</string>
   <string name="str_select_none">Vazgeç</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Konu</string>

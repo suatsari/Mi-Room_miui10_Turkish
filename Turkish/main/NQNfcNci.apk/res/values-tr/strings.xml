@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_nfc_enabled">NFC etkin.</string>
-  <string name="android_beam">Android Işın</string>
+  <string name="android_beam">Android Beam</string>
   <string name="app_name">Nfc Hizmeti</string>
   <string name="ask_nfc_tap">Tamamlamak için diğer cihaza hafifçe dokunun</string>
-  <string name="beam_busy">Android Işın şu anda meşgul. Önceki aktarım işlemi tamamlandığında tekrar deneyin.</string>
-  <string name="beam_canceled">Işınlama iptal edildi</string>
-  <string name="beam_complete">Işınlama tamamlandı</string>
-  <string name="beam_failed">Işınlama tamamlanmadı</string>
-  <string name="beam_handover_not_supported">Alıcının cihazı yüksek boyutlu dosyaların ışınlamayla aktarılmasını desteklemiyor.</string>
-  <string name="beam_outgoing">Işınlanıyor...</string>
-  <string name="beam_progress">Gelen ışın...</string>
-  <string name="beam_requires_nfc_enabled">Android Işın, NFC\'nin etkinleştirilmesini gerektiriyor. Etkinleştirmek istiyor musunuz?</string>
+  <string name="beam_busy">Android Beam şu anda meşgul. Önceki aktarım işlemi tamamlandığında tekrar deneyin.</string>
+  <string name="beam_canceled">Aktarma iptal edildi</string>
+  <string name="beam_complete">Aktarma tamamlandı</string>
+  <string name="beam_failed">Aktarma tamamlanmadı</string>
+  <string name="beam_handover_not_supported">Alıcının cihazı yüksek boyutlu dosyaların beam ile aktarılmasını desteklemiyor.</string>
+  <string name="beam_outgoing">Gönderiliyor...</string>
+  <string name="beam_progress">Alınıyor...</string>
+  <string name="beam_requires_nfc_enabled">Android Beam, NFC\'nin etkinleştirilmesini gerektiriyor. Etkinleştirmek istiyor musunuz?</string>
   <string name="beam_tap_to_view">Görüntülemek için hafifçe dokunun</string>
   <string name="beam_try_again">Cihazları tekrar bir araya getirin</string>
   <string name="cancel">İptal</string>
@@ -44,7 +44,7 @@
   <string name="status_wifi_connected">Bağlanıldı</string>
   <string name="tap_again_to_complete">%1$s ile tamamlamak için tekrar hafifçe dokunun</string>
   <string name="tap_again_to_pay">%1$s ile ödemek için tekrar dokundurun</string>
-  <string name="tap_to_beam">Işınlamak için hafifçe dokunun</string>
+  <string name="tap_to_beam">Aktarım için hafifçe dokunun</string>
   <string name="title_connect_to_network">Ağa bağlanın</string>
   <string name="transaction_failure">Bu işlem %1$s ile tamamlanamadı.</string>
   <string name="wifi_connect">Bağlan</string>

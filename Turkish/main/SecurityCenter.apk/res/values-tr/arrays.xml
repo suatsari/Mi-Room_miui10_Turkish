@@ -16,18 +16,18 @@
   <string-array name="date_of_app_all">
     <item>Dün (veri)</item>
     <item>Bugün (veri)</item>
+    <item>Son ay (veri)</item>
     <item>Bu ay (veri)</item>
     <item>Dün WLAN</item>
     <item>Bugün WLAN</item>
+    <item>Geçen ay WLAN</item>
     <item>Bu ay WLAN</item>
-    <item>Last month WLAN</item>
-    <item>This month WLAN</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>"Dün "</item>
     <item>"Bugün "</item>
+    <item>"Geçen ay "</item>
     <item>"Bu ay "</item>
-    <item>"This month "</item>
   </string-array>
   <string-array name="date_of_traffic_cmcc">
     <item>"Bu hafta "</item>
@@ -37,8 +37,8 @@
   <string-array name="date_of_traffic_prefix">
     <item>"Dün: "</item>
     <item>"Bugün: "</item>
+    <item>"Geçen ay: "</item>
     <item>"Bu ay: "</item>
-    <item>"This month: "</item>
   </string-array>
   <string-array name="date_of_traffic_prefix_cmcc">
     <item>"Bu hafta: "</item>

@@ -224,12 +224,12 @@
   <string name="ambient_display_title">Telefonu kontrol etmek için iki kez dokunun</string>
   <string name="android_beam_disabled_summary">Bu özelliği kullanmak için, NFC etkin olmalı</string>
   <string name="android_beam_explained">"Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta) bir web sayfası, video veya farklı bir içeriği bir cihazdan diğer cihaza aktarabilirsiniz. "</string>
-  <string name="android_beam_label">Android Işın</string>
+  <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">NFC içerik paylaşımı kapalı</string>
   <string name="android_beam_on_summary">NFC içerik paylaşımı açık</string>
-  <string name="android_beam_settings_title">Android Işın</string>
+  <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_tips">İki cihazın birbirine dokunduğundan emin olun ve sonra göndermek istediğiniz içeriği seçin.</string>
-  <string name="android_beam_witch_label">Android Işın</string>
+  <string name="android_beam_witch_label">Android Beam</string>
   <string name="animator_duration_scale_title">Animasyon hızı</string>
   <string name="another_migration_already_in_progress">Başka bir göç zaten sürüyor.</string>
   <string name="anti_spam">Engelli Listesi</string>
@@ -1575,6 +1575,8 @@
   <string name="double_twist_for_camera_mode_title">Kamerayı çevir</string>
   <string name="download_current_rom">MIUI\'nin en son sürümünü edinin</string>
   <string name="downloading_description">İndiriliyor…</string>
+  <string name="doze_always_on_summary">Saati ve bildirimleri gösterir. Batarya kullanımını arttırır.</string>
+  <string name="doze_always_on_title">Açık</string>  
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam ekranı</string>
   <string name="draw_overlay">Diğer uygulamalar üzerinde göster</string>
@@ -2833,7 +2835,7 @@
   <string name="nfc_payment_set_default">Daima %1$s kullanıldığında dokun &amp; ödeme yapılsın mı?</string>
   <string name="nfc_payment_set_default_instead_of">Daimae %1$s olduğunda %2$s dokunup &amp; ödem yapılsın mı?</string>
   <string name="nfc_payment_set_default_label">Tercihiniz hangisi?</string>
-  <string name="nfc_payment_settings_title">Dokun &amp; Öde</string>
+  <string name="nfc_payment_settings_title">Dokundur ve öde</string>
   <string name="nfc_payment_use_default">Varsayılanı kullan</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
@@ -5829,7 +5831,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirin. Şimdiden geribildirim için teşekkür ederiz.</string>
   <string name="status_bar_settings_user_fold_disable">Kapalı</string>
   <string name="status_bar_settings_user_fold_enable">Açık</string>
-  <string name="aod_close_color_inversion">Bu özellik, renk inversiyonu ile birleştirilemez. Önce renk inversiyonunu kapatın.</string>
+  <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
   <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
   <string name="following_us_title">Bizi takip edin</string>
@@ -5968,5 +5970,7 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
   <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
   <string name="title_font_v2">Metin &amp; arayüz öğeleri</string>
-  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string> 
+  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>
+  <string name="default_vol_stream_title">Varsayılan ses kontrolü akışı</string>
+  <string name="status_bar_settings_show_lte_for_4g">4G yerine LTE simgesi göster</string>  
 </resources>

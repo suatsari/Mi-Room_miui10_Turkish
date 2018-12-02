@@ -31,7 +31,7 @@
   <string name="pairing_headset_failed">Eşlenmedi</string>
   <string name="pay_with">Öde:</string>
   <string name="tap_again_to_complete">%1$s ile tamlamak için dokunun</string>
-  <string name="tap_again_to_pay">%1$s ile ödeme için dokunu</string>
+  <string name="tap_again_to_pay">%1$s ile ödeme için dokunun</string>
   <string name="touch">Gönderim için dokunun</string>
   <string name="transaction_failure">"%1$s ile etkileşim tamamlanamadı."</string>
 </resources>

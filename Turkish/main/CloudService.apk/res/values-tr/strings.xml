@@ -93,7 +93,7 @@
   <string name="find_device_error_password_changed">Hesap şifresi değiştirildi.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
   <string name="find_device_error_unknown">Bilinmeyen hata.</string>
-  <string name="find_device_gdpr_prompt">Cihazı bul\'u açarak Gizlilik Politikamızı kabul etmiş oluyorsunuz. Yetkilendirmeyi iptal etmeniz gerekiyorsa, bu özelliği kapatın.</string>
+  <string name="find_device_gdpr_prompt">Cihazı Bul\'u açarak Gizlilik Politikamızı kabul etmiş oluyorsunuz. Yetkilendirmeyi iptal etmeniz gerekiyorsa, bu özelliği kapatın.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik Politikası</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -231,7 +231,7 @@
   <string name="micloud_find_device_close_alert_positive">Devam</string>
   <string name="micloud_find_device_close_alert_title">Cihazı Bul\'u kapat?</string>
   <string name="micloud_find_device_close_fail">Cihazı Bul kapatılamadı</string>
-  <string name="micloud_find_device_close_progress">Cihaz bul özelliği kapatılıyor…</string>
+  <string name="micloud_find_device_close_progress">Cihazı Bul özelliği kapatılıyor…</string>
   <string name="micloud_find_device_finish">Tamam</string>
   <string name="micloud_find_device_guide_alert_content">Cihazı Bul Mi hesabınızla ilişkilidir. Bir şifre ayarlamanız veya ayarladığınız şifreyi girmeniz gerekir. Mi Hesap Kimliği\'ni ve şifrenizi her zaman hatırladığınızdan emin olun</string>
   <string name="micloud_find_device_guide_alert_negtive">Hayır teşekkürler</string>
@@ -413,7 +413,7 @@
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
   <string name="micloud_sync_alert_dialog_title">Mi Bulut kullan</string>
   <string name="micloud_sync_off">Mi Bulut ile eşitleme kapalı</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Sadece Kişiler, Takvim ve Notlar\'i eşitler, daha fazla öğeyi eşitlemek için Mi Bulut ayarına gidin.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sadece Kişiler, Takvim ve Notlar\'ı eşitler, daha fazla öğeyi eşitlemek için Mi Bulut ayarına gidin.</string>
   <string name="micloud_title_dspt" formatted="false">Kullanılan %s/Toplam alan %s</string>
   <string name="micloud_title_dspt_remain">Kalan: %s</string>
   <string name="micloud_title_full_dspt">Depolama limiti aşıldı</string>
