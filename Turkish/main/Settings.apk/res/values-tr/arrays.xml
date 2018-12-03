@@ -1277,5 +1277,9 @@
     <item>Uyandırma ekranı</item>
     <item>Animasyonu göster</item>
     <item>"Ekranı uyandırma"</item>
-  </string-array>  
+  </string-array>
+  <string-array name="default_vol_stream_entries">
+    <item>Zil sesi</item>
+    <item>Medya</item>
+  </string-array>   
 </resources>
