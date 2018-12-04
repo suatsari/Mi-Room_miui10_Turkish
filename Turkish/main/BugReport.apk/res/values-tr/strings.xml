@@ -254,7 +254,7 @@
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Ekleriniz ve eklerle birlikte geri bildiriminiz, MIUI sunucularına gönderilecektir. Kişisel bilgi ve konum verilerinizi içerebilir. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Geri Bildirim\'i kullanabilmek için &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikamızı&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmemizi&amp;lt;/a&amp;gt; kabul etmeniz gerekir. Eklediğiniz öğelerle birlikte bildirdiğiniz sorunlar (kişisel bilgilerin yanı sıra cihazınız ve ağınızla ilgili bilgiler de içerebilir) MIUI sunucularına yüklenir. Bu, bildirdiğiniz sorunları bulmamıza ve çözmemize yardımcı olacaktır."&lt;/Data&gt;</string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>

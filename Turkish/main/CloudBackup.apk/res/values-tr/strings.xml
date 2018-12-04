@@ -178,11 +178,13 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="loading_user_backup">Kullanıcı yedekleri yükleniyor…</string>
   <string name="main_space">İlk alan</string>
   <string name="try_continue">Devam etmek için dokunun</string>
-  <string name="second_space">İkinci alan</string>
-  <string name="self_device">Bu telefonun </string>
-  <string name="backup_stopped_msg">Devam et yedekleme bulut yedeklemeyi kapsayacak, görüntülemek için tıklayın.</string>
-  <string name="backup_stopped_title">Bulut yedekleme durduruldu</string>
+  <string name="backup_stopped_msg">Geçerli yedekleme önceki olanın üzerine yazacaktır. Görüntülemek için dokunun.</string>
+  <string name="backup_stopped_title">Yedekleme duraklatıldı</string>
   <string name="dialog_btn_cancel_backup">İptal</string>
   <string name="dialog_btn_overwrite_backup">Üzerine yaz</string>
-  <string name="dialog_msg_overwrite_backup">Yerel ve bulut yedekleme arasındaki fark büyüktür, devam eden yedekleme mevcut olanın üzerine yazılır.</string>  
+  <string name="dialog_msg_overwrite_backup">Yerel yedekleme, Mi Bulut\'ta olandan farklıdır. Devam ederseniz, geçerli yedek bir öncekinin üzerine yazacaktır.</string>
+  <string name="other_device_main_space">İlk alan</string>
+  <string name="other_device_second_space">İkinci alan</string>
+  <string name="self_device_main_space">Bu telefonun İlk alanı</string>
+  <string name="self_device_second_space">Bu telefonun ikinci alanı</string>  
 </resources>
