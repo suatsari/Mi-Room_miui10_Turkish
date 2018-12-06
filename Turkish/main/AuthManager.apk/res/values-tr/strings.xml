@@ -294,7 +294,7 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="permission_group_title_privacy_related">Gizlilik</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
   <string name="permission_request_title">İzin Talebi</string>
-  <string name="permission_warning_template">%1$s %2$s, izin verilsin mi?</string>
+  <string name="permission_warning_template">%1$s, %2$s, izin verilsin mi?</string>
   <string name="permission_warning_template_ask">%1$s için aşağıdaki izinler verilsin mi?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" \"%2$s\" Root erişimi yok. Uygulama izinlerini Güvenlik &gt; İzinler altından değiştirebilirsiniz."</string>
   <string name="permisson_reject_notice_toast_text2">"%1$s için yetki yok."</string>

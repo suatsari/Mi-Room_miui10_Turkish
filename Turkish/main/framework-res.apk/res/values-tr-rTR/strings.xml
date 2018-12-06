@@ -966,7 +966,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permgroupdesc_phone">telefon görüşmeleri yapma ve yönetme</string>
   <string name="permgroupdesc_sensors">yaşamsal işaretlerinizle ilgili sensör verilerine erişme</string>
   <string name="permgroupdesc_sms">SMS mesajları gönderme ve görüntüleme</string>
-  <string name="permgroupdesc_storage">cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme</string>
+  <string name="permgroupdesc_storage">cihazınızdaki fotoğraflara, medyaya ve dosyalara erişir</string>
   <string name="permgrouplab_calendar">Takvim</string>
   <string name="permgrouplab_camera">Kamera</string>
   <string name="permgrouplab_contacts">Kişiler</string>
