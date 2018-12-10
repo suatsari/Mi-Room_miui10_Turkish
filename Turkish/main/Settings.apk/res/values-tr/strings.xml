@@ -5998,5 +5998,7 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="dump_log">Sorunla ilgili günlükleri alın</string>
   <string name="dump_log_summary">"Bu özellik, MIUI\'nin Alfa ve Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
 Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
-  <string name="dump_log_title">Bu özellik hakkında</string>  
+  <string name="dump_log_title">Bu özellik hakkında</string>
+  <string name="miui_ime_xiaoai_voice_hint">Metin girmenin daha hızlı, daha kolay yolu</string>
+  <string name="miui_ime_xiaoai_voice_title">Mi AI ses girişi</string>  
 </resources>

@@ -827,4 +827,27 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="edit_event_dislike_title">Neden iptal ettin?</string>
+  <string name="event_action_arrive_station">Varış istasyonu</string>
+  <string name="event_info_title_anniversary">Yıldönümü</string>
+  <string name="event_info_title_birthday">Doğum günü</string>
+  <string name="event_info_title_countdown">Geri sayım</string>
+  <string name="ticket_activity_card_date_day">gün</string>
+  <string name="ticket_activity_card_date_month">ay</string>
+  <string name="train_event_add_arrive_station">Hedef eklemek için tıklayın</string>
+  <string name="train_event_arrive">%1$s geliyor</string>
+  <string name="train_event_arrive_station_saved">Varış istasyonu kaydedildi</string>
+  <string name="train_event_choose_arrive_station">Varış istasyonunu seç</string>
+  <string name="train_event_depart">%1$s kalkıyor</string>
+  <string name="train_event_disclaimer">Yasal Uyarı: veri ve hizmet GaoTieGuanJia tarafından sağlanmaktadır. Bir sorun varsa, şirketin müşteri hizmetlerine danışın. Tren bilgileri sadece referans içindir, lütfen resmi bilgilere bakınız.</string>
+  <string name="train_event_error_toast">Üzgünüm, yükleme başarısız!</string>
+  <string name="train_event_error_train_info">Tren bileti hatalıdır.</string>
+  <string name="train_event_more_info">Tren dakikliği veya gecikmesi, tren Wi-Fi ve daha fazlası</string>
+  <string name="train_event_reminder">%1$s</string>
+  <string name="train_event_service">Tren servisi</string>
+  <string name="train_event_station_date_format">dd-MM</string>
+  <string name="train_event_station_header_arrive_time">Varış</string>
+  <string name="train_event_station_header_depart_time">Kalkış</string>
+  <string name="train_event_station_header_name">İstasyon adı</string>
+  <string name="train_event_station_header_stay_time">Kalan</string>
+  <string name="train_event_station_stay_time">%1$s dakika</string>  
 </resources>
