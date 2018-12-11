@@ -666,5 +666,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="ultra_pixel_photography_open_tip">Ultra piksel</string>
   <string name="camera_liveshot_off_tip">Dinamik fotoğraf kapalı</string>
   <string name="camera_liveshot_on_tip">Dinamik fotoğraf açık</string>
-  <string name="network_exception">Ağ istisnası</string>  
+  <string name="network_exception">Ağ istisnası</string>
+  <string name="live_edit_exit_confirm">Çıkış</string>
+  <string name="live_edit_exit_message">Çekimi gözardı et?</string>  
 </resources>
