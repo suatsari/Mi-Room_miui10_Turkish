@@ -43,27 +43,6 @@
         <item>Anne büyükbabası</item>
         <item>Ana anneannesi</item>
     </string-array>
-    <string-array name="baby_sexy_value">
-        <item>erkek</item>
-        <item>kadın</item>
-    </string-array>
-    <string-array name="owner_relation_value">
-        <item>baba</item>
-        <item>anne</item>
-        <item>büyük baba</item>
-        <item>büyükanne</item>
-        <item>anne büyükbabası</item>
-        <item>anneannesi</item>
-    </string-array>
-    <string-array name="relation_with_me_value">
-        <item>kendim</item>
-        <item>çocuk</item>
-        <item>aile</item>
-        <item>meslekdaş</item>
-        <item>sınıf arkadaşı</item>
-        <item>arkadaş</item>
-        <item>bilinmeyen</item>
-    </string-array>
   <string-array name="card_last_week_day">
      <item>Geçen Pazartesi</item>
      <item>Geçen Salı</item>

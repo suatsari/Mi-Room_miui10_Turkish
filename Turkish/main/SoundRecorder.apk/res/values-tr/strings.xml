@@ -166,7 +166,7 @@
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string> 
-  <string name="cloud_service_state_open_reminder">Kayıtları senkronize etmek için Mi Bulut ile senkronizasyonu açın.</string>
+  <string name="cloud_service_state_open_reminder">Kayıtları eşitlemek için Mi Bulut ile eşitlemeyi açın.</string>
   <string name="menu">Menü</string>
   <string name="record_format_preference_title">Kayıt formatı</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>

@@ -616,4 +616,7 @@
   <string name="sar_sensor_data_check_description">Sar Sensörü Veri Toplama</string>
   <string name="sar_sensor_data_check_summary">"Telefonu döndürün, bağlantı kutusuna takın
 Fikstürü telefonun yakınından uzaklaştırın."</string>
+  <string name="camera_flood">- Flood -</string>
+  <string name="camera_projector">- Projektör -</string>
+  <string name="fod_pressure_sensor_test_fail">Test başarısız oldu, lütfen Arıza düğmesine tıklayın</string>
 </resources>

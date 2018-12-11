@@ -682,7 +682,7 @@
   <string name="miot_device_all_device">Tüm cihazlar</string>
   <string name="miot_device_camera_size">%d kamera</string>
   <string name="miot_device_cancel">İptal</string>
-  <string name="miot_device_card_title">Mi ev</string>
+  <string name="miot_device_card_title">Mi Ev</string>
   <string name="miot_device_click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>
   <string name="miot_device_click_show_img">Ekranı görüntülemek için tıklayın</string>
   <string name="miot_device_cta_and"> ve </string>
@@ -699,7 +699,7 @@
   <string name="miot_device_login">Giriş yap</string>
   <string name="miot_device_mijia_logout_message">Cihazı eklemeden ve kullanmadan önce, Xiaomi hesabına giriş yapmanız gerekir. Giriş yapmak ister misiniz?</string>
   <string name="miot_device_mijia_logout_title">Hesaba giriş yapılamadı</string>
-  <string name="miot_device_mijia_uninstall_message">\"Mijia uygulaması\" telefonunuzda yüklü değil, dolayısıyla ilgili özellikler etkinleştirilemiyor. İndirmek için uygulama mağazasına gitmek ister misiniz?</string>
+  <string name="miot_device_mijia_uninstall_message">\"Mi Ev\" telefonunuzda yüklü değil, dolayısıyla ilgili özellikler etkinleştirilemiyor. İndirmek için uygulama mağazasına gitmek ister misiniz?</string>
   <string name="miot_device_mijia_uninstall_title">Henüz yüklü değil</string>
   <string name="miot_device_network_error">Mevcut ağ bağlı değil</string>
   <string name="miot_device_no_recent_frame">Görmek için tıklayın</string>

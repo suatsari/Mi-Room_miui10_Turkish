@@ -68,12 +68,12 @@
   <string name="label_pref_summary">Bu alarma bir isim ver</string>
   <string name="lap">Tur</string>
   <string name="lap_num">Tur</string>
-  <string name="legal_off_day">Resmi Tatil Günleri</string>
-  <string name="legal_off_day_message">" (Tatil boyunca alarm kapalı)"</string>
-  <string name="legal_workday">Mesai Günleri</string>
-  <string name="legal_workday_invalidate">Veri zamanı aşıldı (Ptesi\'den Cuma\'ya alarm çalar)</string>
-  <string name="legal_workday_invalidate_message">(Veri zamanı aşıldı. Ayarlardan güncelle)</string>
-  <string name="legal_workday_message">" (Tatillerde alarmı kapat)"</string>
+  <string name="legal_off_day">Resmi tatil</string>
+  <string name="legal_off_day_message">" (İş günlerinde alarm çalmayacak)"</string>
+  <string name="legal_workday">Ekstra iş günü</string>
+  <string name="legal_workday_invalidate">Veri süresi doldu (Ptesi\'den Cuma\'ya alarm çalmayacak)</string>
+  <string name="legal_workday_invalidate_message">(Veri süresi doldu. Ayarlardan güncelle)</string>
+  <string name="legal_workday_message">" (Tatil sırasında alarm çalmayacak)"</string>
   <string name="life_post_setting">Sabah Raporu</string>
   <string name="life_post_setting_FBE_remind">Sistem kısıtlaması nedeniyle, sabah raporundaki hava durumu bilgileri, yeniden başlatılana kadar doğru şekilde görüntülenmeyebilir</string>
   <string name="life_post_setting_open_subtitle">Alarmları 4:00-09:30 arasında kapattığınızda hava durumu hakkında bilgi alın</string>
@@ -90,7 +90,7 @@
   <string name="life_post_weather_degree_invalid">--</string>
   <string name="life_post_weather_description">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_description_secondary">%1$s,%2$s,%3$s</string>
-  <string name="life_post_weather_invalid">Hava durumu bilgisi alınamadı, tekrar denemek için dokunun</string>
+  <string name="life_post_weather_invalid">Hava durumu bilgisini almak için dokunun</string>
   <string name="life_post_weather_temperature_centigrade">°</string>
   <string name="loading_ringtone">Zil sesi yükleniyor…</string>
   <string name="menu_add_worldclock">Saat ekle</string>
@@ -117,7 +117,7 @@
   <string name="setting_alarm_arriving_summary">Zil çalmadan önce bir bildirim gönder</string>
   <string name="setting_alarm_arriving_title">Zilden Önce Bildirim</string>
   <string name="settings">Ayarlar</string>
-  <string name="shutdown_alarm_disable_summary">Telefon kapatıldığında alarm çalmaz</string>
+  <string name="shutdown_alarm_disable_summary">Cihaz kapatılsa dahi Alarm kapanmaz</string>
   <string name="shutdown_alarm_enable_summary">"Cihazınızı kapattıktan sonra en az 5 dakika süreyle ayarlanmışsa alarm kapanır"</string>
   <string name="shutdown_alarm_title">Kapalıyken Alarm Durumu</string>
   <string name="silent_alarm_summary">Sessiz</string>
@@ -137,7 +137,6 @@
   <string name="stopwatch_title">Kronometre</string>
   <string name="system_time_setting">Ayarlar</string>
   <string name="system_time_settings_category_title">Zaman Ayarları</string>
-  <string name="temperature_unit">%1$s°</string>
   <string name="time">Zaman</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
@@ -238,5 +237,6 @@
   <string name="repeat_count">Zamanlar</string>
   <string name="snooze_duration">Erteleme</string>
   <string name="snooze_duration_title">Erteleme</string>
-  <string name="snooze_duration_value">Aralık (dakika)</string>  
+  <string name="snooze_duration_value">Aralık (dakika)</string>
+  <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>  
 </resources>

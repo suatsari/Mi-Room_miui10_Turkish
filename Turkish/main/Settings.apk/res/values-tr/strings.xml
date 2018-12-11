@@ -6000,5 +6000,12 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
 Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
   <string name="dump_log_title">Bu özellik hakkında</string>
   <string name="miui_ime_xiaoai_voice_hint">Metin girmenin daha hızlı, daha kolay yolu</string>
-  <string name="miui_ime_xiaoai_voice_title">Mi AI ses girişi</string>  
+  <string name="miui_ime_xiaoai_voice_title">Mi AI ses girişi</string>
+  <string name="device_description_battery">Pil kapasitesi</string>
+  <string name="device_description_camera">Arka kamera</string>
+  <string name="device_description_cpu">İşlemci</string>
+  <string name="device_description_ram">Bellek</string>
+  <string name="device_description_resolution">Çözünürlük</string>
+  <string name="device_description_screen">Ekran boyutu</string>
+  <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin.</string>  
 </resources>

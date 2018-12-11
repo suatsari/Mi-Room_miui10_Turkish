@@ -663,5 +663,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_normal_wide_ldc_description">Fotoğraf kenarındaki yüz bozulmasını düzeltin</string>
   <string name="pref_camera_ultra_wide_ldc_description">Ultra geniş açılı modda bozulmayı düzeltme</string>
   <string name="ultra_pixel_photography_close_tip">Ultra piksel kapatıldı</string>
-  <string name="ultra_pixel_photography_open_tip">Ultra piksel</string>  
+  <string name="ultra_pixel_photography_open_tip">Ultra piksel</string>
+  <string name="camera_liveshot_off_tip">Dinamik fotoğraf kapalı</string>
+  <string name="camera_liveshot_on_tip">Dinamik fotoğraf açık</string>
+  <string name="network_exception">Ağ istisnası</string>  
 </resources>

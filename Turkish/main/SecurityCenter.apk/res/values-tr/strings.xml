@@ -1014,7 +1014,7 @@
   <string name="main_button_mi_sim_close">Mi SIM\'i etkinleştir</string>
   <string name="main_button_mi_sim_open">Detayları göster</string>
   <string name="main_button_usage_adjust">Mobil veri kullanımını eşitle</string>
-  <string name="main_button_usage_adjust_manual">Veri kullanım limitini ayarla</string>
+  <string name="main_button_usage_adjust_manual">Veri kullanımını ayarla</string>
   <string name="main_button_usage_adjusting">Değiştiriliyor…</string>
   <string name="main_button_usage_adjusting_bill">Değiştiriliyor…</string>
   <string name="main_button_usage_package_setting">Veri kullanım limitini ayarla</string>

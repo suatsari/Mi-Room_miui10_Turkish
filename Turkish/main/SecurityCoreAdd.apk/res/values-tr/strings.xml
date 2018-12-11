@@ -90,7 +90,7 @@
   <string name="function_not_support">Bu alan desteklenmiyor</string>
   <string name="gms_message">İkili uygulamalar oluşturmak için Google hizmetleri gerekiyor. Google hizmetleri yükle?</string>
   <string name="gms_open_button">Aç</string>
-  <string name="gms_title">Google hizmetlerini açın</string>
+  <string name="gms_title">Google hizmetleri için klonlu uygulama</string>
   <string name="go_on_import">Aktarmayı koru</string>
   <string name="goToSecondSpacce">İkinci Alana git</string>
   <string name="gpg_message">Oyunlar için ikili uygulamalar oluşturmak, Google Play Oyunlar ile çalışmayı gerektirir.Google Play Oyunları yükle?</string>
