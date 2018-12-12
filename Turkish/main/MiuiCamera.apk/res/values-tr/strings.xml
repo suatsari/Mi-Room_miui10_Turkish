@@ -580,7 +580,7 @@ kullanabilirsiniz"</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh kapalı</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string> 
   <string name="beauty_fragment_tab_name_3d_makeup">Makyaj</string>
-  <string name="accessibility_intent_done_retry">Tekrar çek</string>
+  <string name="accessibility_intent_done_retry">Tekrar dene</string>
   <string name="view_privacy_policy">Gizlilik Politikasını Görüntüle</string> 
   <string name="beauty_mode_reset_toast">Değişiklik yapılan efektler kaldırıldı</string>
   <string name="beauty_reset">Sıfırla</string>
@@ -679,5 +679,6 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="color_effect_live_none">Normal</string>
   <string name="color_effect_live_solar">Gök mavisi</string>
   <string name="color_effect_live_years">Sepya</string>
-  <string name="live_sticker_updating">Güncelleniyor...</string>  
+  <string name="live_sticker_updating">Güncelleniyor...</string>
+  <string name="live_edit_share_title">Paylaş</string>  
 </resources>

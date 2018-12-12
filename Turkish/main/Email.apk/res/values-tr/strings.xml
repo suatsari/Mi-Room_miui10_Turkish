@@ -67,11 +67,11 @@
   <string name="account_setup_address_label">E-Posta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Hesap ayarlarının, kullanıcı adının ve şifrenizin doğru olduğunu onaylayın.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Hesap ayarlanamadı!</string>
-  <string name="account_setup_basics_email_label">E-Posta Adresi</string>
+  <string name="account_setup_basics_email_label">E-posta adresini girin</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Mevcut ağı kullanarak giriş yap</string>
   <string name="account_setup_basics_manual_setup_action">Elle Kurulum</string>
   <string name="account_setup_basics_mi_mail_login_help">E-posta almak için hesabınızı SMS ile doğrulamanız gerekebilir.</string>
-  <string name="account_setup_basics_password_label">Şifre</string>
+  <string name="account_setup_basics_password_label">Şifre girin</string>
   <string name="account_setup_basics_title">Hesap ekle</string>
   <string name="account_setup_check_settings_check_incoming_msg">Sunucu ayarları doğrulanıyor...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanıyor…</string>
@@ -687,7 +687,7 @@
   <string name="notification_action_reply_all">Tümünü Cevapla</string>
   <string name="notification_action_undo_archive">Arşivlendi</string>
   <string name="notification_action_undo_delete">Silindi</string>
-  <string name="notification_action_undo_remove_label">Etiket Kaldırıldı</string>
+  <string name="notification_action_undo_remove_label">Etiket kaldırıldı</string>
   <string name="notification_exchange_calendar_added">Exchange takvimi eklendi</string>
   <string name="oauth_error_description">Kimlik doğrulaması yapılamadı</string>
   <string name="oauth_gmail_login_notify">Aşağıdaki oturum sayfasından Google Hesabı kullanıcı adınızı ve şifrenizi girin.</string>
@@ -951,7 +951,7 @@
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Saklanıyor...</string>
   <string name="sdcard_cannot_use">SD kart kullanılamıyor</string>
-  <string name="search_bar_text">Göndereni Ara veya kişiyi Ara</string>
+  <string name="search_bar_text">Mesajları ve kişileri arayın</string>
   <string name="search_hint">E-Posta ara</string>
   <string name="search_result">Sonuçlar</string>
   <string name="search_tabs_name_all">Tümü</string>
@@ -1087,7 +1087,7 @@
   <string name="unzip_file_failed">Dosya açılamadı</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">" %1$s\'da yenilendi"</string>
-  <string name="upload_log">Günlükleri gönder</string>
+  <string name="upload_log">Günlükleri yükle</string>
   <string name="upload_log_failed">Günlükler gönderilemedi</string>
   <string name="upload_log_no">İptal</string>
   <string name="upload_log_success">"Başarıyla gönderildi, yakında geri dönüş yapılacak "</string>
@@ -1123,9 +1123,9 @@
   <string name="zip_viewer_no_file">Dosya yok.</string>
   <string name="account_settings_preference_add_account">E-posta hesabı ekle</string>
   <string name="chinese">Çince</string>
-  <string name="notify_channel_new_mail">Notify about new messages</string>
+  <string name="notify_channel_new_mail">Yeni mesajlar hakkında bilgilendir</string>
   <string name="notify_channel_permission_notice">İzin Uyarı hatırlatıcısı</string>
-  <string name="notify_channel_send_fail">Başarısız teslimat hakkında bilgi verin</string>
+  <string name="notify_channel_send_fail">Başarısız teslimat hakkında bilgilendir</string>
   <string name="show_more_attachment">Daha fazla ek</string>
   <string name="overlays_tip_23">Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
   <string name="mail_search_lab">arama etiketi</string>
