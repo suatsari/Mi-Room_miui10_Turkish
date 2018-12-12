@@ -93,7 +93,7 @@
   <string name="find_device_error_password_changed">Hesap şifresi değiştirildi.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
   <string name="find_device_error_unknown">Bilinmeyen hata.</string>
-  <string name="find_device_gdpr_prompt">Cihazı Bul\'u açarak Gizlilik Politikamızı kabul etmiş oluyorsunuz. Yetkilendirmeyi iptal etmeniz gerekiyorsa, bu özelliği kapatın.</string>
+  <string name="find_device_gdpr_prompt">Cihazı Bul\'u açarak Gizlilik Politikamız\'ı kabul etmiş oluyorsunuz. Yetkilendirmeyi iptal etmeniz gerekiyorsa, bu özelliği kapatın.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik Politikası</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p2">i.mi.com</string>

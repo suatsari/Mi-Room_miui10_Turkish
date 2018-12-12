@@ -510,8 +510,8 @@
   <string name="user_agree">Kabul et</string>
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
-  <string name="user_notice_identify_summary_format">Bu hizmeti kullanarak,Xiaomi\'nin %1$s ve %2$s\'ni kabul etmiş olursunuz.</string>
-  <string name="user_notice_title">Şartlar ve Koşullar</string>
+  <string name="user_notice_identify_summary_format">Bu hizmeti kullanarak,Xiaomi\'nin %1$s ve %2$s\'ni kabul etmiş olursunuz. İnternete bağlanmayı kabul ediyor musunuz?</string>
+  <string name="user_notice_title">Ağ Bağlantısı Anlaşması</string>
   <string name="video_camera_label">Video Kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
   <string name="video_effect_entry_bygone">Geçmiş</string>
@@ -668,5 +668,16 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="camera_liveshot_on_tip">Dinamik fotoğraf açık</string>
   <string name="network_exception">Ağ istisnası</string>
   <string name="live_edit_exit_confirm">Çıkış</string>
-  <string name="live_edit_exit_message">Çekimi gözardı et?</string>  
+  <string name="live_edit_exit_message">Çekimi gözardı et?</string>
+  <string name="beauty_reset_toast">Güzellik efekti temizlendi</string>
+  <string name="color_effect_live_blue">Mavi</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="color_effect_live_deepblack">S&amp;B</string>
+  <string name="color_effect_live_fair">Soluk</string>
+  <string name="color_effect_live_hongkong">Orkide</string>
+  <string name="color_effect_live_mousse">Köpük</string>
+  <string name="color_effect_live_none">Normal</string>
+  <string name="color_effect_live_solar">Gök mavisi</string>
+  <string name="color_effect_live_years">Sepya</string>
+  <string name="live_sticker_updating">Güncelleniyor...</string>  
 </resources>
