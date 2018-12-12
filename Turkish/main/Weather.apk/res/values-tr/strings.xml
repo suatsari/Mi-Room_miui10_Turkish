@@ -195,7 +195,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="no_vote_num">%1$s kişi | </string>
   <string name="no_vote_ratio">Aleyhte: %%%1$s</string>
-  <string name="open">Aç</string>
+  <string name="open">Şimdi aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="open_now">Aç</string>
   <string name="other">Diğer</string>
@@ -309,7 +309,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string> 
   <string name="content_desc_city_manage_del">Sil</string>
   <string name="content_desc_city_manage_edit">Düzenle</string>
-  <string name="activity_find_city_dialog_message_global">Doğru konum bilgisi almak için Hava Durumunun konumunuza erişmesine izin verin.</string>
+  <string name="activity_find_city_dialog_message_global">Konum servislerini açın ve kablosuz ağları kullanarak cihazınızın konum belirlemesine izin verin.</string>
   <string name="aqi_detail_co_unit">Birim: mg/m³</string>
   <string name="aqi_first_sub_desc_locate">İstasyon: %1$s (%2$s away)</string>
   <string name="aqi_first_sub_desc_no_locate">AQI cinsinden ortalama %1$s</string>
@@ -317,5 +317,12 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="feedback_foggy">Sisli</string>
   <string name="feedback_haze">Pus</string>
   <string name="feedback_moderate_rain">Yağmur</string>
-  <string name="feedback_moderate_snow">Kar</string>  
+  <string name="feedback_moderate_snow">Kar</string>
+  <string name="act_location_error_to_find_city">Konum bilgisi alınamadı. Manuel olarak şehir ekleyebilirsiniz.</string>
+  <string name="empty_view_net_loading">Güncelleniyor…</string>
+  <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
+  <string name="empty_view_refresh">Tekrar deneyin</string>
+  <string name="index_item_downloading">İndiriliyor</string>
+  <string name="index_item_installing2">Yükleniyor</string>
+  <string name="location_provider_btn_text">Konum hizmetlerini açın</string>  
 </resources>
