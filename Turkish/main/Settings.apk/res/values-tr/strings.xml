@@ -224,7 +224,7 @@
   <string name="allow_data_usage_title">Dolaşımda veri kullanımına izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde gösterilmesine izin verin. Bu uygulamaların kullanımınıza müdahale edebilir veya görünme veya davranma biçimini değiştirebilir.</string>
+  <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde gösterilmesine izin verin. Bu, uygulamaları kullanmanızı engelleyebilir veya görünüm ve davranış biçimini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
   <string name="alpha_build">\nAlfa</string>
   <string name="always">Her zaman</string>
@@ -2778,7 +2778,7 @@
   <string name="mvno_match_data">MVNO Değeri</string>
   <string name="mvno_type">MVNO Türü</string>
   <string name="my_device">Cihazım</string>
-  <string name="my_device_disclaimer">Not: CPU, pil kapasitesi, ekran boyutu ve çözünürlüğü, kamera gibi donanım bilgileri, Xiaomi laboratuarları, tasarımcılar ve tedarikçiler tarafından sağlanır.</string>
+  <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyutu ve çözünürlüğü, kamera gibi donanım bilgileri, Xiaomi laboratuarları, tasarımcılar ve tedarikçiler tarafından sağlanmaktadır.</string>
   <string name="n_cacrts">%d CA sertifikaları</string>
   <string name="nature_color">Varsayılan</string>
   <string name="navigation_guide_app_summary">Üst alanda ekranın kenarından sola veya sağa kaydırın</string>
@@ -3422,7 +3422,7 @@
   <string name="quiet_no_interruptions_mode">Rahatsızlıkların tümünü sessize al</string>
   <string name="quiet_off_mode">Rahatsız Etme Modu kapalı</string>
   <string name="radio_controls_summary">WLAN, Bluetooth, Uçak Modu, Hücresel Ağlar, &amp; VPN\'i Yönet</string>
-  <string name="radio_controls_title">Diğer Ağlar</string>
+  <string name="radio_controls_title">Daha</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Durumu:</string>
   <string name="radio_info_band_mode_label">Frekans bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
