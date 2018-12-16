@@ -1203,10 +1203,10 @@
   <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
   <string name="current_input_method">Standart</string>
   <string name="current_screen_lock">Geçerli Ekran Kilidi</string>
-  <string name="current_use_ese">Gömülü güvenli eleman kullan</string>
+  <string name="current_use_ese">Yerleşik güvenli öğe kullan</string>
   <string name="current_use_ese_wallet">Mi Cüzdan kullanıyorsunuz. Bu Mi Ödeme ve NFC taşıma kartı kullanmanıza olanak verir.</string>
   <string name="current_use_hce_wallet">HCE Cüzdan kullanıyorsunuz</string>
-  <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
+  <string name="current_use_uicc_se">SIM kartta güvenli öğe kullan</string>
   <string name="current_use_uicc_wallet">SIM%1$s Cüzdanını kullanıyorsunuz</string>
   <string name="current_zone">(mevcut)</string>
   <string name="daltonizer_mode_deuteranomaly">Renk Körlüğü (kırmızı-yeşil)</string>
@@ -2858,7 +2858,7 @@
   <string name="nfc_payment_settings_title">Dokundur ve öde</string>
   <string name="nfc_payment_use_default">Varsayılanı kullan</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
-  <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
+  <string name="nfc_se_route_title">Güvenli öğe bölümü</string>
   <string name="nfc_se_wallet_title">Varsayılan Cüzdan</string>
   <string name="night_display_auto_mode_custom">Özel program</string>
   <string name="night_display_auto_mode_never">Hiçbir zaman</string>
@@ -3748,8 +3748,8 @@
   <string name="sdcard_settings_unmounted_status">USB Depolama şimdi güvenli olarak çıkarılabilir.</string>
   <string name="sdcard_settings_used_bytes_label">Kullanılan Bayt:</string>
   <string name="sdcard_unmount">USB Depolamanın bağlantısını kes</string>
-  <string name="se_route_ese">Yerleşik güvenli eleman</string>
-  <string name="se_route_uicc">SIM Kart üzerindeki güvenli eleman</string>
+  <string name="se_route_ese">Yerleşik güvenli öğe</string>
+  <string name="se_route_uicc">SIM kartta güvenli öğe</string>
   <string name="se_wallet_ese">Mi Ödeme ve NFC Nakil Kartı</string>
   <string name="se_wallet_hce">HCE Cüzdan kullan</string>
   <string name="se_wallet_uicc">SIM%1$s Cüzdanı kullan</string>
@@ -3839,7 +3839,7 @@
   <string name="search_music_mi_effect_title">Mi Ses Geliştiricisi</string>
   <string name="search_networks_title">Hücresel Ağlar</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
-  <string name="search_nfc_se_route_title">Güvenli Eleman Pozisyonu</string>
+  <string name="search_nfc_se_route_title">Güvenli öğe bölümü</string>
   <string name="search_notification_sound_title">Varsayılan Bildirim Sesi</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode_entry_name">Hafif Mod;Yaşlılık Modu</string>
