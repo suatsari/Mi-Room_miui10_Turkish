@@ -512,7 +512,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacık üzerinde uzun işlemleri yaptığında ekranı flaşla</string>
-  <string name="system_warning">Bu izni inkar ederseniz, cihazınızın temel özellikleri artık tasarlandığı gibi çalışmayabilir.</string>
+  <string name="system_warning">Bu izni reddederseniz, cihazınızın temel özellikleri istenen şekilde çalışmayabilir.</string>
   <string name="task_access_locked_app_msg">Uygulama Kilidi açıldı</string>
   <string name="tether_settings_title_all">Paylaşım &amp; Mobil Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth Paylaşımı</string>

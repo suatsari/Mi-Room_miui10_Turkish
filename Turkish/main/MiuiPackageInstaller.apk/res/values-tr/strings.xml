@@ -499,7 +499,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="show_touches_summary">Dokunmalar için görsel geribildirim gösterir</string>
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="system_warning">Bu izni inkar ederseniz, cihazınızın temel özellikleri artık tasarlandığı gibi çalışmayabilir.</string>
+  <string name="system_warning">Bu izni reddederseniz, cihazınızın temel özellikleri istenen şekilde çalışmayabilir.</string>
   <string name="trust_switch_dialog_msg">"Bu uygulama kişilerinize, mesajlarınıza, şifrelerinize veya sistemin diğer bölümlerine eriştiğinde sizi uyarmaz."</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacık üzerinde uzun işlemleri yaptığında ekranı flaşla</string>

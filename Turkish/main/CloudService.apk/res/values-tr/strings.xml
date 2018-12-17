@@ -567,7 +567,7 @@
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar senkronize edilmiyor</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
-  <string name="user_agreement_content">Bu hizmeti kullanarak %s kabul ediyorsunuz.</string>
+  <string name="user_agreement_content">Bu hizmeti kullanarak %s\'nı kabul edersiniz.</string>
   <string name="user_agreement_link">Mi Bulut Hizmet Şartları</string>
   <string name="member_menu_vipname_free">Ücretsiz</string>
   <string name="member_menu_vipname_mega">Mega</string>
