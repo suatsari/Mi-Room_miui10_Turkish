@@ -329,13 +329,11 @@
   <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
   <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel verimliliğini etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
   <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
-  <string name="catch_full_log_item_content_catch_direct">"Adımlar:
-1. Bildirmek ve çoğaltmak istediğiniz özelliğe geri dönün.
-2. Bu sayfaya geri dönün ve \"Bitir ve yükle\" ye dokunun."</string>
-  <string name="catch_full_log_item_content_need_open">"Adımlar:
-1. \"Günlük oluştur\" a dokunun.
-2. Bildirmek ve çoğaltmak istediğiniz özelliğe geri dönün.
-3. Bu sayfaya geri dönün ve \"Bitir ve yükle\" ye dokunun."</string>
+  <string name="catch_full_log_item_content_catch_direct">"1. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
+2. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
+  <string name="catch_full_log_item_content_need_open">"1. \"Günlük oluştur\"\'a dokunun.
+2. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
+3. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
   <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve sesli arama</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Gecikme</string>
@@ -352,5 +350,9 @@
   <string name="title_first_aid">İlk yardım</string>
   <string name="toast_log_too_large">Yüklenemiyor. Günlük çok büyük.</string>
   <string name="toast_screenshot_too_large">10 MB\'den büyük resimler veya videolar yüklenemiyor.</string>
-  <string name="feedback_status_commit_in_queue_title">Geribildirim için bekliyor</string>  
+  <string name="feedback_status_commit_in_queue_title">Geribildirim için bekliyor</string>
+  <string name="catch_full_log_item_content_title">Adımlar:</string>
+  <string name="feedback_choose_app_tag">Sorunu seçin</string>
+  <string name="title_user_guide">Kullanım klavuzu</string>
+  <string name="toast_app_tag_required">Sorunu seçin</string>  
 </resources>
