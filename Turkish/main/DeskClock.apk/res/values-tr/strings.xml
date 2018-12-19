@@ -238,5 +238,6 @@
   <string name="snooze_duration">Erteleme</string>
   <string name="snooze_duration_title">Erteleme</string>
   <string name="snooze_duration_value">Aralık (dakika)</string>
-  <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>  
+  <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>
+  <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>  
 </resources>

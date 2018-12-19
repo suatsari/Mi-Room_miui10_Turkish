@@ -1314,7 +1314,7 @@ mevcut"</string>
   <string name="story_remove_confirm_title">Fotoğraflar kaldırılıyor</string>
   <string name="story_rename_invalid_char">Hikayenin başlığında \"%s\" kullanamazsınız. Harfleri, rakamları ve Çince karakterleri kullanın.</string>
   <string name="story_rename_invalid_prefix">Hikaye başlıkları \".\" veya \"_\" ile başlayamaz</string> 
-  <string name="collage_select_image_range">Kolajlar 1-4 arası fotoğraf içerebilir</string>
+  <string name="collage_select_image_range">Kolajlar 1-6 arası fotoğraf içerebilir</string>
   <string name="frame_not_support_image_ratio">Bu en boy oranı desteklenmiyor</string>
   <string name="operation_produce">Yaratıcılık</string>
   <string name="photo_editor_crop_auto_tips">Otomatik olarak kırpılmış</string>
@@ -1416,5 +1416,14 @@ mevcut"</string>
   <string name="story_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Planınızın veri limitini aşarsanız, operatörünüz sizden ek ücretler talep edebilir.</string>
   <string name="story_download_without_wifi_title">Veri kullanımı uyarısı</string>
   <string name="story_option_menu_delete">Hikayeyi sil</string>
-  <string name="story_photo_downloading">İndiriliyor…</string>  
+  <string name="story_photo_downloading">İndiriliyor…</string>
+  <string name="alert_selection_description">AI, benzer görüntüler arasında en iyi fotoğrafı bir yıldız ile işaretler.</string>
+  <string name="alert_selection_title">AI tarafından seçilen</string>
+  <string name="backup_file_over_size_desc">%1$s\'dan büyük fotoğraflar ve %2$s\'dan büyük videolar yedeklenemez.</string>  
+  <string name="collage_ratio_text">En boy oranı</string> 
+  <string name="collage_title_stitching">Film rulosu</string>
+  <string name="filter_people_bw">S&amp;B</string>
+  <string name="filter_people_lilt">Kıvrak</string>
+  <string name="filter_people_sepia">Sepya</string>
+  <string name="filter_people_tea">Çay</string>  
 </resources>

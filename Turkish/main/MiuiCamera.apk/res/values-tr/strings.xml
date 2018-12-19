@@ -614,7 +614,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="beauty_body_body">Zayıflama</string>
   <string name="beauty_body_head">Kafa</string>
   <string name="beauty_body_legged">Uzun bacaklar</string>
-  <string name="beauty_body_reset_tip">Vücut etkisi temizlendi</string>
+  <string name="beauty_body_reset_tip">Efekt temizlendi</string>
   <string name="beauty_body_shoulder">Omuz</string>
   <string name="ultra_wide_close_tip">Süper geniş açı modu kapalı</string>
   <string name="ultra_wide_open_tip">Süper geniş açı modu</string>
@@ -681,5 +681,18 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="color_effect_live_years">Sepya</string>
   <string name="live_sticker_updating">Güncelleniyor...</string>
   <string name="live_edit_share_title">Paylaş</string>
-  <string name="pref_camera_volumekey_function_entry_timer">Çekim için geri sayım</string>  
+  <string name="pref_camera_volumekey_function_entry_timer">Çekim için geri sayım</string>
+  <string name="live_error_confirm">Ayarlama</string>
+  <string name="live_error_message">İşlev Hatası</string>
+  <string name="live_error_title">İşlev Hatası</string>
+  <string name="live_reverse_confirm">Sil</string>
+  <string name="live_reverse_message">Son segment silinsin mi?</string>
+  <string name="live_sticker_network_error_hint">Ağ hatası</string>
+  <string name="portait_effect_entry_dusk">Alacakaranlık</string>
+  <string name="portait_effect_entry_lilt">Kıvrak</string>
+  <string name="portait_effect_entry_sepia">Sepya</string>
+  <string name="portait_effect_entry_tea">Çay</string>
+  <string name="pref_camera_ultra_wide_mode_title">Süper geniş açı modu</string>
+  <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
+Daha heyecan verici güzelliği keşfedin."</string>  
 </resources>

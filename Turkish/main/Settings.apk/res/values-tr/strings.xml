@@ -4707,7 +4707,7 @@
   <string name="turn_off_keyguard_password_confirm_msg">Bazı güvenlik özellikleri şifreniz olmadan çalışmaz.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Şifreyi devre dışı bırak</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit Ekranının şifresini kapattığınızda, parmakiziyle cihazın kilidini açmanız mümkün olmayacak.</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Ekran kilidi şifresini kapattıktan sonra kaydedilen parmak izleri silinir. Parmak izinizi kullanarak cihazınızın kilidini açmanız mümkün olmayacaktır.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Kilit ekranı şifrenizi kapattıktan sonra, kayıtlı parmak izleri ve yüz verileri silinecektir. Yüzünüzü veya parmak izinizi kullanarak cihazın kilidini açamazsınız.</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
   <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
   <string name="turn_on_keyguard_password_alert">Şifrenizi unutma.Uunutursan,onu geri yükleyemezsin.</string>
@@ -6007,5 +6007,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="device_description_ram">Bellek</string>
   <string name="device_description_resolution">Çözünürlük</string>
   <string name="device_description_screen">Ekran boyutu</string>
-  <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin.</string>  
+  <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin.</string>
+  <string name="gxzw_anim_star">Yıldız ışığı</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Kilit ekranı şifrenizi kapattıktan sonra, kaydedilen yüz verileri silinecektir. Yüzünüzü kullanarak cihazın kilidini açamazsınız.</string>  
 </resources>

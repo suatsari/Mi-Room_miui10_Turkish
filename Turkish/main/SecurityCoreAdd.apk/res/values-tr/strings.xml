@@ -445,4 +445,8 @@
   <string name="undo_grant_dialog_message">Yetkilendirmeyi iptal ettikten sonra Xiaomi bu özellik için gereken bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge vb.) toplamayı durduracaktır. Şimdi iptal edilsin mi?</string>
   <string name="undo_privacy_menu">Yetkilendirmeyi iptal et</string>
   <string name="undo_success">Başarıyla iptal edildi</string>
+  <string name="button_input_password">Şifre girin</string>
+  <string name="button_touch">Parmağınızı sensöre koyun</string>
+  <string name="dialog_verify">Parmak izinizi doğrulayın</string>
+  <string name="dialog_verify_fingerprint_retry">Parmak izi doğrulanamadı. Tekrar deneyin.</string>  
 </resources>

@@ -263,5 +263,13 @@
     <plurals name="creation_max_image">
         <item quantity="other">En fazla %d fotoğraf seçin</item>
         <item quantity="one">En fazla %d fotoğraf seçin</item>
-    </plurals>	
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d öğe yedeklenemeyecek kadar büyük</item>
+        <item quantity="one">%d öğe yedeklenemeyecek kadar büyük</item>
+    </plurals> 
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d öğe yedeklenemeyecek kadar büyük</item>
+        <item quantity="one">%d öğe yedeklenemeyecek kadar büyük</item>
+  </plurals>	
 </resources>
