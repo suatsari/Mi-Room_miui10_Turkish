@@ -5966,7 +5966,7 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="words_title">Metin</string>  
   <string name="bootloader_tips">"Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız."</string>
   <string name="bootloader_tips_ok">Anladım</string>
-  <string name="keyguard_notification_status_title">Bildirimler</string>
+  <string name="keyguard_notification_status_title">Bildirimler geldiğinde ve ekran kapalıyken</string>
   <string name="others">Diğer</string>
   <string name="input_pattern_hint_text">Kilit açma deseninizi çizin</string>
   <string name="slider_voice_online_theme">Çevrimiçi sesler</string>

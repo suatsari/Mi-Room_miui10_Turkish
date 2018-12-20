@@ -694,5 +694,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="portait_effect_entry_tea">Çay</string>
   <string name="pref_camera_ultra_wide_mode_title">Süper geniş açı modu</string>
   <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
-Daha heyecan verici güzelliği keşfedin."</string>  
+Daha heyecan verici güzelliği keşfedin."</string>
+  <string name="device_48m_watermark_default_text">48M ÇİFT KAMERA</string>
+  <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">48M Ultra net</string>  
 </resources>

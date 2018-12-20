@@ -14,8 +14,8 @@
         <item quantity="one">%d mesaj eşitlenemedi</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Seçili %1$d konuşma silinsin mi?</item>
-        <item quantity="one">Seçilen %1$d konuşma silinsin mi?</item>
+        <item quantity="other">Seçili &lt;g example="15" id="number">%1$s&lt;/g> konuşma silinsin mi?</item>
+        <item quantity="one">Bu konuşma silinsin mi?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seçildi</item>
