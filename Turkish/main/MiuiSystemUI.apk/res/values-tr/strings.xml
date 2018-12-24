@@ -427,7 +427,7 @@
   <string name="convert_to_file_encryption">Dosya şifrelemeye dönüştür</string>
   <string name="convert_to_file_encryption_done">Dosya şifreleme zaten uygulandı</string>
   <string name="convert_to_file_encryption_enabled">Dönüştür…</string>
-  <string name="custom_lock_wallpaper_enter">Gir</string>
+  <string name="custom_lock_wallpaper_enter">Giriş</string>
   <string name="daltonizer_mode_deuteranomaly">Yeşil renk körlüğü (kırmızı-yeşil)</string>
   <string name="daltonizer_mode_disabled">Devre dışı</string>
   <string name="daltonizer_mode_monochromacy">Tam renk körlüğü</string>
@@ -878,7 +878,7 @@
   <string name="lock_screen_date">dd MMMM EEEE</string>
   <string name="lock_screen_date_12">dd MMMM EEEE</string>
   <string name="lock_screen_no_sim_card">SIM kart yok</string>
-  <string name="lock_wallpaper_enter">Girin</string>
+  <string name="lock_wallpaper_enter">Giriş</string>
   <string name="lock_wallpaper_learn_more">Diğer</string>
   <string name="lockscreen_access_pattern_area">Desen alanı.</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
@@ -1726,7 +1726,7 @@ d MMM"</string>
   <string name="wapi_psk_type_hex">Onaltılık</string>
   <string name="clock_city_name_local">Yerel</string>
   <string name="face_data_manage_unlock_slide_msg">Yüz kilidi ile kaydırıcı kısayollarını değiştirin</string>
-  <string name="lock_screen_magazine_default_content">Yeni görüntülerin günlük kısmı</string>
+  <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
   <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
   <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
   <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydır</string>
