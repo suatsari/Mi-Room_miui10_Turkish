@@ -5167,9 +5167,9 @@
   <string name="wapi_cert_select">WAPI sertifikası</string>
   <string name="wapi_no">Hayır</string>
   <string name="wapi_no_vaild_cert">Gerekli sertifikalar yüklü değil gibi görünüyor. Şimdi yükle?</string>
-  <string name="wapi_password_empty">Parolayı girin</string>
-  <string name="wapi_password_hex_format_invalid">Geçersiz parola biçimi</string>
-  <string name="wapi_password_hex_length_invalid">Onaltılık karakterlerin sayısı bir çift sayı olmalıdır</string>
+  <string name="wapi_password_empty">Şifreyi girin</string>
+  <string name="wapi_password_hex_format_invalid">Geçersiz şifre biçimi</string>
+  <string name="wapi_password_hex_length_invalid">Onaltılık karakter sayısı bir çift sayı olmalıdır</string>
   <string name="wapi_password_length_invalid">Şifre 8 ila 64 karakter uzunluğunda olmalıdır</string>
   <string name="wapi_psk_type">Şifre türü</string>
   <string name="wapi_psk_type_ascii">ASCII</string>

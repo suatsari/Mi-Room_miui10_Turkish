@@ -697,5 +697,6 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
 Daha heyecan verici güzelliği keşfedin."</string>
   <string name="device_48m_watermark_default_text">48M ÇİFT KAMERA</string>
   <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
-  <string name="pref_menu_ultra_pixel_photography_48mp">48M Ultra net</string>  
+  <string name="pref_menu_ultra_pixel_photography_48mp">48M Ultra net</string>
+  <string name="pref_privacy_title">Gizlilik Politikası</string>  
 </resources>

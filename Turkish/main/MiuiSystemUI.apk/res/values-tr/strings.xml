@@ -1717,10 +1717,10 @@ d MMM"</string>
   <string name="structure_face_unlock_tof_covered">Yüz verisi eklenemedi. Ekrandan uzaklaşın.</string>
   <string name="download_lock_wallpaper">Müzik indirmek için iki kez dokunun</string>  <string name="wapi_auto_sel_cert">Otomatik olarak seç</string>
   <string name="wapi_cert_select">WAPI sertifikası</string>
-  <string name="wapi_password_empty">Lütfen şifreyi giriniz</string>
-  <string name="wapi_password_hex_format_invalid">Geçersiz onaltılık karakterler</string>
-  <string name="wapi_password_hex_length_invalid">Onaltılı karakterlerin sayısı çift sayı olmalıdır.</string>
-  <string name="wapi_password_length_invalid">Şifre: 8-64 karakter olmalıdır</string>
+  <string name="wapi_password_empty">Şifreyi girin</string>
+  <string name="wapi_password_hex_format_invalid">Geçersiz şifre biçimi</string>
+  <string name="wapi_password_hex_length_invalid">Onaltılı karakterlerin sayısı bir çift sayı olmalıdır.</string>
+  <string name="wapi_password_length_invalid">Şifre 8 ila 64 karakter uzunluğunda olmalıdır</string>
   <string name="wapi_psk_type">Şifre türü</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Onaltılık</string>
