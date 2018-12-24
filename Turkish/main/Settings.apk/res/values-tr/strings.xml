@@ -1585,8 +1585,8 @@
   <string name="domain_urls_apps_summary_off">Desteklenen bağlantıları hiçbir uygulama açmıyor</string>
   <string name="domain_urls_summary_none">Desteklenmeyen bağlantı açılmıyor</string>
   <string name="domain_urls_summary_one">%s aç</string>
-  <string name="domain_urls_summary_some">%s aç ve diğer bağlantıya git</string>
-  <string name="domain_urls_title">Bağlantıları ağ</string>
+  <string name="domain_urls_summary_some">%s ve diğer URL\'leri aç</string>
+  <string name="domain_urls_title">Bağlantıları aç</string>
   <string name="done">Tamam</string>
   <string name="done_button">Tamam</string>
   <string name="double_click_power_key">Güç Tuşuna Çift Bas</string>
