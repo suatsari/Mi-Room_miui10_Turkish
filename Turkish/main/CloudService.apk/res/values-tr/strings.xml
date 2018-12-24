@@ -228,7 +228,7 @@
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_find_device_close_alert_content">Bu özelliği kapatırsanız cihazınızın kaybolması durumunda cihazınızı bulamazsınız.</string>
   <string name="micloud_find_device_close_alert_negtive">Yine de kapat</string>
-  <string name="micloud_find_device_close_alert_positive">Devam</string>
+  <string name="micloud_find_device_close_alert_positive">Kapatma</string>
   <string name="micloud_find_device_close_alert_title">Cihazı Bul\'u kapat?</string>
   <string name="micloud_find_device_close_fail">Cihazı Bul kapatılamadı</string>
   <string name="micloud_find_device_close_progress">Cihazı Bul özelliği kapatılıyor…</string>
