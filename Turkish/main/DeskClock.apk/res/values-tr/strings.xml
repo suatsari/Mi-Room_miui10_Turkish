@@ -2,7 +2,7 @@
 <resources>
   <string name="add_alarm">Alarm ekle</string>
   <string name="alarm_alert">Varsayılan zil sesi</string>
-  <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturulur.</string>
+  <string name="alarm_alert_alert_silenced">Alarm %1$s sonra susturulur.</string>
   <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
   <string name="alarm_ascending_mode_summary">Alarm sesi yavaş yavaş yükselir</string>
   <string name="alarm_ascending_mode_title">Artan alarm sesi</string>
@@ -141,7 +141,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Zili durdurmak için ekrana dokunun</string>
   <string name="timer_alarm_dot_matrix_label">Zamanlayıcı</string>
-  <string name="timer_alert_alert_silenced">Zamanlayıcı %d dakika sonra susturuldu.</string>
+  <string name="timer_alert_alert_silenced">Zamanlayıcı %1$s sonra susturulur.</string>
   <string name="timer_clock_alert_text">Zamanlayıcıyı Ayarla</string>
   <string name="timer_continue">Devam</string>
   <string name="timer_delete">Kaldır</string>
@@ -180,11 +180,11 @@
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="module_download_cancel">Hayır teşekkürler</string>
-  <string name="module_download_data_msg">Saatin, ortam sesleri ve akıllı alarmlar için ses dosyaları (20 mb) indirmesi gerekiyor. Şuan mobil veri kullanıyorsunuz. İzin verilsin mi?</string>
-  <string name="module_download_data_msg_golbal">Saatin, ortam sesleri ve akıllı alarmlar için ses dosyaları (20 mb) indirmesi gerekiyor. Şuan mobil veri kullanıyorsunuz. İzin verilsin mi?</string>
+  <string name="module_download_data_msg">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi için internete bağlanması gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
+  <string name="module_download_data_msg_golbal">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
   <string name="module_download_fail">Ek ses indirilemedi</string>
-  <string name="module_download_msg">Saatin, ortam sesleri ve akıllı alarmlar için ses dosyaları indirmesi gerekiyor. İnternete bağlanmasına izin verilsin mi?</string>
-  <string name="module_download_msg_golbal">Saat, ortam sesleri ve akıllı alarmlar için ses dosyaları indirmelidir. İzin ver?</string>
+  <string name="module_download_msg">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi için internete bağlanması gerekiyor. Kabul?</string>
+  <string name="module_download_msg_golbal">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi gerekiyor. Kabul?</string>
   <string name="module_download_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="module_download_ok">İzin ver</string>
   <string name="module_download_success">Ek ses başarıyla indirildi</string>
@@ -212,7 +212,7 @@
   <string name="worldclock_world_time">Zaman dilimleri</string>
   <string name="worldcolock_timezone_current">Şuan: %1$s</string>
   <string name="worldcolock_timezone_date">dd MMM</string>
-  <string name="worldcolock_timezone_gap">Saat</string>
+  <string name="worldcolock_timezone_gap">%s S</string>
   <string name="worldcolock_timezone_local">Yerel saat ile aynı</string> 
   <string name="open_keep_screen">Ekran tutulacak</string>
   <string name="shut_down_keep_screen">Ekranda tutulmayacak</string>
@@ -239,5 +239,6 @@
   <string name="snooze_duration_title">Erteleme</string>
   <string name="snooze_duration_value">Aralık (dakika)</string>
   <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>
-  <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>  
+  <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>
+  <string name="check_voice_assist_app_version">Mi AI\'yi en son sürümüne güncelleyin.</string>  
 </resources>

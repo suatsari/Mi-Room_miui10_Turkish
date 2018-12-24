@@ -620,5 +620,12 @@ Fikstürü telefonun yakınından uzaklaştırın."</string>
   <string name="camera_projector">- Projektör -</string>
   <string name="fod_pressure_sensor_test_fail">Test başarısız oldu, lütfen Arıza düğmesine tıklayın</string>
   <string name="cit_display_test_end">Testi bitir</string>
-  <string name="cit_display_test_next">Sonraki</string>  
+  <string name="cit_display_test_next">Sonraki</string>
+  <string name="cit_charger_in">Şarj bağlı</string>
+  <string name="cit_charger_test_tips_electric">Mevcut projenin 1A\'den büyük şarj akımı değerini test etmesi gerekir</string>
+  <string name="cit_charger_test_tips_hvdcp">Mevcut projenin USB_HVDCP\'yi test etmesi gerekiyor</string>
+  <string name="sar_sensor_collect_data">Veri Toplamayı Başlat</string>
+  <string name="sar_sensor_collect_data_test_summary">"Gerçek zamanlı açının 130 ila 140 derece arasında olduğundan emin olmak için telefonu çevirin
+Diğer elinizi cep telefonundan uzak tutun. Veri toplamayı başlat düğmesine tıklayın
+Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>  
 </resources>

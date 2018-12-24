@@ -47,5 +47,21 @@
     <plurals name="snooze_duration_summary">
        <item quantity="other">Alarm %2$s kereden sonra kapanacak (Herbiri %1$s dak.)</item>
        <item quantity="one">Alarm %2$s kereden sonra kapanacak (%1$s dak.)</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+	<plurals name="hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
     </plurals>	
 </resources>

@@ -585,10 +585,10 @@ kullanabilirsiniz"</string>
   <string name="beauty_mode_reset_toast">Değişiklik yapılan efektler kaldırıldı</string>
   <string name="beauty_reset">Sıfırla</string>
   <string name="capture_back_pressed_hint">Çıkmak için tekrar dokun</string>
-  <string name="edit_blusher">Allık</string>
-  <string name="edit_eyebrow_dye">Kaş boyama</string>
-  <string name="edit_jelly_lips">Jöle dudaklar</string>
-  <string name="edit_pupil_line">Güzellik hattı</string>
+  <string name="edit_blusher">Ruj</string>
+  <string name="edit_eyebrow_dye">Kaşlar</string>
+  <string name="edit_jelly_lips">Dudak parlatıcısı</string>
+  <string name="edit_pupil_line">Göz kalemiı</string>
   <string name="eye_light">Göz ışığı</string>
   <string name="eye_light_angel">Melek ışığı</string>
   <string name="eye_light_comic">Komik ışık</string>
@@ -698,5 +698,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="device_48m_watermark_default_text">48M ÇİFT KAMERA</string>
   <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48M Ultra net</string>
-  <string name="pref_privacy_title">Gizlilik Politikası</string>  
+  <string name="pref_privacy_title">Gizlilik Politikası</string>
+  <string name="live_music_change_bgm">Müziği Değiştir</string>
+  <string name="live_music_downloading_tips">İndiriliyor...</string>
+  <string name="live_music_hot_title">Sıcak Müzik</string>
+  <string name="live_music_local_title">Yerel Müzik</string>
+  <string name="live_music_network_exception">Ağ anomalisi</string>
+  <string name="live_music_network_exception_tips">Ağ anomalisi, lütfen tekrar deneyin</string>  
 </resources>

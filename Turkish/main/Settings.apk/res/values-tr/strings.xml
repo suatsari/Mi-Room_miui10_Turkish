@@ -6009,5 +6009,10 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="device_description_screen">Ekran boyutu</string>
   <string name="network_name_input_error">SSID kaydedilemedi. Tekrar deneyin.</string>
   <string name="gxzw_anim_star">Yıldız ışığı</string>
-  <string name="turn_off_keyguard_password_with_face_confirm_msg">Kilit ekranı şifrenizi kapattıktan sonra, kaydedilen yüz verileri silinecektir. Yüzünüzü kullanarak cihazın kilidini açamazsınız.</string>  
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Kilit ekranı şifrenizi kapattıktan sonra, kaydedilen yüz verileri silinecektir. Yüzünüzü kullanarak cihazın kilidini açamazsınız.</string>
+  <string name="set_jeejen_prompt_message">Jeejen, varsayılan başlatıcınız olarak ayarlanacaktır. Varsayılan başlatıcıyı Ayarlar &gt; Sistem ayarları &gt; Ana ekran &amp; Varsayılan başlatıcı bölümünden değiştirebilirsiniz.</string>
+  <string name="set_jeejen_prompt_title">Değişiklikleri onayla</string>
+  <string name="work_sound_permission_dialog_button_text_known">Anladım</string>
+  <string name="work_sound_permission_dialog_message">Temaları Kurumsal modda kullanamazsınız. Erişim almak için yöneticinize başvurun.</string>
+  <string name="work_sound_permission_dialog_title">Kurumsal mod kısıtlamaları</string>  
 </resources>
