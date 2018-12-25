@@ -25,7 +25,7 @@
     <string name="adding_recipients">Alıcılar ekleniyor...</string>
     <string name="alert_dlg_cancel_button">İptal</string>
     <string name="alert_dlg_ok_button">Tamam</string>
-    <string name="app_label">Mesajlaşma</string>
+    <string name="app_label">Mesajlar</string>
     <string name="app_name">Cihazlar</string>
     <string name="attach_image">Resimler</string>
     <string name="attach_record_sound">Ses Kaydı</string>
