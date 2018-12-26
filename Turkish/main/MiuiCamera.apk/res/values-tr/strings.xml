@@ -704,5 +704,10 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="live_music_hot_title">Sıcak Müzik</string>
   <string name="live_music_local_title">Yerel Müzik</string>
   <string name="live_music_network_exception">Ağ anomalisi</string>
-  <string name="live_music_network_exception_tips">Ağ anomalisi, lütfen tekrar deneyin</string>  
+  <string name="live_music_network_exception_tips">Ağ anomalisi, lütfen tekrar deneyin</string>
+  <string name="accessibility_lighting_panel_off">Stüdyo aydınlatma panelini kapatın</string>
+  <string name="accessibility_lighting_panel_on">Stüdyo aydınlatma panelini açın</string>
+  <string name="live_music_close_cancel_message">İptal</string>
+  <string name="live_music_close_message">Mevcut müziği kapatmak istiyor musunuz?</string>
+  <string name="live_music_close_sure_message">Kapat</string>  
 </resources>
