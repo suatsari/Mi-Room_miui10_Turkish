@@ -2546,5 +2546,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="face_unlock_verity_dialog_title_failed">Sizi tanıyamadım</string>
   <string name="face_unlock_verity_dialog_title_succeed">Başarıyla doğrulandı</string>
   <string name="fingerprint_to_lock_summary">Parmak izinizi kullanarak uygulamaların kilidini açın</string>
-  <string name="unlock_failed">İç hata</string>  
+  <string name="unlock_failed">İç hata</string>
+  <string name="app_manager_full_screen_summary">Seçilen uygulamaların tam ekran modunda çalışmasına izin ver</string>
+  <string name="app_manager_full_screen_title">Tam ekran modu</string>  
 </resources>
