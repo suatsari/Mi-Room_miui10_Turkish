@@ -157,8 +157,8 @@
     <item quantity="one">%d uygulama bildirimleri okuyabilir</item>
   </plurals>
   <plurals name="manage_trust_agents_summary_on">
-    <item quantity="other">%d aktif güven acentası</item>
-    <item quantity="one">1 aktif güven acentası</item>
+    <item quantity="other">%d aktif güvenilir aracı</item>
+    <item quantity="one">1 aktif güvenilir aracı</item>
   </plurals>
   <plurals name="master_clear_with_account_summary">
     <item quantity="other">%1$d hesap sıfırlanacak</item>
