@@ -67,11 +67,11 @@
   <string name="account_setup_address_label">E-Posta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Hesap ayarlarının, kullanıcı adının ve şifrenizin doğru olduğunu onaylayın.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Hesap ayarlanamadı!</string>
-  <string name="account_setup_basics_email_label">E-posta adresini girin</string>
+  <string name="account_setup_basics_email_label">E-posta adresi</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Mevcut ağı kullanarak giriş yap</string>
   <string name="account_setup_basics_manual_setup_action">Elle Kurulum</string>
   <string name="account_setup_basics_mi_mail_login_help">E-posta almak için hesabınızı SMS ile doğrulamanız gerekebilir.</string>
-  <string name="account_setup_basics_password_label">Şifre girin</string>
+  <string name="account_setup_basics_password_label">Şifre</string>
   <string name="account_setup_basics_title">Hesap ekle</string>
   <string name="account_setup_check_settings_check_incoming_msg">Sunucu ayarları doğrulanıyor...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanıyor…</string>
@@ -951,7 +951,7 @@
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Saklanıyor...</string>
   <string name="sdcard_cannot_use">SD kart kullanılamıyor</string>
-  <string name="search_bar_text">Mesajları ve kişileri arayın</string>
+  <string name="search_bar_text">Gönderenleri veya kişileri arayın</string>
   <string name="search_hint">E-Posta ara</string>
   <string name="search_result">Sonuçlar</string>
   <string name="search_tabs_name_all">Tümü</string>
@@ -1087,7 +1087,7 @@
   <string name="unzip_file_failed">Dosya açılamadı</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="updated_at">" %1$s\'da yenilendi"</string>
-  <string name="upload_log">Günlükleri yükle</string>
+  <string name="upload_log">Gönder</string>
   <string name="upload_log_failed">Günlükler gönderilemedi</string>
   <string name="upload_log_no">İptal</string>
   <string name="upload_log_success">"Başarıyla gönderildi, yakında geri dönüş yapılacak "</string>
