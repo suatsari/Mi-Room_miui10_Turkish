@@ -649,8 +649,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="accessibility_camera_record_start">kaydı başlat</string>
   <string name="accessibility_camera_record_stop">kaydı durdur</string>
   <string name="accessibility_record_button">Kayıt düğmesi</string> 
-  <string name="accessibility_ultra_pixel_photography_off">Ultra piksel, kapalı</string>
-  <string name="accessibility_ultra_pixel_photography_on">Ultra piksel, açık</string>
+  <string name="accessibility_ultra_pixel_photography_off">%d ultra net kapalı</string>
+  <string name="accessibility_ultra_pixel_photography_on">%d ultra net açık</string>
   <string name="accessibility_video_resume_button">kayda devam et</string>
   <string name="ai_scene_top_moon_off">Gece görünümü modu</string>
   <string name="live_speed_extreme_fast">En hızlı</string>
@@ -662,8 +662,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="module_name_professional">Pro</string>
   <string name="pref_camera_normal_wide_ldc_description">Fotoğraf kenarındaki yüz bozulmasını düzeltin</string>
   <string name="pref_camera_ultra_wide_ldc_description">Ultra geniş açılı modda bozulmayı düzeltme</string>
-  <string name="ultra_pixel_photography_close_tip">Ultra piksel kapatıldı</string>
-  <string name="ultra_pixel_photography_open_tip">Ultra piksel</string>
+  <string name="ultra_pixel_photography_close_tip">%d ultra net kapalı</string>
+  <string name="ultra_pixel_photography_open_tip">%d ultra net</string>
   <string name="camera_liveshot_off_tip">Dinamik fotoğraf kapalı</string>
   <string name="camera_liveshot_on_tip">Dinamik fotoğraf açık</string>
   <string name="network_exception">Ağ istisnası</string>
@@ -697,7 +697,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
 Daha heyecan verici güzelliği keşfedin."</string>
   <string name="device_48m_watermark_default_text">48M ÇİFT KAMERA</string>
   <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
-  <string name="pref_menu_ultra_pixel_photography_48mp">48M Ultra net</string>
+  <string name="pref_menu_ultra_pixel_photography_48mp">%d ultra net</string>
   <string name="pref_privacy_title">Gizlilik Politikası</string>
   <string name="live_music_change_bgm">Müziği Değiştir</string>
   <string name="live_music_downloading_tips">İndiriliyor...</string>
@@ -709,5 +709,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="accessibility_lighting_panel_on">Stüdyo aydınlatma panelini açın</string>
   <string name="live_music_close_cancel_message">İptal</string>
   <string name="live_music_close_message">Mevcut müziği kapatmak istiyor musunuz?</string>
-  <string name="live_music_close_sure_message">Kapat</string>  
+  <string name="live_music_close_sure_message">Kapat</string>
+  <string name="beauty_body_slim_count_tip">Kalıplama sadece tek çekimleri destekler</string>
+  <string name="pref_camera_live_sticker_internal_title">Dahili sihirli araçlar</string>  
 </resources>

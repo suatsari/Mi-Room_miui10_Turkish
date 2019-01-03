@@ -1425,5 +1425,18 @@ mevcut"</string>
   <string name="filter_people_bw">S&amp;B</string>
   <string name="filter_people_lilt">Kıvrak</string>
   <string name="filter_people_sepia">Sepya</string>
-  <string name="filter_people_tea">Çay</string>  
+  <string name="filter_people_tea">Çay</string>
+  <string name="channel_default_name">Yeni özellikler</string>
+  <string name="channel_low_name">Yeni mesajlar</string>
+  <string name="channel_min_name">Uygulama bildirimleri</string>
+  <string name="filter_bi_bw">S&amp;B</string>
+  <string name="filter_bi_dusk">Alacakaranlık</string>
+  <string name="filter_bi_lilt">Kıvrak</string>
+  <string name="filter_bi_sepia">Sepya</string>
+  <string name="filter_bi_tea">Çay</string>
+  <string name="motion_photo_play">Oynat</string>
+  <string name="movie_content_describe_add">Fotoğraf ekle</string>
+  <string name="movie_content_describe_delete">Fotoğrafları sil</string>
+  <string name="movie_content_describe_pause">Duraklat</string>
+  <string name="movie_content_describe_play">Oynat</string>  
 </resources>

@@ -20,4 +20,5 @@
   <string name="holiday_update_title">Güncelleme mevcut</string>
   <string name="provider_label">Takvim</string>
   <string name="upgrade_msg">Takvim veritabanı yükseltiliyor.</string>
+  <string name="channel_name">Takvim hatırlatıcıları</string>  
 </resources>

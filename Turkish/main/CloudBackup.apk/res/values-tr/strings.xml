@@ -186,5 +186,9 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="other_device_main_space">İlk alan</string>
   <string name="other_device_second_space">İkinci alan</string>
   <string name="self_device_main_space">Bu telefonun İlk alanı</string>
-  <string name="self_device_second_space">Bu telefonun ikinci alanı</string>  
+  <string name="self_device_second_space">Bu telefonun ikinci alanı</string>
+  <string name="restore_finish_description">Geri yükleme tamamlandı</string>
+  <string name="restore_init_description">Geri yüklemeyi başlat</string>
+  <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor…</string>
+  <string name="restoring_settings">Ayarları geri yükleniyor…</string>  
 </resources>

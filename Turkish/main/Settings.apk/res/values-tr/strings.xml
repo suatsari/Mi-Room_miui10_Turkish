@@ -6014,5 +6014,6 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="set_jeejen_prompt_title">Değişiklikleri onayla</string>
   <string name="work_sound_permission_dialog_button_text_known">Anladım</string>
   <string name="work_sound_permission_dialog_message">Temaları Kurumsal modda kullanamazsınız. Erişim almak için yöneticinize başvurun.</string>
-  <string name="work_sound_permission_dialog_title">Kurumsal mod kısıtlamaları</string>  
+  <string name="work_sound_permission_dialog_title">Kurumsal mod kısıtlamaları</string>
+  <string name="switch_select_to_speak_on">Konuşmak için seçin</string>  
 </resources>

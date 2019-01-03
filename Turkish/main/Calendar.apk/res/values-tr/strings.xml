@@ -849,5 +849,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="train_event_station_header_depart_time">Kalkış</string>
   <string name="train_event_station_header_name">İstasyon adı</string>
   <string name="train_event_station_header_stay_time">Kalan</string>
-  <string name="train_event_station_stay_time">%1$s dakika</string>  
+  <string name="train_event_station_stay_time">%1$s dakika</string>
+  <string name="notification_channel_name">Takvim hatırlatıcıları</string>
+  <string name="search_menu_title">Arama</string>  
 </resources>

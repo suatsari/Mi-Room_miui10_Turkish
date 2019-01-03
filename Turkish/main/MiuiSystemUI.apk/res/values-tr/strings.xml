@@ -1741,5 +1741,10 @@ d MMM"</string>
   <string name="aspect_cancel">İptal</string>
   <string name="aspect_message">Bu uygulama tam ekran modunda tekrar başlatılacak. Herhangi bir sorunla karşılaşırsanız, bu uygulama için tam ekran modunu devre dışı bırakabilirsiniz: Ayarlar &gt; Tam ekran görüntüle &gt; Tam ekran modu.</string>
   <string name="aspect_ok">Tamam</string>
-  <string name="aspect_title">Tam ekran modu</string>  
+  <string name="aspect_title">Tam ekran modu</string>
+  <string name="description_image_icon_sim_card">SIM Kart %1$d</string>
+  <string name="stream_voice_assist">Sesli Yardım</string>
+  <string name="usb_port_overheated_dialog_content">Şarj portu aşırı ısınmış. Şarj cihazını cihazınızdan çıkarın ve şarj portunun temiz olup olmadığını kontrol edin. Herhangi bir sorunuz olursa müşteri desteğine başvurun.</string>
+  <string name="usb_port_overheated_notification_content">Şarj cihazını cihazınızdan çıkarın ve şarj portunun temiz olup olmadığını kontrol edin.</string>
+  <string name="usb_port_overheated_title">Şarj portu aşırı ısınmış. Şarj cihazını çıkarın.</string>  
 </resources>

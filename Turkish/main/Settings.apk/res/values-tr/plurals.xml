@@ -311,5 +311,8 @@
   <plurals name="show_modem_logcat_countdown">
     <item quantity="other">Modem günlüğü alabilmeniz için %1$d  adım kaldı</item>
     <item quantity="one">Modem günlüğü alabilmeniz için %1$d  adım kaldı</item>
+  </plurals>
+  <plurals name="miui_sos_emergency_contacts_quantity">
+    <item quantity="other">%d eklendi</item>
   </plurals>  
 </resources>

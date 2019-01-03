@@ -627,5 +627,8 @@ Fikstürü telefonun yakınından uzaklaştırın."</string>
   <string name="sar_sensor_collect_data">Veri Toplamayı Başlat</string>
   <string name="sar_sensor_collect_data_test_summary">"Gerçek zamanlı açının 130 ila 140 derece arasında olduğundan emin olmak için telefonu çevirin
 Diğer elinizi cep telefonundan uzak tutun. Veri toplamayı başlat düğmesine tıklayın
-Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>  
+Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>
+  <string name="cit_no_sim_check_summary">Telefonun sim kartı olmadığını onaylayın!</string>
+  <string name="cit_no_sim_check_title">Sim Kart yok</string>
+  <string name="fp_fod_calibration">fod parmak izi kalibrasyonu</string>  
 </resources>
