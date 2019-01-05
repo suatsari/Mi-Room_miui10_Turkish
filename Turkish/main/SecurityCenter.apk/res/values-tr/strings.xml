@@ -2548,5 +2548,6 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="fingerprint_to_lock_summary">Parmak izinizi kullanarak uygulamaların kilidini açın</string>
   <string name="unlock_failed">İç hata</string>
   <string name="app_manager_full_screen_summary">Seçilen uygulamaların tam ekran modunda çalışmasına izin ver</string>
-  <string name="app_manager_full_screen_title">Tam ekran modu</string>  
+  <string name="app_manager_full_screen_title">Tam ekran modu</string>
+  <string name="card_main_deepclean_facebook_title">Facebook temizleyici</string> 
 </resources>

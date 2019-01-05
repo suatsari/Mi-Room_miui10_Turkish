@@ -1545,7 +1545,7 @@ Kapatmak ister misiniz?"</string>
   <string name="wifi_available_title_connected">WLAN ağına bağlandı</string>
   <string name="wifi_available_title_connecting">WLAN ağını açmak için bağlanıyor</string>
   <string name="wifi_available_title_failed_to_connect">WLAN ağına bağlanılamadı</string>
-  <string name="alert_windows_notification_channel_group_name">Diğer uygulamalar üzerinde göster</string>
+  <string name="alert_windows_notification_channel_group_name">Diğer uygulamaların üzerinde göster</string>
   <string name="alert_windows_notification_channel_name">%s diğer uygulamala üzerinde göster</string>
   <string name="alert_windows_notification_message">%s için bu özelliği kullanmasını istemiyorsanız, ayarları açın ve kapat öğesine dokunun.</string>
   <string name="alert_windows_notification_title">%s diğer uygulamaların üzerinde görüntüleniyor</string>

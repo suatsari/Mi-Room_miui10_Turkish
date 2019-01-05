@@ -53,6 +53,12 @@
   <string name="access_control_recording_intro_header">Şifreyi açmak için deseni çizin:</string>
   <string name="access_control_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
   <string name="access_point_names">Erişim noktası adları</string>
+  <string name="accessibility_services_title">Hizmetler</string>
+  <string name="accessibility_system_title">Sistem</string>
+  <string name="accessibility_toggle_speak_password_preference_title">Şifreleri konuş</string>
+  <string name="accessibility_display_title">Ekran</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Kapalı</string>
+  <string name="accessibility_global_gesture_preference_summary_on">Açık</string>  
   <string name="accessibility_autoclick_delay_preference_title">Tıklamadan önce gecikme</string>
   <string name="accessibility_autoclick_preference_title">İşaretçi hareket etmeyi bıraktıktan sonra tıklayın</string>
   <string name="accessibility_captioning_title">Altyazılar</string>
@@ -570,8 +576,8 @@
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_last_full_charge">Son tam şarj</string>
   <string name="battery_level_title">Pil Seviyesi</string>
-  <string name="battery_light_summary">Cihaz şarj ettiği esnada bildirim ışığını aç</string>
-  <string name="battery_light_title">Şarj Olurken Aydınlat</string>
+  <string name="battery_light_summary">Cihaz şarj olurken bildirim ışığını aç</string>
+  <string name="battery_light_title">Şarj olurken yansın</string>
   <string name="battery_msg_unaccounted">Pil kullanımında yaklaşık güç durumu esas alınır ve değerler farklılıklar gösterebilir. Özellikle farklı hesaplar farklı sonuçlar çıkartabilir. Yani esas güç ile gözlemlenen güç arasında farklılıklar olabilir.</string>
   <string name="battery_overall_usage">Toplam pilin %1$s kadarı</string>
   <string name="battery_percentage">Pil yüzdesi</string>
@@ -1527,7 +1533,7 @@
   <string name="dndm_auto_button_title">Rahatsız Etme Tekrarı</string>
   <string name="dndm_auto_setting_group">Planlanmış</string>
   <string name="dndm_auto_time_setting">Zaman Ayarı</string>
-  <string name="dndm_auto_time_turn_off">Bitiş</string>
+  <string name="dndm_auto_time_turn_off">İçin</string>
   <string name="dndm_auto_time_turn_off_title">Rahatsız Etme\'yi otomatik kapat</string>
   <string name="dndm_auto_time_turn_on">Başlangıç</string>
   <string name="dndm_auto_time_turn_on_title">Rahatsız Etme\'yi otomatik aç</string>
@@ -1599,8 +1605,8 @@
   <string name="doze_always_on_title">Açık</string>  
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam ekranı</string>
-  <string name="draw_overlay">Diğer uygulamalar üzerinde göster</string>
-  <string name="draw_overlay_title">Diğer uygulamalar üzerinde göster</string>
+  <string name="draw_overlay">Diğer uygulamaların üzerinde göster</string>
+  <string name="draw_overlay_title">Diğer uygulamaların üzerinde gösterilen uygulamalar</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
   <string name="edge_mode_back">Geri Dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
@@ -3052,7 +3058,7 @@
   <string name="other_sound_category_preference_title">Diğer sesler ve titreşimler</string>
   <string name="other_sound_settings">Diğer sesler</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="overlay_settings">Diğer uygulamalar üzerinde göster</string>
+  <string name="overlay_settings">Diğer uygulamaların üzerinde göster</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
@@ -3141,7 +3147,7 @@
   <string name="permission_settings_summary">Konum, Depolama, Telefon, Mesaj ve Kişilerin izinlerini yönet.</string>
   <string name="permission_settings_title">Uygulama İzinleri</string>
   <string name="permissions_label">İzinler</string>
-  <string name="permit_draw_overlay">Diğer uygulamalar üzerinde gösterime izin ver</string>
+  <string name="permit_draw_overlay">Diğer uygulamaların üzerinde gösterime izin ver</string>
   <string name="permit_running_network">Arkaplan verisi</string>
   <string name="permit_usage_access">Müsaade kullanarak eriş</string>
   <string name="permit_write_settings">Sistem ayarlarını değiştirmeye izinli</string>
@@ -3905,7 +3911,7 @@
   <string name="search_touch_assistant">Kısayol Düğmesi</string>
   <string name="search_touch_sensitive_title">Eldiven Modu</string>
   <string name="search_trusted_credentials">Güvenilir Siciller</string>
-  <string name="search_tts_settings_title">Metinden Konuşmaya Çıkışı</string>
+  <string name="search_tts_settings_title">Metin-konuşma çıktısı;Metin-konuşma</string>
   <string name="search_turn_on_security_lock">Kilit Ekranı değiştir</string>
   <string name="search_usb_tethering_button_text">USB</string>
   <string name="search_user_agreement">Hizmet Şartları</string>
@@ -4522,7 +4528,7 @@
   <string name="suw_back_button_label">Geri</string>
   <string name="suw_more_button_label">Diğer</string>
   <string name="suw_next_button_label">Sonraki</string>
-  <string name="switch_off_text">Kapat</string>
+  <string name="switch_off_text">Kapalı</string>
   <string name="switch_on_text">Açık</string>
   <string name="switch_screen_button_order">Ekrandaki Sırası</string>
   <string name="switch_screen_button_order_desc">Geri ve Menü yer değiştir</string>
@@ -4548,11 +4554,11 @@
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
-  <string name="system_alert_window_access_title">Diğer uygulamalar üzerinde göster</string>
+  <string name="system_alert_window_access_title">Diğer uygulamaların üzerinde göster</string>
   <string name="system_alert_window_apps_title">Uygulamalar</string>
   <string name="system_alert_window_off">Hayır</string>
   <string name="system_alert_window_on">Evet</string>
-  <string name="system_alert_window_settings">Diğer uygulamalar üzerinde göster</string>
+  <string name="system_alert_window_settings">Diğer uygulamaların üzerinde göster</string>
   <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
   <string name="system_and_device_section_title">Sistem &amp; Cihaz</string>
   <string name="system_app">(Sistem)</string>
@@ -4668,7 +4674,7 @@
   <string name="tts_default_rate_summary">Metnin konuşma hızını ayarlar</string>
   <string name="tts_default_rate_title">Konuşma Hızı</string>
   <string name="tts_default_sample_string">Bu konuşma sentezinin bir örneğidir</string>
-  <string name="tts_engine_network_required">Metinden konuşmaya çıkışı için bu dilin çalışan ağ bağlantısına ihtiyaç var.</string>
+  <string name="tts_engine_network_required">Bu dilin, metin-konuşma çıktısı için çalışan bir ağ bağlantısına ihtiyacı var.</string>
   <string name="tts_engine_preference_section_title">Tercih Edilen Sentezleyici</string>
   <string name="tts_engine_preference_title">Tercih edilen motor</string>
   <string name="tts_engine_section_title">Motor</string>
@@ -4693,8 +4699,8 @@
   <string name="tts_reset_speech_pitch_title">Konuşma zeminini sıfırla</string>
   <string name="tts_reset_speech_rate_summary">Metnin normal olarak konuşulduğu hızı sıfırlayın.</string>
   <string name="tts_reset_speech_rate_title">Konuşma hızını sıfırla</string>
-  <string name="tts_settings">Metinden Konuşmaya Ayarları</string>
-  <string name="tts_settings_title">Metinden Konuşmaya Çıkışı</string>
+  <string name="tts_settings">Metin-konuşma ayarları</string>
+  <string name="tts_settings_title">Metin-konuşma çıktısı</string>
   <string name="tts_sliders_title">Konuşma hızı ve ses tonu</string>
   <string name="tts_spoken_language">Konuşma Dili</string>
   <string name="tts_status_checking">Denetleniyor...</string>

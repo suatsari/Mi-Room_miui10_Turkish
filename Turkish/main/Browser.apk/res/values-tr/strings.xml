@@ -261,7 +261,7 @@
   <string name="download_dialog_file_length_nolength_txt">Biraz bekleyin...</string>
   <string name="download_failed">İndirme tamamlanamadı</string>
   <string name="download_filter_all">Tümü</string>
-  <string name="download_filter_apk">Apk</string>
+  <string name="download_filter_apk">APK</string>
   <string name="download_filter_application">Uygulamalar</string>
   <string name="download_filter_audio">Müzik</string>
   <string name="download_filter_image">Fotoğraflar</string>
@@ -981,7 +981,7 @@
   <string name="same_folder_name_warning">Aynı isme sahip bir grup zaten mevcut</string>
   <string name="save_button_text">Kaydet</string>
   <string name="save_dialog_title">Kaydet</string>
-  <string name="save_file">Kaydet </string>
+  <string name="save_file">"Kaydet "</string>
   <string name="save_file_already_exist_alert_message">Aynı ada sahip bir dosya zaten var, değiştirilsin mi?</string>
   <string name="save_file_already_exist_alert_title">Dosya üzerine yazılsın mı?</string>
   <string name="save_form_data_confirm_message">Bu özelliği kapamak kullanımınızı etkileyebilir.</string>
