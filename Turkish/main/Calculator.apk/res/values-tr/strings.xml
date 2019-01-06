@@ -575,4 +575,19 @@
   <string name="tax_thershold_native_new">%s (yeni)</string>
   <string name="tax_thershold_native_new_description">Vergiler 1 Ekim 2018 tarihinden itibaren yeni vergi kanununa göre hesaplanacaktır.</string>
   <string name="not_supported_due_to_language">Bu özellik sadece Çince dilinde kullanılabilir</string>
+  <string name="children_education">Çocuk eğitimi</string>
+  <string name="extra_deduction_instruction">Kesinti ayrıntıları</string>
+  <string name="extra_deduction_tips">Kesinti ayrıntılarını görüntülemek için ekranın üst köşesindeki düğmeye dokunun.</string>
+  <string name="extra_deduction_title">Ek kesintiler</string>
+  <string name="further_education">İleri eğitim</string>
+  <string name="help_content_desc">Yardım</string>
+  <string name="home_loan">İpotek faizi</string>
+  <string name="house_rent">Kira</string>
+  <string name="license_host_unreachable">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="medical_treatment">Tıbbi tedavi</string>
+  <string name="mt_max">Girdiğiniz miktar çok büyük</string>
+  <string name="none">Yok</string>
+  <string name="support_elder">Yaşlılar için destek</string>
+  <string name="updating">Hesap makinesi güncelleniyor…</string>
+  <string name="tax_rate_provider">Yeni vergi düzenlemelerine göre hesaplandı. Veriler hexun.com ve East Money tarafından sağlanmaktadır.</string>  
 </resources>

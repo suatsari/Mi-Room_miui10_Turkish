@@ -100,7 +100,7 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="daily_forecast_no_data">Hava Durumu bilgisi alınamadı\n  +Yenilemek veya ağ ayarlarını kontrol etmek için aşağı doğru çekin</string>
   <string name="data_provided_by">Bölüm tarafından sağlanan veriler</string>
-  <string name="edit_city">Şehri düzenle</string>
+  <string name="edit_city">Şehirleri yönet</string>
   <string name="empty_view_net_loading">Güncelleniyor…</string>
   <string name="empty_view_net_unavailable">Ağa bağlanılamadı</string>
   <string name="empty_view_refresh">Tekrar deneyin</string>

@@ -1283,5 +1283,10 @@
   <string-array name="default_vol_stream_entries">
     <item>Zil sesi</item>
     <item>Medya</item>
-  </string-array>   
+  </string-array>
+  <string-array name="aod_clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+    <item>Satır içi</item>
+  </string-array>  
 </resources>

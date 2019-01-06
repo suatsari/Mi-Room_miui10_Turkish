@@ -98,7 +98,7 @@
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">%d fotoğraf silinsin mi?</item>
-        <item quantity="one">%d fotoğraf silinsin mi?</item>
+        <item quantity="one">Bu fotoğraf silinsin mi?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Bu albümden ve Mi Bulut\'tan %d fotoğraf silinsin mi?</item>

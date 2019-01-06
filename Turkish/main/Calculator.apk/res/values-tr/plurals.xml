@@ -4,4 +4,8 @@
         <item quantity="other">%1$d yıl (%2$d ay)</item>
         <item quantity="one">%1$d yıl (%2$d ay)</item>
     </plurals>
+    <plurals name="entries">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>	
 </resources>
