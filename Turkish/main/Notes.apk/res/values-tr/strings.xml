@@ -161,7 +161,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="sina_share_success">Gönderildi</string>
   <string name="sina_token_expired_warning">Weibo hesabının süresi doldu:Lütfen yeniden bağlanın</string>
   <string name="sina_token_invalid_warning">Weibo hesabının süresi doldu: Lütfen yeniden bağlanın</string>
-  <string name="snippet_image_stub">[Resim]</string>
+  <string name="snippet_image_stub">Resimli not</string>
   <string name="snippet_image_template">[Resim %1$s]</string>
   <string name="sns_action_send">Gönder</string>
   <string name="sns_choose_quality_high">Yüksek (%1$s)</string>

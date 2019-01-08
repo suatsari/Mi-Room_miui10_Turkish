@@ -515,7 +515,7 @@
   <string name="save_failed_for_length">İmza çok uzun, daha kısa olanı deneyin</string>
   <string name="save_name_success">Başarıyla değiştirildi</string>
   <string name="save_to_local">İndir</string>
-  <string name="search_app">Uygulama &amp; Dizinler</string>
+  <string name="search_app">Uygulamalar &amp; klasörler</string>
   <string name="search_app_more">Fazlası</string>
   <string name="search_description">Cihazdaki tüm dosyaları ara</string>
   <string name="search_download">İndirilenler;Önceki İndirmeler</string>
