@@ -1268,8 +1268,8 @@
   <string name="saved_network">%1$s tarafından kaydedildi</string>
   <string name="screen_button_notification_text">Etkinleştirmek için ana ekran ve güç tuşlarına birlikte basın.</string>
   <string name="screen_button_notification_title">Navigasyon tuşları devre dışı bırakıldı</string>
-  <string name="screen_pinning_description">Bu işlem sabitlemeyi kaldırmanıza kadar ögeyi görünür tutar. Sabitlemeyi kaldırmak için Geri ve Genel bakış tuşlarına basın &amp; basılı tutun.</string>
-  <string name="screen_pinning_description_accessible">Bu işlem sabitlemeyi kaldırmanıza kadar ögeyi görünür tutar. Sabitlemeyi kaldırmak için Genel bakış tuşuna basın &amp; basılı tutun.</string>
+  <string name="screen_pinning_description">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
+  <string name="screen_pinning_description_accessible">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
   <string name="screen_pinning_negative">Hayır, teşekkürler</string>
   <string name="screen_pinning_positive">Anladım</string>
   <string name="screen_pinning_title">Ekran sabitlendi</string>

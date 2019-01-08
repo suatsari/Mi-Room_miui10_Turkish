@@ -260,4 +260,17 @@
   <string name="plant_reg_fail_2">Bu nesne tanımlanamadı. Tarayıcı sadece bitkileri tanımlayabilir.</string>
   <string name="plant_support">"(Teknik destek)"</string>
   <string name="plant_title">Tanımlamak istediğiniz bitkiyi tarayın</string>
+  <string name="about_title">Hakkında</string>
+  <string name="business_card_result_title">Kartvizit</string>
+  <string name="choose_pay_title">Ödeme yöntemini seçin</string>
+  <string name="no_support_to_translate_type">Bu dil desteklenmiyor</string>
+  <string name="scan_support_type">WeChat, Alipay, QR kodları, barkodlar</string>
+  <string name="setting_alipay">Alipay</string>
+  <string name="setting_choose_every_time">Her zaman sor</string>
+  <string name="setting_default_function">Varsayılan özellik</string>
+  <string name="setting_preference_pay">Tercih edilen ödeme yöntemi</string>
+  <string name="setting_title">Ayarlar</string>
+  <string name="setting_use_last_choose">Önceki seçimi hatırla</string>
+  <string name="setting_wechat">WeChat</string>
+  <string name="to_pay">Ödemeyi tamamla</string>  
 </resources>
