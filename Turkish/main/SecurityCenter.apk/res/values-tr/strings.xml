@@ -2549,5 +2549,9 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="unlock_failed">İç hata</string>
   <string name="app_manager_full_screen_summary">Seçilen uygulamaların tam ekran modunda çalışmasına izin ver</string>
   <string name="app_manager_full_screen_title">Tam ekran modu</string>
-  <string name="card_main_deepclean_facebook_title">Facebook temizleyici</string> 
+  <string name="card_main_deepclean_facebook_title">Facebook temizleyici</string>
+  <string name="traffic_setting_fragment_title_guide">Operatörler ve veri planları</string>
+  <string name="traffic_usage_warning_body">Bu ay zaten %s mobil veri kullandınız.</string>
+  <string name="traffic_usage_warning_limit">Veri kullanımı uyarı sınırı</string>
+  <string name="traffic_usage_warning_title">Veri kullanımı uyarısı</string>  
 </resources>

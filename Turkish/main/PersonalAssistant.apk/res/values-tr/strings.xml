@@ -1118,4 +1118,6 @@
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Dün</string>
+  <string name="notification_channel_card">Kartlar</string>
+  <string name="notification_channel_default">Varsayılan</string>  
 </resources>

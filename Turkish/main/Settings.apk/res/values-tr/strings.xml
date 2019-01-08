@@ -663,6 +663,10 @@
   <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br&gt;%1$s&lt;br&gt;&lt;br&gt;Bu parolayı gösterdiğinden emin olun:&lt;br&gt;%2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
   <string name="bluetooth_connected">Bağlandı</string>
+  <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (medya yok) | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (telefon yok) | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (telefon veya medya yok) | Pil %1$s%2$s</string>  
   <string name="bluetooth_connected_multiple_devices_summary">Birden çok cihaza bağlı</string>
   <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)</string>
   <string name="bluetooth_connected_no_headset">Bağlandı (telefon yok)</string>
@@ -6022,5 +6026,11 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="work_sound_permission_dialog_message">Temaları Kurumsal modda kullanamazsınız. Erişim almak için yöneticinize başvurun.</string>
   <string name="work_sound_permission_dialog_title">Kurumsal mod kısıtlamaları</string>
   <string name="switch_select_to_speak_on">Konuşmak için seçin</string>
-  <string name="aod_clock_style_title">Saat stili</string>  
+  <string name="aod_clock_style_title">Saat stili</string>
+  <string name="eq_return">Giriş</string>
+  <string name="page_layout_confirm_message_enlarge">Metin, resimler ve simgeler büyütülecek. Bazı simgelerin yeri değişebilir.</string>
+  <string name="page_layout_confirm_message_narrow">Metin, resimler ve simgeler küçülecek. Bazı simgelerin yeri değişebilir.</string>
+  <string name="page_layout_confirm_title_enlarge">Daha büyük öğeler</string>
+  <string name="page_layout_confirm_title_narrow">Daha küçük öğeler</string>
+  <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>  
 </resources>

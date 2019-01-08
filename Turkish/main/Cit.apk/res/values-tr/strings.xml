@@ -630,5 +630,13 @@ Diğer elinizi cep telefonundan uzak tutun. Veri toplamayı başlat düğmesine 
 Başarılı bir kalibrasyondan sonra, CS0i ve CS1'in mutlak değerinin 200'den küçük ve CS1'in değerinin 300'den büyük olduğunu gözlemleyin. Diğer el cep telefonunun altına yakın üst üste beş kez geçtikten sonra, CS0 değeri düğmeye arka arkaya 3 kez basıldıktan sonra 3000 ile 30000 arasında geçiş düğmesi ile vurgulanır."</string>
   <string name="cit_no_sim_check_summary">Telefonun sim kartı olmadığını onaylayın!</string>
   <string name="cit_no_sim_check_title">Sim Kart yok</string>
-  <string name="fp_fod_calibration">fod parmak izi kalibrasyonu</string>  
+  <string name="fp_fod_calibration">fod parmak izi kalibrasyonu</string>
+  <string name="pop_camera">Pop Kamera</string>
+  <string name="pop_push_camera_test_summary">"Kameranın çıkıp çıkmadığını görmek için Pop kamera düğmesini tıklayın
+Kameranın gelip gelmediğini görmek için Push Kamera Düğmesi\'ne tıklayın"</string>
+  <string name="pop_push_camera_test_title">Pop ve Push Kamera Testi</string>
+  <string name="push_camera">Push Kamera</string>
+  <string name="sar_sensor_collect_test_summary">"Telefonu döndürün, fikstürü takın
+Veri toplama işlemini başlat düğmesini tıklayın
+Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>  
 </resources>

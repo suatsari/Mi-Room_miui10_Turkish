@@ -315,5 +315,11 @@
     <item>Bilgi</item>
     <item>Hata ayıklama</item>
     <item>Ayrıntılı</item>
-    </string-array>  
+    </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item></item>
+    <item>" | Aktif"</item>
+    <item>" | Aktif (medya)"</item>
+    <item>" | Aktif (telefon)"</item>
+  </string-array>	
 </resources>

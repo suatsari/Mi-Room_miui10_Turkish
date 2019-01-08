@@ -82,5 +82,6 @@
   <string name="first_using_mic_dialog_title">İzin gerekli</string>
   <string name="using_record_confirm_cancel">Kısıtla</string>
   <string name="using_record_confirm_ok">İzin ver</string>
-  <string name="sound_source_summary_without_system_sounds">Mikrofonu kullanın veya sesi kapatın</string>  
+  <string name="sound_source_summary_without_system_sounds">Mikrofonu kullanın veya sesi kapatın</string>
+  <string name="warning_recording_when_a2dp_connect">Cihazınızda Bluetooth kulaklık kullanılırken sistem seslerini kayıt desteklenmez.</string>  
 </resources>

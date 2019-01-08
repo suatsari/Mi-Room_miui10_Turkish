@@ -627,8 +627,6 @@ Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</
   <string name="ultra_wide_recommend_tip_hint">Geniş açı modunu deneyin</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Tam vücut modu açık</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Tam vücut modu kapalı</string>
-  <string name="accessibility_ultra_wide_off">Süper geniş açı, kapalı</string>
-  <string name="accessibility_ultra_wide_on">Süper geniş açı, açık</string>
   <string name="ai_scene_top_tip">Ay modu</string>
   <string name="beauty_tab_name_live_beauty">Güzelleştirme</string>
   <string name="beauty_tab_name_live_filter">Filtreler</string>
@@ -720,5 +718,18 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi takip etme durduruldu</string>
   <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzaklıkta kalın.</string>
   <string name="live_sticker_fragment_tab_name">Çıkartma</string>
-  <string name="network_access_user_notice_title">İnternete bağlanıyor</string>  
+  <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_off">32MP kapalı</string>
+  <string name="accessibility_ultra_pixel_photography_32mp_on">32MP açık</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_off">48MP kapalı</string>
+  <string name="accessibility_ultra_pixel_photography_48mp_on">48MP açık</string>
+  <string name="hand_gesture_open_tip">Avucunuzun uzatın ve geriye saymaya başlayın</string>
+  <string name="hand_gesture_tip">Hareket ile fotoğraf</string>
+  <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
+  <string name="pref_new_slow_motion_video_quality_960_720only">720p videoları yalnızca 960fps ile kaydedebilirsiniz.</string>
+  <string name="ultra_pixel_photography_32mp_close_tip">32MP kapalı</string>
+  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
+  <string name="ultra_pixel_photography_48mp_close_tip">48MP kapalı</string>
+  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="zoom_no_support_tip_48M">Yakınlaştırma, 48mp süper netleme modunda desteklenmiyor</string>  
 </resources>

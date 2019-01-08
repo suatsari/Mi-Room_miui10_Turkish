@@ -299,6 +299,10 @@
   <string name="bluetooth_a2dp_profile_summary_connected">Medya sesine bağlanıldı</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
   <string name="bluetooth_connected">Bağlandı</string>
+  <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (medya yok) | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (telefon yok) | Pil %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Bağlandı (telefon veya medya yok) | Pil %1$s%2$s</string>  
   <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)</string>
   <string name="bluetooth_connected_no_headset">Bağlandı (telefon yok)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Bağlandı (telefon veya medya yok)</string>

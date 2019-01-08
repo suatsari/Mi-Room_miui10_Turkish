@@ -55,9 +55,9 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="cloud_back_up_no_network_warn">WLAN ağına bağlanamadı</string>
   <string name="cloud_back_up_ok_btn">Tamam</string>
   <string name="cloud_back_up_opening">Biraz bekleyin…</string>
-  <string name="cloud_back_up_share_activity_confirm">Güncelle</string>
-  <string name="cloud_back_up_share_activity_discription">Daha fazla depolama alanı, günlük yedekleme ve daha fazlasını alın.</string>
-  <string name="cloud_back_up_share_activity_title">Mi Hesabını Güncelle</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Yükselt</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Daha fazla depolama alanı, günlük yedeklemeler ve daha fazlasını edinin.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Mi Hesabı\'nı yükselt</string>
   <string name="cloud_back_up_task">Yedekleniyor…</string>
   <string name="cloud_backup">Mi bulut yedeklemeleri</string>
   <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
