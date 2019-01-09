@@ -43,7 +43,7 @@
   <string name="lasttime_applist_cloud">Güncellenmiş uygulamalar:</string>
   <string name="lasttime_feature_cloud">Güncellenmiş özellikler:</string>
   <string name="performance_category">Performans</string>
-  <string name="power_center">Pil kullanımı</string>
+  <string name="power_center">Pil tasarrufu</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s anormal çalışıyor</string>
   <string name="power_checker_background_cpu_title">%1$s anormal çalışıyor</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s sıklıkla konum bilgisini alıyor</string>
@@ -110,5 +110,9 @@
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapatıldı</string>
   <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açıldı</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
-  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>  
+  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>
+  <string name="dark_mode">Karanlık mod</string>
+  <string name="dark_mode_summary">Pili korumak için koyu renk paletine geçin</string>
+  <string name="open_dark_mode">Karanlık moda geç</string>
+  <string name="open_dark_mode_tip">Karanlık modda bazı özelliklerin ekran kalitesi düşebilir. Karanlık moddan çıktığınızda normale dönecektir. Şimdi Karanlık moda geçilsin mi?</string>  
 </resources>

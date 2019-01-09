@@ -41,6 +41,7 @@
   <string name="accessibility_peak">Odak Noktası Düğmesi</string>
   <string name="accessibility_portrait_button">Portre modu</string>
   <string name="accessibility_protrait">Portre</string>
+  <string name="accessibility_pull_down_to_open_camera">Kamerayı açmak için aşağı kaydırın</string>  
   <string name="accessibility_review_thumbnail">En Son Fotoğraf</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_selected">Seçilen öğeler</string>
@@ -657,7 +658,7 @@ Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</
   <string name="live_speed_extreme_slow">Süper yavaş</string>
   <string name="live_speed_slow">Yavaş</string>
   <string name="live_speed_normal">Normal</string>
-  <string name="live_speed_fragment_tab_name">Hız</string>
+  <string name="live_speed_fragment_tab_name">Kayıt hızı</string>
   <string name="live_speed_fast">Hızlı</string>
   <string name="live_speed_extreme_fast">Süper hızlı</string>
   <string name="module_name_professional">Pro</string>
