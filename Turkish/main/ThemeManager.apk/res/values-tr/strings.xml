@@ -539,6 +539,10 @@
   <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">Duvar Kağıdı yüklenemiyor</string>
   <string name="wallpaper_detail_load_page_no_network">Ağa bağlanın ve tekrar deneyin.</string>
+  <string name="wallpaper_personal_dialog_agree">Kişiselleştir</string>
+  <string name="wallpaper_personal_dialog_content">İlgi alanlarınıza göre kişiselleştirilmiş duvar kağıtları seçimini görebilmek için bu özelliği kullanın. Bunu ayarlardan açıp kapatabilirsiniz. Duvar kağıtlarını şimdi kişiselleştir?</string>
+  <string name="wallpaper_personal_dialog_disagree">Hayır teşekkürler</string>
+  <string name="wallpaper_personal_dialog_title">Duvar kağıtlarınızı kişiselleştirin</string>  
   <string name="wallpaper_scroll_type_tips">Duvar kağıdını kaydır</string>
   <string name="wallpaper_set_as_both">İkisine de Ayarla</string>
   <string name="wallpaper_set_as_desktop">Ana Ekrana Ayarla</string>

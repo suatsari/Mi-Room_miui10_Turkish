@@ -37,12 +37,12 @@
     <item quantity="many">%1$d dosyayı sil</item>
   </plurals>
   <plurals name="delete_folders_confirm">
-    <item quantity="other">" ve %1$d klasör silinsin mi?"</item>
-    <item quantity="zero">"  ve %1$d klasör silinsin mi?"</item>
-    <item quantity="one">"  ve %1$d klasör silinsin mi?"</item>
-    <item quantity="two">"  ve %1$d klasör silinsin mi?"</item>
-    <item quantity="few">"  ve %1$d klasör silinsin mi?"</item>
-    <item quantity="many">"  ve %1$d klasör silinsin mi?"</item>
+    <item quantity="other">" ve %1$d klasörü sil?"</item>
+    <item quantity="zero">" ve %1$d klasörü sil?"</item>
+    <item quantity="one">" ve %1$d klasörü sil?"</item>
+    <item quantity="two">" ve %1$d klasörü sil?"</item>
+    <item quantity="few">" ve %1$d klasörü sil?"</item>
+    <item quantity="many">" ve %1$d klasörü sil?"</item>
   </plurals>
   <plurals name="directory_item_count">
     <item quantity="other">%d öğe</item>
