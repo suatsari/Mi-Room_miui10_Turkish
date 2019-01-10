@@ -732,5 +732,5 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP kapalı</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-  <string name="zoom_no_support_tip_48M">Yakınlaştırma, 48mp süper netleme modunda desteklenmiyor</string>  
+  <string name="zoom_no_support_tip_48M">Yakınlaştırma 48MP modunda çalışmıyor</string>  
 </resources>

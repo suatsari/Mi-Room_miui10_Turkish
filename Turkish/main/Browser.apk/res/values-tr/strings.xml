@@ -1391,5 +1391,9 @@
   <string name="small_video_native_tab">Küçük video</string>
   <string name="small_video_net_error">Bağlantı hatası</string>
   <string name="small_video_no_more_date">Veri yok</string>
-  <string name="topic_content_default">konu</string>  
+  <string name="topic_content_default">konu</string>
+  <string name="home_hybrid_application_tips">Buraya dahil olan Mini Programlar</string>
+  <string name="hybrid_application_no_data_text">Mini Program Yok</string>
+  <string name="hybrid_popup_window_delete_button">Sil</string>
+  <string name="window_manager_hybrid_application_list_title_text">Son Zamanlarda Kullanılan</string>  
  </resources>

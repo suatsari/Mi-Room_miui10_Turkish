@@ -1579,4 +1579,6 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="sip_account_disable">Hesap aktif değil. Çağrı kabul edilemez.</string>
   <string name="sip_receive_call_disable">Çağrı kabul edilemez. Önce çağrıları kabul etmeye izin verin.</string>
+  <string name="preferred_network_mode_lte_choice">Sadece LTE</string>
+  <string name="preferred_network_mode_lte_wcdma_choice">WCDMA/LTE</string>  
 </resources>
