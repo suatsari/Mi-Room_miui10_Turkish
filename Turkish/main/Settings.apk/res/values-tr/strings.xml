@@ -3496,7 +3496,7 @@
   <string name="really_remove_account_message">Bu hesaba ait tüm mesajlar, kişiler, diğer veriler bu telefondan kaldırılacak!</string>
   <string name="really_remove_account_title">Bu hesap kaldırılsın mı?</string>
   <string name="rebootiing_for_updates">Tekrar başlatılıyor…</string>
-  <string name="receiver_clean">Alanı Boşalt</string>
+  <string name="receiver_clean">Alan boşalt</string>
   <string name="recent_location_requests_summary">Aşağıdaki uygulamalar konum bilginizi görüntülemek istiyor</string>
   <string name="recent_location_requests_title">Konum Erişimi</string>
   <string name="recommend_item_1">Telefon kılıfı</string>

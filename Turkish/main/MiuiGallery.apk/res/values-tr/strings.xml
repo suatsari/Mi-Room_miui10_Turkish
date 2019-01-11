@@ -402,7 +402,7 @@
   <string name="error_socket_timeout_action">Şebeke seç</string>
   <string name="error_socket_timeout_msg">Farklı bir ağa bağlanın ve tekrar deneyin.</string>
   <string name="error_socket_timeout_tip">Bağlantı zaman aşımı.</string>
-  <string name="error_storage_full_action">Alanı boşalt</string>
+  <string name="error_storage_full_action">Alan boşalt</string>
   <string name="error_storage_full_msg">Cihazınızdaki depolama alanını boşaltın ve tekrar deneyin.</string>
   <string name="error_storage_full_tip">Yeterli depolama alanı yok</string>
   <string name="error_sync_off_action">Aç</string>
@@ -507,7 +507,7 @@
   <string name="has_invalid_recipient">Geçersiz alıcılar: %1$s</string>
   <string name="have_known">Anladım</string>
   <string name="hidden_album_display_name">Gizli Albüm</string>
-  <string name="home_menu_cleaner">Alanı boşalt</string>
+  <string name="home_menu_cleaner">Alan boşalt</string>
   <string name="home_menu_collage">Kolaj</string>
   <string name="home_menu_photo_movie">Klip</string>
   <string name="home_menu_print">Fotoğrafları yazdır</string>
