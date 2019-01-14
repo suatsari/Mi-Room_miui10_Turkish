@@ -347,7 +347,7 @@
   <string name="background_traffic">Arkaplan: %s</string>
   <string name="backsound_set_hint">Dışarda mesaji olarak %s ayarlansın mı?</string>
   <string name="battery_capacity_title">Pil Kapasitesi</string>
-  <string name="battery_charge_estimating">Hesaplanıyor…</string>
+  <string name="battery_charge_estimating">Hesaplanıyor</string>
   <string name="battery_charge_full">Şarj Edildi</string>
   <string name="battery_charging_prompt">Şarj ediliyor...</string>
   <string name="battery_desc_apps">Uygulamaların tükettiği pil</string>
@@ -2374,8 +2374,8 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
   <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
   <string name="exo_track_unknown">Bilinmeyen</string>
-  <string name="title_first_aid_kit">İlk yardım</string>
-  <string name="summary_first_aid_kit">İlk yardım setimizi kullanarak sorunları düzeltin</string>
+  <string name="title_first_aid_kit">Problemleri çöz</string>
+  <string name="summary_first_aid_kit">Cihazınızdaki sorunları şimdi çözün</string>
   <string name="button_first_aid_kit">Şimdi düzelt</string>
   <string name="button_restrict_data_usage">İzin ver</string>
   <string name="button_background_connection">İzin ver</string>
@@ -2395,7 +2395,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_scanning_item3">Yanlış ayarlar kontrol ediliyor…</string>
   <string name="first_aid_scanning_item4">Pil sorunları kontrol ediliyor…</string>
   <string name="first_aid_scanning_item5">Diğer sorunlar kontrol ediliyor…</string>
-  <string name="first_aid_activity_title">İlk yardım</string>
+  <string name="first_aid_activity_title">Problemleri çöz</string>
   <string name="first_aid_item1_content">Performans</string>
   <string name="first_aid_item2_content">Ağ</string>
   <string name="first_aid_item3_content">Ayarlar</string>
@@ -2430,7 +2430,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_card_unable_install_button">Alan boşalt</string>
   <string name="first_aid_result_summary_normal">Her şey güzel görünüyor!</string>
   <string name="first_aid_result_feedback_title">Geribildirim</string>
-  <string name="first_aid_result_feedback_summary">İlk yardım taraması herhangi bir sorun bulamadı. Ancak, bazılarını tespit ettim.</string>
+  <string name="first_aid_result_feedback_summary">Herhangi bir sorun bulunamadı. Ancak, bazıları tespit edildi.</string>
   <string name="first_aid_result_feedback_button">Gönder</string>
   <string name="first_aid_card_kadun_title">Cihaz yavaşlıyor</string>
   <string name="first_aid_card_kadun_summary1">Cihazın normal  çalışabilmesi için depolama alanını boşaltın.</string>

@@ -1086,4 +1086,5 @@ mevcut değil"</string>
   <string name="description_message_list_title">Hızlı cevaplar listesi</string>
   <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>
   <string name="supp_service_notification_call_waiting">Aradığınız numara meşgul. Lütfen bekleyin…</string>
+  <string name="call_not_support_high_frequency_click">Bu düğmeye çok sık dokunmayın</string>  
 </resources>

@@ -638,5 +638,13 @@ Kameranın gelip gelmediğini görmek için Push Kamera Düğmesi\'ne tıklayın
   <string name="push_camera">Push Kamera</string>
   <string name="sar_sensor_collect_test_summary">"Telefonu döndürün, fikstürü takın
 Veri toplama işlemini başlat düğmesini tıklayın
-Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>  
+Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
+  <string name="dsi_sar_on_off_tips">DSİ Sar Açma/Kapama Anahtarı</string>
+  <string name="receiver_off">Alıcı kapalı</string>
+  <string name="receiver_on">Alıcı açık</string>
+  <string name="receiver_on_off_tips">Alıcı Açma/Kapama Anahtarı</string>
+  <string name="sar_authentation_test_title">Sar onay testi</string>
+  <string name="sar_off">Sar Kapalı</string>
+  <string name="sar_on">Sar Açık</string>
+  <string name="set_dsi_tips">DSI\'yi ayarla</string>  
 </resources>

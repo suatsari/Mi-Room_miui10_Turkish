@@ -851,5 +851,11 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="train_event_station_header_stay_time">Kalan</string>
   <string name="train_event_station_stay_time">%1$s dakika</string>
   <string name="notification_channel_name">Takvim hatırlatıcıları</string>
-  <string name="search_menu_title">Arama</string>  
+  <string name="search_menu_title">Arama</string>
+  <string name="city_limit_back_icon_tip">Takvim ana sayfasına dön</string>
+  <string name="city_limit_set_icon_tip">Hatırlatıcı ayarla</string>
+  <string name="lottery_blue_ball_tip">Mavi top</string>
+  <string name="lottery_red_ball_tip">Kırmızı top</string>
+  <string name="select_today_tip">Bugün</string>
+  <string name="today_icon_voice_contentdescription">Bugüne dön</string>  
 </resources>
