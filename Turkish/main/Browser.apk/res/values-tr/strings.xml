@@ -271,8 +271,8 @@
   <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">İndiriliyor…</string>
   <string name="download_list_open_xl_ok">Tamam</string>
-  <string name="download_memory_info_avai">mevcut %s|</string>
-  <string name="download_memory_info_total">toplam ​%s</string>
+  <string name="download_memory_info_avai">" mevcut %s|"</string>
+  <string name="download_memory_info_total">" toplam ​%s"</string>
   <string name="download_no_application_title">Dosya bulunamadı. Taşıdınız veya sildiniz mi?</string>
   <string name="download_no_sdcard_dlg_msg">%s indirmek için bir SD kart gerekiyor.</string>
   <string name="download_no_sdcard_dlg_title">SD kart yok</string>
@@ -309,7 +309,7 @@
   <string name="exit">Çık</string>
   <string name="exit_browser_warning">Tarayıcıdan çıkılsın mı?</string>
   <string name="file_dir">Dizin</string>
-  <string name="file_name">Adı</string>
+  <string name="file_name">"İsim: "</string>
   <string name="file_picker">Yolu seç</string>
   <string name="filename_empty_alert_message">Dosya adını girin</string>
   <string name="filename_illegal_alert_message">Geçersiz karakter dosya adından çıkarıldı</string>
@@ -1154,7 +1154,7 @@
   <string name="version_update_file_download_toast">İndiriliyor</string>
   <string name="version_update_file_not_found">Güncellemeler bulamıyor</string>
   <string name="video_activity_name">Favoriler</string>
-  <string name="video_buffering_percent_string">"Belleğe alınıyor: "</string>
+  <string name="video_buffering_percent_string">"Arabelleğe alınıyor "</string>
   <string name="video_collect_cancel">Favorilerden çıkart</string>
   <string name="video_collect_success">Favoriler</string>
   <string name="video_doenload_complete">Video başarıyla indirildi</string>
@@ -1249,7 +1249,7 @@
   <string name="short_video_tip">Bak! Eğlenceli video</string>
   <string name="suggestion_clear_record_message">Arama geçmişini temizlemeyi onaylıyor musunuz?</string>
   <string name="title_notice_push">Push özelliğini aç</string>
-  <string name="save_file_suffix"> dosya</string>
+  <string name="save_file_suffix">" dosya"</string>
   <string name="action_imme_open">Hemen aç</string>
   <string name="bubble_guide_logined_text">Şanslı çizim için giriş yapın</string>
   <string name="bubble_guide_unlogined_text">Ayrıcalıklar için giriş yapın</string>

@@ -180,11 +180,11 @@
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="module_download_cancel">Hayır teşekkürler</string>
-  <string name="module_download_data_msg">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi için internete bağlanması gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
-  <string name="module_download_data_msg_golbal">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
+  <string name="module_download_data_msg">Saatin, hava alarmları ve zamanlayıcıdaki ortam sesleri için ek ses dosyaları indirmesi için internete bağlanması gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
+  <string name="module_download_data_msg_golbal">Saatin, hava alarmları ve zamanlayıcıdaki ortam sesleri için ek ses dosyaları indirmesi gerekiyor. Bu indirme için 20MB\’lık mobil veri gerekli olacak. Kabul?</string>
   <string name="module_download_fail">Ek ses indirilemedi</string>
-  <string name="module_download_msg">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi için internete bağlanması gerekiyor. Kabul?</string>
-  <string name="module_download_msg_golbal">Saatin, MIUI 10 hava alarmları ve ortam gürültüsü zamanlayıcıları için ses dosyaları indirmesi gerekiyor. Kabul?</string>
+  <string name="module_download_msg">Saatin, hava alarmları ve zamanlayıcıdaki ortam sesleri için ek ses dosyaları indirmesi için internete bağlanması gerekiyor. Kabul?</string>
+  <string name="module_download_msg_golbal">Saatin, hava alarmları ve zamanlayıcıdaki ortam sesleri için ek ses dosyaları indirmesi gerekiyor. Kabul?</string>
   <string name="module_download_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="module_download_ok">İzin ver</string>
   <string name="module_download_success">Ek ses başarıyla indirildi</string>

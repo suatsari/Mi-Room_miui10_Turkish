@@ -2076,8 +2076,8 @@
   <string name="inactive_app_inactive_summary">Pasif. Geçiş yapmak için dokunun.</string>
   <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
   <string name="include_app_data_title">Uygulama verileri dahil</string>
-  <string name="incoming_call_breathing_light_color_title">Gelen Arama Işık Rengi</string>
-  <string name="incoming_call_breathing_light_freq_title">Çağrının Yanıp-Sönme Aralığı</string>
+  <string name="incoming_call_breathing_light_color_title">Çağrı ışığı rengi</string>
+  <string name="incoming_call_breathing_light_freq_title">Çağrı ışığının yanıp-sönme aralığı</string>
   <string name="incoming_call_volume_title">Zil Sesi</string>
   <string name="infinity_display_settings">Tam ekran</string>
   <string name="infinity_display_slogan">Tam ekran yeniliği</string>
@@ -2671,8 +2671,8 @@
   <string name="miui_touch_filtered_warning">Bir uygulama izin iletişim kutusunu engelliyorsa, engelleyen öğeyi uzaklaştırın veya uygulamayı kapatın.</string>
   <string name="miui_updater">Sistem güncellemesi</string>
   <string name="miui_userguide">Kullanici rehberi</string>
-  <string name="mms_breathing_light_color_title">Mesajların Işık Rengi</string>
-  <string name="mms_breathing_light_freq_title">Mesajların Yanıp-Sönme Aralığı</string>
+  <string name="mms_breathing_light_color_title">Mesaj ışığı rengi</string>
+  <string name="mms_breathing_light_freq_title">Mesaj ışığının yanıp-sönme aralığı</string>
   <string name="mms_privacy_password_role_instruction">Mesajlar ile özel kişiler burada saklanır</string>
   <string name="mobile_connect_to_internet">Lütfen internete bağlanın</string>
   <string name="mobile_data_always_on">Hücresel veri daima etkin</string>
@@ -2931,8 +2931,8 @@
   <string name="notification_app_settings_button">Bildirim Ayarları</string>
   <string name="notification_badge_title">Bildirim noktasına izin ver</string>
   <string name="notification_badging_title">Bildirim noktalarına izin ver</string>
-  <string name="notification_breathing_light_color_title">Bildirim Işığının Rengi</string>
-  <string name="notification_breathing_light_freq_title">Bildirimin Yanıp-Sönme Aralığı</string>
+  <string name="notification_breathing_light_color_title">Bildirim ışığı rengi</string>
+  <string name="notification_breathing_light_freq_title">Bildirim ışığının yanıp-sönme aralığı</string>
   <string name="notification_channel_badge_title">Bildirim noktasını göster</string>
   <string name="notification_channel_sound_title">Ses</string>
   <string name="notification_channel_title">Bildirim kategorisi</string>
