@@ -1750,6 +1750,5 @@ d MMM"</string>
   <string name="stream_voice_assist">Sesli Yardım</string>
   <string name="usb_port_overheated_dialog_content">Şarj portu aşırı ısınmış. Şarj cihazını cihazınızdan çıkarın ve şarj portunun temiz olup olmadığını kontrol edin. Herhangi bir sorunuz olursa müşteri desteğine başvurun.</string>
   <string name="usb_port_overheated_notification_content">Şarj cihazını cihazınızdan çıkarın ve şarj portunun temiz olup olmadığını kontrol edin.</string>
-  <string name="usb_port_overheated_title">Şarj portu aşırı ısınmış. Şarj cihazını çıkarın.</string>
-  <string name="gxzw_long_press_tip">Yeni özellikleri kontrol etmek için basılı tutun</string>  
+  <string name="usb_port_overheated_title">Şarj portu aşırı ısınmış. Şarj cihazını çıkarın.</string>  
 </resources>

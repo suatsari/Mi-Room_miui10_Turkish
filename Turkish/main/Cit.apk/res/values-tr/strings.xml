@@ -646,5 +646,6 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="sar_authentation_test_title">Sar onay testi</string>
   <string name="sar_off">Sar Kapalı</string>
   <string name="sar_on">Sar Açık</string>
-  <string name="set_dsi_tips">DSI\'yi ayarla</string>  
+  <string name="set_dsi_tips">DSI\'yi ayarla</string>
+  <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>  
 </resources>

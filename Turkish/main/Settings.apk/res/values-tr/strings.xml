@@ -615,9 +615,9 @@
   <string name="battery_sugg_display">Ekran parlaklığını ve/veya ekranın zaman aşımını azaltın</string>
   <string name="battery_sugg_radio">Cep telefonunun kapsama alanı dışında olduğu yerlerde pilden tasarruf etmek için Uçak Moduna geçin</string>
   <string name="battery_sugg_wifi">Kullanmadığınızda veya mevcut olmadığında WLAN özelliğini kapatın</string>
-  <string name="battery_summary">Son dolumdan itibaren %%%1$d kullanıldı</string>
-  <string name="battery_used_by">%1$s kadarı %2$s tarafından kullanılıyor</string>
-  <string name="battery_used_for">^1 süreyle kullanıldı</string>
+  <string name="battery_summary">Son tam şarjdan bu yana %1$s kullanım</string>  
+  <string name="battery_used_by">%2$s tarafından %1$s kullanıldı</string>
+  <string name="battery_used_for">^1 için kullanılan</string>
   <string name="bearer">Taşıyıcı</string>
   <string name="billing_cycle">Ödeme Döngüsü</string>
   <string name="billing_cycle_fragment_summary">Aylık başlangıç %1$s</string>
