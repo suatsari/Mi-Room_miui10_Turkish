@@ -4289,7 +4289,7 @@
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazı denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazı denetleyici, %1$s uygulamasından gelmektedir. Bu yazı denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellchecker_switch_title">Yazım denetleyicisini etkinleştir</string>
-  <string name="spellcheckers_settings_title">Yazıyı Düzelt</string>
+  <string name="spellcheckers_settings_title">Yazım Denetleyici</string>
   <string name="split_screen">Bölünmüş ekran kısayolu</string>
   <string name="ssl_ca_cert_warning">Ağ belki izleniyor</string>
   <string name="ssl_ca_cert_warning_message">Üçüncü bir şahıs ağ faaliyetlerinizi, e-posta ve eklerini, uygulamaları ve güvenli websitelerini izleyebilir.\n\nGüvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun.</string>
