@@ -6032,5 +6032,8 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="page_layout_confirm_message_narrow">Metin, resimler ve simgeler küçülecek. Bazı simgelerin yeri değişebilir.</string>
   <string name="page_layout_confirm_title_enlarge">Daha büyük öğeler</string>
   <string name="page_layout_confirm_title_narrow">Daha küçük öğeler</string>
-  <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>  
+  <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Sesi aptX Adaptif Modu</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Tetikleyici Bluetooth Sesi
+aptX-Adaptif: Kodek Modu"</string>  
 </resources>

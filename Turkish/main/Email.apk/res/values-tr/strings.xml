@@ -1134,6 +1134,15 @@
   <string name="dialog_disagree">Reddet</string>
   <string name="list_empty_to_fresh">Posta yok, lütfen aşağı çekip yenilemeyi deneyin.</string>
   <string name="notify_channel_no_disterb">Rahatsız etme modu yok</string>
-  <string name="privacy_des">Günlük bilgileri, bildirdiğiniz sorunu bulmak için e-posta uygulaması tarafından yazdırılan hata ayıklama bilgilerini ve cihaz bilgilerinizi içerir. Xiaomi\'nin %2$s okuduğunuzu ve kabul ettiğinizi belirtmek için aşağıdan %1$s seçin</string>
-  <string name="notify_channel_service">Arka plan senkronizasyonu hatırlatma</string>  
+  <string name="privacy_des">İşlem kaydı bilgileri, e-posta uygulaması tarafından yazdırılan hata ayıklama bilgilerini ve geri bildirimde bulunduğunuz sorunları bulmak için cihazınızla ilgili bilgileri içerir. Aşağıdaki \"%1$s\" seçin. Bu okuduğunuz ve kabul ettiğiniz anlamına gelir.《%2$s》</string>
+  <string name="notify_channel_service">Arka plan senkronizasyonu hatırlatma</string>
+  <string name="appraise_des">Sadece sizin memnuniyetinize göre ürünler geliştirmek için çok çalışıyoruz. Lütfen yorumlarınız ile bize destek verin.</string>
+  <string name="appraise_good">Övgü ve teşvik</string>
+  <string name="appraise_ignore">Geçici değerlendirme</string>
+  <string name="appraise_negative">Olumsuz yorum</string>
+  <string name="have_auth_code">Giriş koduyla</string>
+  <string name="help_me_get_qq_auth">QQ yetkilendirme kodunu almama yardım et</string>
+  <string name="open_androidp_warning">OPEN 9.0 Gayri Resmi SDK Uyarısı</string>
+  <string name="qq_login_notice">Sıcak İpucu: Bağımsız bir şifre ayarladıysanız, posta kutusuna girişinizi doğrulamak için bağımsız bir şifre girmeniz gerekir.</string>
+  <string name="qq_pwd_or_qq_auth_code">QQ yetkilendirme kodu veya posta kutusu şifresi</string>  
 </resources>
