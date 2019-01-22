@@ -66,8 +66,8 @@
   <string name="power_mode">Güç ayarları</string>
   <string name="power_usage">Güç kullanımı</string>
   <string name="pref_config_title">Performans Optimizasyonu</string>
-  <string name="scenario_policies_summary">Senaryoya göre enerji tasarrufu</string>
-  <string name="scenario_policies_title">Senaryo güç tasarrufu politikaları</string>
+  <string name="scenario_policies_summary">Farklı senaryolar için farklı güç tasarrufu stratejileri uygulayın.</string>
+  <string name="scenario_policies_title">Akıllı senaryolar</string>
   <string name="scenario_policies_warmcontrol">Sıcaklık Kontrolu</string>
   <string name="show_system_app">Sistem uygulamalarını göster</string>
   <string name="sleep_config_enhance_description">MIUI uykuda bekleme süresini iyileştirecek</string>
@@ -110,9 +110,5 @@
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapatıldı</string>
   <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açıldı</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
-  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>
-  <string name="dark_mode">Karanlık mod</string>
-  <string name="dark_mode_summary">Pili korumak için koyu renk paletine geçin</string>
-  <string name="open_dark_mode">Karanlık moda geç</string>
-  <string name="open_dark_mode_tip">Karanlık modda bazı özelliklerin ekran kalitesi düşebilir. Karanlık moddan çıktığınızda normale dönecektir. Şimdi Karanlık moda geçilsin mi?</string>  
+  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>  
 </resources>

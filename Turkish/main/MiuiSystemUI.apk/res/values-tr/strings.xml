@@ -586,6 +586,7 @@
   <string name="face_unlock_down">Başını kaldır</string>
   <string name="face_unlock_identify_error">Bir tanıma hatası oluştu</string>
   <string name="face_unlock_not_found">Seni tanıyamadım</string>
+  <string name="face_unlock_not_roi">Yüzünüzü çerçevenin içinde tutun</string>  
   <string name="face_unlock_offset_bottom">Telefonunuzu biraz indirin</string>
   <string name="face_unlock_offset_left">Sağa git</string>
   <string name="face_unlock_offset_right">Sola git</string>
@@ -1705,7 +1706,7 @@ d MMM"</string>
   <string name="quick_settings_extreme_batterysaver_label">Aşırı pil tasarrufu</string> 
   <string name="keyguard_charging_back_to_lockscreen">Kilit ekranına geri dön</string>
   <string name="keyguard_left_torch">Fener</string>
-  <string name="switch_system_user">İlk alanı aç</string>
+  <string name="switch_system_user">İlk alana geri dön</string>
   <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
   <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için, üzerine basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>

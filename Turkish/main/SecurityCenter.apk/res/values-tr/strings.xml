@@ -145,8 +145,8 @@
   <string name="app_manager_card_permission_title">İzinler</string>
   <string name="app_manager_clear_all_data">Tüm verileri temizle</string>
   <string name="app_manager_clear_cache">Önbelleği temizle</string>
-  <string name="app_manager_clear_data_dlg_message">Tüm bu uygulamanın verileri kalıcı olarak silinir. Buna tüm dosyalar, ayarlar, hesaplar, veritabanları vb. dahildir.</string>
-  <string name="app_manager_clear_data_dlg_title">Uygulama verisi silinsin mi?</string>
+  <string name="app_manager_clear_data_dlg_message">Dosyalar, ayarlar, hesaplar, veritabanları ve önbellek dahil tüm uygulama verileri kalıcı olarak silinecek.</string>
+  <string name="app_manager_clear_data_dlg_title">Tüm veriler silinsin mi?</string>
   <string name="app_manager_clear_dlg_title">Verileri temizle</string>
   <string name="app_manager_clear_failed_dlg_message">Uygulama için veri silinemedi.</string>
   <string name="app_manager_code_size">Uygulama boyutu</string>
@@ -156,7 +156,7 @@
   <string name="app_manager_default_cleared">Temizlendi</string>
   <string name="app_manager_default_close_summary">Varsayılan ayar yok.</string>
   <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
-  <string name="app_manager_default_open_title">Varsayılanı temizle</string>
+  <string name="app_manager_default_open_title">Varsayılanları temizle</string>
   <string name="app_manager_defaults_setting">Varsayılan</string>
   <string name="app_manager_details_electric_title">Pil</string>
   <string name="app_manager_details_storage_title">Depolama</string>
@@ -592,7 +592,7 @@
   <string name="diagnostic_attention_dialog_message">%1$s için teşhis devam etmektedir. Tamamlanana kadar bekleyin ve yeniden deneyin.</string>
   <string name="dialog_app_roaming_message">Dolaşım sırasında  %1$s mobil veri kullanamazsınız. Yurtdışında mobil veri kullanımını sadece istisnalı uygulamalarda yapabilirsiniz.</string>
   <string name="dialog_app_roaming_title">%1$s için yurdışı dolaşım etkin değil</string>
-  <string name="dialog_msg_auto_start_declare">Bazı uygulamaların başlatılma sorunları, MIUI\'nin engellemesi şeklinde görülebilir. Her uygulamanın kendine ait izinlerini görmek için Ayarlar &gt; Uygulamalar bölümünü kontrol edin.</string>
+  <string name="dialog_msg_auto_start_declare">Bazı uygulamaların başlatılma sorunları, MIUI engellemesi şeklinde görülebilir. Her uygulamanın kendine ait izinlerini görmek için Ayarlar &gt; Uygulamalar bölümünü kontrol edin.</string>
   <string name="dialog_msg_stop_virus_scan">Tarama henüz tamamlanmadı, durdurmak istiyor musunuz?</string>
   <string name="dialog_no_longer_alert">Bir daha gösterme</string>
   <string name="dialog_remobe_luckymoney_cancle">Eski</string>

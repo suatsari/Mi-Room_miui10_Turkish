@@ -1580,5 +1580,17 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="sip_account_disable">Hesap aktif değil. Çağrı kabul edilemez.</string>
   <string name="sip_receive_call_disable">Çağrı kabul edilemez. Önce çağrıları kabul etmeye izin verin.</string>
   <string name="preferred_network_mode_lte_choice">Sadece LTE</string>
-  <string name="preferred_network_mode_lte_wcdma_choice">WCDMA/LTE</string>  
+  <string name="preferred_network_mode_lte_wcdma_choice">WCDMA/LTE</string>
+  <string name="vowifi_emergency_notification_channel">WLAN Acil çağrı uyarısı</string>
+  <string name="vowifi_emergency_notification_content">Acil Aramalar yalnızca Hücresel Kapsama alanında bulunur.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone Wifi Araması</string>
+  <string name="vowifi_emergency_warning_check">Bir daha gösterme.</string>
+  <string name="vowifi_emergency_warning_message">"WLAN Araması ile acil arama yapılamaz.
+
+Acil durum araması yapmak için cihaz otomatik olarak hücresel bir şebekeye(2G/3G) geçer.
+
+Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."</string>
+  <string name="vowifi_emergency_warning_title">ECC, WLAN Çağrısı yoluyla arama yapar</string>
+  <string name="wifi_call_setting_vodafone_de">WLAN çağrısı</string>
+  <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>  
 </resources>

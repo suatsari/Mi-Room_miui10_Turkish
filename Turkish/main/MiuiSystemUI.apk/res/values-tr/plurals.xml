@@ -151,5 +151,8 @@
   <plurals name="input_pattern_after_timeout_msg">
     <item quantity="other">Kilit açma deseninizi en az %d saat boyunca kullanmadınız. Deseni çizin.</item>
     <item quantity="one">Kilit açma deseninizi en az %d saat boyunca kullanmadınız. Deseni çizin.</item>
+  </plurals>
+  <plurals name="aod_dual_togother_city">
+    <item quantity="other">" %1$s Saat %2$s"</item>
   </plurals>  
 </resources>

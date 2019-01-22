@@ -41,6 +41,10 @@
     <string name="audio_message_mx_offline">Ses dosyası indirilemedi. Mi Mesaj çevrimdışı veya mevcut değil.</string>
     <string name="audio_playing_seconds">%d\"</string>
     <string name="audio_sim_card_mismatching">Ağ bağlantısı yok veya SIM Kart takılmamış. SIM Kart takıp, ağa mesaj gönderme, alma vb... işlemlerini ayarlayın.</string>
+    <string name="auto_identify_btn_text_only_smart_messaging">Akıllı Mesajlaşmayı açın</string>
+    <string name="auto_identify_btn_text_when_all_disabled">Gönderen Kimliğini otomatik olarak tanımla</string>
+    <string name="auto_identify_btn_title">Bu mesaj bilinmeyen bir numaradan gönderildi.</string>
+    <string name="auto_identify_confirmation">Bu özelliği etkinleştirmek birkaç dakika sürebilir.</string>	
     <string name="back_to_message_list">Mesaj listesine dön</string>
     <string name="batch_adding_progress_message">Ekleniyor</string>
     <string name="batch_deleting_message_progress_message">Siliniyor...</string>

@@ -253,7 +253,7 @@
   <string name="animator_duration_scale_title">Animasyon hızı</string>
   <string name="another_migration_already_in_progress">Başka bir göç zaten sürüyor.</string>
   <string name="anti_spam">Engelli Listesi</string>
-  <string name="aod_mode_summary">Ekran kapalıyken daima saati, tarihi ve mesajları göster.</string>
+  <string name="aod_mode_summary">Ekran kapalıyken saati, tarihi ve mesajları göster.</string>
   <string name="aod_mode_time_summary">Cihazınızın Her zaman açık moduna geçmesi gereken zaman aralığı</string>
   <string name="aod_mode_time_title">Zamanlama</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
@@ -2096,7 +2096,7 @@
   <string name="input_methods_settings_label_format">%1$s Ayarları</string>
   <string name="input_methods_settings_title">Metin Girişi</string>
   <string name="input_settings">Giriş Ayarları</string>
-  <string name="install_all_warning">Telefonunuz ve kişisel verileriniz, bilinmeyen kaynaklardan gelen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından yalnızca kendinizin sorumlu olduğunu kabul edersiniz.</string>
+  <string name="install_all_warning">Telefonunuz ve kişisel verileriniz, bilinmeyen kaynaklardan gelen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından yalnızca kendinizin sorumlu olduğunuzu kabul edersiniz.</string>
   <string name="install_applications">Bilinmeyen Kaynaklar</string>
   <string name="install_applications_title">Tüm uygulama kaynaklarına izin ver</string>
   <string name="install_no_market_app_summary">Uygulama Mağazası dışındaki kaynaklardan uygulama kurulmasına izin verir</string>
@@ -2368,7 +2368,7 @@
   <string name="lock_screen_notifications_summary_show_profile">Tüm iş bildiriminin içeriğini göster</string>
   <string name="lock_screen_notifications_title">Kilit ekranında</string>
   <string name="lock_screen_signature_summary">Bu mesaj Kilit ekranında görüntülenecektir</string>
-  <string name="lock_screen_signature_title">Kilit Ekrandaki Sahip Bilgileri</string>
+  <string name="lock_screen_signature_title">Kilit ekranında sahip bilgisi</string>
   <string name="lock_screen_unlock_show">Kilit ekranını atla</string>
   <string name="lock_screen_unlock_show_summary">Ana ekranı açın veya şifreyi doğrudan girin</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Değiştirmek için dokunun</string>
@@ -3687,15 +3687,15 @@
   <string name="screen_saturation">Doygunluk</string>
   <string name="screen_shot">Ekran görüntüsü</string>
   <string name="screen_timeout">Uyku</string>
-  <string name="screen_timeout_summary">%1$s sonra ekranı kapatır</string>
-  <string name="screen_timeout_title">Uyku Modu</string>
-  <string name="screen_usage_summary">Tam şarjdan sonra ekranın açık olduğu süre</string>
-  <string name="screen_zoom_conversation_icon_alex">O</string>
-  <string name="screen_zoom_conversation_icon_pete">A</string>
-  <string name="screen_zoom_conversation_message_1">Merhaba Orhan!</string>
-  <string name="screen_zoom_conversation_message_2">Güzel bir kahe içip, bugüne başlamak ister misin?</string>
-  <string name="screen_zoom_conversation_message_3">Kulağa hoş geliyor. Buradan çokta uzak olmayan iyi bir yer biliyorum.</string>
-  <string name="screen_zoom_conversation_message_4">Harika!</string>
+  <string name="screen_timeout_summary">%1$s aktif olmadığında</string>
+  <string name="screen_timeout_title">Uyku modu</string>
+  <string name="screen_usage_summary">Tam şarjdan bu yana geçen ekran süresi</string>
+  <string name="screen_zoom_conversation_icon_alex">M</string>
+  <string name="screen_zoom_conversation_icon_pete">S</string>
+  <string name="screen_zoom_conversation_message_1">Selam Merve!</string>
+  <string name="screen_zoom_conversation_message_2">Hey, kahve yapıp güne başlamak ister misin?</string>
+  <string name="screen_zoom_conversation_message_3">Kulağa harika geliyor. Buradan çok uzak olmayan iyi bir yer biliyorum.</string>
+  <string name="screen_zoom_conversation_message_4">Mükemmel!</string>
   <string name="screen_zoom_conversation_timestamp_1">Salı 6:00ÖS</string>
   <string name="screen_zoom_conversation_timestamp_2">Salı 6:01ÖS</string>
   <string name="screen_zoom_conversation_timestamp_3">Salı 6:02ÖS</string>
@@ -6035,5 +6035,15 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Sesi aptX Adaptif Modu</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Tetikleyici Bluetooth Sesi
-aptX-Adaptif: Kodek Modu"</string>  
+aptX-Adaptif: Kodek Modu"</string>
+  <string name="aod_mode_bg">Arka plan</string>
+  <string name="aod_mode_clock">Saat</string>
+  <string name="aod_mode_style">Zaman stili ve arka plan</string>
+  <string name="aod_sample_date">May 10 Salı</string>
+  <string name="dark_color_mode">Karanlık mod</string>
+  <string name="dark_color_summary">Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın</string>
+  <string name="open_dark_mode_dialog_summary">Bazı ekran ayarları Karanlık modla uyumlu değil. Ancak, Karanlık modu kapattığınızda bunlar geri yüklenir. Karanlık mod açılsın mı?</string>
+  <string name="open_dark_mode_dialog_title">Karanlık mod uyumluluğu</string>
+  <string name="screen_cancel">İptal</string>
+  <string name="screen_confirm">Aç</string>  
 </resources>

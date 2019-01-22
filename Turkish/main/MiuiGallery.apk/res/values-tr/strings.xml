@@ -335,8 +335,6 @@
   <string name="download_type_thumbnail">Yüksek kalite</string>
   <string name="download_type_thumbnail_desc">Yüksek kalite</string>
   <string name="download_type_title">İndirme kalitesi</string>
-  <string name="download_without_wifi_msg">Fotoğraf indirmek için mobil veri kullanmak veri artışına neden olacak. Eğer planlanan veri kullanımını aşarsanız operatörünüz sizden ek ücret talep edebilir.</string>
-  <string name="download_without_wifi_title">Veri Kullanım Uyarısı</string>
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">İndirilen resimlerin kalitesini seçebilir veya Ayarlar\'dan otomatik indirmeleri kapatabilirsiniz.</string>
   <string name="downloading_title">Mi Bulut\'dan fotoğraf indiriliyor</string>
@@ -1278,8 +1276,6 @@ mevcut"</string>
   <string name="video_editor_cancel_download">İptal</string>
   <string name="video_editor_download">İndir</string>
   <string name="video_editor_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
-  <string name="video_editor_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Tarifenizdeki veri limitini aşarsanız, operatörünüz sizden ek ücret talep edebilir.</string>
-  <string name="video_editor_download_without_wifi_title">Veri kullanımı uyarısı</string>
   <string name="video_editor_return">Geri</string>
   <string name="video_editor_save">Kaydet</string> 
   <string name="added_to_favorites_desc">Favorilerime eklendi</string>
@@ -1381,8 +1377,6 @@ mevcut"</string>
   <string name="movie_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
   <string name="movie_download_sdk_without_wifi_msg">Cihazınızın Wi-Fi\'ye bağlı olmadığı anlaşılıyor. Mobil veri kullanarak gerekli eklentiyi (3MB) indirin?</string>
   <string name="movie_download_sdk_without_wifi_title">Mobil veri kullanarak indir</string>
-  <string name="movie_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Planınızın veri limitini aşarsanız, operatörünüz sizden ek ücretler talep edebilir.</string>
-  <string name="movie_download_without_wifi_title">Veri kullanımı uyarısı</string>
   <string name="movie_edit">Düzenle</string>
   <string name="movie_item_name">Klip</string>
   <string name="movie_preview_btn">Ön izleme</string>
@@ -1413,12 +1407,10 @@ mevcut"</string>
   <string name="story_cancel_download">İptal</string>
   <string name="story_download">İndir</string>
   <string name="story_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
-  <string name="story_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Planınızın veri limitini aşarsanız, operatörünüz sizden ek ücretler talep edebilir.</string>
-  <string name="story_download_without_wifi_title">Veri kullanımı uyarısı</string>
   <string name="story_option_menu_delete">Hikayeyi sil</string>
   <string name="story_photo_downloading">İndiriliyor…</string>
-  <string name="alert_selection_description">AI, benzer görüntüler arasında en iyi fotoğrafı bir yıldız ile işaretler.</string>
-  <string name="alert_selection_title">AI tarafından seçilen</string>
+  <string name="alert_selection_description">MIUI benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri işaretleyecektir.</string>
+  <string name="alert_selection_title">En iyi çekimi seçin</string>
   <string name="backup_file_over_size_desc">%1$s\'dan büyük fotoğraflar ve %2$s\'dan büyük videolar yedeklenemez.</string>  
   <string name="collage_ratio_text">En boy oranı</string> 
   <string name="collage_title_stitching">Film rulosu</string>
@@ -1438,5 +1430,22 @@ mevcut"</string>
   <string name="movie_content_describe_add">Fotoğraf ekle</string>
   <string name="movie_content_describe_delete">Fotoğrafları sil</string>
   <string name="movie_content_describe_pause">Duraklat</string>
-  <string name="movie_content_describe_play">Oynat</string>  
+  <string name="movie_content_describe_play">Oynat</string>
+  <string name="download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
+  <string name="download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
+  <string name="movie_download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
+  <string name="movie_download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
+  <string name="video_editor_download_with_metered_network_msg">Orijinal dosyaların indirilmesi ek operatör ücretleri oluşturabilir. Yine de indirilsin mi?</string>
+  <string name="video_editor_download_with_metered_network_title">Ücretli bir ağa bağlısınız</string>
+  <string name="month_view_tip_button_text">Anladım</string>
+  <string name="month_view_tip_sub_title">Ay görünümüne geçmek için ekranı sıkıştırın</string>
+  <string name="month_view_tip_title">Ay görünümü</string>
+  <string name="photo_editor_font_default">&gt;Mi Lanting (Düzenli)</string>
+  <string name="photo_font_cancel_download">İptal</string>
+  <string name="photo_font_download">İndir</string>
+  <string name="photo_font_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
+  <string name="photo_font_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak, veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir.</string>
+  <string name="photo_font_download_without_wifi_title">Veri kullanımı uyarısı</string>
+  <string name="text_tab_bubble">Baloncuklar</string>
+  <string name="text_tab_watermark">Filigranlar</string>  
 </resources>

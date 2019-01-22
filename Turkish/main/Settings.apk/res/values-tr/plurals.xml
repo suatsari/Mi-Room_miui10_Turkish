@@ -314,5 +314,8 @@
   </plurals>
   <plurals name="miui_sos_emergency_contacts_quantity">
     <item quantity="other">%d eklendi</item>
+  </plurals>
+  <plurals name="aod_dual_togother_city">
+    <item quantity="other">" %1$s Saat %2$s"</item>
   </plurals>  
 </resources>
