@@ -36,7 +36,7 @@
 "&lt;li&gt;Cihazınızın tüm özelliklerini normal şekilde kullanabilmeniz için, pil %30 şarj olduğunda Aşırı pil tasarrufu otomatik olarak kapatılacaktır..&lt;/li&gt;</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
   <string name="failure">Hata</string>
-  <string name="hide_mode_desc"><font color="#000000">Bir uygulama arka planda çalışırken, etkinlikleri izlenir. Bu işlev %s üzerinden kullanıcı verilerini alır ve kullanır</font></string>
+  <string name="hide_mode_desc">Bir uygulama arka planda çalışırken, etkinlikleri izlenir. Bu işlev %s üzerinden kullanıcı verilerini alır ve kullanır</string>
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
   <string name="important_warning">Dikkat</string>

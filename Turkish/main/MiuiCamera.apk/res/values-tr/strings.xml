@@ -610,9 +610,9 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="accessibility_camera_lighting_close_panel">Aydınlatma menüsü kapalı</string>
   <string name="accessibility_camera_lighting_open_panel">Aydınlatma menüsü açık</string>
   <string name="lighting_pattern_null">Boş</string>
-  <string name="ultra_wide_mode">Geniş açı</string>
-  <string name="ultra_wide_mode_use_hint_text">"Fotoğrafınızda daha fazla sahne eklemek için bu modu kullanın.
-Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</string>  
+  <string name="ultra_wide_mode">Ultra geniş açı</string>
+  <string name="ultra_wide_mode_use_hint_text">"Fotoğrafınıza daha fazla sahne eklemek için bu modu kullanın.
+Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yardımcı olur."</string>  
   <string name="beauty_body">Şekil</string>
   <string name="beauty_body_head">Kafa</string>
   <string name="beauty_body_body">İnce</string>
@@ -620,12 +620,12 @@ Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</
   <string name="beauty_body_slim_count_tip">Şekil efektleri sadece bir kişi çekimi esnasında çalışır</string>
   <string name="beauty_body_legged">Bacaklar</string>
   <string name="beauty_body_reset_tip">Şekil efektleri başarıyla kaldırıldı</string>
-  <string name="ultra_wide_close_tip">Geniş açı modu kapalı</string>
-  <string name="ultra_wide_open_tip">Geniş açı modu</string>
+  <string name="ultra_wide_close_tip">Ultra geniş açı modu kapalı</string>
+  <string name="ultra_wide_open_tip">Ultra geniş açı modu</string>
   <string name="accessibility_camera_liveshot_on">Dinamik çekim açıldı</string>
   <string name="accessibility_camera_liveshot_off">Dinamik çekim kapatıldı</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Geniş açı</string>
-  <string name="ultra_wide_recommend_tip_hint">Geniş açı modunu deneyin</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA GENİŞ</string>
+  <string name="ultra_wide_recommend_tip_hint">Ultra geniş açı modunu deneyin</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Tam vücut modu açık</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Tam vücut modu kapalı</string>
   <string name="ai_scene_top_tip">Ay modu</string>
@@ -639,7 +639,7 @@ Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</
   <string name="custom_watermark_words_save_success">Başarıyla kaydedildi</string>
   <string name="dualcamera_watermark_default">AI ÇİFT KAMERA</string>
   <string name="pref_camera_normal_wide_ldc_title">Grup fotoğraflarındaki yüzdeki çarpıklıkları düzeltin</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Geniş çekimlerdeki bozulmayı düzeltin</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Ultra geniş çekimlerdeki bozulmayı düzeltin</string>
   <string name="pref_userdefine_watermark_title">Özel filigran</string>
   <string name="ultra_wide_bokeh_close_tip">Tam vücut modu kapalı</string>
   <string name="ultra_wide_bokeh_open_tip">Tam vücut modu</string>
@@ -694,9 +694,7 @@ Sahnede daha fazla hareket edemediğinizde geniş açı modu yardımcı olur."</
   <string name="portait_effect_entry_lilt">Kıvrak</string>
   <string name="portait_effect_entry_sepia">Sepya</string>
   <string name="portait_effect_entry_tea">Çay</string>
-  <string name="pref_camera_ultra_wide_mode_title">Geniş açı modu</string>
-  <string name="ultra_widem_mode_use_hint_text">"Daha geniş bir görünüm kaydetmek için süper geniş açı modunu açın.
-Daha heyecan verici güzelliği keşfedin."</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultra geniş açı modu</string>
   <string name="device_48m_watermark_default_text">48M ÇİFT KAMERA</string>
   <string name="device_watermark_default_text">AI ÇİFT KAMERA</string>
   <string name="pref_menu_ultra_pixel_photography_48mp">48MP</string>
@@ -713,8 +711,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="pref_camera_live_sticker_internal_title">Dahili sihirli araçlar</string>
   <string name="accessibility_lighting_panel_on">Stüdyo aydınlatma çubuğu gösteriliyor</string>
   <string name="accessibility_lighting_panel_off">Stüdyo aydınlatma çubuğu gizlendi</string>  
-  <string name="accessibility_ultra_wide_on">Geniş açı modu açıldı</string>
-  <string name="accessibility_ultra_wide_off">Geniş açı modu kapatıldı</string>
+  <string name="accessibility_ultra_wide_on">Ultra geniş açı modu açıldı</string>
+  <string name="accessibility_ultra_wide_off">Ultra geniş açı modu kapatıldı</string>
   <string name="autozoom_hint">Hareketli nesneyi takip et</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi takip etme durduruldu</string>
   <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzaklıkta kalın.</string>
@@ -724,8 +722,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP açık</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP kapalı</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP açık</string>
-  <string name="hand_gesture_open_tip">Avucunuzun uzatın ve geriye saymaya başlayın</string>
-  <string name="hand_gesture_tip">Hareket ile fotoğraf</string>
+  <string name="hand_gesture_open_tip">Zamanlayıcıyı başlatmak için avucunuzu kameraya gösterin</string>
+  <string name="hand_gesture_tip">Avuç içi ile çekim</string>
   <string name="pref_menu_ultra_pixel_photography_32mp">32MP</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">720p videoları yalnızca 960fps ile kaydedebilirsiniz.</string>
   <string name="ultra_pixel_photography_32mp_close_tip">32MP kapalı</string>

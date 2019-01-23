@@ -1585,9 +1585,9 @@
   <string name="quick_optimize_checking">Taranıyor </string>
   <string name="quick_optimize_no_fix_issue_subtitle">Pil ömrü arttırılamadı</string>
   <string name="quick_optimize_no_fix_issue_title">Pil problemi düzeltilemedi</string>
-  <string name="quick_optimize_no_issue">Pil problemi bulunamadı</string>
-  <string name="quick_optimize_no_issue_subtitle">Herşey güzel gözüküyor</string>
-  <string name="quick_optimize_no_issue_title">Pil problemi bulunamadı</string>
+  <string name="quick_optimize_no_issue">Pil sorunu yok</string>
+  <string name="quick_optimize_no_issue_subtitle">Her şey iyi görünüyor</string>
+  <string name="quick_optimize_no_issue_title">Pil sorunları bulunamadı</string>
   <string name="quick_optimize_sub_summary_text">Pil ömrü için %s eklendi</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon pili boşaltılıyor, düzelt</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon aşırı ısınmış, düzeltin</string>
