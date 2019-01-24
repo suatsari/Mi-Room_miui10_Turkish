@@ -2290,7 +2290,7 @@
   <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
   <string name="locale_remove_menu">Kaldır</string>
   <string name="locale_settings">Bölge</string>
-  <string name="location_access_summary">Uygulamalar konum bilgilerini alabilirsiniz</string>
+  <string name="location_access_summary">Uygulamalar konum bilginizi alabilir</string>
   <string name="location_access_title">Konum Erişimi</string>
   <string name="location_agps_apn_choose_dialog_title">APN türü</string>
   <string name="location_agps_apn_summary">Tercih edilen APN türünü seçin</string>
@@ -3552,7 +3552,7 @@
   <string name="restrict_max_aspect_ratio_title">Bu uygulamalar tam ekran modunda iyi çalışmaz</string>
   <string name="restriction_bluetooth_config_summary">Bluetooth eşleşme ve ayarlarını değiştirmeye izin ver</string>
   <string name="restriction_bluetooth_config_title">Bluetooth</string>
-  <string name="restriction_location_enable_summary">Uygulamalar konum bilgilerinizi kullansın</string>
+  <string name="restriction_location_enable_summary">Uygulamaların konum bilginizi kullanmasına izin verin</string>
   <string name="restriction_location_enable_title">Konum</string>
   <string name="restriction_menu_change_pin">PIN kodun değiştir</string>
   <string name="restriction_menu_reset">Kısıtlamaları kaldır</string>
