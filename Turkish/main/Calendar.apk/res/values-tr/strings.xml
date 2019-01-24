@@ -620,6 +620,7 @@
   <string name="setting_title_banner_display">Ay Kartı Reklamlarını Göster</string>
   <string name="setting_title_debug">Günlüğü Aktar</string>
   <string name="setting_title_holiday_display">Tatilleri Göster</string>
+  <string name="setting_title_limit_card_desc">Takvimin ana sayfasında yer alan bir limit kartı, servis ağı gerektiriyor</string>
   <string name="setting_title_recommend_card_display">Tavsiye edilen abonelik içeriklerini göster</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
@@ -731,7 +732,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="user_notice_button_exit">Çık</string>
   <string name="user_notice_button_ok">Tamam</string>
   <string name="user_notice_declaration_ignore">"Tekrar gösterme"</string>
-  <string name="user_notice_message">"Bu ürünü kullanarak, Xiaomi'nin  %1$s ve %2$s sözleşmelerini kabul etmiş sayılırsınız. Bazı özelliklerin normal çalışması için internet bağlantısı, konum ve mesaj erişimi gerekebilir."</string>
+  <string name="user_notice_message">Takvim\'i kullanmadan önce %1$s ve %2$s kabul etmelisiniz. Yerel resmi tatil günleri, doğum günleri, kredi kartı geri ödemeleri ve planlanan gezilerle ilgili doğru veriler sağlamak için, Takvim\'in konumunuza, kişilerinize ve mesajlarınıza erişmesi, ayrıca internete bağlanması gerekiyor. Kabul?</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="user_notification">Bildirimler</string>
   <string name="user_notification_descrip">Kullanıcı bildirimini her zaman size açık Takvimi gösterir.</string>

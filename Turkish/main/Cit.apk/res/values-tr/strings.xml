@@ -281,7 +281,8 @@
   <string name="cit_power_check_title">Pil göstergesi</string>
   <string name="cit_pressure_sensor_check_summary">Basınç değeri aşağıda görüntüleniyor olmalıdır</string>
   <string name="cit_pressure_sensor_check_title">Basınç sensörü</string>
-  <string name="cit_proximity_data_check_summary">Yakınlık sensörünü (telefonun üst kısmında bulunan alıcıya yakın) elinizle kapatın, sonra elinizi uzaklaştırın. Elinizi cihazdan uzaklaştırdığınızda değer 0.0 değerinden yükselmeye başlamalıdır.</string>
+  <string name="cit_proximity_data_check_summary">"Yakınlık sensörünü (telefonun üst kısmında bulunan alıcıya yakın) elinizle kapatın, sonra elinizi uzaklaştırın. Elinizi cihazdan uzaklaştırdığınızda değer 0.0 değerinden yükselmeye başlamalıdır.
+  Ultrasonik bir yakınlık sensörü ise, lütfen test sırasında telefonu açma işlemini simüle edin."</string>
   <string name="cit_proximity_sensor_check_summary">Yakınlık sensörünü (telefonun üst kısmında bulunan alıcıya yakın) elinizle kapatın, sonra elinizi uzaklaştırın. Elinizi cihazdan uzaklaştırdığınızda değer 0.0 değerinden yükselmeye başlamalıdır.\nKalibrasyon yaparken, sensör ile eliniz arasında bir şey olmadığından emin olun (ör. Koruyucu ekran kapağı veya eldiven).</string>
   <string name="cit_proximity_sensor_check_title">Yakınlık sensörü</string>
   <string name="cit_proximity_us_sensitivity">Duyarlılık:</string>

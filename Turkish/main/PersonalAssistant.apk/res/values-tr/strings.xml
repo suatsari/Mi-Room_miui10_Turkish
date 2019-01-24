@@ -683,7 +683,7 @@
   <string name="miot_device_camera_size">%d kamera</string>
   <string name="miot_device_cancel">İptal</string>
   <string name="miot_device_card_title">Mi Ev</string>
-  <string name="miot_device_click_show_detail">.(Akıllı ev cihazları hakkında bilgi almak için dokunun)</string>
+  <string name="miot_device_click_show_detail">Akıllı ev cihazları hakkında bilgi almak için tıklayın</string>
   <string name="miot_device_click_show_img">Ekranı görüntülemek için tıklayın</string>
   <string name="miot_device_cta_and"> ve </string>
   <string name="miot_device_cta_end">. (</string>
@@ -1036,7 +1036,7 @@
   <string name="stock_web_lable">Hisse senetleri</string>
   <string name="study_parent">Ofis öğrenme</string>
   <string name="system_favorite_dialog_link">Güvenlik &amp; Gizlilik</string>
-  <string name="system_favorite_dialog_message">Birden fazla uygulama ve hizmetten gelen favoriler Uygulama Kasası\'na eklenecek. İzin ver?</string>
+  <string name="system_favorite_dialog_message">Favorilerinizi diğer uygulamalardan buraya ekleyin.</string>
   <string name="system_favorite_dialog_negative">İptal</string>
   <string name="system_favorite_dialog_positive">İzin ver</string>
   <string name="system_favorite_dialog_title_confirm">Favoriler</string>
@@ -1119,19 +1119,5 @@
   <string name="year_month_day_format">dd/MM/yyyy</string>
   <string name="yesterday">Dün</string>
   <string name="notification_channel_card">Kartlar</string>
-  <string name="notification_channel_default">Varsayılan</string>
-  <string name="taked_off">Geçmiş</string>
-  <string name="book_arr_city">Hedef</string>
-  <string name="book_arr_station">Hedef ekle</string>
-  <string name="book_dep_city">Başlangıç</string>
-  <string name="card_banner_close_never">Tekrar hatırlatma</string>
-  <string name="card_banner_close_tomorrow">Yarın hatırlat</string>
-  <string name="favorite_title_modify_failed">Başlık değiştirilemedi</string>
-  <string name="miot_device_personal_assistant_eula">Kullanıcı Sözleşmesi</string>
-  <string name="miot_device_personal_assistant_eula_priv">" ve Uygulama Kasası\'nın "</string>
-  <string name="miot_device_personal_assistant_priv">Gizlilik Politikası</string>
-  <string name="notification_channel_default_description">Diğer bildirimler</string>
-  <string name="notification_channel_favorite_description">Farklı uygulamalarda sık kullanılanlara eklenen öğelerle ilgili bildirimler</string>
-  <string name="notification_channel_payment_description">Ödemelerle ilgili bildirimler</string>
-  <string name="notification_channel_shopping_description">Sık kullanılanlara veya alışveriş sepetinize eklenen ürünler hakkındaki bildirimler</string>  
+  <string name="notification_channel_default">Varsayılan</string>  
 </resources>
