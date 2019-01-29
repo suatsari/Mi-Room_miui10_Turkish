@@ -1068,8 +1068,8 @@
   <string name="prefered_network_type_3g_promp">Tercih ettiğiniz ağ tipi olarak 3G seçmeden önce VoLTE\'yi kapatmanız gerekir. Şimdi kapatılsın mı?</string>
   <string name="preference_auto_ip_summary_disable">Kapalı</string>
   <string name="preference_category_ringtone">Zil Sesi &amp; Titreşim</string>
-  <string name="preference_data_usage_summary">Mobil veri kullanımını kontrol etmek için veri miktarını ayarlayın</string>
-  <string name="preference_data_usage_title">Veri Planını Ayarla</string>
+  <string name="preference_data_usage_summary">Mobil veri kullanımını kontrol etmek için veri planınızı ayarlayın</string>
+  <string name="preference_data_usage_title">Veri planını ayarla</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_off">Kapalı</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>

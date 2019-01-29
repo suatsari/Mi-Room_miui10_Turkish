@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_autostart">Otomatik Başlatma Hakkında</string>
-  <string name="ac_enter_applock">Uygulama Kilidini girin</string>
-  <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korumakta kullanılır</string>
-  <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
+  <string name="about_autostart">Otomatik başlatma hakkında</string>
+  <string name="ac_enter_applock">Uygulama kilidini girin</string>
+  <string name="ac_firstUseApplock_subTitle">Daha iyi sistem düzeyinde güvenlik araçları kullanın</string>
+  <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
   <string name="ac_mask_all_apps">Tüm uygulamalar için gizle</string>
   <string name="ac_notification_contentText">Açmak için dokunun</string>
-  <string name="ac_notification_contentTitle">Uygulamaları Uygulama kilidi ile koru</string>
-  <string name="ac_post_notification_contentText">Sistem düzeyinde koruma al</string>
-  <string name="ac_post_notification_contentTitle">Uygulama Kilidini Aç</string>
+  <string name="ac_notification_contentTitle">Uygulama kilidi ile uygulamaları koruyun</string>
+  <string name="ac_post_notification_contentText">Sistem düzeyinde koruma sağlayın</string>
+  <string name="ac_post_notification_contentTitle">Uygulama kilidini aç</string>
   <string name="ac_pre_notification_contentText">Kişisel bilgilerinizi koruyun</string>
-  <string name="ac_pre_notification_contentTitle">Uygulama Kilidini Deneyin</string>
+  <string name="ac_pre_notification_contentTitle">Uygulama kilidini deneyin</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
-  <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
+  <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gerekiyor</string>
   <string name="ac_unmask_all_apps">Tüm uygulamalar için göster</string>
   <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi ile kilidi açmadan önce şifreyi girin</string>
