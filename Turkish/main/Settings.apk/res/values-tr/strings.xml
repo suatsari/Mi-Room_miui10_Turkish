@@ -1902,8 +1902,8 @@
   <string name="force_immersive_compatibility_hide">Gizle</string>
   <string name="force_immersive_compatibility_hint_message">Ekran tuşlarını gizlemeyi seçerseniz, bazı uygulamalar düzgün çalışmayabilir.</string>
   <string name="force_immersive_compatibility_hint_title">Uyumluluk sorunları</string>
-  <string name="force_msaa">4x MSAA\'a zorla</string>
-  <string name="force_msaa_summary">"OpenGL ES 2.0 uygulamaları için 4x MSAA\'ı etkinleştir "</string>
+  <string name="force_msaa">4x MSAA\'yı zorla</string>
+  <string name="force_msaa_summary">OpenGL ES 2.0 uygulamaları için 4x MSAA\'yı etkinleştir</string>
   <string name="force_resizable_activities">Etkinlikleri yeniden boyutlandırmaya zorla</string>
   <string name="force_resizable_activities_summary">Manifest değerler ne olursa olsun, tüm faaliyetleri çoklu pencere için yeniden boyutlandırılabilir yapın.</string>
   <string name="force_rtl_layout_all_locales">RTL yerleşimine zorla</string>
