@@ -551,14 +551,14 @@
   <string name="select_image">Resimler</string>
   <string name="select_interest_str">Beğendiğiniz konuları seçin</string>
   <string name="select_interest_tip">Keşfedilecek çok şey var!</string>
-  <string name="select_music">Ses Dosyaları</string>
-  <string name="select_video">Video Dosyaları</string>
-  <string name="select_volume">Lütfen sesi seçin</string>
+  <string name="select_music">Ses dosyaları</string>
+  <string name="select_video">Video dosyaları</string>
+  <string name="select_volume">Birim seçin</string>
   <string name="send_comment">Gönder</string>
-  <string name="send_sticker">Etiket Gönder</string>
+  <string name="send_sticker">Etiket gönder</string>
   <string name="send_to_qq">QQ için gönder</string>
   <string name="send_to_weixin">Wechat için gönder</string>
-  <string name="server_control_advanced_settings">FTP Ayarları</string>
+  <string name="server_control_advanced_settings">FTP ayarları</string>
   <string name="server_control_charset">Transfer kodlaması</string>
   <string name="server_control_settings">Ayarlar</string>
   <string name="server_error">Sunucu hatası. Daha sonra tekrar deneyin (Hata: %s)</string>
@@ -569,7 +569,6 @@
   <string name="setting_account_bind">Hesap ekle</string>
   <string name="setting_message_notify">Bildirimler</string>
   <string name="setting_shortcut">Ana Ekran kısayolu ekle</string>
-  <string name="share_from_youliao">（#有料# @有料Video）丨</string>
   <string name="share_rank_card_tip">Paylaşım sıralaması</string>
   <string name="share_success">Başarıyla paylaşıldı</string>
   <string name="share_tip_1">Paylaşım için teşekkürler, diğer videolar için beni takip edin</string>
