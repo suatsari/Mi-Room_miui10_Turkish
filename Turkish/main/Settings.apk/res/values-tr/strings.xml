@@ -87,7 +87,7 @@
   <string name="accessibility_screen_magnification_gestures_title">Üç kez dokunarak büyütme</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Erişilebilirlik düğmesi %1$s olarak ayarlandı. Büyütmeyi kullanmak için Erişilebilirlik düğmesine dokunup basılı tutun, ardından büyütmeyi seçin.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Yakınlaştırmak için bir düğmeye dokunun</string>
-  <string name="accessibility_screen_magnification_navbar_summary">Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın alt kısmındaki Erişilebilirlik düğmesini kullanın.\n\n\"<b>Yakınlaştırmak için</b>\" Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.\n\"<ul><li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>\"\n\"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızı birbirine yaklaştırın</li></ul>\"\n\n\"<b>Geçici olarak yakınlaştırmak için</b>\" Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.\n\"<ul><li>Ekranda hareket etmek için sürükleyin</li>\"\n\"<li>Uzaklaştırmak için parmağınızı çekin</li></ul>\"\n\nKlavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız.</string>
+  <string name="accessibility_screen_magnification_navbar_summary">Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın alt kısmındaki Erişilebilirlik düğmesini kullanın.\n\n\"&lt;b&gt;Yakınlaştırmak için&lt;/b&gt;\" Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.\n\"&lt;ul&gt;&lt;li&gt;Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin&lt;/li&gt;\"\n\"&lt;li&gt;Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızı birbirine yaklaştırın&lt;/li&gt;&lt;/ul&gt;\"\n\n\"&lt;b&gt;Geçici olarak yakınlaştırmak için&lt;/b&gt;\" Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.\n\"&lt;ul&gt;&lt;li&gt;Ekranda hareket etmek için sürükleyin&lt;/li&gt;\"\n\"&lt;li&gt;Uzaklaştırmak için parmağınızı çekin&lt;/li&gt;&lt;/ul&gt;\"\n\nKlavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız.</string>
   <string name="accessibility_screen_magnification_navbar_title">Düğmeyle büyütme</string>
   <string name="accessibility_screen_magnification_short_summary">Yakınlaşmak için 3 kez hafifçe dokunun</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Düğmeyle ve üç kez dokunarak büyütme</string>
@@ -344,8 +344,7 @@
   <string name="app_ops_settings">Uygulama Operasyonları</string>
   <string name="app_overlay_permission_preference">Uygulamanın en üst izinlerini belirt</string>
   <string name="app_permissions">Uygulama izinleri</string>
-  <string name="app_permissions_group_summary" formatted="false">%d, %d uygulamalara izin verildi</string>
-  <string name="app_permissions_summary" formatted="false">%d,%d uygulama için ek erişime izin verdi</string>
+  <string name="app_permissions_summary" formatted="false">%1$s kullanan uygulamalar</string>
   <string name="app_process_limit_title">Arkaplan işlem sınırı</string>
   <string name="app_restrictions_custom_label">Uygulama kısıtlamalarını ayarla</string>
   <string name="app_sees_restricted_accounts">Bu uygulama hesaplarınıza erişebilir</string>
@@ -451,7 +450,11 @@
   <string name="auto_sync_personal_account_title">Kişisel verileri otomatik olarak senkronize et</string>
   <string name="auto_sync_work_account_title">İş verilerini otomatik olarak senkronize et</string>
   <string name="autofill_app">Otomatik doldurma hizmeti</string>
+<<<<<<< HEAD
   <string name="autofill_confirmation_message">"<b>Bu uygulamaya güvendiğinizden emin olun</b> <br/> <br/> <xliff:g id=app_name example=Google Autofill>%1$s</xliff:g> otomatik doldurulabilecek öğeleri belirlemek için ekranınızdaki bilgileri kullanır."</string>
+=======
+  <string name="autofill_confirmation_message">&lt;b&gt;Bu uygulamaya güvendiğinizden emin olun&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Otomatik Doldurma&gt;%1$s&lt;/xliff:g&gt; otomatik doldurulabilecek öğeleri belirlemek için ekranınızdaki bilgileri kullanır.</string>
+>>>>>>> parent of bfdbbd7... updated040219
   <string name="autofill_keywords">otomatik, doldur, otomatik doldur</string>
   <string name="automatic_brightness">Otomatik Parlaklık</string>
   <string name="automatic_storage_manager_activation_warning">Depolama alanınız artık depolama yöneticisi tarafından yönetiliyor</string>
@@ -661,7 +664,7 @@
   <string name="bluetooth_ask_lasting_discovery_no_name">Bir uygulama, telefonunuzu diğer Bluetooth cihazlara görünebilir yapmak istiyor. Bunu daha sonra Bluetooth ayarlarından değiştirebilirsiniz.</string>
   <string name="bluetooth_auto_connect">Otomatik Bağlan</string>
   <string name="bluetooth_broadcasting">Yayın</string>
-  <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:<br><b>%1$s</b><br><br>Bu şifreyi gösterdiğinden emin olun:<br><b>%2$s</b></string>
+  <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br&gt;%1$s&lt;br&gt;&lt;br&gt;Bu parolayı gösterdiğinden emin olun:&lt;br&gt;%2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
   <string name="bluetooth_connected">Bağlandı</string>
   <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
@@ -700,11 +703,11 @@
   <string name="bluetooth_devices">Bluetooth Cihazlar</string>
   <string name="bluetooth_disable_absolute_volume">Mutlak ses pasif</string>
   <string name="bluetooth_disable_absolute_volume_summary">Kabul edilemez derecede yüksek ses seviyesi veya kontrol yetersizliği gibi uzak aygıtlarla ilgili ses sorunları olduğunda Bluetooth mutlak ses düzeyi özelliğini devre dışı bırakır.</string>
-  <string name="bluetooth_disable_profile_message">Devre dışı bırakılacak:<br><b>%1$s</b><br><br>Buradan:<br><b>%2$s</b></string>
+  <string name="bluetooth_disable_profile_message">Devre Dışı Bırakılacak:&lt;br&gt;%1$s&lt;br&gt;&lt;br&gt;Buradan:&lt;br&gt;%2$s</string>
   <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
   <string name="bluetooth_disabled">Pasif</string>
   <string name="bluetooth_disconnect_a2dp_profile">Medya sesi %1$s bağlantısını kesecek.</string>
-  <string name="bluetooth_disconnect_all_profiles">Telefonunuzun %1$s bağlantısı kesilecektir.</string>
+  <string name="bluetooth_disconnect_all_profiles">Bunun ile bağlantısı sona erecek:&lt;br&gt;%1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Eller Serbest için %1$s ses bağlantısını kesecek.</string>
   <string name="bluetooth_disconnect_hid_profile">Giriş cihazı %1$s bağlantısını kesecek.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Telefonun paylaşılan internet bağlantısını %1$s kesecek.</string>
@@ -712,7 +715,7 @@
   <string name="bluetooth_disconnect_title">Bağlantı kesilsin mi?</string>
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:<br><b>%1$s</b><br><br>Üzerine yaz:<br><b>%2$s</b>, ardından Return veya Enter tuşuna basın.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Eşleştirmek için:&lt;br&gt;%1$s&lt;br&gt;&lt;br&gt;Bunun üzerine yazın:&lt;br&gt;%2$s, sonra dönün veya Enter tuşuna basın.</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve Medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -733,7 +736,7 @@
   <string name="bluetooth_headset_profile_summary_use_for">Telefon sesi için kullan</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazı için bağlandı</string>
   <string name="bluetooth_hid_profile_summary_use_for">Giriş için kullan</string>
-  <string name="bluetooth_incoming_pairing_msg">Kaynak:<br><b>%1$s</b><br><br>Bu cihazla eşleştirilsin mi?</string>
+  <string name="bluetooth_incoming_pairing_msg">Kaynak: %1$s bu cihaz ile eşleştirilsin mi?</string>
   <string name="bluetooth_is_disconnect_question">%1$s bağlantısı kesilsin mi?</string>
   <string name="bluetooth_is_discoverable">Yakındaki tüm Bluetooth cihazları tarafından görülebilir (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Yakındaki tüm Bluetooth cihazlar için bu cihazı görünür yap</string>
@@ -1308,10 +1311,8 @@
   <string name="data_usage_restrict_denied_dialog">Arkaplan verilerini sınırlama yalnızca hücresel veri sınırı ayarladığınızda mümkündür.</string>
   <string name="data_usage_summary_format">%1$s veri kullanıldı</string>
   <string name="data_usage_summary_title">Veri kullanımı</string>
-  <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">limit</font></string>
-  <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
-"<font size="12">uyarı</font></string>
+  <string name="data_usage_sweep_limit">" \"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"\n\"&lt;font size=\"12\"&gt;Limit&lt;/font&gt;\" "</string>
+  <string name="data_usage_sweep_warning">" \"&lt;font size=\"18\"&gt;^1&lt;/font&gt; &lt;font size=\"9\"&gt;^2&lt;/font&gt;\"\n\"&lt;font size=\"12\"&gt;Uyarı&lt;/font&gt;\" "</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -3305,7 +3306,7 @@
   <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlayan Mi Bulut hizmetleri için yetkilendirmeyi iptal etmek istiyorsanız i.mi.com adresinde oturum açın(senkronizasyon ve yedeklemeler dahil).</string>
   <string name="privacy_authorize_dialog_agree">Kabul</string>
   <string name="privacy_authorize_dialog_exit">Çıkış</string>
-  <string name="privacy_authorize_dialog_message"><Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. \"Kabul et\" seçeneğini seçtiğinizde &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt;.&amp;#8203; okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
+  <string name="privacy_authorize_dialog_message">" \"&lt;Data&gt;\"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \\"Kabul\\" seçeneğini seçmek,&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; okuduğunuzu ve kabul ettiğinizi gösterir.​\"&lt;/Data&gt;\" "</string>
   <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="privacy_authorize_privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_authorize_revoke">Geri al</string>
@@ -3988,8 +3989,8 @@
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonun kilidi açıldığında, Parmak izi ile ödemeye ve uygulamaya erişebilirsiniz. <annotation id=\"url\">Fazlasını Öğren</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\"Ekran Kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun. \"<annotation id=\"admin_details\">Diğer Detaylar</annotation>\"\n\nSatın alma işlemlerine ve uygulama erişimine izin vermek için Parmak izinizi kullanabilirsiniz. \"<annotation id=\"url\">Fazlası</annotation></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonun kilidi açıldığında, Parmak izi ile ödemeye ve uygulamaya erişebilirsiniz. &lt;annotation id=\"url\"&gt;Fazlasını Öğren&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\"Ekran Kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun. \"&lt;annotation id=\"admin_details\"&gt;Diğer Detaylar&lt;/annotation&gt;\"\n\nSatın alma işlemlerine ve uygulama erişimine izin vermek için Parmak izinizi kullanabilirsiniz. \"&lt;annotation id=\"url\"&gt;Fazlası&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Tamam</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Kayıt tamamlanmadı</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı çalışmadı. Tekrar deneyin veya farklı bir parmak kullanın.</string>
@@ -4003,7 +4004,7 @@
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Atla</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Devam</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Parmak izi ekle</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">\"Telefonunuzun kilidini açmak, satın alma yetkileri vermek veya uygulamalarda oturum açmak için Parmak izi sensörüne dokunmanız yeterlidir. Hangi Parmak izini eklerken dikkatli olun. Bunlardan herhangi birini eklemeyi bir baskıyla bile yapabilirsiniz.\n\nNot: Parmak iziniz, güçlü bir desen veya PIN\'den daha az güvende olabilir. \"<annotation id=\"url\">Fazlası</annotation></string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">\"Telefonunuzun kilidini açmak, satın alma yetkileri vermek veya uygulamalarda oturum açmak için Parmak izi sensörüne dokunmanız yeterlidir. Hangi Parmak izini eklerken dikkatli olun. Bunlardan herhangi birini eklemeyi bir baskıyla bile yapabilirsiniz.\n\nNot: Parmak iziniz, güçlü bir desen veya PIN\'den daha az güvende olabilir. \"&lt;annotation id=\"url\"&gt;Fazlası&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_setup">Telefonunuzun kilidini açmak, satın alma işlemlerini onaylamak veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Parmak izlerini ekleyeceğiniz kişiler konusunda dikkatli olun. Eklenen tek bir parmak iziyle bile bu işlemlerin tümü yapılabilir.\n\nNot: Parmak iziniz, güçlü bir desenden veya PIN\'den daha az güvenli olabilir.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Kimlerin parmak izini eklediğinize dikkat edin. Eklenen tek parmak izi bile bunların tümünü yapabilir.\n\nNot: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisiyle iletişim kurun.</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Parmak iziyle kilidi aç</string>
@@ -4504,8 +4505,8 @@
   <string name="super_resolution_no_app_tips">Önce WeChat ve Toutiao\'yu indirin.</string>
   <string name="super_resolution_reboot_tips">Bu özellik, WeChat ve Toutiao\’da daha net görüntü elde etmenizi sağlar. Bu özelliği açtıktan sonra uygulamaları tekrar başlatın.</string>
   <string name="super_resolution_title">Süper çözünürlük</string>
-  <string name="supl_not_set">&lt;Ayarlanmadı&gt;</string>
-  <string name="supplicant_state_label">Talep durumu:</string>
+  <string name="supl_not_set">&lt;Ayarsız&gt;</string>
+  <string name="supplicant_state_label">Rica Durumu::</string>
   <string name="support_account_picker_add_account">Hesap ekle</string>
   <string name="support_account_request_prefix">İstekte bulunan hesap:</string>
   <string name="support_country_list_title">Şu ülke için destek:</string>
@@ -4516,8 +4517,8 @@
   <string name="support_escalation_24_7_title">Sizin için 7/24 buradayız</string>
   <string name="support_escalation_by_chat">Sohbet</string>
   <string name="support_escalation_by_phone">Telefon</string>
-  <string name="support_escalation_closed_summary">Yardımda arama yapın veya destek saatlerinde (yerel saat) tekrar gelin:<br><b>%s</b></string>
-  <string name="support_escalation_no_internet_summary">Telefonla destek saatleri (yerel saat)<br><b>%s</b></string>
+  <string name="support_escalation_closed_summary">Yardımda arama yapın veya destek saatlerinde (yerel saat) tekrar gelin:&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
+  <string name="support_escalation_no_internet_summary">Telefonla destek saatleri (yerel saat)&lt;br&gt;&lt;b&gt;%s&lt;/b&gt;</string>
   <string name="support_escalation_summary">Destek ekibimiz her tür sorunu çözmenize yardımcı olmak için hizmetinizde</string>
   <string name="support_escalation_title">Yardımcı olmak için buradayız</string>
   <string name="support_escalation_unavailable_summary">Yardımda arama yapın veya ipuçları ve püf noktalarını keşfedin</string>
@@ -4556,7 +4557,7 @@
   <string name="sync_menu_sync_now">Şimdi eşitle</string>
   <string name="sync_now">Eşitle</string>
   <string name="sync_one_time_sync">Şimdi eşitlemek için dokunun\n%1$s</string>
-  <string name="sync_plug"><font fgcolor=\"#ffffffff\">Google eşitlemeye hoşgeldiniz!</font>\" \nGoogle veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye istediğinizden yerden ulaşabilirsiniz. \"</string>
+  <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Google eşitlemeye hoşgeldiniz!&lt;/font&gt;\" \nGoogle veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye istediğinizden yerden ulaşabilirsiniz. \"</string>
   <string name="sync_settings">Eşitle</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
@@ -5664,7 +5665,7 @@
   <string name="write_settings_off">Hayır</string>
   <string name="write_settings_on">Evet</string>
   <string name="write_settings_preference">Uygulamaya Sistem Ayarlarını Değiştirme İzni</string>
-  <string name="write_settings_summary">%1$d, %2$d uygulamalarının sistem ayarlarını değiştirmesine izin verildi</string>
+  <string name="write_settings_summary" formatted="false">%d &gt; %d uygulaması sistem ayarlarını değiştirmeye karşı izinli</string>
   <string name="write_settings_title">Sistem ayarlarını değiştirebilir</string>
   <string name="write_system_settings">Sistem Ayarlarını Değiştir</string>
   <string name="write_tag">Yaz</string>
@@ -5825,9 +5826,9 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="security_input">Güvenli klavye</string>
   <string name="security_input_hint">Şifreleri girerken güvenli klavye kullan</string>
   <string name="forget_password_dialog_button_text">Geri</string>
-  <string name="forget_password_dialog_content_four"><Data>2. <font color=#e6e6e6>[Verileri temizle]</font> seçin, ve cihazınız yeniden başlatılıncaya kadar bekleyin.</Data></string>
-  <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, <font color=#ec2700>cihazınızdaki tüm veriler silindikten</font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
-  <string name="forget_password_dialog_content_three"><Data>"1. Cihazınızı kapatın. <font color=#e6e6e6>[Güç]</font> düğmesine ve <font color=#e6e6e6>[Ses+]</font> düğmesine aynı anda basın, ve <img src=''> simgeyi görene kadar basılı tutun."</Data></string>
+  <string name="forget_password_dialog_content_four"><Data>2. &lt;font color=#e6e6e6>[Verileri temizle]&lt;/font> seçin, ve cihazınız yeniden başlatılıncaya kadar bekleyin.</Data></string>
+  <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
+  <string name="forget_password_dialog_content_three"><Data>"1. Cihazınızı kapatın. &lt;font color=#e6e6e6>[Güç]&lt;/font> düğmesine ve &lt;font color=#e6e6e6>[Ses+]&lt;/font> düğmesine aynı anda basın, ve &lt;img src=''> simgeyi görene kadar basılı tutun."</Data></string>
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string>  
   <string name="keyguard_vertical_clock_title">Dikey saat</string>
@@ -5893,7 +5894,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="miui_sos_emergency_contacts_quantity">%deklendi</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) zaten kabul edildi</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s zaten kabul edildi</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) adresine mesaj gönderilemedi.</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s) sos mesaj gönderilemedi.</string>
   <string name="miui_sos_emergency_failed_sms_noname">%1ssos mesaj gönderilemedi.</string>
   <string name="miui_sos_enable_switch_summary">Acil durum kişilerinize bulunduğunuz konumla ilgili SOS metin mesajı göndermek için Güç düğmesine 5 kez hızlıca basın</string>
   <string name="miui_sos_enable_switch_title">Acil durum SOS</string>
