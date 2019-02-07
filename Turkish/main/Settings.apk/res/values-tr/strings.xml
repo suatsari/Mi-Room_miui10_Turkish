@@ -1363,6 +1363,7 @@
   <string name="debug_networking_category">Ağ</string>
   <string name="debug_view_attributes">Görünüm özelliği incelemeyi etkinleştir</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
+  <string name="decryption_settings_summary">Telefon şifreli değil</string>  
   <string name="defalut_launcher_title">Varsayılan Ana ekran</string>
   <string name="default_admin_support_msg">Bu eylem devre dışı bırakıldı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun.</string>
   <string name="default_app">(Varsayılan)</string>

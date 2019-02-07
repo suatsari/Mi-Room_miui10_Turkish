@@ -63,7 +63,7 @@
   <string name="add_whitelist">İstisnalara ekle</string>
   <string name="address">Adres</string>
   <string name="address_choose_hint">%1$s, %2$s, ve %3$d diğer konumlar</string>
-  <string name="adjust_sms_cmd">&lt;u&gt;Kalibrasyon SMS şablonunu ayarla&lt;/u&gt;</string>
+  <string name="adjust_sms_cmd"><u>Kalibrasyon SMS şablonunu ayarla</u></string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Bir ay önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">Bir hafta önce güncellendi</string>
   <string name="adjust_traffic_carrier_summary_oneweek_before">Bir hafta önce güncellendi</string>
@@ -1157,7 +1157,7 @@
   <string name="mixed_recording_intro_header">En az 4 karakter girin</string>
   <string name="mixed_retry_button_text">İptal</string>
   <string name="mixed_settings_help_how_to_record">Parola nasıl ayarlanır</string>
-  <string name="modify_password_mode">&lt;u&gt;Parola türünü değiştir&lt;/u&gt;</string>
+  <string name="modify_password_mode"><u>Parola türünü değiştir</u></string>
   <string name="modifypassword">Şifre değiştir</string>
   <string name="monitor_app_add">Ekle</string>
   <string name="monitor_app_more">Diğer</string>
@@ -1359,7 +1359,7 @@
   <string name="password_promotion_postbutton_text">Ayarlara git</string>
   <string name="password_promotion_title">Gizlilik Koruma Şifresi</string>
   <string name="password_type">Parolayı değiştir</string>
-  <string name="password_type_underline">&lt;u&gt;Parolayı değiştir&lt;/u&gt;</string>
+  <string name="password_type_underline"><u>Parolayı değiştir</u></string>
   <string name="password_xspace_forget_pattern_message">İkinci alan şifrenizi değiştirmek için mevcut ikinci alanınızı silmeli ve yenisini oluşturmalısınız.</string>
   <string name="passwordIncorrect">Kullanıcı Adı veya Şifre Yanlış</string>
   <string name="path_antispam">Sistem Uygulamaları/Güvenlik/Engelli Listesi</string>
@@ -2209,7 +2209,7 @@
   <string name="uninstall_danagerous_msg">\"%s\" cihazınıza zarar verebilir,performansı düşürebilir veya yeniden başlatmaya neden olabilir.</string>
   <string name="uninstall_danagerous_title">Kötü amaçlı uygulamaları kaldır</string>
   <string name="unlike">Hayır, teşekkürler</string>
-  <string name="unlock_pattern">&lt;u&gt;Desen&lt;/u&gt;</string>
+  <string name="unlock_pattern"><u>Desen</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Parmakizi etkinleştirmek için parolayı girin</string>
   <string name="unlock_set_unlock_password_summary">Farklı karakterleri birleştir</string>
   <string name="unlock_set_unlock_password_title">Parola</string>
