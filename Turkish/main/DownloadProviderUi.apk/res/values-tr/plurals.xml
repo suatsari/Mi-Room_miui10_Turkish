@@ -13,8 +13,8 @@
         <item quantity="one">1 sonuç bulundu</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">%d indirilenleri sil?</item>
-        <item quantity="one">%d indirilenleri sil?</item>
+        <item quantity="other">%d indirme silinsin mi?</item>
+        <item quantity="one">%d indirme silinsin mi?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">%s indirme başarıyla silindi</item>

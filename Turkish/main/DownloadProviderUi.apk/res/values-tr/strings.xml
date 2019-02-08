@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="DOWNLOAD_UNIT_BIT"> B</string>
-  <string name="DOWNLOAD_UNIT_GB"> GB</string>
-  <string name="DOWNLOAD_UNIT_KB"> KB</string>
-  <string name="DOWNLOAD_UNIT_MB"> MB</string>
-  <string name="DOWNLOAD_UNIT_TB"> TB</string>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Sadece WLAN Kullan</string>
   <string name="about">Hakkında</string>
   <string name="action_settings">Ayarlar</string>
@@ -12,9 +12,9 @@
   <string name="ad_title">İnsanlar ayrıca %1$s ile bunu indirdi. </string>
   <string name="ad_title_other">Bu görüntü ile insanlar ayrıca şunu indirir</string>
   <string name="add_flow_fail_haveget_msg">Deneme süresi doldu.</string>
-  <string name="add_flow_fail_vip_msg">Xunlei İndirme Hızlandırıcısı açık</string>
+  <string name="add_flow_fail_vip_msg">Xunlei indirme hızlandırıcısı açık</string>
   <string name="add_flow_success_msg">Bu ay %s eklendi</string>
-  <string name="all_downloads">Tüm İndirilenler</string>
+  <string name="all_downloads">Tüm indirilenler</string>
   <string name="all_fileter">Tümü</string>
   <string name="all_share_files_content">Seçtiğiniz dosyalar zaten silindi.</string>
   <string name="all_the_internet">Tüm Ağlar</string>
@@ -22,7 +22,7 @@
   <string name="app_downloads">%s indirilenler</string>
   <string name="app_label">İndirilenler</string>
   <string name="auth_activity_title">Xunlei Hesabı</string>
-  <string name="auth_fail">"Yetki alınamadı"</string>
+  <string name="auth_fail">Yetki alınamadı</string>
   <string name="bind_xunlei_account">%1$s Xunlei hesabı eklendi</string>
   <string name="bt_download">İndir</string>
   <string name="bt_path_not_exit">"Bu yol yok"</string>
@@ -58,8 +58,7 @@
   <string name="dialog_btn_ok">Tamam</string>
   <string name="dialog_btn_ok_disabled_net">Ağ Ayarları</string>
   <string name="dialog_cannot_resume">İndirme kesildi, devam edilemiyor.</string>
-  <string name="dialog_confirm_delete_checkbox_message">Ayrıca yerel dosyaları silin</string>
-  <string name="dialog_confirm_delete_downloads_message"> %d  görevler silinsin mi?</string>
+  <string name="dialog_confirm_delete_checkbox_message">Yerel dosyaları da sil</string>
   <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri sil</string>
   <string name="dialog_failed_body">Daha sonra dosya indirme devam etsin mi veya kuyruktan silinsin mi?</string>
   <string name="dialog_file_already_exists">İndirilemiyor. Hedef dosya zaten var.</string>
