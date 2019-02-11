@@ -832,6 +832,8 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="event_info_title_anniversary">Yıldönümü</string>
   <string name="event_info_title_birthday">Doğum günü</string>
   <string name="event_info_title_countdown">Geri sayım</string>
+  <string name="talkback_festival_and">ve</string>
+  <string name="talkback_festival_is">Tatil</string>  
   <string name="ticket_activity_card_date_day">gün</string>
   <string name="ticket_activity_card_date_month">ay</string>
   <string name="train_event_add_arrive_station">Hedef eklemek için tıklayın</string>

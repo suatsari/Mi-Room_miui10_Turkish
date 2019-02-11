@@ -275,5 +275,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="cta_confirm_ok">İzin ver</string>
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
   <string name="cta_dialog_title">İzin gerekli</string>
-  <string name="unclassfied_folder_name">Kategorilenmemiş</string>  
+  <string name="unclassfied_folder_name">Kategorilenmemiş</string>
+  <string name="permission_intro_contact">Çağrılar sırasında alınan notları işaretlemek için</string>
+  <string name="permission_intro_microphone">Sesli notlar kaydetmek için</string>
+  <string name="permission_intro_phone">Çağrılar sırasında alınan notları işaretlemek için</string>
+  <string name="permission_intro_storage">Notları ve ekleri kaydetmek için</string>  
 </resources>

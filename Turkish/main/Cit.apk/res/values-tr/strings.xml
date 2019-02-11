@@ -648,5 +648,26 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="sar_off">Sar Kapalı</string>
   <string name="sar_on">Sar Açık</string>
   <string name="set_dsi_tips">DSI\'yi ayarla</string>
-  <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>  
+  <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>
+  <string name="cit_tool_check_opt">emin misin?</string>
+  <string name="cit_tool_check_opt_with_reboot">yeniden başlatılacak, emin misin?/string>
+  <string name="cit_tool_current_modem_test_mode">Mevcut Test Modu:</string>
+  <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Ayarı</string>
+  <string name="cit_tool_modem_test_clr">GPI testini kapatın</string>
+  <string name="cit_tool_modem_test_get">güncelleştirme</string>
+  <string name="cit_tool_modem_test_mode">Modem Test Modu Ayarı</string>
+  <string name="cit_tool_modem_test_mode_closed">test modu kapalı</string>
+  <string name="cit_tool_modem_test_mode_mismatch">test modu uyuşmuyor</string>
+  <string name="cit_tool_modem_test_mode_opened">test modu açıldı</string>
+  <string name="cit_tool_modem_test_mode_select">Test Modunu Seçin:</string>
+  <string name="cit_tool_modem_test_mode_set">Ayarı Doğrula</string>
+  <string name="cit_tool_modem_test_set">doğrula</string>
+  <string name="cit_tool_no_repeat">Tekrarlama yok!</string>
+  <string name="cit_tool_not_support">Desteklenmiyor</string>
+  <string name="cit_tool_select_all">Hepsini Seç</string>
+  <string name="cit_tool_select_none">Hiçbiri seçilmedi</string>
+  <string name="cit_tool_select_opposite">Tersine Seç</string>
+  <string name="cit_tool_setting_expired">Ayar Süresi doldu, lütfen tekrar deneyin!</string>
+  <string name="cit_tool_setting_wait">Ayar! LTF bekleyin (5 saniye)</string>
+  <string name="cit_tool_to_fetching">getirmek için</string>  
 </resources>

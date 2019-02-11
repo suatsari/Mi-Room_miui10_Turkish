@@ -638,4 +638,12 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="send_diagnosis_log">Tanı günlüğünü gönder</string>
   <string name="sending">Gönderiliyor...</string>
   <string name="temporary_not_available">geçici mevcut değil</string>
+  <string name="confirm_new_pwd">Yeni şifreyi onayla</string>
+  <string name="inconsistent_pwd">Şifreler uyuşmuyor</string>
+  <string name="input_new_pwd">Yeni şifre girin</string>
+  <string name="mi_finance">Benim finans</string>
+  <string name="mi_finance_info">Yeni kullanıcılar için bonuslar</string>
+  <string name="same_new_and_old_pwd">Geçerli şifre ile aynı olamaz</string>
+  <string name="sim_card">SIM kart</string>
+  <string name="used_cloud_storage_info">%s kullanılmış depolama alanı</string>  
 </resources>

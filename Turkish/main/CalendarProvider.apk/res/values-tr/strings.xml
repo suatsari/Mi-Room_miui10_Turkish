@@ -6,6 +6,7 @@
   <string name="calendar_info_events_dirty">Etkinlikler: %1$d, Kaydedilmemiş: %2$d</string>
   <string name="calendar_info_no_calendars">Takvim yok</string>
   <string name="calendar_storage">Takvim Depolaması</string>
+  <string name="cta_notice">Takvimi açın ve önce internete bağlanmasına izin verin.</string>  
   <string name="debug_tool_delete_button">Sil</string>
   <string name="debug_tool_email_body">Tüm randevu ve kişisel bilgiler takvim veritabanına eklendi. Dikkatli kullanınız .</string>
   <string name="debug_tool_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>

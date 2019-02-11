@@ -6189,5 +6189,8 @@ aptX-Adaptif: Kodek Modu"</string>
   <string name="display_cutout_emulation_keywords">ekran kesme, çentik</string>
   <string name="display_cutout_emulation_none">Yok</string>
   <string name="show_first_crash_dialog">Kilitlenme iletişim kutusunu her zaman göster</string>
-  <string name="show_first_crash_dialog_summary">Bir uygulama kilitlendiğinde iletişim kutusunu göster</string>  
+  <string name="show_first_crash_dialog_summary">Bir uygulama kilitlendiğinde iletişim kutusunu göster</string>
+  <string name="incall_show">Giden çağrılar için profil videosu</string>
+  <string name="more_dangerous_option_hint">\"%1$s\" dahil olmak üzere yüksek riskli özellikler etkin. Ayarları değiştirmek için dokunun.</string>
+  <string name="mute_voiceassist_stream">Sesli Yardım\'ı sustur</string>  
 </resources>

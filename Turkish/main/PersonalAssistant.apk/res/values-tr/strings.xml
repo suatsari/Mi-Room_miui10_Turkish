@@ -146,6 +146,7 @@
   <string name="card_bookall_train_started">Kalan istasyon</string>
   <string name="card_detail">Rehber</string>
   <string name="card_example">Kart</string>
+  <string name="card_expand_note_add_checkbox">Onay kutusu ekle</string>  
   <string name="card_expand_note_clear">Temizle</string>
   <string name="card_expand_note_clear_all">Temizle</string>
   <string name="card_expand_note_dialog_button">Anladım</string>

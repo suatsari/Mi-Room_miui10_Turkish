@@ -713,9 +713,9 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="accessibility_lighting_panel_off">Stüdyo aydınlatma çubuğu gizlendi</string>  
   <string name="accessibility_ultra_wide_on">Ultra geniş açı modu açıldı</string>
   <string name="accessibility_ultra_wide_off">Ultra geniş açı modu kapatıldı</string>
-  <string name="autozoom_hint">Hareketli nesneyi takip et</string>
-  <string name="autozoom_disabled_hint">Hareketli nesneyi takip etme durduruldu</string>
-  <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzaklıkta kalın.</string>
+  <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
+  <string name="autozoom_disabled_hint">Hareketli nesneyi izleme durduruldu</string>
+  <string name="autozoom_hint">Hareketli nesneyi izle</string>
   <string name="live_sticker_fragment_tab_name">Çıkartma</string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP kapalı</string>
@@ -730,5 +730,9 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP kapalı</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-  <string name="zoom_no_support_tip_48M">Yakınlaştırma 48MP modunda çalışmıyor</string>  
+  <string name="zoom_no_support_tip_48M">Yakınlaştırma 48MP modunda çalışmıyor</string>
+  <string name="autozoom_landscape_hint">Manzara altında çekim yapılması önerilir</string>
+  <string name="lighting_pattern_holi">Holi</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Hızlı çekim animasyonunu aç</string>
+  <string name="pref_camera_quick_shot_enable_title">Hızlı çekimi aç</string>  
 </resources>

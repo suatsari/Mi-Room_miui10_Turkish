@@ -240,5 +240,14 @@
   <string name="snooze_duration_value">Aralık (dakika)</string>
   <string name="life_post_weather_no_network">Hava durumunu güncellemek için ağa bağlanın</string>
   <string name="check_theme_app_install">Temalar uygulamasının cihazınızda yüklü olduğundan emin olun.</string>
-  <string name="check_voice_assist_app_version">Mi AI\'yi en son sürümüne güncelleyin.</string>  
+  <string name="check_voice_assist_app_version">Mi AI\'yi en son sürümüne güncelleyin.</string>
+  <string name="korea_permission_calendar">Takvim</string>
+  <string name="korea_permission_calendar_desc">Etkinlik bilgilerine erişmek ve hatırlatıcı göndermek için</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_desc">Çağrılar sırasında cihaz durumuna erişmek ve hatırlatıcıları susturmak için</string>
+  <string name="korea_permission_storage">Depolama</string>
+  <string name="korea_permission_storage_desc">Alarmları kaydetmek için</string>
+  <string name="module_download_data_msg_replace">Akıllı alarmlar için güncellenmiş ses (≈20MB) mevcuttur. Ağa bağlanılsın ve mobil veri kullanarak indirilsin mi?</string>
+  <string name="module_download_msg_replace">Akıllı alarmlar için güncellenmiş ses mevcuttur. Ağa bağlanılsın ve şimdi indirilsin mi?</string>
+  <string name="search_menu_title">Ara</string>  
 </resources>
