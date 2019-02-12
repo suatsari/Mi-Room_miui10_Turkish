@@ -1587,7 +1587,7 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="wfcmode_wifi_only">Sadece Wlan</string>
   <string name="wfcmode_wifi_preferred">Wlan tercihli</string>
   <string name="wifi_call_setting">Wlan çağrıları</string>
-  <string name="wificall_switch_summary">Bağlantı zayıf olduğunda cihazınız Wlan ve VoLTE arasında geçiş yapabilir</string>
+  <string name="wificall_switch_summary">Mümkün olduğunda arama yapmak ve almak için WLAN kullanın</string>
   <string name="wificall_switch_title">Wlan kullanarak arama yap</string>
   <string name="cloud_sim_enabled_dual_4g_summary">Mi Dolaşım kullanılırken çift 4g devre dışı bırakılamıyor</string>
   <string name="cloud_sim_enabled_preferred_network_summary">Mi Dolaşım kullanılırken ağ tercihleri değiştirilemez</string>

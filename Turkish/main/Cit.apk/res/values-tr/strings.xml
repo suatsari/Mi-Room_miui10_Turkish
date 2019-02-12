@@ -650,7 +650,7 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="set_dsi_tips">DSI\'yi ayarla</string>
   <string name="cit_tof_sensor_check_summary">TOF değerleri aşağıda görünmelidir</string>
   <string name="cit_tool_check_opt">emin misin?</string>
-  <string name="cit_tool_check_opt_with_reboot">yeniden başlatılacak, emin misin?/string>
+  <string name="cit_tool_check_opt_with_reboot">yeniden başlatılacak, emin misin?</string>
   <string name="cit_tool_current_modem_test_mode">Mevcut Test Modu:</string>
   <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Ayarı</string>
   <string name="cit_tool_modem_test_clr">GPI testini kapatın</string>
