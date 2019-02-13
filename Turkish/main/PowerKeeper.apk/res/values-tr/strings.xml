@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="about_hide_mode">MIUI pil tasarrufu hakkında</string>
-  <string name="app_list_title">Uygulamayı seçin</string>
-  <string name="app_name">Pil ve Performans</string>
+  <string name="about_hide_mode">Pil tasarrufu hakkında</string>
+  <string name="app_list_title">Uygulamaları seç</string>
+  <string name="app_name">Pil ve performans</string>
   <string name="app_preload_policies_summary">Kullanması en muhtemel uygulamaları tahmin etmek için makine öğrenimini kullanın, ve kaynakları önceden yükleyin.</string>
   <string name="app_preload_policies_title">AI önyüklemesi</string>  
-  <string name="base_info">Taban bilgisi</string>
+  <string name="base_info">Temel bilgi</string>
   <string name="cloud_addr_info">Bulut bilgisi</string>
   <string name="cloud_china_addr">Çinli sunucu verilerini güncelleme</string>
   <string name="cloud_international_addr">Uluslararası sunucu verilerini güncelleme</string>
   <string name="cloud_staging_addr">Sunucusu veri hazırlama güncellemesi</string>
-  <string name="config_description">MIUI özel arkaplan işlemleri (Mesela; mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) ile uygulamaları belirleyebilir. Arkapalanda çalışanlara etkisi olmayacak şekilde Pil Tasarrufunu ayarlayın.</string>
-  <string name="config_mode_title">Arkaplan Ayarları</string>
+  <string name="config_description">MIUI, belirli arka plan işlemlerine sahip uygulamaları (örneğin, mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) tanımlayabilir ve önemli arka plan etkinliğini etkilemeyecek şekilde Pil tasarrufu uygulayabilir.</string>
+  <string name="config_mode_title">Arka plan ayarları</string>
   <string name="config_no_restrict_description">Pil tasarrufu uygulama faaliyetini kısıtlamaz</string>
   <string name="config_no_restrict_title">Kısıtlama yok</string>
   <string name="config_restrict_function_description">Bazı özellikler (Mesela; push bildirimleri) etkilenebilir, ancak uygulamalar kapanmayacak</string>
@@ -30,10 +30,7 @@
   <string name="enable_hide_mode">MIUI Pil Tasarrufu\'nu etkinleştirin</string>
   <string name="error_filename_too_long">Girdiğiniz dosya ismi çok uzun.</string>
   <string name="extreme_power_config_mode_category">Aşırı mod</string>
-  <string name="extreme_power_config_mode_desc">&lt;li&gt;"Aşırı pil tasarrufu, bir uygulamadan çıktıktan sonra bu uygulamanın tüm arka plan etkinliklerini durdurur ve Ana ekrana geri döner. Bu uygulama size bildirim göndermeyecek veya güncelleme almayacak."&lt;/li&gt;"
-"&lt;li&gt;Bir uygulamanın arka planda çalışmasını istiyorsanız, son uygulamalar bölümüne kilitleyin veya aşağıdaki arka plan istisnalarına ekleyin. Aşırı pil tasarrufu açıkken arka planda 4 uygulama seçilebilir.&lt;/li&gt;"
-"&lt;li&gt;Aşırı pil tasarrufu varsayılan olarak NFC\'yi kapatır. Bunu Ayarlar'da değiştirebilirsiniz.&lt;/li&gt;"
-"&lt;li&gt;Cihazınızın tüm özelliklerini normal şekilde kullanabilmeniz için, pil %30 şarj olduğunda Aşırı pil tasarrufu otomatik olarak kapatılacaktır..&lt;/li&gt;</string>
+  <string name="extreme_power_config_mode_desc">Eşitleme, Bluetooth, GPS, NFC, çift dokunma, düğme ışıkları, bildirimler için Kilit ekranını uyandırma, yanı sıra bildirim ışıklarını kapatmak için Aşırı moda geçin. MIUI pil tasarrufu üzerinde durulacak.</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
   <string name="failure">Hata</string>
   <string name="hide_mode_desc">Bir uygulama arka planda çalışırken, etkinlikleri izlenir. Bu işlev %s üzerinden kullanıcı verilerini alır ve kullanır</string>
@@ -94,21 +91,21 @@
   <string name="appconfig_active_app_dialog_title">Etkin uygulamaları yönet</string>
   <string name="config_classify">Uygulama ayarlarına göre sırala</string>
   <string name="privacy">Gizlilik Politikası</string>
-  <string name="about_extreme_mode">Aşırı modu</string>
+  <string name="about_extreme_mode">Aşırı mod</string>
   <string name="extreme_mode_max_item_alert">Aşırı modunda arka planda çalışacak en fazla 4 uygulama seçebilirsiniz.</string>
   <string name="message_i_know">Anladım</string>
   <string name="high_temp_state">Aşırı ısınma</string>
-  <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veriler, WLAN noktaları, GPS ve kamera kısıtlanacak.</string>
+  <string name="high_temp_state_message">Cihazınız aşırı ısınıyor. Mobil veri, WLAN noktaları, GPS ve kamera kısıtlanacak.</string>
   <string name="atrace_saved">Başarıyla kaydedildi</string>
-  <string name="atrace_saving">Kıyafet günlüğünü kaydediliyor…</string>
-  <string name="atrace_start">İzleme günlüğünü kaydediliyor…</string>
-  <string name="extreme_add_white_list_summary">En fazla 4 uygulama ekle</string>
-  <string name="extreme_add_white_list_title"> Arka plan istisnaları</string>
+  <string name="atrace_saving">İzleme günlüğü kaydediliyor…</string>
+  <string name="atrace_start">İzleme günlüğü kayıt ediliyor…</string>
+  <string name="extreme_add_white_list_summary">4 uygulamaya kadar ekle</string>
+  <string name="extreme_add_white_list_title">Arka plan istisnaları</string>
   <string name="extreme_power_config_mode_summary">Aşırı pil tasarrufu arka plan etkinliğini kısıtlar ve senkronizasyonu durdurur.</string>
   <string name="extreme_power_settings_title">Ayarlar</string>
-  <string name="notification_exit_extreme_mode_text">Pil %s fazla şarj edildi</string>
-  <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapatıldı</string>
-  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açıldı</string>
+  <string name="notification_exit_extreme_mode_text">Pil %s üzerinde şarj edildi</string>
+  <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapalı</string>
+  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
   <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>  
 </resources>
