@@ -73,15 +73,15 @@
         <item quantity="one">%d dakika sonra senkranizasyonu sürdür</item>
     </plurals>
     <plurals name="micloud_manual_pause_and_resume">
-        <item quantity="other">Eşitleme duraklatıldı. %d dakika sonra senkronizasyona devam et</item>
-        <item quantity="one">Eşitleme duraklatıldı. %d dakika sonra senkronizasyona devam et</item>
+        <item quantity="other">Eşitleme duraklatıldı. %d dakika içinde yeniden devam edecek…</item>
+        <item quantity="one">Eşitleme duraklatıldı. %d dakika içinde yeniden devam edecek…</item>
     </plurals>
     <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">" dakika önce"</item>
-        <item quantity="one">" dakika önce"</item>
+        <item quantity="other">%s dak. önce</item>
+        <item quantity="one">%s dak. önce</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">" saat önce"</item>
-        <item quantity="one">" saat önce"</item>
+        <item quantity="other">%s saat önce</item>
+        <item quantity="one">%s saat önce</item>
     </plurals>	
 </resources>

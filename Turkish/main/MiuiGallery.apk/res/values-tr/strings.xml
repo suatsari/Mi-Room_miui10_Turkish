@@ -1447,5 +1447,20 @@ mevcut"</string>
   <string name="photo_font_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak, veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir.</string>
   <string name="photo_font_download_without_wifi_title">Veri kullanımı uyarısı</string>
   <string name="text_tab_bubble">Baloncuklar</string>
-  <string name="text_tab_watermark">Filigranlar</string>  
+  <string name="text_tab_watermark">Filigranlar</string>
+  <string name="agreement_agree">Kabul</string>
+  <string name="agreement_optional_tip">(İsteğe bağlı)</string>
+  <string name="agreement_quit">Çıkış</string>
+  <string name="agreement_required_tip">(Zorunlu)</string>
+  <string name="agreement_summary">Yasal belgeler</string>
+  <string name="permissin_contract_desc">Fotoğraflarda insanları adlandırmak için</string>
+  <string name="permission_contract_name">Kişiler</string>
+  <string name="permission_optional_category">İsteğe bağlı izinler</string>
+  <string name="permission_phone_desc">Cihaz kimliğine dayalı ağ istekleri için</string>
+  <string name="permission_phone_name">Telefon</string>
+  <string name="permission_require_category">Zorunlu izinler</string>
+  <string name="permission_storage_desc">Fotoğrafları görüntülemek, düzenlemek ve kaydetmek için</string>
+  <string name="permission_storage_name">Depolama</string>
+  <string name="permission_use_desc">İzinler</string>
+  <string name="select_all">Tümünü seç</string>  
 </resources>
