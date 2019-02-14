@@ -668,6 +668,17 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="cit_tool_select_none">Hiçbiri seçilmedi</string>
   <string name="cit_tool_select_opposite">Tersine Seç</string>
   <string name="cit_tool_setting_expired">Ayar Süresi doldu, lütfen tekrar deneyin!</string>
-  <string name="cit_tool_setting_wait">Ayar! LTF bekleyin (5 saniye)</string>
-  <string name="cit_tool_to_fetching">getirmek için</string>  
+  <string name="cit_tool_setting_wait">Ayar! Lütfen bekleyin</string>
+  <string name="cit_tool_to_fetching">getirmek için</string>
+  <string name="cit_tool_active_mbn">aktif</string>
+  <string name="cit_tool_getting_expired">Süresi dolmuş!</string>
+  <string name="cit_tool_getting_wait">Başlarken! Lütfen bekle</string>
+  <string name="cit_tool_mbn_default_notfiy">varsayılan MBN</string>
+  <string name="cit_tool_mbn_no_default_notfiy">Varsayılan MBN yok</string>
+  <string name="cit_tool_mbn_path_select_hit">mbn\'nin tam yolunu seçin:</string>
+  <string name="cit_tool_mbn_path_select_notice">yukarıda bulamadınız mı? burada ara? Mcfg gelince, ct, eps ... vb</string>
+  <string name="cit_tool_mbn_recovery_default">Kurtarma varsayılan MBN</string>
+  <string name="cit_tool_modem_clear_empty">temiz</string>
+  <string name="cit_tool_modem_mbn_config_load_and_active">MBN yapılandırma yükleme ve etkinleştirme aracı</string>
+  <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>  
 </resources>

@@ -467,7 +467,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_1800">60 saniye aralığında (1800 kez)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Zaman Atlama Aralığı</string>
   <string name="preparing_sd">SD Kart kontrol ediliyor…</string>
-  <string name="record_back_pressed_hint">Tekrar dokunup kaydı durdurun</string>
+  <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar dokunun</string>
   <string name="screen_on_proximity_sensor_hint">Bu özelliği kapatmak için, Yukarı ve Geri düğmelerine aynı anda basın.</string>
   <string name="screen_on_proximity_sensor_summary">Kulaklık alanını kapatmayın</string>
   <string name="search_settings">Kamera Ayarları;Kalite;Fotoğraf Kalitesi;Resim Konumu;Fotoğraf Konumu;Yüz Tespiti;Kamera Sesi</string>
@@ -498,6 +498,7 @@
   <string name="start_capture">Tamam</string>
   <string name="sticker_tab1">Sevimli</string>
   <string name="sticker_tab2">Komik</string>
+  <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
   <string name="time_lapse_error">Zaman aralıklı kayıt için bu video boyutu kullanılamıyor</string>
@@ -585,7 +586,7 @@ kullanabilirsiniz"</string>
   <string name="view_privacy_policy">Gizlilik Politikasını Görüntüle</string> 
   <string name="beauty_mode_reset_toast">Değişiklik yapılan efektler kaldırıldı</string>
   <string name="beauty_reset">Sıfırla</string>
-  <string name="capture_back_pressed_hint">Çıkmak için tekrar dokun</string>
+  <string name="capture_back_pressed_hint">Çıkmak için tekrar dokunun</string>
   <string name="edit_blusher">Ruj</string>
   <string name="edit_eyebrow_dye">Kaşlar</string>
   <string name="edit_jelly_lips">Dudak parlatıcısı</string>
