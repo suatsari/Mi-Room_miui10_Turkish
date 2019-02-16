@@ -2,7 +2,7 @@
 <resources>
   <string name="about_autostart">Otomatik başlatma hakkında</string>
   <string name="ac_enter_applock">Uygulama kilidini girin</string>
-  <string name="ac_firstUseApplock_subTitle">Daha iyi sistem düzeyinde güvenlik araçları kullanın</string>
+  <string name="ac_firstUseApplock_subTitle">Sistem düzeyinde en iyi güvenlik araçlarını kullanın</string>
   <string name="ac_firstUseApplock_title">Uygulamalarınızı korumak için bir şifre belirleyin</string>
   <string name="ac_mask_all_apps">Tüm uygulamalar için gizle</string>
   <string name="ac_notification_contentText">Açmak için dokunun</string>

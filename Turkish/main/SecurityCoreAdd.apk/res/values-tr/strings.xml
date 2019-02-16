@@ -327,9 +327,9 @@
   <string name="weixin_pay">WeChat ödeme</string>
   <string name="weixin_share_sign">Giriş yapın ve paylaşın</string>
   <string name="xpsace_guide_button">Oluştur</string>
-  <string name="xspace_account">Klonlu Uygulama Hesabı</string>
-  <string name="xspace_chocie">Klonlu Uygulamalar Desteği</string>
-  <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
+  <string name="xspace_account">Klonlu uygulama hesabı</string>
+  <string name="xspace_chocie">Klonlu uygulama desteği</string>
+  <string name="xspace_creating">Klonlu uygulama oluşturuluyor…</string>
   <string name="xspace_default_app_summary">Ödemeler, paylaşım, sık kullanılanlar ve daha fazlası için varsayılan uygulamayı ayarlayın.</string>
   <string name="xspace_default_app_title">Varsayılan uygulama</string>
   <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>

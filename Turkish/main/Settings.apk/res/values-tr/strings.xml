@@ -370,7 +370,7 @@
   <string name="applications_settings">Uygulamaları yönet</string>
   <string name="applications_settings_header">Uygulama Ayarları</string>
   <string name="applications_settings_summary">Uygulamaları yönet, hızlı başlatma kısayollarını ayarla</string>
-  <string name="apply_fingerprint_to_category_title">Parmak izi uygulanıyor...</string>
+  <string name="apply_fingerprint_to_category_title">Parmak izi uygula...</string>
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
   <string name="apply_update_fail">Güncellenemedi!</string>
@@ -3519,13 +3519,21 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="remove_from_frequently_fragment">Hızlı Ayarlardan %s kaldırılsın mı?</string>
   <string name="remove_managed_profile_label">İş profilini kaldır</string>
   <string name="repeat">Tekrarla</string>
-  <string name="repeat_call">Tekrarlanan arayan hatırlatma</string>
-  <string name="repeat_call_info">\"Sessiz\" modunda, bir kişi 15 dakika içinde tekrarlanan bir arama yaparsa, sesli bir sinyalle sizi bilgilendireceksiniz</string>
+  <string name="repeat_call">Tekrarlanan çağrıları bildir</string>
+  <string name="repeat_call_info">Sessiz modda 15 dakika içinde tekrarlanan aramalar için sese izin verin</string>
   <string name="repeat_title">Tekrarla</string>
   <string name="reset_aaid">Reklam Tanımlayıcısını Sıfırla</string>
   <string name="reset_app_preferences">Uygulama seçeneklerini sıfırla</string>
   <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
-  <string name="reset_app_preferences_desc">Bu tüm seçenekleri sıfırlayacak:\n\n \"Uygulamalar devre dışı\"\n \"Uygulama bildirimleri devre dışı\"\n \"Varsayılan uygulamaların faaliyetleri\"\n \"Uygulamalar için arkaplan veri kısıtlamaları\"\n \"Herhangi bir izin kısıtlamaları\"\n\n Herhangi uygulama verisi kaybetmezsiniz.</string>
+  <string name="reset_app_preferences_desc">"Bu, tüm tercihleri sıfırlayacak:
+
+"<li> Devre dışı bırakılmış uygulamalar</li>"
+"<li> Devre dışı bırakılmış uygulama bildirimleri</li>"
+"<li> Varsayılan uygulama eylemleri</li>"
+"<li> Uygulamalar için arka plan veri kısıtlamaları</li>"
+"<li> Herhangi bir izin kısıtlaması</li>"
+
+ Herhangi bir uygulama verisini kaybetmezsiniz."</string>
   <string name="reset_app_preferences_title">Uygulama seçeneklerini sıfırlamak istiyor musunuz?</string>
   <string name="reset_dashboard_title">Sıfırla</string>
   <string name="reset_legacy_password_settings_preface_text">Kilit ekranınızın şifresini sıfırlamalısınız.</string>
@@ -3535,7 +3543,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="reset_network_complete_toast">Ağ ayarları sıfırlandı</string>
   <string name="reset_network_confirm_title">Sıfırlansın mı?</string>
   <string name="reset_network_data">Mobil veri</string>
-  <string name="reset_network_desc">\"Bu ağa ait tüm ayarlar sıfırlanacak, bunlar:\n\n\"Wi-Fi\"\n\"Hücresel Veri\"\n\"Bluetooth</string>
+  <string name="reset_network_desc">Bu, tüm ağ ayarlarını sıfırlar</string>
   <string name="reset_network_final_button_text">Ayarları sıfırla</string>
   <string name="reset_network_final_desc">Tüm ağ ayarları sıfırlansın mı? Bu geri alınamaz!</string>
   <string name="reset_network_title">Ağ ayarlarını sıfırla</string>
