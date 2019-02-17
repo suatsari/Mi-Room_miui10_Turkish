@@ -748,24 +748,24 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
     <string name="noContactHelpTextImportXiaomiAccountInfo">Mi hesabında yedeklenmiş kişiler bilgisini geri yükle</string>
     <string name="noContacts">Kişi yok</string>
     <string name="noContactsWithPhoneNumbers">Telefon numarası olan hiç kimse bulunamadı</string>
-    <string name="noFavoritesHelpText">"Herhangi bir favoriniz yok.
+    <string name="noFavoritesHelpText">"Hiç favorin yok.
 
-Favorilerinize bir kişi eklemek için:
+Favoriler listenize bir kişi eklemek için:
 
- Kişiler sekmesine dokunun
- 
-Favorilere eklemek istediğiniz kişiye dokunun
- 
-Kişinin adının yanındaki yıldıza dokunun
-
+"<li><b>Kişiler</b>" sekmesine dokunun
+"</li>" 
+"<li>"Favorilerinize eklemek istediğiniz kişiye dokunun
+"</li>" 
+"<li>"Kişinin adının yanındaki yıldıza dokunun
+"</li>"
 "</string>
     <string name="noGroups">Grup yok</string>
     <string name="noMatchingContacts">Eşleşen kişi bulunamadı.</string>
     <string name="noRecentContacts">Son kişi yok</string>
-    <string name="no_account_prompt">"Kişi aramaları bir Google Hesabı ile daha iyi çalışır.
+    <string name="no_account_prompt">"Kişiler bir Google hesabıyla daha iyi çalışır.
 
-•Herhangi bir web tarayıcından erişin.
-• Kişileri güvenli bir şekilde yedekleyin."</string>
+• Herhangi bir web tarayıcından erişin.
+• Kişilerinizi güvenli bir şekilde yedekleyin."</string>
     <string name="no_contact_details">Bu kişi için ek bilgi yok.</string>
     <string name="no_contact_in_other_phone">Kişi tespit edilmedi</string>
     <string name="no_contacts_dialog_message">Kişiler SIM kart hafızasında olabilir. Telefonunuzun dahili depolamasına SIM karttan bunları aktarın ve yeniden deneyin.</string>
