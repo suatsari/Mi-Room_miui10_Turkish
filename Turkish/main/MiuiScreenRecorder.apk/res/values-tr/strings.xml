@@ -46,6 +46,8 @@
   <string name="operation_delete">Sil</string>
   <string name="operation_send">Gönder</string>
   <string name="quit_recording">Ekran Kaydediciden çık</string>
+  <string name="permission_intro_microphone">Ses kaynağı mikrofona ayarlandığında ses kaydetmek için</string>
+  <string name="permission_intro_storage">Ekran kayıtlarını kaydetmek için</string>  
   <string name="resolution">Çözünürlük</string>
   <string name="resolution_summary">Daha yüksek çözünürlüklü videolar daha keskin görünür</string>
   <string name="screen_orientation">Oryantasyon</string>

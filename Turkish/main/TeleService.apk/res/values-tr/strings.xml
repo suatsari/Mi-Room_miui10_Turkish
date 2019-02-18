@@ -1614,7 +1614,7 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
 Acil durum araması yapmak için cihaz otomatik olarak hücresel bir şebekeye(2G/3G) geçer.
 
 Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."</string>
-  <string name="vowifi_emergency_warning_title">ECC, WLAN Çağrısı yoluyla arama yapar</string>
+  <string name="vowifi_emergency_warning_title">WLAN Çağrısı yoluyla acil çağrılar</string>
   <string name="wifi_call_setting_vodafone_de">WLAN çağrısı</string>
   <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>  
 </resources>

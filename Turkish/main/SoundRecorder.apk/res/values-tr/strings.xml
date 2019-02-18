@@ -265,5 +265,11 @@
   <string name="webview_network_access_denied">Ağ erişimi reddedildi</string>
   <string name="webview_network_unavaliable">Ağa bağlanılamıyor</string>
   <string name="webview_service_unavailiable">Hizmet kullanılamıyor</string>
-  <string name="webview_try_again">Tekrar deneyin</string>  
+  <string name="webview_try_again">Tekrar deneyin</string>
+  <string name="korea_permission_phone">Telefon</string>
+  <string name="korea_permission_phone_resc">Çağrı sırasında cihaz durumuna erişmek ve kayıtları yönetmek için</string>
+  <string name="korea_permission_record">Mikrofon</string>
+  <string name="korea_permission_record_resc">Ses kaydı için</string>
+  <string name="korea_permission_storage">Depolama</string>
+  <string name="korea_permission_storage_desc">Kayıtları kaydetmek için</string>  
 </resources>

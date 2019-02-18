@@ -147,6 +147,7 @@
   <string name="front_camera_hint_text_place">Telefonunuzu döndürdüğünüz zaman \nözçekim yapmak daha kolay olacak</string>
   <string name="front_camera_hint_text_rotate">Telefonunuzu döndürün</string>
   <string name="hine_hht">Düşük ışık altında, kamera birden fazla fotoğraf çekecek\nve ardından en temiz şekilde bir resim oluşturacaktır.</string>
+  <string name="hint_ae_lock">Otomatik pozlama kilitlendi</string>  
   <string name="hint_device_water_mark">Cihaz filigranı otomatik olarak eklenecektir.</string>
   <string name="hint_fast_motion">Çektiğiniz video daha hızlı oynatılacaktır.</string>
   <string name="hint_groupshot">Kamera birden fazla fotoğraf çekecek \nve herkesin en iyi görüneceği bir çekim oluşturacak.</string>

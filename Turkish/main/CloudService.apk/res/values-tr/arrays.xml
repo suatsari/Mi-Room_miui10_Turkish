@@ -12,4 +12,18 @@
         <item>WLAN ve ekran da dahil olmak üzere önemli ayarları yedekleyin</item>
         <item>Cihazınızı kaybederseniz uzaktan kilitleyin</item>
     </string-array>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Eşitlenmiş öğeleri tanımlamak için</item>
+        <item>Mesajları eșitlemek için</item>
+        <item>Kişileri eșitlemek için</item>
+        <item>Takvim etkinliklerini eșitlemek için</item>
+        <item>Depolama alanını kullanan hizmetler ile öğeleri eșitlemek Için</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Telefon</item>
+        <item>SMS</item>
+        <item>Kişiler</item>
+        <item>Takvim</item>
+        <item>Depolama</item>
+    </string-array>	
 </resources>

@@ -259,6 +259,14 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="save_to_gallery_success_message">Resim Galeri\'ye başarıyla kaydedildi</string>
   <string name="snippet_audio_stub">Sesli not</string>
   <string name="toast_refuse_to_record_when_in_call">Arama sırasında bu özelliği kullanamazsınız</string>
+  <string name="toast_refuse_to_use_contact">"Rehber izinleri kısıtlanmış.
+Notlar\'ın kişilerinizi okumasına ve cihazdaki hesapları bulmasına izin verin."</string>
+  <string name="toast_refuse_to_use_external_storage">"Depolama izinleri kısıtlanmış.
+Notlar\'ın SD kartınızın içeriğini okumasına izin verin."</string>
+  <string name="toast_refuse_to_use_phone_state">"Telefon izinleri kısıtlanmış.
+Notlar\'ın telefon durumunu ve kimliğini okumasına izin verin."</string>
+  <string name="toast_refuse_to_use_record_audio">"Mikrofon izinleri kısıtlanmış.
+Notlar\'ın ses kaydetmesine izin verin."</string>  
   <string name="toolbar_text_description">Metin stili</string>
   <string name="toolbar_voice_description">Ses</string> 
   <string name="actionbar_close_description">Kapat</string>

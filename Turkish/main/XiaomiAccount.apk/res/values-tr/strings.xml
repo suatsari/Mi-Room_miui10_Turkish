@@ -645,5 +645,22 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="mi_finance_info">Yeni kullanıcılar için bonuslar</string>
   <string name="same_new_and_old_pwd">Geçerli şifre ile aynı olamaz</string>
   <string name="sim_card">SIM kart</string>
-  <string name="used_cloud_storage_info">%s kullanılmış depolama alanı</string>  
+  <string name="used_cloud_storage_info">%s kullanılmış depolama alanı</string>
+  <string name="exit">Çıkış</string>
+  <string name="i_agree">Tamam</string>
+  <string name="i_agree_continue">Devam et</string>
+  <string name="kr_license_desc">Mi Hesabı ve Mi Bulut Hizmeti, kullanıcı sözleşmesini ve gizlilik politikasını kabul etmeniz gerekir.</string>
+  <string name="kr_permission_contacts_desc">Kişi bilgilerini okumak için kullanılır</string>
+  <string name="kr_permission_desc">Lütfen aşağıdaki gerekli izinleri okuyun</string>
+  <string name="kr_permission_phone_desc">Hesap güvenliği için kullanılır</string>
+  <string name="kr_permission_sms_desc">Doğrulama kodunu otomatik doldurma için kullanılır</string>
+  <string name="kr_permission_storage_desc">Depo teşhis bilgisi için kullanılır</string>
+  <string name="optional_permissions">İsteğe bağlı izinler</string>
+  <string name="passport_privacy_policy_required">Gizlilik Politikası (gerekli)</string>
+  <string name="passport_user_agreement_required">Kullanıcı Sözleşmesi (gerekli)</string>
+  <string name="permission_group_contacts">Kişiler</string>
+  <string name="permission_group_phone">Telefon</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Depolama</string>
+  <string name="select_all">Tümünü seç</string>  
 </resources>
