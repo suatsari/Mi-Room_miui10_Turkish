@@ -87,11 +87,29 @@
   <string name="accessibility_screen_magnification_gestures_title">Üç kez dokunarak büyütme</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Erişilebilirlik düğmesi %1$s olarak ayarlandı. Büyütmeyi kullanmak için Erişilebilirlik düğmesine dokunup basılı tutun, ardından büyütmeyi seçin.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Yakınlaştırmak için bir düğmeye dokunun</string>
-  <string name="accessibility_screen_magnification_navbar_summary">Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın alt kısmındaki Erişilebilirlik düğmesini kullanın.\n\n\"&lt;b&gt;Yakınlaştırmak için&lt;/b&gt;\" Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.\n\"&lt;ul&gt;&lt;li&gt;Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin&lt;/li&gt;\"\n\"&lt;li&gt;Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızı birbirine yaklaştırın&lt;/li&gt;&lt;/ul&gt;\"\n\n\"&lt;b&gt;Geçici olarak yakınlaştırmak için&lt;/b&gt;\" Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.\n\"&lt;ul&gt;&lt;li&gt;Ekranda hareket etmek için sürükleyin&lt;/li&gt;\"\n\"&lt;li&gt;Uzaklaştırmak için parmağınızı çekin&lt;/li&gt;&lt;/ul&gt;\"\n\nKlavyede veya gezinme çubuğundayken yakınlaştırma yapamazsınız.</string>
+  <string name="accessibility_screen_magnification_navbar_summary">"Büyütme açıldığında, hızlı bir şekilde büyütmek için ekranın altındaki Erişilebilirlik düğmesini kullanın.
+
+"<b>Yakınlaştırmak</b>", için Erişilebilirlik düğmesine, ardından ekranda herhangi bir yere dokunun.
+"<ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+
+"<b>Geçici olarak yakınlaştırmak için</b>", Erişilebilirlik düğmesine dokunun, ardından ekranda herhangi bir yere dokunup basılı tutun.
+"<ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+
+Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_screen_magnification_navbar_title">Düğmeyle büyütme</string>
   <string name="accessibility_screen_magnification_short_summary">Yakınlaşmak için 3 kez hafifçe dokunun</string>
   <string name="accessibility_screen_magnification_state_navbar_gesture">Düğmeyle ve üç kez dokunarak büyütme</string>
-  <string name="accessibility_screen_magnification_summary">\"Yakınlaştırmak için\", ekrana tek parmağınızla 3 kez hızlıca dokunun.\n\nKaydır: İki veya daha fazla parmağı ekran boyunca sürükleyin.\nYakınlaştırma seviyesini ayarlayın: İki veya daha fazla parmağınızı sıkıştırın veya birbirinden ayırın\nGeçici olarak yakınlaştırmak için, ekrana 3 kez hızlıca dokunun ve üçüncü seferde parmağınızı basılı tutun.\nEkranın etrafında hareket etmek için parmağınızı sürükleyin\nUzaklaştırmak için parmağınızı kaldırın\n\nKlavye ve gezinme çubuğuna yakınlaştırma yapamazsınız.</string>
+  <string name="accessibility_screen_magnification_summary">" "<b>Yakınlaştırmak için</b>", ekrana 3 kez hızlıca dokunun.
+"<ul> <li>Kaydırmak için 2 veya daha fazla parmağınızı sürükleyin</li>"
+"<li>Yakınlaştırmayı ayarlamak için 2 veya daha fazla parmağınızla sıkın</li> </ul>"
+
+"<b>Geçici olarak yakınlaştırmak için</b>", ekrana 3 kez hızlıca dokunun ve üçüncü dokunuşta parmağınızı basılı tutun.
+"<ul> <li>Ekranda hareket ettirmek için sürükleyin</li>"
+"<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
+
+Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string
   <string name="accessibility_screen_magnification_title">Büyütme Hareketleri</string>
   <string name="accessibility_service_default_description">Açıklama yok.</string>
   <string name="accessibility_settings">Erişilebilirlik</string>
@@ -6203,5 +6221,14 @@ aptX-Adaptif: Kodek Modu"</string>
   <string name="mute_voiceassist_stream">Sesli Yardım\'ı sustur</string>
   <string name="settings_notify_new_version">Bir güncelleme var. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="crypt_keeper_switch_to_pattern">Desen kullan</string>
-  <string name="crypt_keeper_switch_to_pin">PIN kullan</string>  
+  <string name="crypt_keeper_switch_to_pin">PIN kullan</string>
+  <string name="master_clear_desc_no_cancel_mobile_plan">"
+
+Bu, mobil servis planınızı iptal etmez."</string>
+  <string name="private_dns_help_message">Özel DNS özellikleri hakkında <annotation id="url">daha fazla bilgi</annotation></string>
+  <string name="private_dns_mode_off">Kapalı</string>
+  <string name="private_dns_mode_opportunistic">Otomatik</string>
+  <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
+  <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
+  <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısının ana bilgisayar adını girin</string>  
 </resources>
