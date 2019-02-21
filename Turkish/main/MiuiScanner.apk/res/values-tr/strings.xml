@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abc_action_bar_home_description">Ana ekrana git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
+  <string name="abc_action_mode_done">Tamamlandı</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü Gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Ara</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Ara</string>
+  <string name="abc_searchview_description_submit">Sorgu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="accept">Tamam</string>
   <string name="access_sd_fail">"SD Karta erişemedi</string>
   <string name="accessibility_shutter_button">Deklanşör Sayısı</string>
@@ -155,6 +172,7 @@
   <string name="scan_fail">"Kod taranamıyor"</string>
   <string name="scan_result">Sonuç</string>
   <string name="sdk_not_ready">SDK hazırlanıyor. Sonra yeniden deneyin.</string>
+  <string name="search_menu_title">Arama</string>
   <string name="secure_access_web_url">Websitesine git</string>
   <string name="see_app_details">Uygulama detaylarını görüntüle</string>
   <string name="settings">Ayarlar</string>

@@ -564,7 +564,9 @@
   <string name="cpu_usage_process_run_time_little_time">1 dakikadan az</string>
   <string name="cpu_usage_view_action_btn_text">Görüntülemek için dokunun</string>
   <string name="create_shortcut">Oyun hızı yükselticisi için Ana ekran kısayolu oluşturma</string>
-  <string name="cta_dialog_msg">Güvenliğin, güncellemeleri almak için internet bağlantısının yanı sıra normal çalışması içinde konuma erişmesi gerekir.</string>
+  <string name="cta_dialog_msg"><Data>Güvenlik uygulamasını kullanmadan önce &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik politikamızı&amp;lt;/a&amp;gt; kabul etmelisiniz. Güvenlik ayrıca, normal şekilde çalışmak ve virüsten koruma tanımlarını güncel tutmak için internete bağlanmalı ve konumunuza erişmelidir. Kabul?</Data></string>
+  <string name="cta_dialog_negative">Çıkış</string>
+  <string name="cta_dialog_positive">Kabul</string>  
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
   <string name="cta_settings">İnternet bağlantısına izin ver</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
