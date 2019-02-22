@@ -208,7 +208,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="add_fingerprint_toast_text">Sensöre parmağınızı koyun</string>
   <string name="add_front_fingerprint_instruction_msg">Parmak izi sensörü ev düğmesinin altında bulunur.</string>
   <string name="add_new">ekle</string>
-  <string name="add_rule">kural ekle</string>
+  <string name="add_rule">Kural ekle</string>
   <string name="add_virtual_keyboard">Klavyeleri Yönet</string>
   <string name="adding_profile_owner_warning">Devam ettiğinizde, kullanıcınız sizin yöneticiniz tarafından idare edilecek. Kişisel verilere ek olarak, ilişkili verileri depolamak mümkün olabilir.\n\nYöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarları izleme ve yönetme yetkisine sahiptir.</string>
   <string name="additional_battery_info">Kullanım uyarıları</string>
@@ -1409,7 +1409,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="delete_fingerprint_text">Parmak izini kaldır</string>
   <string name="delete_legacy_fingerprint">Sil</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Bu Parmak izi silinsin mi?</string>
-  <string name="delete_rule">kuralları kaldır</string>
+  <string name="delete_rule">Kuralları kaldır</string>
   <string name="delete_saved_network">Kaydedilen ağı sil</string>
   <string name="deleted_apps">Silinen uygulamalar</string>
   <string name="deletion_helper_automatic_title">Otomatik</string>
@@ -1556,7 +1556,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="dndm_auto_button_title">Rahatsız Etme Tekrarı</string>
   <string name="dndm_auto_setting_group">Planlanmış</string>
   <string name="dndm_auto_time_setting">Zaman Ayarı</string>
-  <string name="dndm_auto_time_turn_off">İçin</string>
+  <string name="dndm_auto_time_turn_off">Hedef</string>
   <string name="dndm_auto_time_turn_off_title">Rahatsız Etme\'yi otomatik kapat</string>
   <string name="dndm_auto_time_turn_on">Başlangıç</string>
   <string name="dndm_auto_time_turn_on_title">Rahatsız Etme\'yi otomatik aç</string>
@@ -3613,7 +3613,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="roaming_warning">Kayda değer dolaşım ücreti ödeyebilirsiniz!</string>
   <string name="roaming_warning_multiuser">Veri dolaşımına izin vermeniz, size kayda değer dolaşım ücretlerine neden olabilir!\n\nBu ayar telefondaki tüm kullanıcıları etkiler.</string>
   <string name="root">Kök erişimi</string>
-  <string name="rule_name">kural adı</string>
+  <string name="rule_name">Kural adı</string>
   <string name="running_frequency">Frekans</string>
   <string name="running_process_item_removed_user_label">Kaldırılan kullanıcı</string>
   <string name="running_process_item_user_label">Kullanıcı: %1$s</string>
