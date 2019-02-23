@@ -284,7 +284,7 @@
   <string name="sdcradfs_dialog_in_owner_title">İkinci alan</string>
   <string name="sdcradfs_dialog_in_sec_message">Güncellemek için, İkinci alanınızı silmeli ve sonra tekrar oluşturmalısınız. Verileri İkinci alandan İlk alana taşıyın ve güncellemeyi tamamlamak için cihazınızı yeniden başlatın.\nGüncelleme yapmazsanız, klonlu uygulamalar düzgün çalışmayabilir.</string>
   <string name="sdcradfs_dialog_in_sec_title">Önemli güncelleme</string>
-  <string name="search_input_txt_na">&lt;font color='#ff0000'>%s&lt;/font></string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
   <string name="search_result_text">Hiçbir uygulama bulunamadı</string>
   <string name="second_owner_finger_print">İkinci alan parmak izi</string>
   <string name="second_space_desktop_tips_dialog_message">Bu güncellemeden sonra, verileri taşıma ve İkinci alanı yönetme simgeleri artık Ana ekranda gösterilmeyecek. Ayarlardan ilgili özelliklerine erişebileceksiniz.</string>
