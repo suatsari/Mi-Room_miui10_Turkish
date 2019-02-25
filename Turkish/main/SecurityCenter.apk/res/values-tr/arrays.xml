@@ -3,7 +3,7 @@
   <string-array name="alarm_repeat_type">
     <item>Bir kere</item>
     <item>Her gün</item>
-    <item>Yasal iş günleri</item>
+    <item>Resmi iş günleri</item>
     <item>Hafta içi</item>
     <item>Özel</item>
   </string-array>
