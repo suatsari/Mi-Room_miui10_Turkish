@@ -2382,11 +2382,11 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lock_screen_notifications_interstitial_message_profile">Cihazınız kilitlendiğinde, profil bildirimlerinin nasıl görünmesini istersiniz?</string>
   <string name="lock_screen_notifications_interstitial_title">Bildirimler</string>
   <string name="lock_screen_notifications_interstitial_title_profile">Profil Bildirimleri</string>
-  <string name="lock_screen_notifications_summary_disable">Tüm bildirimleri gösterme</string>
+  <string name="lock_screen_notifications_summary_disable">Bildirimleri hiç gösterme</string>
   <string name="lock_screen_notifications_summary_disable_profile">Tüm iş bildirimlerini gösterme</string>
-  <string name="lock_screen_notifications_summary_hide">Hassas bildirim içeriğini gizle</string>
+  <string name="lock_screen_notifications_summary_hide">Tüm bildirimleri göster ama içeriğini gizle</string>
   <string name="lock_screen_notifications_summary_hide_profile">Hassas iş bildiriminin içeriğini gizlet</string>
-  <string name="lock_screen_notifications_summary_show">Tüm bildirim içeriğini göster</string>
+  <string name="lock_screen_notifications_summary_show">Tüm bildirimleri ve içeriğini göster</string>
   <string name="lock_screen_notifications_summary_show_profile">Tüm iş bildiriminin içeriğini göster</string>
   <string name="lock_screen_notifications_title">Kilit ekranında</string>
   <string name="lock_screen_signature_summary">Bu mesaj Kilit ekranında görüntülenecektir</string>
@@ -2395,9 +2395,10 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lock_screen_unlock_show_summary">Ana ekranı açın veya şifreyi doğrudan girin</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Değiştirmek için dokunun</string>
   <string name="lock_settings">Kilit ekranı &amp; parola</string>
-  <string name="lock_settings_common_title">Kilit Ayarları</string>
+  <string name="lock_settings_common_title">Kilit ayarları</string>
+  <string name="lock_settings_picker_fingerprint_added_security_message">Ek güvenlik için, bir yedek ekran kilidi ayarlayın</string>
   <string name="lock_settings_picker_fingerprint_message">Yedek ekran kilidi yönteminizi seçin</string>
-  <string name="lock_settings_picker_settings">Ekran Kilidi Ayarı</string>
+  <string name="lock_settings_picker_settings">Ekran kilidini ayarla</string>
   <string name="lock_settings_picker_title">Ekran kilidini seç</string>
   <string name="lock_settings_picker_title_profile">İş kilidini seçin</string>
   <string name="lock_settings_profile_screen_lock_title">İş profilinin ekran kilidi</string>
@@ -3211,7 +3212,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Kamera</string>
   <string name="power_cell">Şebeke Beklemedeyken:</string>
-  <string name="power_center">Güç</string>
+  <string name="power_center">Pil optimizasyonu</string>
   <string name="power_charge_remaining">Şarj: %1$s</string>
   <string name="power_charging_duration">%1$s - Tam Doluma: %2$s</string>
   <string name="power_checker">Pil Denetleyicisi</string>
@@ -3223,7 +3224,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="power_hide_mode_title">Uygulamaların Pil Kullanımını Yönet</string>
   <string name="power_idle">Telefon boşta</string>
   <string name="power_last_full_charge_summary">^1 önce</string>
-  <string name="power_mgr">Pil</string>
+  <string name="power_mgr">Pil optimizasyonu</string>
   <string name="power_mode">Güç Ayarları</string>
   <string name="power_mode_balanced_title">Dengeli Güç</string>
   <string name="power_optimize">Pil Tasarrufu</string>

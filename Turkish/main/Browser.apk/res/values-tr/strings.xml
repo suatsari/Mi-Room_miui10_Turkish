@@ -1424,5 +1424,11 @@
   <string name="small_video_ad_app_text_click">İndir</string>
   <string name="small_video_ad_app_text_open">Aç</string>
   <string name="small_video_ad_app_text_resume">Devam et</string>
-  <string name="small_video_ad_web_text">Aç</string>  
+  <string name="small_video_ad_web_text">Aç</string>
+  <string name="ad_app_download_notification_content">Yükleme tamamlandıktan sonra, demoyu şimdi açın~</string>
+  <string name="ad_app_download_site_new">YENİ</string>
+  <string name="ad_exit_dialog_exit_btn_name">çıkın</string>
+  <string name="ad_exit_dialog_message">Kurulum tamamlandı! Şimdi açmak ister misin?</string>
+  <string name="ad_exit_dialog_open_btn_name">açın</string>
+  <string name="ad_exit_dialog_title_name">Yeni uygulama açın onayı</string>  
  </resources>

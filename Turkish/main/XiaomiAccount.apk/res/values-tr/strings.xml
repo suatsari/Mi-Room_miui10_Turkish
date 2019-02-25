@@ -645,7 +645,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="mi_finance_info">Yeni kullanıcılar için bonuslar</string>
   <string name="same_new_and_old_pwd">Geçerli şifre ile aynı olamaz</string>
   <string name="sim_card">SIM kart</string>
-  <string name="used_cloud_storage_info">%s kullanılmış depolama alanı</string>
+  <string name="used_cloud_storage_info">Kullanılan depolama alanı %s</string>
   <string name="exit">Çıkış</string>
   <string name="i_agree">Tamam</string>
   <string name="i_agree_continue">Devam et</string>

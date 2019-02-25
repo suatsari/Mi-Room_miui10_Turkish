@@ -1462,5 +1462,14 @@ mevcut"</string>
   <string name="permission_storage_desc">Fotoğrafları görüntülemek, düzenlemek ve kaydetmek için</string>
   <string name="permission_storage_name">Depolama</string>
   <string name="permission_use_desc">İzinler</string>
-  <string name="select_all">Tümünü seç</string>  
+  <string name="select_all">Tümünü seç</string>
+  <string name="generate_story_summary">MIUI fotoğraflarınızı analiz eder ve hikaye albümleri oluşturur. Hikaye albümü oluşturmayı durdurmak için bu özelliği kapatın.</string>
+  <string name="generate_story_title">Hikaye albümleri</string>
+  <string name="image_selection_summary">MIUI benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri işaretleyecektir. Fotoğraflardan işaretleri kaldırmak için bu özelliği kapatın.</string>
+  <string name="image_selection_title">En iyi fotoğrafı seç</string>
+  <string name="operation_set_video_wallpaper">Video duvar kağıdını ayarla</string>
+  <string name="recommend_category_title">Galerinin seçtikleri</string>
+  <string name="set_as_video_wallpaper_description">Bu öğe indirilsin ve video duvar kağıdı olarak kullanılsın mı?</string>
+  <string name="set_as_video_wallpaper_title">Video duvar kağıdını ayarla</string>
+  <string name="set_video_wallpaper_failed">Bu öğeyi video duvar kağıdı olarak kullanamazsınız</string>  
 </resources>

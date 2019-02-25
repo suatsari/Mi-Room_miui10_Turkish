@@ -197,6 +197,7 @@
   <string name="master_clear_apply_step_1">Yetkilendirmeyi iptal etmek için cihazınızın fabrika verilerine sıfırlama yapılması gerekiyor. Hesaplar, kişiler, fotoğraflar ve uygulamalar dahil tüm dosyalar ve veriler kalıcı olarak silinir. Yetkilendirmeyi iptal etmeden önce tüm önemli öğeleri bilgisayarınıza yedekleyin.</string>
   <string name="master_clear_apply_step_2">Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun. \"Tamam\" seçeneğine dokunduktan sonra, cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirilecek, hesaplar, kişiler, fotoğraflar ve uygulamalar dahil olmak üzere tüm dosya ve veriler kalıcı olarak silinecektir.</string>
   <string name="master_clear_apply_title">Dikkat</string>
+  <string name="master_clear_not_available">Fabrika ayarlarına sıfırlama şirketiniz tarafından sınırlandırılmıştır.</string>
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
   <string name="messageData">Mesajlar</string>
   <string name="more_settings">Daha</string>

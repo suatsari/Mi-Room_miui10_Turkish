@@ -172,5 +172,24 @@
      <item>Hatırlanacak günler</item>
      <item>Günlük olaylar</item>
      <item>Sıradan &amp; Olağanüstü</item>
+  </string-array>
+  <string-array name="activities_title">
+     <item>Özel gün</item>
+     <item>Hatırlama günü</item>
+     <item>Canlı anlar</item>
+  </string-array>
+  <string-array name="last_weekend_title">
+     <item>Hafta sonlarım</item>
+     <item>Hayatın parçaları</item>
+     <item>Hafta sonu anıları</item>
+  </string-array>
+  <string-array name="parties_title">
+     <item>Birlikte</item>
+     <item>İyi zamanlar</item>
+     <item>Hep birlikte</item>
+  </string-array>
+  <string-array name="sports_title">
+     <item>İlerleme</item>
+     <item>Enerji dolu</item>
   </string-array>  
 </resources>

@@ -37,7 +37,7 @@
   <string name="activity_title_other_permission_manager">Diğer İzinler</string>
   <string name="activity_title_permission_manager">İzinler</string>
   <string name="activity_title_permissions_manager">İzinler</string>
-  <string name="activity_title_power_manager">Pil Kullanımı</string>
+  <string name="activity_title_power_manager">Pil optimizasyonu</string>
   <string name="activity_title_root_acquired">Root Erişimine izin ver</string>
   <string name="activity_title_root_manager">Root Erişimi</string>
   <string name="activity_title_root_note">Root Erişimi Hakkında</string>
@@ -947,9 +947,9 @@
   <string name="keywords_networkassistant_2">Veri;Veri Tarifesi</string>
   <string name="keywords_networkassistant_4">Bağlantı;İnternet;Test</string>
   <string name="keywords_powercenter">Batarya tasarrufu, Isıtma; Açma; Kapama; Batarya; Boşaltma; Batarya sorunları; Enerji; Boşaltma; Isıtma; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu</string>
-  <string name="keywords_powercenter_powerrank">Pil Kullanımı</string>
+  <string name="keywords_powercenter_powerrank">Güç kullanımı</string>
   <string name="keywords_securitycenter">Güvenlik;Denetle;Tara</string>
-  <string name="keywords_securitycenter_settings">Pil kullanımı, Otomatik başlatmayı yönetme, USB ile yükleme, Uygulama izinleri, Mobil veri al, Blok listeleri, Veri kullanımı, Veri planını kalibre etme, Şebekeyi test etme; Pil tasarrufu, Isıtma; Açma; Kapama; Pil; Boşaltma; Pil sorunları; Enerji; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu; Autostart; İzinler; Otomatik başlatma; MIUI autostart; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, Zincir başlatma, zincirleme başlatma, başlatılan başlatma; USB kurulumu, bilgisayardan kurulum, ADB kurulumu; Konum; Erişim kişileri; Veri, mobil veri, veri satın alma, topup verileri; veri planı; Blok; Engelli Listesi; Akıllı blok listesi; Dolandırıcılık; Satış; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; ileti bloğu listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engellemek; kişileri engellemek; Trafik; Kalibre etme; Bağlantı, İnternet, Test; Pil kullanımı</string>
+  <string name="keywords_securitycenter_settings">Pil kullanımı;Otomatik başlatmayı yönet;USB ile yükleyin;Uygulama izinleri; Mobil veri satın al; Engelleme listesi; Veri kullanımı;Veri planını kalibre et; Ağ testi;Pil tasarrufu; Isıtma; Aç ; Kapat ; Pil; Boşaltma; Akü sorunları;Enerji;Batarya koruyucu;Enerji tasarrufu;Enerji tasarrufu;Pil tasarrufu;Otomatik başlatma;İzinler;Otomatik başlatma;MIUI otomatik başlatma;Uygulama otomatik başlat;otomatik başlatılan uygulamaları;Zincir başlangıç;zincirleme başlangıç;tetiklenen başlangıç;USB kurulumu;bilgisayardan yükleyin; ADB kurulumu; Yer ; Erişim kişileri; veri; mobil veri ; veri satın almak; doldurma verileri; veri planı;Blok;Kara liste;Akıllı engelleme listesi;Dolandırıcılık;Satış;Ajanlar;Çağrı engelleme listesi;Mesaj engelleme listesi; Mesajlaşma engelleme listesi;SMS engelleme listesi;kara liste;kara liste;engelleme listesi;blok listesi;dolandırıcılık;blok teması; blok temasları; Trafik ; Kalibre et; Bağ ; İnternet;Ölçek;Pil kullanımı;Pil optimizasyonu;Güç kullanımı;Oyun;hız yükseltici;Kralın Zaferi;Performans modu;Rahatsız etme</string>
   <string name="keywords_usb_install">USB kurulumu, bilgisayardan yükleme, ADB kurulumu</string>
   <string name="kilobyte_per_second">K/s</string>
   <string name="kilobyteShort">KB</string>
@@ -1135,7 +1135,7 @@
   <string name="menu_item_notification_antispam_text_avail">Engelli Listesi</string>
   <string name="menu_item_notification_antispam_text_normal">Engelli Listesi</string>
   <string name="menu_item_notification_garbage_text">%s</string>
-  <string name="menu_item_notification_power_text">Güç</string>
+  <string name="menu_item_notification_power_text">Pil optimizasyonu</string>
   <string name="menu_item_notification_title">Bildirim çubuğunda göster</string>
   <string name="menu_item_shortcut_summary">Sık kullanılan özellikleri Ana Ekrana yerleştir</string>
   <string name="menu_item_shortcut_title">Kısayolları yönet</string>
@@ -1161,7 +1161,7 @@
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Hızlandır</string>
-  <string name="menu_text_power_manager">Pil Kullanımı</string>
+  <string name="menu_text_power_manager">Pil optimizasyonu</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
   <string name="menu_white">Hariç tutulan</string>
@@ -1388,7 +1388,7 @@
   <string name="path_networkassistant_1">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı</string>
   <string name="path_networkassistant_2">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı</string>
   <string name="path_networkassistant_4">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı/Ağı Testi</string>
-  <string name="path_powercenter">Sistem Uygulamaları/Güvenlik/Pil Tasarrufu</string>
+  <string name="path_powercenter">Sistem uygulamaları/Güvenlik/Pil optimizasyonu</string>
   <string name="path_powercenter_powerrank">Pil &amp; Performans/Pil Kullanımı</string>
   <string name="path_securitycenter">Sistem Uygulamaları/Güvenlik</string>
   <string name="path_securitycenter_settings">Sistem Uygulamaları/Güvenlik</string>
@@ -1443,12 +1443,12 @@
   <string name="power_center_state_on">Açık</string>
   <string name="power_center_time_to_boot">Gücün açılacağı zaman</string>
   <string name="power_center_time_to_shutdown">Gücün kapanacağı zaman</string>
-  <string name="power_center_title">Pil kullanımı</string>
+  <string name="power_center_title">Pil optimizasyonu</string>
   <string name="power_consume_hardware_total_format">Donanım: %s</string>
   <string name="power_consume_other">Diğer</string>
   <string name="power_consume_rank_hardware">Donanım</string>
   <string name="power_consume_rank_software">Uygulamalar</string>
-  <string name="power_consume_rank_title">Pil Kullanımı</string>
+  <string name="power_consume_rank_title">Güç kullanımı</string>
   <string name="power_consume_software_total_format">Uygulamalar: %s</string>
   <string name="power_customize_giveup_change">Değişiklikler iptal edilsin mi?</string>
   <string name="power_dialog_cancel">İptal</string>
@@ -1645,7 +1645,7 @@
   <string name="resource_networkassistant_1">Veri Kullanımı</string>
   <string name="resource_networkassistant_2">Veri planını tanımla</string>
   <string name="resource_networkassistant_4">Ağ Testi</string>
-  <string name="resource_powercenter">Pil Tasarrufu</string>
+  <string name="resource_powercenter">Pil optimizasyonu</string>
   <string name="resource_powercenter_powerrank">Pil &amp; Performans</string>
   <string name="resource_securitycenter">Güvenlik</string>
   <string name="resource_securitycenter_settings">Güvenlik</string>
@@ -1726,7 +1726,7 @@
   <string name="Settings_title_anti_virus">Virüs Tarama Ayarları</string>
   <string name="Settings_title_garbage_cleanup">Temizleyici Ayarları</string>
   <string name="Settings_title_network_assistants">Veri Kullanım Ayarları</string>
-  <string name="Settings_title_power_center">Pil Ayarları</string>
+  <string name="Settings_title_power_center">Pil optimizasyonu ayarları</string>
   <string name="shake_send_sticker">摇一摇发表情</string>
   <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
   <string name="shield_keyboard_detail">Tekrar açmak için düğmelere iki kez dokunun</string>
@@ -2100,7 +2100,7 @@
   <string name="title_cloud_space_almost_full">Bulut depolama neredeyse dolu, ürün eşitlenmeyebilir</string>
   <string name="title_cloud_space_full">Bulut depolaması doldu</string>
   <string name="title_cmcc_app_check">Doğrulama tamamlanmadı</string>
-  <string name="title_consume_power_rank">Pil Kullanımı</string>
+  <string name="title_consume_power_rank">Uygulama güç kullanımı</string>
   <string name="title_data_flow">Mobil Veriyi Denetle</string>
   <string name="title_data_flow_monitor">Veri kullanımı monitörü açık</string>
   <string name="title_dev_model_off">Geliştirici seçenekleri kapalı</string>
@@ -2458,14 +2458,14 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_dialog_title_stop_scan">Taramayı durdur</string>
   <string name="first_aid_dialog_msg_stop_scan">Tarama şimdi durdurulsun mu?</string> 
   <string name="auto_task_result_summary_text">Pil tasarrufu için otomatik görevleri ayarla</string>
-  <string name="extreme_power_save_mode_card_summary">Pil azaldığında gücü korumak için Aşırı modunu açın.</string>
+  <string name="extreme_power_save_mode_card_summary">Pil düşük olduğunda güç tasarrufu için Aşırı pil tasarrufunu açın.</string>
   <string name="handle_title_abnormal">Pil boşaltımı</string>
   <string name="handle_title_app">Uygulamalar</string>
   <string name="handle_title_details">Pil kullanım detayları</string>
   <string name="handle_title_system">Sistem pil kullanımı</string>
   <string name="hide_mode_result_summary_text">Bireysel uygulamalar için Pil tasarrufu ayarlarını özelleştirme</string>
   <string name="pc_main_activity_back">Geri</string>
-  <string name="pc_settings_title">Pil kullanım ayarları</string>
+  <string name="pc_settings_title">Pil optimizasyonu ayarları</string>
   <string name="power_center_hints_scan_danger_result">Şimdi pil sorunlarını düzeltebilirsiniz</string>
   <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
   <string name="power_center_list_item_battery_status_time">s</string>

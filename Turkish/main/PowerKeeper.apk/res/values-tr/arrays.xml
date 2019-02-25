@@ -13,9 +13,9 @@
     <item>Performans modu</item>
   </string-array>
   <string-array name="thermal_summaries">
-    <item>Sıcaklık kontrolünü önceliklendirin</item>
-    <item>Performansı önceliklendirin</item>
-	<item>Aşırı modunda çalışmıyor</item>
+    <item>Sıcaklık kontrolüne öncelik ver</item>
+    <item>Performansa öncelik ver</item>
+	<item>Aşırı pil tasarrufu tarafından desteklenmiyor</item>
   </string-array>
   <string-array name="pc_manage_active_app_items">
 	<item>Uygulamaları uyut</item>
@@ -23,7 +23,7 @@
   </string-array>
   <string-array name="hmode_app_classify1">
     <item>Özel</item>
-    <item>Pil tasarrufu</item>
+    <item>MIUI pil tasarrufu</item>
   </string-array>
   <string-array name="hmode_app_classify2">
     <item>Aktif uygulamalar</item>
