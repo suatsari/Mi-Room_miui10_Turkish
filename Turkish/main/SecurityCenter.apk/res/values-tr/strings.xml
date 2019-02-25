@@ -2633,7 +2633,6 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="notify_diving_mode_exception_open_fail">Bir SIM kart hatası oluştu. Sürükleyici mod açılamadı.</string>
   <string name="perfermance_optimization_summary">Aşırı ısınma ve donanım ile ilgili sorunlardan kaçının</string>
   <string name="perfermance_optimization_title">Performans optimizasyonu</string>
-  <string name="shake_send_sticker">摇一摇发表情</string>
   <string name="shield_keyboard_summary">Oyunlar sırasında düğmeleri ve tam ekran hareketlerini kısıtla</string>
   <string name="wlan_optimization_summary">WLAN ağ gecikmesini azaltın</string>
   <string name="wlan_optimization_title">WLAN optimizasyonu</string>
