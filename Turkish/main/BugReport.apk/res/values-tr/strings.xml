@@ -505,5 +505,23 @@
   <string name="catch_full_log_item_content_title">Adımlar:</string>
   <string name="feedback_choose_app_tag">Sorunu seçin</string>
   <string name="title_user_guide">Kullanım klavuzu</string>
-  <string name="toast_app_tag_required">Sorunu seçin</string>  
+  <string name="toast_app_tag_required">Sorunu seçin</string>
+  <string name="feedback_reproductivity_everytime">Her zaman</string>
+  <string name="feedback_reproductivity_occasionally">Bazen</string>
+  <string name="feedback_reproductivity_often">Genellikle</string>
+  <string name="feedback_reproductivity_once">Bir kez</string>
+  <string name="kr_authorization_agree">Kabul</string>
+  <string name="kr_authorization_contact">Hesaplar</string>
+  <string name="kr_authorization_contact_desc">Mi Hesap bilgilerini almak ve hesabınızı doğrulamak için</string>
+  <string name="kr_authorization_exit">Çıkış</string>
+  <string name="kr_authorization_log_protocol">Günlük Protokolü (isteğe bağlı)</string>
+  <string name="kr_authorization_log_protocol_desc">Size sunulan hizmetleri geliştirmek için kullanım istatistiklerini ve sistem kayıtlarını sunucularımıza yükleyeceğiz. Bu öğeler, kişisel bilgilerinizin yanı sıra cihazınız ve şebekeleriniz hakkındaki bilgileri içerebilir. Sistemdeki sorunları bulmak ve analiz etmek için yüklenen öğeleri kullanacağız.</string>
+  <string name="kr_authorization_phone">Telefon</string>
+  <string name="kr_authorization_phone_desc">IMEI ve model numarası kullanarak cihazı tanımlamak, ayrıca sorunları bulmak ve analiz etmek için</string>
+  <string name="kr_authorization_privacy_policy">Gizlilik Politikası (zorunlu)</string>
+  <string name="kr_authorization_select_all">Tümünü seç</string>
+  <string name="kr_authorization_storage">Depolama</string>
+  <string name="kr_authorization_storage_desc">Depolamaya erişmek, günlükler, resimler ve videolar dahil olmak üzere öğeleri kaydetmek için</string>
+  <string name="kr_authorization_summary">Yasal belgeler</string>
+  <string name="kr_authorization_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>  
 </resources>

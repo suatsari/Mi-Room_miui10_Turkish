@@ -112,5 +112,7 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="zone_picker_title">Saat dilimini seç</string>
   <string name="other_settings_enhanced_lockscreen">Geliştirilmiş Kilit Ekranı deneyimi yaşayın</string>
   <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görselleri ve hikayeleri alın. Şartlar ve koşullar geçerlidir.</string>
-  <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>  
+  <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
+  <string name="congratulation_label_night">Yeni Karanlık moduna göz atın!</string>
+  <string name="start_up_slogan_night">Yeni Karanlık moduna göz atın!</string>  
 </resources>

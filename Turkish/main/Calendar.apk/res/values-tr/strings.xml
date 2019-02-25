@@ -551,4 +551,8 @@
   <string name="xingxiu">Yıldız</string>
   <string name="yearly">Yıllık (her %s)</string>
   <string name="yearly_plain">Yıllık</string>
+  <string name="notification_open_setting_button_exit">Hayır teşekkürler</string>
+  <string name="notification_open_setting_button_ok">İzin ver</string>
+  <string name="notification_open_setting_message">Takvim\'in size bildirim göndermesine izin vermediğiniz sürece, etkinliklerle ilgili bildirimleri alamazsınız.</string>
+  <string name="notification_open_setting_title">Takvim bildirimlerine izin verilsin mi?</string>  
 </resources>

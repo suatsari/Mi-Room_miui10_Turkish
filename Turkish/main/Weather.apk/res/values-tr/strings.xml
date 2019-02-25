@@ -255,4 +255,14 @@
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
   <string name="yes_vote_ratio">%%%1$s</string>
   <string name="your_location">Konumunuz</string>
+  <string name="permission_device_info">Cihaz bilgisi</string>
+  <string name="permission_device_introduce">Cihaz modelini, IMEI\'ye dayalı cihaz kimliğini tanımak ve dil tercihlerine dayalı yerel servisler sağlamak için</string>
+  <string name="permission_exit">Çıkış</string>
+  <string name="permission_privacy">Gizlilik Politikası (zorunlu)</string>
+  <string name="permission_select_all">Tümünü seç</string>
+  <string name="permission_storage">Depolama</string>
+  <string name="permission_storage_introduce">Cihazdaki öğelere erişmek ve dosyaları kaydetmek için</string>
+  <string name="permission_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
+  <string name="weather_introduce">Ne olursa olsun, her zaman seninle.</string>
+  <string name="weather_permission_agree">Kabul</string>  
 </resources>

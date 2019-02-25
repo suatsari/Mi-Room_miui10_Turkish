@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="alarm_repeat_type">
-    <item>Birkez</item>
-    <item>Hergün</item>
-    <item>İş Saatlerinde</item>
-    <item>Haftanın Her Günü</item>
+    <item>Bir kere</item>
+    <item>Her gün</item>
+    <item>Yasal iş günleri</item>
+    <item>Hafta içi</item>
     <item>Özel</item>
   </string-array>
   <string-array name="alarm_repeat_type_no_workdays">
-    <item>Birkez</item>
-    <item>Hergün</item>
-    <item>Haftaiçi</item>
+    <item>Bir kere</item>
+    <item>Her gün</item>
+    <item>Hafta içi</item>
     <item>Özel</item>
   </string-array>
   <string-array name="date_of_app_all">
