@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="extra_photo_common_permission_name">Bokeh</string>
+  <string name="extra_photo_common_saving">Kaydediliyor...</string>
+  <string name="motion_photo_re_pick_title">En iyi fotoğrafı seç</string>
+  <string name="motion_photo_toast_default">Varsayılan</string>
+  <string name="motion_photo_toast_suggest">Tavsiye edilen</string>
+  <string name="refocus_discard_confirm_message">Değişiklikleri kaydet?</string>
+  <string name="refocus_discard_negative_btn">Gözardı et</string>
+  <string name="refocus_discard_positive_btn">Kaydet</string>
+  <string name="refocus_photo_not_support">Bu fotoğrafa bulanıklık uygulanamıyor</string>
+  <string name="refocus_relighting_toast">Aydınlatma açısını ayarlamak için daireyi hareket ettirin</string>
+  <string name="refocus_save_cancel">İptal</string>
+  <string name="refocus_save_title">Format seç</string>
+  <string name="refocus_save_to_photo">Resim olarak kaydet</string>
+  <string name="refocus_save_to_video">Video olarak kaydet</string>
+  <string name="refocus_saving">Kaydediliyor...</string>
+  <string name="refocus_title">Bulanıklık</string>
+  <string name="refocus_type_relighting">Stüdyo aydınlatma</string>
+  <string name="refocus_type_relighting_no_face">Yüz bulunamadı</string>
+  <string name="refocus_type_relighting_small_face">Stüdyo aydınlatması, yüzlerin buradan daha fazla yer kapladığı fotoğraflar üzerinde çalışır.</string>
+  <string name="refocus_type_static">Bulanıklık seviyesi</string>
+  <string name="refocus_type_video">Işık izleri</string>
+</resources>
