@@ -59,12 +59,12 @@
   <string name="add_account_button_label">Hesap ekle</string>
   <string name="add_account_label">Hesap ekleyin</string>
   <string name="aerr_application">%1$s durduruldu</string>
-  <string name="aerr_application_repeated">%1$s durmaya devam etsin</string>
+  <string name="aerr_application_repeated">%1$s durmaya devam ediyor</string>
   <string name="aerr_close">Kapat</string>
   <string name="aerr_close_app">Uygulamayı kapat</string>
   <string name="aerr_mute">Cihaz yeniden başlatılana kadar sessiz</string>
-  <string name="aerr_process">Ne yazık ki, %1$s işlem durduruldu</string>
-  <string name="aerr_process_repeated">%1$s durmaya devam etsin</string>
+  <string name="aerr_process">%1$s durduruldu</string>
+  <string name="aerr_process_repeated">%1$s durmaya devam ediyor</string>
   <string name="aerr_report">Geribildirim gönder</string>
   <string name="aerr_restart">Uygulamayı tekrar aç</string>
   <string name="aerr_title"/>
