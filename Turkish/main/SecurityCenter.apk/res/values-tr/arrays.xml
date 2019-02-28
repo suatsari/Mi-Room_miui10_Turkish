@@ -51,11 +51,11 @@
     <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
   </string-array>
   <string-array name="mi_service_traffic_type">
-    <item>"Mobil Kullan "</item>
-    <item>"WLAN Kullan "</item>
+    <item>"Mobil kullanım "</item>
+    <item>"WLAN kullanımı "</item>
   </string-array>
   <string-array name="over_limit_traffic_waring_style">
-    <item>Uyarıyı Göster</item>
+    <item>Uyarı göster</item>
     <item>Uyar ve mobil veriyi kapat</item>
   </string-array>
   <string-array name="roaming_network_type">
@@ -64,8 +64,8 @@
     <item>Asla</item>
   </string-array>
   <string-array name="sms_report_type">
-    <item>Veri Kullanımı</item>
-    <item>Telefon Bakiyesi</item>
+    <item>Veri kullanımı</item>
+    <item>Telefon dengesi</item>
   </string-array>
   <string-array name="sort_title">
     <item>Durumuna göre sırala</item>
@@ -92,7 +92,7 @@
     <item>Son güncelleme zamanı</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>Mobil kullanımı</item>
+    <item>"Mobil kullanım "</item>
     <item>"WLAN kullanımı "</item>
   </string-array>
 </resources>

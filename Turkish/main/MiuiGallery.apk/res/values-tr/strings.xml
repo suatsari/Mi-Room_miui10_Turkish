@@ -149,8 +149,8 @@
   <string name="backup_no_wifi_btn_text">Veri kullan</string>
   <string name="backup_no_wifi_desc">Mobil veriyi kullanarak öğeleri yedekleyebilirsiniz</string>
   <string name="backup_no_wifi_title">WLAN\'a bağlanmak için dokunun</string>
-  <string name="backup_only_in_wifi">Fotoğraf/Video Yedeklemesinde WLAN Kullan</string>
-  <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanmayıp, sadece WLAN kullanın</string>
+  <string name="backup_only_in_wifi">Fotoğraf ve video yedeklerken yalnızca Wi-Fi kullan</string>
+  <string name="backup_only_in_wifi_summary">Fotoğrafları veya videoları yedeklemek için asla mobil veriyi kullanma</string>
   <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullan?</string>
   <string name="backup_pause">Yedeklemeyi duraklat</string>
   <string name="backup_pause_title">%s Yedekle</string>
@@ -330,7 +330,7 @@
   <string name="download_retry_title">Dosyalar indirilemedi</string>
   <string name="download_tip">İndir</string>
   <string name="download_title">Dosyalar hazırlanıyor…</string>
-  <string name="download_type_origin">Orijinal dosya</string>
+  <string name="download_type_origin">Orijinal dosyalar</string>
   <string name="download_type_origin_desc">Orijinal dosyalar</string>
   <string name="download_type_thumbnail">Yüksek kalite</string>
   <string name="download_type_thumbnail_desc">Yüksek kalite</string>

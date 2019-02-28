@@ -939,13 +939,13 @@
     <item>\?</item>
   </string-array>
   <string-array name="screen_button_style">
-    <item>Sol El Stili</item>
-    <item>Sağ El Stili</item>
+    <item>Sol el tarzı</item>
+    <item>Sağ el tarzı</item>
   </string-array>
   <string-array name="screen_color_title">
-    <item>Sıcak</item>
+    <item>Ilık</item>
     <item>Standart</item>
-    <item>Soğuk</item>
+    <item>Serin</item>
   </string-array>
   <string-array name="screen_key_long_press_timeout">
     <item>0.5 saniye</item>
@@ -954,21 +954,21 @@
     <item>2 saniye</item>
   </string-array>
   <string-array name="screen_key_position_action">
-    <item>Soldaki Menü Düğmesi, sağdaki Geri Düğmesi</item>
-    <item>Soldaki Geri Düğmesi, sağdaki Menü Düğmesi</item>
+    <item>Menü düğmesi solda, Geri düğmesi sağda</item>
+    <item>Geri düğmesi solda, Menü düğmesi sağda</item>
   </string-array>
   <string-array name="screen_key_press_action">
-    <item>En son uygulamaları göster</item>
+    <item>Son uygulamalar çekmecesini göster</item>
     <item>Menüyü göster</item>
   </string-array>
   <string-array name="screen_optimize_summary">
-    <item>Mevcut ışık için kontrastı iyi hale getir</item>
+    <item>Mevcut ışık için kontrastı optimize et</item>
     <item>Ekranın kontrastını arttır</item>
     <item>Kontrast sabit kalacak</item>
   </string-array>
   <string-array name="screen_optimize_title">
-    <item>Otomatik Kontrast</item>
-    <item>Artan Kontrast</item>
+    <item>Otomatik kontrast</item>
+    <item>Artan kontrast</item>
     <item>Standart</item>
   </string-array>
   <string-array name="screen_saturation_title">

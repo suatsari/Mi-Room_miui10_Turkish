@@ -40,7 +40,7 @@
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
   <string name="always_enable_mms">Her zaman MMS al</string>
-  <string name="always_enable_mms_summary">Mobil veriler kapalı olsa bile MMS alın</string>
+  <string name="always_enable_mms_summary">Mobil veri kapalı olsa bile MMS alın</string>
   <string name="animator_duration_scale_title">Animatör süre ölçeği</string>
   <string name="answer_features_setting_category">Cevaplama ve Çağrılar</string>
   <string name="answer_state_setting_summary">Gelen çağrı ek seçenekler</string>
