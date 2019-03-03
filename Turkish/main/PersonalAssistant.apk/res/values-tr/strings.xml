@@ -977,7 +977,7 @@
   <string name="shopping_setting_mishop">Mi Mağazası</string>
   <string name="shopping_setting_notification">Yeni öğeler hakkında bilgilendirin</string>
   <string name="shopping_setting_remove">Yetkilendirmeyi iptal ettikten sonra, App kasası, satın alma işlemlerinizle ilgili bilgileri toplamayı durduracak ve Alışveriş kartı kaldırılacak. Yine de iptal et?</string>
-  <string name="shopping_source">İtibaren</string>
+  <string name="shopping_source">%s itibaren</string>
   <string name="shopping_support">Desteklenen uygulamalar</string>
   <string name="shortcut">Kısayollar</string>
   <string name="show_more">Daha fazla göster</string>

@@ -100,7 +100,7 @@
   <string name="flash_lable">Flaş</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Kişiyi aktar</string>
-  <string name="impunity_declaration_content">Tarayıcının, kameraya erişmesi ve fotoğraf çekmesi için izine ihtiyacı var. Tarayıcının ayrıca normal çalışması için internete bağlanması gerekiyor. Aşağıdaki \"Kabul\" öğesine dokunduğunuzda, %1$sGizlilik Politikamızı%2$s okumuş ve kabul etmiş sayılırsınız.</string>
+  <string name="impunity_declaration_content">"Tarayıcının kameranızı kullanması ve uygulamayı kullanırken çektiğiniz görüntüleri işlemesi gerekir. Kişisel bilgilerinizi içeren nesnelerin fotoğraflarını çekmek için Tarayıcı'yı kullanmayın. \"Kabul Et\" düğmesine dokunduğunuzda, &lt;font color=\"#ff32b4ff\">&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\">Gizlilik Politikamızı&lt;/a>&lt;/font> kabul etmiş ve Tarayıcının internete bağlanmasına izin vermiş olursunuz."</string>
   <string name="impunity_declaration_negative_text">Çıkış</string>
   <string name="impunity_declaration_title">Gizlilik Politikası</string>
   <string name="keywords_search_code">Tarayıcı, Tarama; QR kodu; QR; Tanıma; Barkod; Barkod; Ürün; Alipay; WeChat; QR kodunu tarama yöntemi; barkod tarama yöntemi; tarama yöntemi; MIUI Tarayıcı</string>

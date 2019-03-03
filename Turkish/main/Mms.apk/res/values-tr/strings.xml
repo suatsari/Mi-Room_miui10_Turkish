@@ -829,6 +829,6 @@ Yapılan girişim: %s."</string>
     <string name="title_pref_cm_smart_sms">Çin Mobil Akıllı SMS</string>
     <string name="updating">Güncelleniyor…</string>
     <string name="menu_traffic_destination">Hedef</string>
-    <string name="number_recognition_partner">Numara Tanıma Ortakları</string>
+    <string name="number_recognition_partner">Gönderen kimliği tanıma servis sağlayıcıları</string>
     <string name="train_edit_destination">Ekle</string>	
 </resources>

@@ -316,6 +316,7 @@
     <item quantity="other">%d eklendi</item>
   </plurals>
   <plurals name="aod_dual_togother_city">
-    <item quantity="other">" %1$s Saat %2$s"</item>
+    <item quantity="other">" %1$ssaat %2$s"</item>
+    <item quantity="one">" %1$ssaat %2$s"</item>
   </plurals>  
 </resources>

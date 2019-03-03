@@ -355,5 +355,6 @@
   <string name="recommend_refresh">Yenile</string>
   <string name="recommend_xout">Gösterme</string>
   <string name="show_recents_recommend_title">Önerileri göster</string>
-  <string name="gadget_dual_clock_label">Çift saat</string>  
+  <string name="gadget_dual_clock_label">Çift saat</string>
+  <string name="dual_app">Klonlu uygulamalar</string>  
 </resources>
