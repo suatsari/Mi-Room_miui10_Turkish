@@ -1130,7 +1130,7 @@
   <string name="you_are">Sen bebeksin</string>
   <string name="storage_description_primary">Dahili depolama</string>
   <string name="storage_description_sdcard">SD Kart</string>
-  <string name="storage_description_xspace">Çift uygulama verileri</string> 
+  <string name="storage_description_xspace">Klonlu uygulama verileri</string> 
   <string name="actionbar_overflow_item_desc">Daha fazla seçenek</string>
   <string name="added_to_favorites">Favorilere eklendi</string>
   <string name="application_icon">Uygulama simgesi</string>

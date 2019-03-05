@@ -188,7 +188,7 @@
   <string name="install_error">Yüklenemedi. Tekrar deneyin.</string>
   <string name="invalid_qr_code">Geçersiz QR kodu</string>
   <string name="list_empty_text">Boş</string>
-  <string name="list_empty_text_xspace">WeChat/QQ/Weibo\'yu yükleyin, ikili uygulamalar oluşturun ve tekrar deneyin.</string>
+  <string name="list_empty_text_xspace">WeChat/QQ/Weibo\'yu yükleyin, Klonlu uygulamalar oluşturun ve tekrar deneyin.</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="loading_apps">Uygulamalar yükleniyor…</string>
   <string name="loading_space">Sadece bir saniye…</string>

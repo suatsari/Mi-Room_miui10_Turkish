@@ -452,7 +452,7 @@
   <string name="trans_intro_desc_9_method_3_dec">Mi Mover\'ın QQ Grubu: 687338378</string>
   <string name="trans_intro_desc_9_method_3_title">3. QQ ile sorunları bildirin</string>
   <string name="trans_intro_desc_account">Güvenlik nedenleriyle yeni cihazınızın hesaplarında (ör. Mi Hesabı, Exchange, Google vb.) Tekrar oturum açmanız gerekir.</string>
-  <string name="trans_intro_desc_multiapp">Mi Mover, dosyalar arasındaki çakışmaları önlemek için Çift uygulamalar verilerini aktarmaz.</string>
+  <string name="trans_intro_desc_multiapp">Mi Mover, dosyalar arasındaki çakışmaları önlemek için Klonlu uygulama verilerini aktarmaz.</string>
   <string name="trans_intro_desc_multiuser">Mi Mover, İkinci alandaki öğelere erişemiyor. Öğeleri Birinci bölüme taşıyın ve orada Mi Mover çalıştırın.</string>
   <string name="trans_intro_desc_new">Dokun \"Ben alıcıyım\". Bir QR kodu oluşturulur.</string>
   <string name="trans_intro_desc_old">Dokun \"Gönderenim\". QR kodunu yeni telefonda tara, Mi Mover, hangi dosyaların gönderileceğini bulana kadar bekleyin, ve dokun \"Gönder\".</string>
@@ -470,7 +470,7 @@
   <string name="trans_intro_question_9_market">%d. Geribildirim.</string>
   <string name="trans_intro_title">SSS</string>
   <string name="trans_intro_title_account">Hesaplar ve şifreler:</string>
-  <string name="trans_intro_title_multiapp">Çift uygulama verileri:</string>
+  <string name="trans_intro_title_multiapp">Klonlu uygulama verileri:</string>
   <string name="trans_intro_title_multiuser">İkinci alan verileri:</string>
   <string name="trans_intro_title_new">Yeni bir telefonda:</string>
   <string name="trans_intro_title_old">Eski bir telefonda:</string>

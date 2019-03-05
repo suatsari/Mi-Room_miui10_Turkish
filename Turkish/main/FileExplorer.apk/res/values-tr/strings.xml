@@ -122,9 +122,9 @@
   <string name="data_consumption_cancel">Kabul etmiyorum</string>
   <string name="data_consumption_checkbox_hint">Tekrar gösterme</string>
   <string name="data_consumption_confirm">Tamam</string>
-  <string name="data_consumption_message">Dosya Yöneticisi\'ni kullanırken ağa bağlanması gerekiyor. Kabul?</string>
-  <string name="data_consumption_message1">Popüler etiketleri ve videoları görüntüleyebilmek için cihazın internete bağlanması gerekiyor.</string>
-  <string name="data_consumption_title">İnternet Bağlantısı</string>
+  <string name="data_consumption_message">Dosya Yöneticisi kullanımında ağ bağlantısısı gerekiyor. Kabul?</string>
+  <string name="data_consumption_message1">Popüler videoların ve çıkartmaların kullanılabilmesi için Dosya Yöneticisi\'nin internete bağlanması gerekir.</string>
+  <string name="data_consumption_title">İnternet bağlantısı</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
   <string name="decompress_corrupt">Dosya açılamadı. Paket bozuk.</string>
