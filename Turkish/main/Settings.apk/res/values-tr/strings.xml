@@ -2709,8 +2709,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="mode_disable">devre dışı</string>
   <string name="mode_enable">etkin</string>
   <string name="model_info">Model</string>
-  <string name="model_name">Model adı</string>
-  <string name="model_number">Model Numarası</string>
+  <string name="model_name">Model</string>
+  <string name="model_number">Cihaz modeli</string>
   <string name="modify_instruction_password_settings">Şifre Ayarla</string>
   <string name="modify_privacy_password">Şifreyi değiştir</string>
   <string name="move_app">Taşı</string>

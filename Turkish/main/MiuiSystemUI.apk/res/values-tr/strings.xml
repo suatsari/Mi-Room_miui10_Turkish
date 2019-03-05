@@ -585,6 +585,10 @@
   <string name="face_unlock_close_screen">Ekrana yaklaşın</string>
   <string name="face_unlock_down">Başını kaldır</string>
   <string name="face_unlock_identify_error">Bir tanıma hatası oluştu</string>
+  <string name="face_unlock_fail">Yüz doğrulanamadı</string>
+  <string name="face_unlock_fail_retry">Yüzünü doğrulayamadım. Yeniden denemek için simgeye dokunun.</string>
+  <string name="face_unlock_success_stay_screen_msg">Yüzünüz doğrulandıktan sonra Kilit ekranında kalın. Ana ekranı açmak için yukarı kaydırın.</string>
+  <string name="face_unlock_success_stay_screen_title">Kilidi açtıktan sonra Kilit ekranında kalın</string>  
   <string name="face_unlock_not_found">Seni tanıyamadım</string>
   <string name="face_unlock_not_roi">Yüzünüzü çerçevenin içinde tutun</string>  
   <string name="face_unlock_offset_bottom">Telefonunuzu biraz indirin</string>
