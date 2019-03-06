@@ -1776,5 +1776,11 @@ d MMM"</string>
   <string name="gxzw_quick_open_xiaoai_title2">Kullanmak istediğiniz özelliğin adını söyleyin.</string>
   <string name="gxzw_quick_tip_press">Basmaya devam et…</string>
   <string name="gxzw_quick_tip_slide">Parmağını kaldırma. Seçmek için kaydırın.</string>
-  <string name="rapid_charge_mode_tip">Hızlı şarj</string>  
+  <string name="rapid_charge_mode_tip">Hızlı şarj</string>
+  <string name="gxzw_long_press_tip">Kullanılabilir kısayolları görmek için cihaz kilidini açtıktan sonra parmağınızı kaldırmayın.</string>
+  <string name="usb_port_short_circuit_dialog_content">Cihazınızın şarjı kısıtlandı. Şarj cihazının bağlantısını kesin ve şarj etme özelliğini geri yüklemek için tüm sıvıları temizleyerek şarj portunu silin.</string>
+  <string name="usb_port_short_circuit_notification_content">Şarj cihazını çıkarın ve tüm sıvıları temizleyerek şarj portunu silin.</string>
+  <string name="usb_port_short_circuit_recovered_content">Şarj etmek veya diğer cihazlara bağlamak için kullanabilirsiniz.</string>
+  <string name="usb_port_short_circuit_recovered_title">Şarj portu şimdi normal çalışıyor</string>
+  <string name="usb_port_short_circuit_title">Şarj portunda nem var</string> 
 </resources>
