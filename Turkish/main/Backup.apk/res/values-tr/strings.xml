@@ -412,7 +412,9 @@
   <string name="trans_detail_category_wechat_qq">WeChat ve QQ verileri (sohbet geçmişi dahil)</string>
   <string name="trans_detail_item_app_data_selected_tip">İlgili uygulamalar da seçilir.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Öğe,aktarmak için çok büyük gibi görünüyor.</string>
-  <string name="trans_detail_list_footer">Not: Uygulamaları ayrı ayrı aktarmayı seçebilirsiniz. Bununla birlikte, uygulama verilerini seçerseniz, karşılık gelen uygulamalar da aktarılır.</string>
+  <string name="trans_detail_list_footer">"1. Aktarmak istediğiniz uygulamaları tek tek seçebilirsiniz.
+2. Uygulama verilerini seçerseniz, ilgili uygulamalar da seçilecektir.
+3. WeChat ve QQ uygulama verileri uyumluluk sorunları nedeniyle aktarılamayabilir. Uygulama içi aktarım özelliklerini deneyebilirsiniz."</string>
   <string name="trans_detail_page_tip">Ne kadar çok öğe seçerseniz, aktarım o kadar uzun sürer.</string>
   <string name="trans_detail_qq_data">QQ verileri (sohbet geçmişi dahil)</string>
   <string name="trans_detail_sys_data_list_title">Sistem uygulamaları</string>
@@ -519,7 +521,9 @@
   <string name="trans_security_tips_title">Mi Mover uyumluluğu</string>
   <string name="trans_select_data">Gönderilecek verileri seçin</string>
   <string name="trans_select_data_no_space">Yeni cihazda yeterli depolama alanı yok (%s kullanılabilir). \nDepolama alanını boşaltın veya yalnızca önemli öğeleri aktarın.</string>
-  <string name="trans_select_data_tips">Aktarmak için dosyaları seçin\nBenzer dosyalar Alıcı cihazınızın üstüne yazılır</string>
+  <string name="trans_select_data_tips">"Aktarılacak öğeleri seçin.
+Yeni cihazda benzer öğelerin üzerine yazılacaktır.
+(Gördüğünüz aktarılan öğelerin boyutu kabaca bir tahmindir.)"</string>
   <string name="trans_select_data_too_large">Veriler çok büyük, uzun bir yedeğe yol açacaktır\nYalnızca önemli verileri seçmeniz önerilir</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
   <string name="trans_select_device_send">Veri aktarmak için tek bir cihaz seçin.</string>
@@ -572,4 +576,24 @@
   <string name="xiaomi_update_dialog_message">Tanıtım sürümü: %1$s\nBoyut: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Tanıtım sürümü: %1$s\nDelta güncelleme boyutu: %2$s</string>
   <string name="xiaomi_update_dialog_title">Güncelleme mevcut!</string>
+  <string name="click_soft_ap_to_link">Bir bağlantı noktası seçin</string>
+  <string name="confirm_exit_link">Ayrıl</string>
+  <string name="confirm_exit_link_cancel">Kal</string>
+  <string name="confirm_exit_link_msg">Uygulamadan şimdi ayrılmak, devam eden aktarımı kesecektir. İki cihaz arasında tekrar bağlantı kurmanız gerekecek. Uygulamadan yine de ayrıl?</string>
+  <string name="confirm_exit_link_title">Aktarım kesiliyor</string>
+  <string name="connect_soft_ap_label">Yeni cihaza bağlanılıyor…</string>
+  <string name="old_soft_name">QR kodu ile bağlan</string>
+  <string name="old_way">Ayrıca bir QR kodu kullanarak da bağlanabilirsiniz. Kodu oluşturmak için dokunun.</string>
+  <string name="recreate_soft_ap_tips">Tekrar denemek için aşağıdaki düğmeye dokunun.</string>
+  <string name="scan_soft_ap">Yeni cihaz aranıyor…</string>
+  <string name="scan_soft_ap_label">Eski cihaza bağlan</string>
+  <string name="soft_ap_create_failed">Bağlantı noktası oluşturulamadı</string>
+  <string name="soft_ap_creating">Bağlantı noktası oluşturuluyor…</string>
+  <string name="trans_intro_desc_10">Yeni cihazda \"QR kodu ile bağlan\" düğmesine dokunun ve bağlantı kurmak için QR kodunu tarayın.</string>
+  <string name="trans_intro_desc_gms">Uyumluluk sorunlarından kaynaklanan başarısız aktarım olasılıklarının yüksek olması nedeniyle, Mi Taşıyıcı Google uygulamaları tarafından oluşturulan verilerin aktarılmasını desteklememektedir.</string>
+  <string name="trans_intro_question_10">%d. Bağlantı noktasını eski cihazda bulamıyor musunuz?</string>
+  <string name="trans_intro_title_gms">Google uygulamaları tarafından oluşturulan veriler:</string>
+  <string name="wait_link">"Eski cihazınızı bu bağlantı noktasına bağlayın.
+Bağlantı kuruluncaya kadar bu sayfadan ayrılmayın."</string>
+  <string name="waiting">Sadece bir saniye…</string>  
 </resources>

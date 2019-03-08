@@ -782,12 +782,12 @@
   <string name="keyguard_charging_info_last_charge_today_time">Bugün %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Dün %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Son şarj</string>
-  <string name="keyguard_charging_info_tip_text1">Pil ömrünü uzatmak için cihazınızın şarjını daima yüzde 10 üzerinde tutun.</string>
+  <string name="keyguard_charging_info_tip_text1">Pil ömrünü uzatmak için cihazınızın şarjını daima 10% üzerinde tutun.</string>
   <string name="keyguard_charging_info_tip_text2">Cihazınızı aşırı şarj etmeyin. Birden fazla kısa şarj bir gece boyunca şarj etmekten daha iyidir.</string>
-  <string name="keyguard_charging_info_tip_text3">Ortam sıcaklıği 0°\'den düşük olduğunda cihazınızı şarj etmekten kaçının.</string>
+  <string name="keyguard_charging_info_tip_text3">Ortam sıcaklıği 0℃ den düşük olduğunda cihazınızı şarj etmekten kaçının.</string>
   <string name="keyguard_charging_info_tip_text4">Cihazınızın aşırı ısınmasını önlemek için şarj ederken aktif olarak kullanmayın.</string>
   <string name="keyguard_charging_info_tip_text5">Normalden daha sıcak olduklarında pillerin şarj olması daha uzun sürer.</string>
-  <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazınızdan uzaklaşın.</string>
+  <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğuması için cihazınızı bir kenara bırakın.</string>
   <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">Şarj oluyor (Tam doluma %s)</string>
   <string name="keyguard_indication_charging_time_fast">Hızlı şarj (Tam doluma %s)</string>
