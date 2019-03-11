@@ -22,6 +22,16 @@
   <string name="account_unactivated">Hesap etkinleştirilmedi</string>
   <string name="ad_app_download_start">İndirmeye başlıyor…</string>
   <string name="ad_app_is_downloading">İndiriliyor...</string>
+  <string name="ad_begin_to_download_tip">İndirme başlatılıyor…</string>
+  <string name="ad_closed_tip">Bu türden daha az reklam göreceksiniz</string>
+  <string name="ad_download_download">İndir</string>
+  <string name="ad_download_install">Yükle</string>
+  <string name="ad_download_open">Aç</string>
+  <string name="ad_download_pause">Duraklat</string>
+  <string name="ad_download_pending">Bekliyor</string>
+  <string name="ad_download_resume">Devam</string>
+  <string name="ad_downloading_tip">Bu öğe indiriliyor. Bildirim alanında ilerlemeyi görebilirsiniz..</string>
+  <string name="desktop_effects">Ana ekran efektleri</string>  
   <string name="add_resource_detail_fail">Kaynak eklenemedi</string>
   <string name="all_resources">Tümü</string>
   <string name="app_name">Temalar</string>

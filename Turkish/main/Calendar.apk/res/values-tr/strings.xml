@@ -40,6 +40,7 @@
   <string name="add_anniversary">Yıldönümü ekle</string>
   <string name="add_countdown">Sayaç ekle</string>
   <string name="add_event">Faaliyet ekle</string>
+  <string name="address">Adres</string>
   <string name="agenda_month_empty_hint">Bugün herhangi bir faaliyet yok</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
   <string name="agenda_view">Faaliyetler</string>
@@ -108,7 +109,7 @@
   <string name="credit_card_number_label">Kart:</string>
   <string name="credit_currency">Yuan</string>
   <string name="credit_detail_amount_label">Gereken</string>
-  <string name="credit_detail_sms_content">Asıl Metin</string>
+  <string name="credit_detail_sms_content">SMS içeriği</string>
   <string name="credit_detail_today">Bugün：</string>
   <string name="credit_event_delete_successfully">Etkinlik başarıyla silindi</string>
   <string name="credit_event_title">Kredi Kartı Faturası</string>
@@ -210,6 +211,20 @@
   <string name="event_view">Etkinliği görüntüle</string>
   <string name="every_weekday">Her hafta içi (Pzt-Cum)</string>
   <string name="festival_detail_title">Festival</string>
+  <string name="flight_check_in">Giriş yap</string>
+  <string name="flight_check_in_done">Giriş yapıldı</string>
+  <string name="flight_check_in_now">Şimdi giriş yap</string>
+  <string name="flight_detail_tips">Uçuşla ilgili daha fazla hizmet: %1$s</string>
+  <string name="flight_detail_tips_url">VariFlight</string>
+  <string name="flight_detail_title">Uçuş güzergahı</string>
+  <string name="flight_disclaimer">Feragat</string>
+  <string name="flight_disclaimer_content">Uçuş bilgileri ve hizmetleri VariFlight tarafından sağlanmaktadır. İlgili tüm sorumluluklar üçüncü şahıslar tarafından karşılanacaktır. Herhangi bir sorunuz varsa VariFlight müşteri servisine danışın. Uçuş bilgisi sadece referans için verilmiştir. Daha doğru ve güncel bilgiler için havayolu şirketi duyurularına bakın.</string>
+  <string name="flight_disclaimer_dialog_ok">Anladım</string>
+  <string name="flight_event_delete_successfully">Uçuş güzergahını başarıyla silindi</string>
+  <string name="flight_plan_time">%1$s planlandı</string>
+  <string name="flight_seat_no">Koltuk %1$s</string>
+  <string name="flight_state">Uçuş durumu</string>
+  <string name="flight_time">Tahmini %1$s</string>  
   <string name="fortune_birthday">Doğum Günü</string>
   <string name="fortune_card_caiwei">Finansal Pozisyon：</string>
   <string name="fortune_card_set_bazi">Doğum gününü ayarla</string>
@@ -249,6 +264,8 @@
   <string name="horoscope_card_love">Aşk：</string>
   <string name="horoscope_card_working">Kariyer Kismeti：</string>
   <string name="horoscope_select_activity_label">Burç seç</string>
+  <string name="hotel_detail_title">Otel detayları</string>
+  <string name="hotel_event_delete_successfully">Otel rezervasyonu başarıyla silindi</string>  
   <string name="huangli_bad_type">Kaçın</string>
   <string name="huangli_good_type">Gerekli</string>
   <string name="import_action">Aktar</string>
@@ -346,6 +363,7 @@
   <string name="monthly_on_day_count">Aylık (Her ay %1$s %2$s)</string>
   <string name="more_match">Daha fazla etkinlik</string>
   <string name="more_string">+%1$s</string>
+  <string name="movie_event_delete_successfully">Film bileti başarıyla silindi</string>
   <string name="network_not_available">Ağa bağlanamıyor</string>
   <string name="new_event_description">Yeni</string>
   <string name="no_contact_birthday_hint">Alınacak doğum günü yok</string>
@@ -363,8 +381,10 @@
   <string name="online_reminder_header_text">Hatırlat</string>
   <string name="panchang_amanta">Amanta</string>
   <string name="panchang_to"> hedef </string>
+  <string name="passenger">Yolcu</string>
   <string name="path_calendar_settings">Sistem Uygulamaları/Takvim/Ayarlar</string>
   <string name="pengzu">Pang</string>
+  <string name="phone_num">Telefon</string>
   <string name="pref_reminder_time">Hatırlatma zamanı</string>
   <string name="pref_title_alarm_remind">Hatırlatma alarmı</string>
   <string name="pref_title_no_remind">Hatırlatma yok</string>
@@ -392,6 +412,7 @@
   <string name="recommend_card_close_hint">Benzer abonelikleri azalt</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing_hint">Sadece bir saniye…</string>
+  <string name="reminder_overdue">Süresi doldu</string>
   <string name="repeat_activity_label">Tekrarla</string>
   <string name="repeat_custom_activity_label">Özel</string>
   <string name="repeat_custom_prompt">her %1$s üzerinde %2$s</string>
@@ -504,6 +525,8 @@
   <string name="train_event_station_header_name">İstasyon adı</string>
   <string name="train_event_station_header_stay_time">Kalan</string>
   <string name="train_event_station_stay_time">%1$s dakika</string>
+  <string name="train_detail_title">Seyahat rotası</string>
+  <string name="train_event_delete_successfully">Tren güzergahı başarıyla silindi</string>  
   <string name="travel_airport">Havalimanı</string>
   <string name="travel_carriage_number_text">Araç</string>
   <string name="travel_eta_advice">" %1$s konumu için %2$s dakika sürün"</string>
@@ -554,5 +577,13 @@
   <string name="notification_open_setting_button_exit">Hayır teşekkürler</string>
   <string name="notification_open_setting_button_ok">İzin ver</string>
   <string name="notification_open_setting_message">Takvim\'in size bildirim göndermesine izin vermediğiniz sürece, etkinliklerle ilgili bildirimleri alamazsınız.</string>
-  <string name="notification_open_setting_title">Takvim bildirimlerine izin verilsin mi?</string>  
+  <string name="notification_open_setting_title">Takvim bildirimlerine izin verilsin mi?</string>
+  <string name="accessbility_suggestion_dropdown_closed">Mevcut öneri yok</string>
+  <string name="accessbility_suggestion_dropdown_opened">Kişi önerileri açıldı</string>
+  <string name="action_label">Girin</string>
+  <string name="chips_action_cancel">İptal</string>
+  <string name="chips_action_copy">Kopyala</string>
+  <string name="chips_permission_text">Kişi önerilerine izin ver</string>
+  <string name="dropdown_delete_button_desc">%s\'yi alıcılardan kaldır</string>
+  <string name="feed_list_load_more">Daha fazla yükle</string>  
 </resources>

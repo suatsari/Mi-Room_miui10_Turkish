@@ -118,4 +118,12 @@
     <item quantity="other">%d çalışma günü</item>
     <item quantity="one">%d çalışma günü</item>
   </plurals>
+  <plurals name="repeat_custom_prompt">
+    <item quantity="other">%2$s üzerinde her %1$s</item>
+    <item quantity="one">%2$s üzerinde her %1$s</item>
+  </plurals>
+  <plurals name="travel_eta_advice">
+    <item quantity="other">%1$s için %2$s dakika sürüş.</item>
+    <item quantity="one">%1$s için %2$s dakika sürüş.</item>
+  </plurals>  
 </resources>

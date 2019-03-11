@@ -32,6 +32,7 @@
   <string name="language_picker_other_languages_title">Diğer Diller</string>
   <string name="language_settings">Dil seçin</string>
   <string name="locale_picker_title">Konumunuzu seçin</string>
+  <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını görüntüleyin: %s</string>
   <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet Şartlarını görüntüleyin: %s</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>

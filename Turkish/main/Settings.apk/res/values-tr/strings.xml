@@ -3181,7 +3181,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="person_hotpot">Mobil internet paylaşımı</string>
   <string name="personal_data_section_title">Cihazı Sıfırla</string>
   <string name="personal_device_admin_title">Kişisel</string>
-  <string name="personal_section_title">Kişisel</string>
+  <string name="personal_section_title">Kişiselleştirme</string>
   <string name="phone_call_noise_suppression">Aramalar sırasında gürültüyü önle</string>
   <string name="phone_info_label">"Telefon Bilgileri "</string>
   <string name="phone_language">Diller</string>
@@ -4596,7 +4596,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="system_alert_window_on">Evet</string>
   <string name="system_alert_window_settings">Diğer uygulamaların üzerinde göster</string>
   <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
-  <string name="system_and_device_section_title">Sistem &amp; Cihaz</string>
+  <string name="system_and_device_section_title">Sistem ayarları</string>
   <string name="system_app">(Sistem)</string>
   <string name="system_app_settings">Sistem uygulaması ayarları</string>
   <string name="system_apps_updater">Sistem uygulamaları güncelleyici</string>
@@ -6239,5 +6239,13 @@ Bu, mobil servis planınızı iptal etmez."</string>
   <string name="gxzw_quick_open_fast_title">Hızlı kaydırma (gelişmiş)</string>
   <string name="gxzw_quick_open_slow_summary">Kısayol menüsünü açmak için parmak izi simgesine basın ve basılı tutun. Kısayolu kullanmak için kaydırın.</string>
   <string name="gxzw_quick_open_slow_title">Basın ve basılı tutun</string>
-  <string name="gxzw_quick_open_title">Kısayollar</string>  
+  <string name="gxzw_quick_open_title">Kısayollar</string>
+  <string name="login_account_summary">Hesapları, bulut hizmetlerini, ödemeleri ve daha fazlasını yönetin</string>
+  <string name="miui_more_special_feature">Yeni özellikleri keşfedin</string>
+  <string name="miui_special_feature">Ayrıcalıklı özellikler</string>
+  <string name="other_settings_sync_settings">Eşitleme</string>
+  <string name="search_other_settings_sync_settings">Eşitleme;Otomatik;Yalnızca WLAN</string>
+  <string name="search_unlogin_account_title">Mi Hesabı;Mi Hesabı Kimliği;Hesap;Hesap Kimliği</string>
+  <string name="unlogin_account_summary">Tüm Mi hizmetleri. Bir Mi Hesabı</string>
+  <string name="unlogin_account_title">Mi Hesabına giriş yapın</string>  
 </resources>
