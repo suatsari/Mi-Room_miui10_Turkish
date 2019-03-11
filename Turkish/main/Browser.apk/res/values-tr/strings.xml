@@ -1265,7 +1265,7 @@
   <string name="suggestion_more_news">DAHA FAZLA HABER</string>
   <string name="suggestion_more_news_start_title_text">İlgili Haberler</string>
   <string name="suggestion_topic_subtitle_hyphen">Odak</string>  
-  <string name="abc_activity_chooser_view_see_all">Hepsini gör</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
   <string name="abc_capital_off">KAPAT</string>
   <string name="abc_capital_on">AÇ</string>
@@ -1280,12 +1280,14 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="guide_chosen_type_main_title">Bize ne sevdiğini söyle</string>
+  <string name="guide_chosen_type_main_title_behind">ne seviyorsun</string>
+  <string name="guide_chosen_type_main_title_front">Bize söyle</string>  
   <string name="guide_chosen_type_subtitle">İlgili önerileri almak için ilgi alanlarınızı işaretleyin</string>
-  <string name="guide_entertainment_text">eğlendirme</string>
+  <string name="guide_entertainment_text">eğlence</string>
   <string name="guide_fashion_text">moda</string>
   <string name="guide_finance_text">finans</string>
-  <string name="guide_games_text">oyunlar</string>
-  <string name="guide_history_text">geçmiş</string>
+  <string name="guide_games_text">oyun</string>
+  <string name="guide_history_text">tarih</string>
   <string name="guide_know_type_subtitle">Harika öneriler alın</string>
   <string name="guide_label_chosen_hint">En çok %d kategori seçebilirsiniz</string>
   <string name="guide_military_text">askeri</string>
@@ -1320,7 +1322,7 @@
   <string name="action_menu_text_bookmark_removed">Yer işaretini sil</string>
   <string name="action_menu_text_fullscreen_enter">Tam ekran yap</string>
   <string name="action_menu_text_fullscreen_exit">Tam ekrandan çık</string>
-  <string name="action_text_all_select_bookmark">Hepsini seç</string>
+  <string name="action_text_all_select_bookmark">Tümünü seç</string>
   <string name="action_text_all_select_bookmark_cancel">Tüm seçimini kaldırın</string>
   <string name="action_text_change_textsize_bigger">Yazı tipini büyüt</string>
   <string name="action_text_change_textsize_smaller">Daha küçük yazı tipi</string>
@@ -1347,9 +1349,7 @@
   <string name="pref_download_setting">İndirme ayarları</string>
   <string name="suggestion_sliding_ads_info_mark_text">Reklamlar</string>  
   <string name="guide_slide_down">Lütfen aşağı kaydırın</string>
-  <string name="guide_slide_up">Lütfen yukarı kaydırın</string> 
-  <string name="guide_chosen_type_main_title_behind">Ne seversin</string>
-  <string name="guide_chosen_type_main_title_front">Bize söyle</string>
+  <string name="guide_slide_up">Lütfen yukarı kaydırın</string>
   <string name="action_menu_toast_incognito_off">Gizli modu kapat</string>
   <string name="action_menu_toast_incognito_on">Gizli modu aç</string>
   <string name="app_download_market_text">Daha hızlı ve daha güvenli indirmek için Mi Market\'i kullanın</string>

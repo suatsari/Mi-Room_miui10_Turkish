@@ -257,12 +257,12 @@
     <item quantity="one">Sertifikayı kontrol et</item>
   </plurals>
   <plurals name="status_bar_settings_disabled_header_title">
-    <item quantity="other">%s uygulamanın bildirimleri gösterilemiyor</item>
-    <item quantity="one">1 uygulamanın bildirimleri gösterilemiyor</item>
+    <item quantity="other">%s uygulamanın bildirimleri gösterilmiyor</item>
+    <item quantity="one">1 uygulamanın bildirimleri gösterilmiyor</item>
   </plurals>
   <plurals name="status_bar_settings_enabled_header_title">
-    <item quantity="other">%s uygulamanın bildirimi gösteriliyor</item>
-    <item quantity="one">1 uygulamanın bildirimi gösteriliyor</item>
+    <item quantity="other">%s uygulamanın bildirimleri gösteriliyor</item>
+    <item quantity="one">1 uygulamanın bildirimleri gösteriliyor</item>
   </plurals>
   <plurals name="uri_permissions_text">
     <item quantity="other">%d öğe</item>
