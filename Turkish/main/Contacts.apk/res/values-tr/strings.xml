@@ -1495,5 +1495,7 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="scan_bussiness_card_merge_tip">Çakışan veriler değiştirildi</string>
     <string name="description_image_button_sim1_named_dial">SIM1 %s kullanarak çevir</string>
     <string name="description_image_button_sim2_named_dial">SIM2 %s kullanarak çevir</string>
-    <string name="contacts_default_notification_channel">Bildirimler</string> 	
+    <string name="contacts_default_notification_channel">Bildirimler</string>
+    <string name="confirm_call_log_dial_summary">Yanlışlıkla arama yapmamak için çağrı kayıtları üzerinden çağrı yapmadan önce onay isteyin.</string>
+    <string name="confirm_call_log_dial_title">Çağrı kayıtları üzerinden aramaları onaylayın</string> 	
 </resources>
