@@ -997,6 +997,7 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="voicemail_settings_for">%s için Ayarlar</string>
   <string name="voicemail_settings_number_label">Sesli Mesaj Numarası</string>
   <string name="volte_add_conference_member_title">Konferansa ekle</string>
+  <string name="volte_call">VoLTE çağrısı</string>
   <string name="volte_call_waiting_indication_text">Diğer taraf aramada bekleyin lütfen...</string>
   <string name="vt_addtional_call_description">Telefon numarası ve arama bekletme ayarları</string>
   <string name="vt_ask_show_local">Yerel görüntü gösterilsin mi?</string>

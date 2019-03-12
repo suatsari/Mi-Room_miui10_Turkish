@@ -10,19 +10,19 @@
     </plurals>
 	<plurals name="duration_seconds">
         <item quantity="other">%d saniye</item>
-        <item quantity="one">1 saniye</item>
+        <item quantity="one">%d saniye</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d dakika</item>
-        <item quantity="one">1 dakika</item>
+        <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d saat</item>
-        <item quantity="one">1 saat</item>
+        <item quantity="one">%d saat</item>
     </plurals>
     <plurals name="conference_call_number">
         <item quantity="other">%s insan</item>
-    <item quantity="one">%s kişi</item>
+        <item quantity="one">%s kişi</item>
     </plurals>
     <plurals name="call_title_redialing_with_times">
         <item quantity="other">%d kez tekrar aranır</item>
