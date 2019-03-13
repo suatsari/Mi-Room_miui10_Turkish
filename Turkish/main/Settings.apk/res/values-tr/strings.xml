@@ -4030,7 +4030,7 @@ Satın alma işlemlerini ve uygulama erişimini onaylamak için parmak izinizi k
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı işe yaramadı. Tekrar dene veya farklı bir parmak kullan</string>
   <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Parmak izi kayıt süresi sınırına ulaşıldı. Tekrar deneyin.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Cihaz ve parmak izi sensörü konumu ile çizim</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunuzun parmak izi sensörünü bulun.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Cihazınızdaki parmak izi sensörünü kullanın.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensöre dokunun</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Bu simgeyi gördüğünüzde, tanımlamak veya satın alımları onaylamak için parmak izinizi kullanın.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Parmak izi eklendi</string>
