@@ -3993,70 +3993,79 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="security_dashboard_summary_no_fingerprint">Ekran kilidi</string>
   <string name="security_enable_widgets_disabled_summary">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="security_enable_widgets_title">Widget\'leri etkinleştir</string>
-  <string name="security_encryption_alert_dialog_info_first">Bu özelliği açtığınızda kilit ekranı şifresini ayarlayın. Kilit ekranında şifreyi girdikten sonra sonra her açılışta şifreyi girdikten sonra cihaz normal çalışır.</string>
-  <string name="security_encryption_alert_dialog_title_first">Önce kilit ekranı ayarlayın</string>
-  <string name="security_encryption_attention_1">Cihaz kapatıldığında alarmları kullanamazsınız.</string>
-  <string name="security_encryption_attention_2">Kilit ekranında şifreyi girdikten sonra her açılışta sorulur. Bu yöntem cihazın açılış süresini tabii olarak uzatır.</string>
-  <string name="security_encryption_attention_3">Yeni bir kilit ekranı şifreniz olacak.</string>
-  <string name="security_encryption_attention_4">Kilit ekranı şifrenizi unutmayın, aksi halde tam sıfırlama yapmak zorunda kalırsınız ve tüm verileri kaybedebilirsiniz.</string>
-  <string name="security_encryption_attention_info">Hesapları, ayarları, indirilen uygulamaları/ verilerini, medya ve diğer dosyaları şifreleyin.</string>
+  <string name="security_encryption_alert_dialog_info_first">Bu özelliği açmak için kilit ekranı şifresini ayarlayın. Cihazın şifresini çözmek ve normal şekilde kullanmak için her açılıştan sonra kilit ekranı şifresini girmeniz gerekir.</string>
+  <string name="security_encryption_alert_dialog_title_first">Önce ekran kilidini ayarlayın</string>
+  <string name="security_encryption_attention_1">Cihaz kapalıyken alarmları kullanamazsınız.</string>
+  <string name="security_encryption_attention_2">Cihazın şifresini çözmek için her yeniden başlatmanın ardından kilit ekranı şifresini girmeniz gerekir. Yeniden başlatmalar normalden daha uzun sürecek.</string>
+  <string name="security_encryption_attention_3">Yeni bir kilit ekranı şifresi ayarlamanız gerekecek.</string>
+  <string name="security_encryption_attention_4">Kilit ekranı şifrenizi hatırladığınızdan emin olun, aksi takdirde tam bir sıfırlama işlemini tamamlamanız ve cihazdaki tüm verileri silmeniz gerekir.</string>
+  <string name="security_encryption_attention_info">Hesapları, ayarları, indirilen uygulamaları ve verilerini, medyayı ve diğer dosyaları şifreleyebilirsiniz.</string>
   <string name="security_encryption_attention_title">Önemli</string>
-  <string name="security_encryption_close_dialog_info">Kilit ekranı şifresini kullanarak cihazı şifrelemeyi seçmemek, bazı Google hizmetlerini kullanılamaz hale getirebilir.</string>
+  <string name="security_encryption_close_dialog_info">Kilit ekranı şifresi kullanarak cihazı şifrelememeyi seçmek, bazı Google hizmetlerini kullanılamaz duruma getirebilir.</string>
   <string name="security_encryption_close_dialog_title">Varsayılan şifre korumasına geri dön</string>
   <string name="security_encryption_diaglog_continue">Sonraki</string>
   <string name="security_encryption_is_used">Açık</string>
-  <string name="security_encryption_progress_dialog_close">Çözülüyor…</string>
+  <string name="security_encryption_progress_dialog_close">Şifre çözülüyor...</string>
   <string name="security_encryption_progress_dialog_open">Şifreleniyor…</string>
   <string name="security_encryption_rejected_via_home_manager">Bu özellik demo sürümünde desteklenmiyor.</string>
-  <string name="security_encryption_title">Kilit ekranı şifresi kullanıldığında cihazı şifrele</string>
-  <string name="security_keyguard_category_name">Ekran Kilidi</string>
-  <string name="security_password_category_name">Ekran Kilidi</string>
-  <string name="security_passwords_title">Şifreler</string>
-  <string name="security_patch">Android Güv. Yama Tarihi</string>
+  <string name="security_encryption_title">Kilit ekranı şifresi kullanarak cihazı şifrele</string>
+  <string name="security_keyguard_category_name">Kilit ekranı</string>
+  <string name="security_password_category_name">Ekran kilidi</string>
+  <string name="security_passwords_title">Gizlilik</string>
+  <string name="security_patch">Android güvenlik düzeltme eki düzeyi</string>
   <string name="security_privacy_settings_title">Gizlilik</string>
   <string name="security_relative">Güvenlik</string>
-  <string name="security_settings_billing_desc">Bu uygulama faturanızı yükseltebilir:</string>
-  <string name="security_settings_desc">Bu uygulama telefonunuzda şunlara erişebilir:</string>
-  <string name="security_settings_desc_multi">Bu uygulama telefonunuzda şunlara erişebilir. Bu performans düşüşüne ve hafıza kullanımına neden olabilir, %1$s bazı izinler mevcut çünkü benzer çalışan işlemler %2$s:</string>
+  <string name="security_settings_billing_desc">Bu uygulama sizden para alabilir:</string>
+  <string name="security_settings_desc">Bu uygulama telefonunuzda aşağıdakilere erişebilir:</string>
+  <string name="security_settings_desc_multi">Bu uygulama telefonunuzda aşağıdakilere erişebilir. Performansı artırmak ve bellek kullanımını azaltmak için, bu izinlerin bazıları %1$s için kullanılabilir çünkü %2$s ile aynı süreçte çalışır:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
-  <string name="security_settings_fingerprint_enroll_dialog_name_label">Ad</string>
+  <string name="security_settings_fingerprint_enroll_dialog_name_label">İsim</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonun kilidi açıldığında, Parmak izi ile ödemeye ve uygulamaya erişebilirsiniz. &lt;annotation id=\"url\"&gt;Fazlasını Öğren&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\"Ekran Kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun. \"&lt;annotation id=\"admin_details\"&gt;Diğer Detaylar&lt;/annotation&gt;\"\n\nSatın alma işlemlerine ve uygulama erişimine izin vermek için Parmak izinizi kullanabilirsiniz. \"&lt;annotation id=\"url\"&gt;Fazlası&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_done">Tamam</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Telefonunuzun kilidini açmanın yanı sıra, satın alma işlemlerini ve uygulama erişimini onaylamak içinde parmak izinizi kullanabilirsiniz.<annotation id="url"> Daha fazla bilgi edin</annotation>" "</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">"Ekran kilidi seçeneği devre dışı. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisine başvurun."<annotation id="admin_details"> Daha fazla detay</annotation>"
+
+Satın alma işlemlerini ve uygulama erişimini onaylamak için parmak izinizi kullanabilirsiniz."<annotation id="url"> Daha fazla bilgi edin</annotation>" "</string>
+  <string name="security_settings_fingerprint_enroll_done">Bitti</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Kayıt tamamlanmadı</string>
-  <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı çalışmadı. Tekrar deneyin veya farklı bir parmak kullanın.</string>
-  <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Parmak izi kayıt süresi doldu. Tekrar deneyin.</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Cihazla örnekleme ve Parmak izi sensör konumu</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonun ön yüzündeki parmak izi okuyucusunu bulun</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensörü bul</string>
-  <string name="security_settings_fingerprint_enroll_finish_message">Ne zaman bu simgeyi görürseniz; ödeme yetkisi veya kimlik tanımı için Parmak izini kullanabilirsiniz.</string>
-  <string name="security_settings_fingerprint_enroll_finish_title">Parmak izi eklendi!</string>
+  <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı işe yaramadı. Tekrar dene veya farklı bir parmak kullan</string>
+  <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Parmak izi kayıt süresi sınırına ulaşıldı. Tekrar deneyin.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Cihaz ve parmak izi sensörü konumu ile çizim</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunun arkasında. İşaret parmağını kullan.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensöre dokunun</string>
+  <string name="security_settings_fingerprint_enroll_finish_message">Bu simgeyi gördüğünüzde, tanımlamak veya satın alımları onaylamak için parmak izinizi kullanın.</string>
+  <string name="security_settings_fingerprint_enroll_finish_title">Parmak izi eklendi</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">İptal</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Atla</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Devam</string>
-  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Parmak izi ekle</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">\"Telefonunuzun kilidini açmak, satın alma yetkileri vermek veya uygulamalarda oturum açmak için Parmak izi sensörüne dokunmanız yeterlidir. Hangi Parmak izini eklerken dikkatli olun. Bunlardan herhangi birini eklemeyi bir baskıyla bile yapabilirsiniz.\n\nNot: Parmak iziniz, güçlü bir desen veya PIN\'den daha az güvende olabilir. \"&lt;annotation id=\"url\"&gt;Fazlası&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_setup">Telefonunuzun kilidini açmak, satın alma işlemlerini onaylamak veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Parmak izlerini ekleyeceğiniz kişiler konusunda dikkatli olun. Eklenen tek bir parmak iziyle bile bu işlemlerin tümü yapılabilir.\n\nNot: Parmak iziniz, güçlü bir desenden veya PIN\'den daha az güvenli olabilir.</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">Satın alma işlemlerini yetkilendirmek veya uygulamalarda oturum açmak için parmak izi sensörüne dokunmanız yeterli. Kimlerin parmak izini eklediğinize dikkat edin. Eklenen tek parmak izi bile bunların tümünü yapabilir.\n\nNot: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fazla bilgi edinmek için kuruluşunuzun yöneticisiyle iletişim kurun.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Sonraki</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Telefonunuzun kilidini açmak, satın alma işlemlerini yetkilendirmek veya uygulamalara giriş yapmak için parmak izi sensörüne dokunun. Kimlerin parmak izlerini eklediğine dikkat edin. Ek bir baskı bile bunlardan herhangi birini yapabilir.
+
+Not: Parmak izi, güçlü bir desenden veya PIN\'den daha az güvenli olabilir."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Telefonunuzun kilidini açmak veya satın alımları onaylamak için parmak izinizi kullanın.
+
+Not: Parmak izi, güçlü bir desenden veya PIN\'den daha az güvenli olabilir."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Telefonunuzun kilidini açmak veya satın alımları onaylamak için parmak izinizi kullanın.
+
+Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fazla bilgi için kuruluşunuzun yöneticisine başvurun."</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Parmak iziyle kilidi aç</string>
-  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Parmak izinizi kullanma</string>
-  <string name="security_settings_fingerprint_enroll_lift_touch_again">Sensöre dokunduktan sonra parmağı kaldır</string>
-  <string name="security_settings_fingerprint_enroll_repeat_message">Parmak izi için farklı parçalar ekleyin</string>
-  <string name="security_settings_fingerprint_enroll_repeat_title">Güzel! Şimdi tekrarlayın</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Parmak izini kullan</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Parmağınızı kaldırın, ardından sensöre tekrar dokunun</string>
+  <string name="security_settings_fingerprint_enroll_repeat_message">Parmak izinizin farklı kısımlarını eklemek için parmağınızı kaldırmaya devam edin</string>
+  <string name="security_settings_fingerprint_enroll_repeat_title">Kaldır, sonra tekrar dokun</string>
   <string name="security_settings_fingerprint_enroll_setup_screen_lock">Ekran kilidini ayarlayın</string>
-  <string name="security_settings_fingerprint_enroll_start_message">Parmağınızı sensöre koyun ve titreşimi hissettikten sonra kaldırın</string>
-  <string name="security_settings_fingerprint_enroll_start_title">Başlayalım!</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Cihazdaki Parmak izi sensörünü kullan.</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Sensör yok :(</string>
+  <string name="security_settings_fingerprint_enroll_start_message">Parmağınızı sensörün üzerine koyun ve bir titreşim hissettiğinizde kaldırın</string>
+  <string name="security_settings_fingerprint_enroll_start_title">Sensöre dokunun</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Telefonunuzun arkasındaki sensöre dokunun. İşaret parmağını kullan</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hata! bu sensör değil</string>
   <string name="security_settings_fingerprint_preference_title">Parmak izi</string>
-  <string name="security_settings_premium_sms_desc">Özel SMS Gönder</string>
-  <string name="security_settings_summary">Konumunuzu, ekran kilidini aç, SIM kartı kilitle, kimlik bilgilerinin depolanmasını ayarla</string>
-  <string name="security_settings_title">Güvenlik</string>
+  <string name="security_settings_premium_sms_desc">Premium SMS gönder</string>
+  <string name="security_settings_summary">Konumum, ekran kilidi açma, SIM kart kilidi, kimlik bilgileri saklama kilidi</string>
+  <string name="security_settings_title">Güvenlik &amp; konum</string>
   <string name="security_status">Güvenlik durumu</string>
   <string name="security_status_title">Güvenlik durumu</string>
   <string name="security_update">Güvenlik güncellemesi</string>
-  <string name="select_all">Hepsi</string>
+  <string name="see_all_apps_title">Tüm %1$d uygulamalarına bak</string>
+  <string name="select_all">Tümünü seç</string>
   <string name="select_application">Uygulamayı seçin</string>
   <string name="select_device_admin_msg">Cihaz Yöneticileri</string>
   <string name="select_logd_level">Günlük seviyesini seç</string>
