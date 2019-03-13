@@ -4030,7 +4030,7 @@ Satın alma işlemlerini ve uygulama erişimini onaylamak için parmak izinizi k
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Parmak izi kaydı işe yaramadı. Tekrar dene veya farklı bir parmak kullan</string>
   <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Parmak izi kayıt süresi sınırına ulaşıldı. Tekrar deneyin.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Cihaz ve parmak izi sensörü konumu ile çizim</string>
-  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunun arkasında. İşaret parmağını kullan.</string>
+  <string name="security_settings_fingerprint_enroll_find_sensor_message">Telefonunuzun parmak izi sensörünü bulun.</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_title">Sensöre dokunun</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Bu simgeyi gördüğünüzde, tanımlamak veya satın alımları onaylamak için parmak izinizi kullanın.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Parmak izi eklendi</string>
@@ -4055,7 +4055,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="security_settings_fingerprint_enroll_setup_screen_lock">Ekran kilidini ayarlayın</string>
   <string name="security_settings_fingerprint_enroll_start_message">Parmağınızı sensörün üzerine koyun ve bir titreşim hissettiğinizde kaldırın</string>
   <string name="security_settings_fingerprint_enroll_start_title">Sensöre dokunun</string>
-  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Telefonunuzun arkasındaki sensöre dokunun. İşaret parmağını kullan</string>
+  <string name="security_settings_fingerprint_enroll_touch_dialog_message">Cihazınızdaki parmak izi sensörünü kullanın.</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_title">Hata! bu sensör değil</string>
   <string name="security_settings_fingerprint_preference_title">Parmak izi</string>
   <string name="security_settings_premium_sms_desc">Premium SMS gönder</string>
