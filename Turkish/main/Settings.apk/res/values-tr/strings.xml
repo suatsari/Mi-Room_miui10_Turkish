@@ -4764,13 +4764,13 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Kilit Ekranının şifresini kapattığınızda, Parmak iziyle cihazın kilidini açmanız mümkün olmayacak.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Kilit ekranı şifrenizi kapattıktan sonra, kayıtlı parmak izleri ve yüz verileri silinecektir. Yüzünüzü veya parmak izinizi kullanarak cihazın kilidini açamazsınız.</string>
   <string name="turn_off_security_lock">Kilitlemeyi kapat</string>
-  <string name="turn_on_keyguard_password">Kilit Ekranının şifresini aç</string>
-  <string name="turn_on_keyguard_password_alert">Şifrenizi hatırlayın. Unutursanız, onu geri yükleyemezsiniz.</string>
+  <string name="turn_on_keyguard_password">Kilit ekranı şifresini aç</string>
+  <string name="turn_on_keyguard_password_alert">Şifrenizi hatırlayın. Unutursanız, geri yükleme yapamazsınız.</string>
   <string name="turn_on_keyguard_password_alert_choose">Şifrenizi hatırlayın. Unutursanız, yeni bir tane ayarlamak için cihazınızdaki tüm verileri silmeniz gerekir.</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Şimdi değil</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Anladım</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Anladım(%d)</string>
-  <string name="turn_on_keyguard_password_alert_forget_content">Kilit ekranı şifrenizi hatırlayın. Bunu unutursanız, fotoğraflar ve kişiler ile birlikte cihazınızdaki tüm verileri silmeniz ve ardından yeni bir tane ayarlamanız gerekir.</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">Kilit ekranı şifrenizi hatırlayın. Unutursanız, fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki tüm verileri silmeniz ve ardından yenisini ayarlamanız gerekir.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Şifrenizi hatırlayın</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="turn_on_torch">Feneri aç</string>
@@ -6260,5 +6260,15 @@ Bu, mobil servis planınızı iptal etmez."</string>
   <string name="search_other_settings_sync_settings">Eşitleme;Otomatik;Yalnızca WLAN</string>
   <string name="search_unlogin_account_title">Mi Hesabı;Mi Hesabı Kimliği;Hesap;Hesap Kimliği</string>
   <string name="unlogin_account_summary">Tüm Mi hizmetleri. Bir Mi Hesabı</string>
-  <string name="unlogin_account_title">Mi Hesabına giriş yapın</string>  
+  <string name="unlogin_account_title">Mi Hesabına giriş yapın</string>
+  <string name="bt_aac_dialog_summary">"Mevcut cihaz, AAC kodeğini destekler. Ancak, AAC uyumluluk sorunları nedeniyle ses çalmada başarısız olabilir. Cihazınız otomatik olarak SBC kodeğe geçti.
+Bunu Ayarlar\'dan değiştirebilirsiniz."</string>
+  <string name="bt_aac_dialog_title">Bluetooth bağlantısı</string>
+  <string name="bt_aac_open_dialog_summary">"AAC, uyumluluk sorunları nedeniyle ses çalmada başarısız olabilir.
+Bu özelliği, Ayarlar > Bluetooth > Eşleşmiş cihazlar bölümünden kapatabilirsiniz."</string>
+  <string name="bt_aac_open_dialog_title">AAC kodeğine geçildi</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_dialog_remember_choice">Seçimi hatırla</string>
+  <string name="bt_dialog_settings">Ayarlar</string>
+  <string name="bt_pre_summary">Yüksek kaliteli bir ses deneyimi sağlayın</string>  
 </resources>
