@@ -2634,5 +2634,9 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="wlan_optimization_title">WLAN optimizasyonu</string>
   <string name="forground_network_optimization_summary">Ön planda çalışan oyunlara daha fazla bant genişliği verin</string>
   <string name="forground_network_optimization_title">Bant genişliği önceliği</string>
-  <string name="function_shield_summary_m">Otomatik parlaklık ve ekran görüntüsü hareketlerini kısıtlayın</string>  
+  <string name="function_shield_summary_m">Otomatik parlaklık ve ekran görüntüsü hareketlerini kısıtlayın</string>
+  <string name="security_center_slogan">Güvenlik. Her zaman koruma altında.</string>
+  <string name="third_desktop_dialog_content">Üçüncü taraf başlatıcı uygulamaları veri sızıntısı, anormal pil boşalması ve gecikme gibi sorunlara neden olabileceğinden, yalnızca MIUI tarafından doğrulananlar varsayılan başlatıcınız olarak ayarlanabilir.</string>
+  <string name="third_desktop_dialog_ok">Anladım</string>
+  <string name="third_desktop_dialog_title">Hata</string>  
 </resources>

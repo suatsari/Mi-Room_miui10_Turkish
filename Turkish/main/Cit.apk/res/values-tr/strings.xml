@@ -495,6 +495,7 @@
   <string name="last_time_test_result">ENSON TEST SONUCU</string>
   <string name="lcminfo">LCM bilgisi</string>
   <string name="magnetic_info_hint">Lütfen cihazı 8 şeklinde döndürün</string>
+  <string name="motor_calibration">Motor Kalibrasyonu</string>
   <string name="navigation_drawer_close">Gezinme çekmecesini kapat</string>
   <string name="navigation_drawer_open">Gezinme çekmecesini aç</string>
   <string name="next">Sonraki</string>

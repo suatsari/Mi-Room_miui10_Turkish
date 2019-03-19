@@ -6270,5 +6270,24 @@ Bu özelliği, Ayarlar > Bluetooth > Eşleşmiş cihazlar bölümünden kapatabi
   <string name="bt_aac_pre_title">AAC</string>
   <string name="bt_dialog_remember_choice">Seçimi hatırla</string>
   <string name="bt_dialog_settings">Ayarlar</string>
-  <string name="bt_pre_summary">Yüksek kaliteli bir ses deneyimi sağlayın</string>  
+  <string name="bt_pre_summary">Yüksek kaliteli bir ses deneyimi sağlayın</string>
+  <string name="auto_dual_clock_summary">Geçerli saat ikinci saatten farklı olduğunda Çift Saat\'i göster</string>
+  <string name="auto_dual_clock_title">Çift saat</string>
+  <string name="cutout_type_desc">Çentik eğrilerini düzeltmek için açın</string>
+  <string name="cutout_type_title">Çentik şeklini ayarlayın</string>
+  <string name="dual_clock">Çift saat</string>
+  <string name="dual_clock_aod_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kapalı ekran için, Ayarlar &gt; Görüntüle bölümünden öğelerin gösterilmesine izin verin; 2. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 3. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun."</string>
+  <string name="dual_clock_hint">\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 2. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun.</string>
+  <string name="dual_clock_ok">Anladım</string>
+  <string name="dual_clock_open_message">Çift Saat, Kilit ekranında, Ana ekranda ve ekran kapandığında görüntülenir.</string>
+  <string name="more_installed_services_title">Daha fazla indirilen hizmetler</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Kapalı</string>
+  <string name="otg_opened">Açık</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB On-The-Go, USB sürücülerinin ve taşınabilir klavyelerin mobil cihazınıza bağlanmasına ve veri alışverişine izin verir.
+
+OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
+  <string name="resident_timezone_summary">İkinci saat</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">WLAN bağlantısı kurulduğunda ve internet paylaşımı açıkken kullanılamaz.</string>  
 </resources>

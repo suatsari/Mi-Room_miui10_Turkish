@@ -26,7 +26,7 @@
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
   <string name="activity_main_update_time_expire">Veri güncellemesinin süresi geçti</string>
   <string name="activity_main_update_time_right_now">şimdi</string>
-  <string name="activity_minute_rain_location_fail_msg">Konum bulunamadı. Varsayılan olarak Beijing gösteriliyor.</string>
+  <string name="activity_minute_rain_location_fail_msg">Kesin konum bilgisi alınamadı. Mevcut şehre geçildi.</string>
   <string name="add_city">Ekle</string>
   <string name="alert_detail_title">Alarm Detayları</string>
   <string name="alert_warning">Hava durumu uyarıları</string>
@@ -62,6 +62,8 @@
   <string name="aqi_quality_pm10_desc">İnhaler kaba parçacıklar</string>
   <string name="aqi_quality_pm25_desc">İnce parçacıklar</string>
   <string name="aqi_quality_so2_desc">Kükürt dioksit</string>
+  <string name="aqi_settings_summary">AQI uyarıları</string>
+  <string name="aqi_settings_title">AQI</string>  
   <string name="aqi_station_best_quality_station">Etrafında en iyisi:</string>
   <string name="aqi_station_min_distance_station">En yakın istasyon:</string>
   <string name="aqi_sub_desc">HKE</string>
@@ -197,7 +199,7 @@
   <string name="real_time_sunrise">Gündoğumu: %1$s</string>
   <string name="real_time_sunset">Günbatımı: %1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
-  <string name="realtime_humidity_title">Bağıl nem</string>
+  <string name="realtime_humidity_title">Nem</string>
   <string name="realtime_temperature_no_data">Veri yok</string>
   <string name="realtime_wind_default_title">Rüzgar</string>
   <string name="refresh_fail">Ağa bağlanamadı</string>
