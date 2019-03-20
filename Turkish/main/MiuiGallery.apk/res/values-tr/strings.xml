@@ -288,7 +288,7 @@
   <string name="crop_label">Kırp</string>
   <string name="custom_select_title_deselect_all">Hiçbiri</string>
   <string name="custom_select_title_quickly_share">Paylaş</string>
-  <string name="custom_select_title_select_all">Hepsi</string>
+  <string name="custom_select_title_select_all">Tümü</string>
   <string name="custom_select_title_select_item">Öğeleri seç</string>
   <string name="debugging_tip">Ayıklama Verisi Oluştur</string>
   <string name="default_relation_name">Yeni Grup</string>
@@ -1232,7 +1232,7 @@
   <string name="video_editor_smart_effect_time_limit_txt_40">Bu efekt, 40 saniyeden uzun olmayan videolara uygulanabilir. Süre otomatik olarak ayarlandı.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Bu efekti en az 6 saniye süren videolara uygulayabilirsiniz.</string>
   <string name="video_editor_smart_effect_time_limit_txt_60">Bu efekt, 60 saniyeden uzun olmayan videolara uygulanabilir. Süre otomatik olarak ayarlandı.</string>
-  <string name="video_editor_text_edit_all">Hepsi</string>
+  <string name="video_editor_text_edit_all">Tümü</string>
   <string name="video_editor_text_edit_input_all_hint">Metin girin</string>
   <string name="video_editor_unzip_file_fail">Video açılamadı.</string>
   <string name="video_editor_video_is_short">Bu video düzenlenemiyor</string>
