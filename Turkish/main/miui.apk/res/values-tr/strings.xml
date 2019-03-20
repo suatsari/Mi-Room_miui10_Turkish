@@ -3,7 +3,7 @@
   <string name="abc_action_bar_home_description">"Ana Ekran'a git"</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
-  <string name="action_mode_select_all">Hepsi</string>
+  <string name="action_mode_select_all">Tümü</string>
   <string name="action_mode_title_empty">Öğeleri seç</string>
   <string name="actionbar_button_up_description">Geri</string>
   <string name="actionbar_immersion_button_more_description">Diğer</string>
@@ -479,7 +479,7 @@
   <string name="saturday_shortest">Cts</string>
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="select_item">Öğeleri seç</string>
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Operatörünüz bu hizmeti etkinleştirmek için kullanılan bir SMS mesajı için ücret alabilir.</string>
