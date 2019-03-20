@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="dual_4g_switch_summary">Her iki SIM yuvası için 4G bağlantıya izin verin.</string>
-    <string name="dual_4g_switch_title">Dual 4G</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred">LTE Öncelikli Şebeke</string>
-    <string name="turn_off_dual_4g_failed">"Dual 4G kapatılamadı."</string>
-    <string name="turn_on_dual_4g_failed">"Dual 4G açılamadı."</string>
-</resources>
