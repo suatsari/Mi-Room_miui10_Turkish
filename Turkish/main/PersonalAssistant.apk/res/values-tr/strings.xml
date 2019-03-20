@@ -502,7 +502,7 @@
   <string name="fav_support_more">Desteklenen tüm uygulamalar</string>
   <string name="fav_support_not_title">Favoriler listede görünmez</string>
   <string name="fav_support_title">Favoriler listede görünecek</string>
-  <string name="fav_tab_all">Hepsi</string>
+  <string name="fav_tab_all">Tümü</string>
   <string name="fav_tab_article">Makaleler</string>
   <string name="fav_tab_new">Yeni</string>
   <string name="fav_tab_shopping">Ürünler</string>
@@ -513,7 +513,7 @@
   <string name="favorite_add_home_cancel">İptal</string>
   <string name="favorite_add_home_content">Sık Kullanılanları Ana ekrana ekle?</string>
   <string name="favorite_add_home_process">Ekleniyor…</string>
-  <string name="favorite_all_selec">Hepsini seç</string>
+  <string name="favorite_all_selec">Tümünü seç</string>
   <string name="favorite_cancel">İptal</string>
   <string name="favorite_clipboard_tip">Adres panodan favorilere eklensin mi?</string>
   <string name="favorite_delete">Sil</string>
