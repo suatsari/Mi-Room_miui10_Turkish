@@ -88,7 +88,7 @@
   <string name="default_folder_title_security">Sistem</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Araçlar</string>
-  <string name="default_screen_preview_title">Varsayılan ekran</string>
+  <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Sil</string>
   <string name="delete_screen">Ekranı Sil</string>
@@ -356,5 +356,8 @@
   <string name="recommend_xout">Gösterme</string>
   <string name="show_recents_recommend_title">Önerileri göster</string>
   <string name="gadget_dual_clock_label">Çift saat</string>
-  <string name="dual_app">Klonlu uygulamalar</string>  
+  <string name="dual_app">Klonlu uygulamalar</string>
+  <string name="edit_mode_top_menu_finish">Bitti</string>
+  <string name="menu_finish">Bitti</string>
+  <string name="widgets_preview_title">Widget ekle</string>  
 </resources>

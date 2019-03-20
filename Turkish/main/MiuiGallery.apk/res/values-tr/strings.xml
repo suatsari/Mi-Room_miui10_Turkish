@@ -1471,5 +1471,19 @@ mevcut"</string>
   <string name="recommend_category_title">Galerinin seçtikleri</string>
   <string name="set_as_video_wallpaper_description">Bu öğe indirilsin ve video duvar kağıdı olarak kullanılsın mı?</string>
   <string name="set_as_video_wallpaper_title">Video duvar kağıdını ayarla</string>
-  <string name="set_video_wallpaper_failed">Bu öğeyi video duvar kağıdı olarak kullanamazsınız</string>  
+  <string name="set_video_wallpaper_failed">Bu öğeyi video duvar kağıdı olarak kullanamazsınız</string>
+  <string name="cleaner_similar_action">Şimdi sil</string>
+  <string name="cleaner_similar_description">Çift fotoğrafları sil</string>
+  <string name="cleaner_similar_title">Fotoğrafları çoğalt</string>
+  <string name="cleaner_video_action">Şimdi sil</string>
+  <string name="cleaner_video_description">Depolama alanı kaplayan videoları silin</string>
+  <string name="cleaner_video_pick_delete_selected">Seçilen videoları sil</string>
+  <string name="cleaner_video_title">Videoları sil</string>
+  <string name="print_log">Günlüğü yazdır</string>
+  <string name="screen_doodle_talkback_size">Doodle çizgi genişliği</string>
+  <string name="screen_editor_finish">Bitti</string>
+  <string name="screen_save_dialog_btn_cancel">İptal</string>
+  <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
+  <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>
+  <string name="similar_keep_clear">En iyi çekimi tutun</string>  
 </resources>

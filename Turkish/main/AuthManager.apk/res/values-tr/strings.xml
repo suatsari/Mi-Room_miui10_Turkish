@@ -302,4 +302,6 @@ Root Erişim yetkisi almak için MIUI\'nın Geliştirici Sürümünü yüklemeli
   <string name="screen_overlay_message">İzin ayarını değiştirmek için önce Uygulama &gt; Ayarlar\'dan Ekran Bindirimini kapatmalısınız.</string>
   <string name="screen_overlay_title">Ekran Bindirme algılandı</string>
   <string name="wakepath_confirm_start_activity">%2$s açmak için %1$s izin verilsin mi?</string>
+  <string name="HIPS_Perm_UDevice_ID">Oyun deneyiminizi geliştirmelerine yardımcı olması için cihaz parça bilgilerini oyunu geliştiricileriyle paylaşın. Kabul?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">Oyun deneyiminizi geliştirmelerine yardımcı olması için cihaz parça bilgilerini oyunu geliştiricileriyle paylaşın. Kabul?</string>  
 </resources>

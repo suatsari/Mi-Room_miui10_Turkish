@@ -271,5 +271,13 @@
     <plurals name="sync_oversized_count">
         <item quantity="other">%d öğe yedeklenemeyecek kadar büyük</item>
         <item quantity="one">%d öğe yedeklenemeyecek kadar büyük</item>
-  </plurals>	
+    </plurals>
+	<plurals name="photo_count_format">
+        <item quantity="other">Toplam %1$d öğe</item>
+        <item quantity="one">Toplam %1$d öğe</item>
+    </plurals>
+	<plurals name="video_count_format">
+        <item quantity="other">%1$d dosya</item>
+        <item quantity="one">%1$d dosya</item>
+    </plurals>  
 </resources>

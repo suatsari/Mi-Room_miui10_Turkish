@@ -557,7 +557,7 @@
   <string name="dtmf_tones_summary">DTMF seslerinin uzunluğunu ayarlayın</string>
   <string name="dtmf_tones_title">Tuş Takımı Dokunma Tonları</string>
   <string name="dual_4g_switch_summary">Her iki SIM yuvası için 4G bağlantıya izin verin.</string>
-  <string name="dual_4g_switch_title">Dual 4G</string>
+  <string name="dual_4g_switch_title">Çift 4G</string>
   <string name="duration_disable_summary">Görüntü süresi kapalı</string>
   <string name="duration_enable_summary">Görüntü süresi açık</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
@@ -598,7 +598,7 @@
   <string name="enable_disable_retail_directory">Perakende Zinciri</string>
   <string name="enable_disable_stock_quotes">Hisse Senedi Fiyatları</string>
   <string name="enable_disable_technology_news">Teknoloji Jaberleri</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE, her iki SIM yuvası içinde 4G bağlantı gerektirir. Şimdi Dual 4G\'ye geçelim mi?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE, her iki SIM yuvası içinde 4G bağlantı gerektirir. Şimdi Çift 4G\'ye geçelim mi?</string>
   <string name="enable_fdn">Sabit Arama Numarası etkin</string>
   <string name="enable_fdn_ok">Sabit Arama Numarası devre dışı</string>
   <string name="enable_freeform_support">Serbest biçimli pencereleri etkinleştir</string>
@@ -1459,8 +1459,8 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="tty_mode_not_allowed_video_call">TTY Modu görüntülü görüşme esnasında değiştirilemez</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
-  <string name="turn_off_dual_4g_failed">Dual 4G kapatılamadı.</string>
-  <string name="turn_on_dual_4g_failed">Dual 4G açılamadı.</string>
+  <string name="turn_off_dual_4g_failed">Çift 4G kapatılamadı.</string>
+  <string name="turn_on_dual_4g_failed">Çift 4G açılamadı.</string>
   <string name="turnover_mute_summary">Telefon ekranı yukarı bakacak şekilde yatay bir yüzeydeyken, zili susturmak, titreşimi kapatmak ve bildirim ışığının yanıp sönmesini durdurmak için çevirin.</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevirin</string>
   <string name="undefined">Yok</string>

@@ -681,5 +681,7 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="cit_tool_mbn_recovery_default">Kurtarma varsayılan MBN</string>
   <string name="cit_tool_modem_clear_empty">temiz</string>
   <string name="cit_tool_modem_mbn_config_load_and_active">MBN yapılandırma yükleme ve etkinleştirme aracı</string>
-  <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>  
+  <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>
+  <string name="cit_splash_check_summary">Siyah ekran fenomeni için daha 5s olduğundan emin olun.</string>
+  <string name="cit_tool_splash_test_title">Sıçrama Testi</string>  
 </resources>
