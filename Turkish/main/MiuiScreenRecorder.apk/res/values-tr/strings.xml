@@ -54,7 +54,7 @@
   <string name="screen_orientation_summary">Kaydedilen videoları ekrana uydur</string>
   <string name="screen_record_option">Kayıt seçenekleri</string>
   <string name="screen_record_params">Kayıt parametreleri</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="show_hard_key">Gezinme düğmelerini görselleştir</string>
   <string name="show_hard_key_summary">Ev, menü ve geri düğmelerine basıldığında istemleri göster</string>
   <string name="show_screen_touch">Dokunma hareketlerini göster</string>
