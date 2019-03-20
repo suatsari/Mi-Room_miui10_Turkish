@@ -261,7 +261,7 @@
   <string name="reset_scene_prompt">Ekran düzenini varsayılana sıfırlanır.</string>
   <string name="screen_locked_toast">Ana Ekran düzeni kilitlendi</string>
   <string name="screen_number">%d ekranı</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="select_frame">Çerçeve</string>
   <string name="select_photo">Resim</string>
   <string name="setting_wallpaper_tip">Ayarlamak için kaydırın veya kıstırın</string>
