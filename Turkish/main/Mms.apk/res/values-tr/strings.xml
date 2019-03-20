@@ -66,7 +66,7 @@
     <string name="cannot_send_message_reason">Mesajınızın geçerli alıcısı yok.</string>
     <string name="card_insert_to_contact">Kişi aktar</string>
     <string name="change_duration_activity">Süreyi değiştir</string>
-    <string name="check_all">Hepsi</string>
+    <string name="check_all">Tümü</string>
     <string name="class_0_message_activity">Sınıf 0 mesajı</string>
     <string name="close">Kapat</string>
     <string name="cloud_recommend_msg">Mesajları Mi Bulut ile eşitlemek için dokunun</string>
