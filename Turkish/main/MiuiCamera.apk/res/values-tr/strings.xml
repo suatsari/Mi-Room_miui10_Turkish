@@ -715,7 +715,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="accessibility_lighting_panel_off">Stüdyo aydınlatma çubuğu gizlendi</string>  
   <string name="accessibility_ultra_wide_on">Ultra geniş açı modu açıldı</string>
   <string name="accessibility_ultra_wide_off">Ultra geniş açı modu kapatıldı</string>
-  <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
+  <string name="autozoom_click_hint">Hareket halindeyken odağı korumak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi izleme durduruldu</string>
   <string name="autozoom_hint">Hareketli nesneyi izle</string>
   <string name="live_sticker_fragment_tab_name">TikTok Sihirli Etiket</string>

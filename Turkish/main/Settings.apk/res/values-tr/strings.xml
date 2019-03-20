@@ -935,18 +935,18 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="breathing_light_color_summary">Yeni bildirim geldiğinde yanıp-sönme rengi</string>
   <string name="breathing_light_freq_summary">Yeni bildirimler olduğunda yanıp sönme sıklığı</string>
   <string name="breathing_light_freq_title">Işığın yanıp-sönme sıklığı</string>
-  <string name="brightness">Parlaklık Seviyesi</string>
+  <string name="brightness">Parlaklık seviyesi</string>
   <string name="brightness_auto_adjust_off">Ekran parlaklığı sabit kalacak.</string>
-  <string name="brightness_auto_adjust_on">Arkaplan aydınlatması için parlaklık seviyesini en iyi hale getirin.</string>
+  <string name="brightness_auto_adjust_on">Ekran parlaklığı ortam ışığına göre optimize edilecek.</string>
   <string name="brightness_summary">Ekranın parlaklığını ayarlayın</string>
   <string name="brightness_title">Parlaklık</string>
-  <string name="bt_hci_snoop_log">Bluetooth HCI gizlice arama günlüğü</string>
-  <string name="bt_hci_snoop_log_summary">Bütün Bluetooth HCI paketlerini bir dosyada topla</string>
+  <string name="bt_hci_snoop_log">Bluetooth HCI snoop günlüğü</string>
+  <string name="bt_hci_snoop_log_summary">Bütün Bluetooth HCI paketlerini bir dosyada toplayın</string>
   <string name="bt_rarely_used_device_title">Nadiren kullanılan cihazlar (%d)</string>
   <string name="bt_trace_log">Bluetooth izleme günlüğü</string>
   <string name="bt_trace_log_summary">Bluetooth izleme günlüğü</string>
   <string name="btn_back">Geri</string>
-  <string name="bug_report_settings">Geribildirim</string>
+  <string name="bug_report_settings">Geri bildirim</string>
   <string name="bugreport_in_power">Hata raporu kısayolu</string>
   <string name="bugreport_in_power_summary">"Hata raporu \"Pil\" menüsü içinden eklenebilir "</string>
   <string name="build_number">Yapı Numarası</string>
@@ -3329,7 +3329,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlayan Mi Bulut hizmetleri için yetkilendirmeyi iptal etmek istiyorsanız i.mi.com adresinde oturum açın(senkronizasyon ve yedeklemeler dahil).</string>
   <string name="privacy_authorize_dialog_agree">Kabul</string>
   <string name="privacy_authorize_dialog_exit">Çıkış</string>
-  <string name="privacy_authorize_dialog_message">" \"&lt;Data&gt;\"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \\"Kabul\\" seçeneğini seçmek,&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Politikası&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; okuduğunuzu ve kabul ettiğinizi gösterir.​\"&lt;/Data&gt;\" "</string>
+  <string name="privacy_authorize_dialog_message">" "<Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul\" seçeneğini seçmek, &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikasını&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmesini&lt;/a> okuduğunuzu ve kabul ettiğinizi gösterir.​"</Data>" "</string>
   <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="privacy_authorize_privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_authorize_revoke">Geri al</string>
@@ -3340,7 +3340,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="privacy_authorize_revoke_time">Geri al (%1$ds)</string>
   <string name="privacy_authorize_revoke_title">Yetkilendirme ve iptal</string>
   <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor…</string>
-  <string name="privacy_authorize_success">İzin verilen yetki başarıyla verildi</string>
+  <string name="privacy_authorize_success">Yetki başarıyla verildi</string>
   <string name="privacy_authorize_title">Yetki verme</string>
   <string name="privacy_close_dlg_button_ok">Kapat</string>
   <string name="privacy_close_dlg_msg">Gizlilik şifresi kapalı olduğunda, öğeleriniz artık korunmaz.</string>

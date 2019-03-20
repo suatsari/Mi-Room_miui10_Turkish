@@ -1782,5 +1782,7 @@ d MMM"</string>
   <string name="usb_port_short_circuit_notification_content">Şarj cihazını çıkarın ve tüm sıvıları temizleyerek şarj portunu silin.</string>
   <string name="usb_port_short_circuit_recovered_content">Şarj etmek veya diğer cihazlara bağlamak için kullanabilirsiniz.</string>
   <string name="usb_port_short_circuit_recovered_title">Şarj portu şimdi normal çalışıyor</string>
-  <string name="usb_port_short_circuit_title">Şarj portunda nem var</string> 
+  <string name="usb_port_short_circuit_title">Şarj portunda nem var</string>
+  <string name="face_unlock_success">Yüz verisi başarıyla doğrulandı</string>
+  <string name="rapid_charge_mode_tip">Hızlı şarj</string>  
 </resources>

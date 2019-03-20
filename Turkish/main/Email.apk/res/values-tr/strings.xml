@@ -1144,5 +1144,9 @@
   <string name="help_me_get_qq_auth">QQ yetkilendirme kodunu almama yardım et</string>
   <string name="open_androidp_warning">OPEN 9.0 Gayri Resmi SDK Uyarısı</string>
   <string name="qq_login_notice">Sıcak İpucu: Bağımsız bir şifre ayarladıysanız, posta kutusuna girişinizi doğrulamak için bağımsız bir şifre girmeniz gerekir.</string>
-  <string name="qq_pwd_or_qq_auth_code">QQ yetkilendirme kodu veya posta kutusu şifresi</string>  
+  <string name="qq_pwd_or_qq_auth_code">QQ yetkilendirme kodu veya posta kutusu şifresi</string>
+  <string name="folder_empty_to_fresh">Posta senkronize edilmedi. Senkronize etmek için aşağı çekin.</string>
+  <string name="folder_no_mails">Bu klasörde e-posta yok</string>
+  <string name="toast_bar_sync_failed_mi_authority">Senkronizasyon başarısız oldu, lütfen daha sonra tekrar deneyin. Yeni cihaza giriş yapmak için, lütfen cihazı hesap merkezi veya SMS istemi aracılığıyla yetkilendirin.</string>
+  <string name="wipe_account_fail_description_remind">Veri izinleri nedeniyle, hesap silindikten sonra takvimde ve rehberde artık veri kalmış olabilir, lütfen manuel olarak silin.</string>  
 </resources>

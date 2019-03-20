@@ -1430,5 +1430,8 @@
   <string name="ad_exit_dialog_exit_btn_name">çıkın</string>
   <string name="ad_exit_dialog_message">Kurulum tamamlandı! Şimdi açmak ister misin?</string>
   <string name="ad_exit_dialog_open_btn_name">açın</string>
-  <string name="ad_exit_dialog_title_name">Yeni uygulama açın onayı</string>  
+  <string name="ad_exit_dialog_title_name">Yeni uygulama açın onayı</string>
+  <string name="data_traffic_download_confirm">Mobil veri bağlantınızı kullanma</string>
+  <string name="data_traffic_download_ok">Tamam</string>
+  <string name="load_error_tip">Yükleme hatası, tekrar dene\'ye tıklayın</string>
  </resources>

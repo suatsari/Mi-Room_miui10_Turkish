@@ -21,9 +21,9 @@
   <string name="additional_cdma_call_settings">Ek CDMA Çağrı Ayarları</string>
   <string name="additional_gsm_call_settings">Ek Ayarlar</string>
   <string name="additional_gsm_call_settings_with_label">Ek Ayarlar (%s)</string>
-  <string name="administrative_disable">Yönetici kapalı</string>
-  <string name="administrative_enable">Yönetici etkin</string>
-  <string name="advanced_settings">Diğer Ayarlar</string>
+  <string name="administrative_disable">Yönetim devre dışı</string>
+  <string name="administrative_enable">Yönetim etkin</string>
+  <string name="advanced_settings">İsteğe bağlı ayarlar</string>
   <string name="advanced_settings_hide">Tümünü gizlemek için dokunun ▼</string>
   <string name="advanced_settings_show">Tümünü göstermek için dokunun ▲</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
