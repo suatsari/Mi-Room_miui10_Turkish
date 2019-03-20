@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
-  <string name="abc_activity_chooser_view_see_all">Hepsini gör</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
   <string name="abc_capital_off">KAPALI</string>
   <string name="abc_capital_on">AÇIK</string>
@@ -368,7 +368,7 @@
   <string name="sst_cover_chg_enable_title">Şarj olurken göster</string>
   <string name="sst_favor_desc">Favorilerim</string>
   <string name="sst_favor_title">Favoriler</string>
-  <string name="sst_grid_view_select_all">Hepsi</string>
+  <string name="sst_grid_view_select_all">Tümü</string>
   <string name="sst_grid_view_unselect_all">Vazgeç</string>
   <string name="sst_no_favor_wallpaper_hint">Favorilerde duvar kağıdı yok</string>
   <string name="sst_prov_enable_desc">Kilit ekranınıza düzenli olarak teslim edilen yeni duvar kağıtları edinin</string>
