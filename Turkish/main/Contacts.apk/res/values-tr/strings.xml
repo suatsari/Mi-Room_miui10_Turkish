@@ -4,7 +4,7 @@
     <string name="accessibility_contact_detail">Kişi Detayları</string>
     <string name="account_container_title">Şuradan alındı:</string>
     <string name="account_default">Telefon</string>
-	<string name="account_dual_sim">SIM kart %s</string>
+    <string name="account_dual_sim">SIM kart %s</string>
     <string name="account_phone">Sadece telefon, eşitlenmedi</string>
     <string name="account_sim">SIM Kart</string>
     <string name="account_sim2">SIM Kart %d</string>
@@ -24,7 +24,7 @@
     <string name="add_contact_dlg_message_fmt">\"%s\" kişilere eklensin mi?</string>
     <string name="add_display_photo_entry">Profil fotoğrafı ekle</string>
     <string name="add_field">Başka bir alan ekle</string>
-	<string name="add_field_toast">Eklenecek başka alan yok.</string>
+    <string name="add_field_toast">Eklenecek başka alan yok.</string>
     <string name="add_incall_show_entry">Video ekle</string>
     <string name="add_new_account">Yeni hesap ekle</string>
     <string name="add_new_entry_for_section">Yeni ekle</string>
