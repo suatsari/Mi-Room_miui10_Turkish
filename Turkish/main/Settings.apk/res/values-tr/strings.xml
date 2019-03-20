@@ -6277,7 +6277,7 @@ Bu özelliği, Ayarlar > Bluetooth > Eşleşmiş cihazlar bölümünden kapatabi
   <string name="cutout_type_title">Çentik şeklini ayarlayın</string>
   <string name="dual_clock">Çift saat</string>
   <string name="dual_clock_aod_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kapalı ekran için, Ayarlar &gt; Görüntüle bölümünden öğelerin gösterilmesine izin verin; 2. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 3. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun."</string>
-  <string name="dual_clock_hint">\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 2. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun.</string>
+  <string name="dual_clock_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 2. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun."</string>
   <string name="dual_clock_ok">Anladım</string>
   <string name="dual_clock_open_message">Çift Saat, Kilit ekranında, Ana ekranda ve ekran kapandığında görüntülenir.</string>
   <string name="more_installed_services_title">Daha fazla indirilen hizmetler</string>
