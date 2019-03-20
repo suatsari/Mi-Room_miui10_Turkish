@@ -315,7 +315,7 @@
   <string name="sdcard_no_enough_space_message">SD Kartınızda yeterli depolama alanı yok.</string>
   <string name="sdcard_unmounted">Şimdi SD kart ekleyin</string>
   <string name="see_backup_files_on_router">Mi Yönlendirici\'deki %s yedeklere gözat</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="select_backup_item">Öğeleri Seç</string>
   <string name="select_empty">Alınacak öğeleri seçin</string>
   <string name="select_item_calendar">Takvim</string>
