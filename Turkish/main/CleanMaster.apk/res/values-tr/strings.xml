@@ -78,7 +78,7 @@
   <string name="button_text_photo_selected">Seçildi</string>
   <string name="button_text_restore_ignore">Geri Al</string>
   <string name="button_text_select_all">Seç</string>
-  <string name="button_text_select_all_photos">Hepsi</string>
+  <string name="button_text_select_all_photos">Tümü</string>
   <string name="button_text_select_pic">Seç</string>
   <string name="button_text_uninstall">Kaldır</string>
   <string name="button_text_uninstall_only">Kaldır: %s</string>
@@ -173,7 +173,7 @@
   <string name="dialog_ok_add_white_list_error">Anladım</string>
   <string name="dialog_title_add_white_list_error">Dikkat</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
-  <string name="dialog_title_check_all">Hepsi</string>
+  <string name="dialog_title_check_all">Tümü</string>
   <string name="dialog_title_delete_image">Seçilen görüntüleri sil</string>
   <string name="dialog_title_esc_cleanmaster">Temizleyiciden çık</string>
   <string name="dialog_title_load_cleanup_engine_error">Birşeyler ters gitti!</string>
@@ -588,7 +588,7 @@
   <string name="white_list_large_file_header">Büyük Dosyalar ve Videolar: %d</string>
   <string name="white_list_residual_header">Artıklar: %d</string>
   <string name="white_list_title">İstisnalar</string>
-  <string name="wq_deep_clean_filter_all">Hepsi</string>
+  <string name="wq_deep_clean_filter_all">Tümü</string>
   <string name="wq_deep_clean_filter_month_ago">Bir ay önce</string>
   <string name="wq_deep_clean_filter_three_month_ago">Üç ay önce</string>
   <string name="wq_deep_clean_filter_week_ago">Bir hafta önce</string>
