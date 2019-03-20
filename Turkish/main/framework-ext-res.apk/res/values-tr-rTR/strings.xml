@@ -110,7 +110,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="security_permission_wifi_and_data_opened_text">WLAN ve mobil veri açık</string>
   <string name="security_permission_xiaomi_account_missed_text">Mi Hesap Kimliğinizi girin</string>
   <string name="select">Seç</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="set_password_action">Şifreyi belirle</string>
   <string name="set_password_message">Yeni şifre ayarlansın mı?</string>
   <string name="set_password_title">Şifreyi belirle</string>
