@@ -98,7 +98,7 @@
   <string name="block_ads_title">İçerik reklam barındırabilir</string>
   <string name="bookmark">Favoriler</string>
   <string name="bookmark_add_to">Ekle</string>
-  <string name="bookmark_btn_select_all">Hepsi</string>
+  <string name="bookmark_btn_select_all">Tümü</string>
   <string name="bookmark_btn_select_none">Vazgeç</string>
   <string name="bookmark_cannot_save_url">Bu adres favorilere eklenemiyor.</string>
   <string name="bookmark_folder_needs_title">Bir grup ismi girin</string>
@@ -249,7 +249,7 @@
   <string name="document_open_other">Diğer uygulamalar</string>
   <string name="document_open_title">Aç</string>
   <string name="dont_remind_again">Bu seçimi hatırla</string>
-  <string name="download_btn_select_all">Hepsi</string>
+  <string name="download_btn_select_all">Tümü</string>
   <string name="download_btn_select_none">Vazgeç</string>
   <string name="download_complete">Başarıyla indirildi</string>
   <string name="download_completed">İndirildi</string>
@@ -537,7 +537,7 @@
   <string name="mw_miui_content_open_url">Link aç</string>
   <string name="mw_miui_content_paste">Yapıştır</string>
   <string name="mw_miui_content_select">Seç</string>
-  <string name="mw_miui_content_select_all">Hepsini seç</string>
+  <string name="mw_miui_content_select_all">Tümünü seç</string>
   <string name="mw_miui_content_share">Paylaş</string>
   <string name="mw_miui_content_translate">Çeviri</string>
   <string name="mw_miui_content_web_search">Ara</string>
@@ -1138,7 +1138,7 @@
   <string name="username">Adı</string>
   <string name="v5_deselect_all">Vazgeç</string>
   <string name="v5_edit_mode_title_empty">0 seçildi</string>
-  <string name="v5_select_all">Hepsi</string>
+  <string name="v5_select_all">Tümü</string>
   <string name="version_check_button_checking">Denetleniyor...</string>
   <string name="version_check_button_default">Güncellemeleri denetle</string>
   <string name="version_check_button_download_failed">İndirmeye devam et</string>
