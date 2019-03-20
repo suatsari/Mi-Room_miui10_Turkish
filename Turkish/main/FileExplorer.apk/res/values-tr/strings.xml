@@ -2,7 +2,7 @@
 <resources>
   <string name="a_week_share_rank">Haftalık sıralamalar</string>
   <string name="action_mode_deselect_all">Vazgeç</string>
-  <string name="action_mode_select_all">Hepsi</string>
+  <string name="action_mode_select_all">Tümü</string>
   <string name="activity_parse_video_title">Video bağlantısını yapıştır</string>
   <string name="ad_download">İndir</string>
   <string name="ad_downloading">Biraz bekleyin...</string>
