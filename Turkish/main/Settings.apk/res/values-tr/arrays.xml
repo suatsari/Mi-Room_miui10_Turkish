@@ -1016,8 +1016,8 @@
   </string-array>
   <string-array name="select_logpersist_titles">
     <item>Kapalı</item>
-    <item>Hepsi</item>
-    <item>Radyo hariç hepsi</item>
+    <item>Tümü</item>
+    <item>Radyo hariç tümü</item>
     <item>Sadece çekirdek</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
