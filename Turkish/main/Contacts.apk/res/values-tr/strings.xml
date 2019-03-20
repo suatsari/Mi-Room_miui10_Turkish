@@ -645,7 +645,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
     <string name="menu_redirect_calls_to_vm">Çağrıları sesli mesaja yönlendir</string>
     <string name="menu_removeStar">Favorilerden kaldır</string>
     <string name="menu_search">Ara</string>
-    <string name="menu_select_all">Hepsi</string>
+    <string name="menu_select_all">Tümü</string>
     <string name="menu_select_none">Vazgeç</string>
     <string name="menu_sendSMS">Kişiye mesaj gönder</string>
     <string name="menu_sendTextMessage">Metin mesajı gönder</string>
@@ -1018,7 +1018,7 @@ Favoriler listenize bir kişi eklemek için:
     <string name="search_smart_group_title">Kişiler;Görüntüle</string>
     <string name="search_wipe_data">Düzenle;Kişiler</string>
     <string name="searching_vcard_message">Depolama birimindeki vCard dosyaları aranıyor...…</string>
-    <string name="select_all">Hepsi</string>
+    <string name="select_all">Tümü</string>
     <string name="select_all_exceed">%1$d\'den daha fazlasını seçmeyin, tümünü seçemezsiniz</string>
     <string name="select_exceed">En fazla %1$d seçin</string>	
     <string name="select_groups">Grubu seçin</string>
@@ -1312,7 +1312,7 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="qrcode_editor_flash_failed">QR Kodu güncellenemedi</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" birden fazla hesaptan gelen bilgi içermektedir. Sadece okunabilir hesaplardan gelen bilgiler kişilerinizde gösterilmeyecek.</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Vazgeç</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">Hepsi</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Tümü</string>
     <string name="tomorrow">Yarın</string>
     <string name="unknown_caller">Bilinmeyen Kişi</string>
     <string name="yesterday">Dün</string>
