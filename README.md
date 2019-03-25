@@ -1,7 +1,7 @@
 # Mi-Room Miui10 Turkish
 MIUI V10 Turkish Translation
 
-[![Issue Stats](https://github.com/suatsari/Mi-Room_miui10_Turkish/issues)
+[Issue Stats](https://github.com/suatsari/Mi-Room_miui10_Turkish/issues)
 
 ## Introduction
 
