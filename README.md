@@ -7,6 +7,7 @@ Introduction
 This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from Mi-room.
 
 Main Translator: Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com
+
 Editor: Emrah BİLGİÇ (Codered) :: rabilgic@outlook.com
 
 Reporting issues
@@ -26,6 +27,7 @@ Check Contributing to a project for further informations.
 For all problems:
 Administrator :: Driffex  
 TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com) 
+
 TR Editor : Emrah BİLGİÇ :: Codered (rabilgic@outlook.com)
 
 I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
