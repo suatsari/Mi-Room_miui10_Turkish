@@ -14,6 +14,7 @@ Reporting issues
 Use the Github Issue tracker to report a bug or the following forum thread
 
 Current improvements
+
 Daily updates are made.
 All Xiaomi models added
 Spelling errors corrected
@@ -25,7 +26,9 @@ This is MIUI 9.3 Turkish Language Project supported all of models...
 Check Contributing to a project for further informations.
 
 For all problems:
+
 Administrator :: Driffex  
+
 TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com) 
 
 TR Editor : Emrah BİLGİÇ :: Codered (rabilgic@outlook.com)
