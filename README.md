@@ -16,14 +16,23 @@ Use the Github Issue tracker to report a bug or the following forum thread
 Current improvements
 
 Daily updates are made.
+
 All Xiaomi models added
+
 Spelling errors corrected
+
 MiPAD language translation added
+
 Some of the problems have been fixed
+
 All of Xiaomi phones etc...
+
 Changes will be added
+
 This is MIUI 9.3 Turkish Language Project supported all of models...
+
 Check Contributing to a project for further informations.
+
 
 For all problems:
 
