@@ -40,6 +40,6 @@ Administrator :: Driffex
 
 TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com) 
 
-TR Editor : Emrah BİLGİÇ :: Codered (rabilgic@outlook.com)
+Editor : Emrah BİLGİÇ :: Codered (rabilgic@outlook.com)
 
 I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
