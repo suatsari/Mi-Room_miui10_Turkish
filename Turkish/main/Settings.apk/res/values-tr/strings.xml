@@ -3023,6 +3023,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="notification_sound_default">Varsayılan bildirim sesi</string>
   <string name="notification_sound_dialog_title">Varsayılan Bildirim Sesi</string>
   <string name="notification_sound_title">Varsayılan Bildirim Sesi</string>
+  <string name="notification_style_title">Bildirim stili</string>
   <string name="notification_suggestion_summary">Bildirim içeriğini göster veya gizleme</string>
   <string name="notification_suggestion_title">Kilit ekranı bildirimlerini kontrol et</string>
   <string name="notification_summary_level">Seviye %d</string>
