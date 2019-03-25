@@ -9,6 +9,7 @@ This repository contains the Turkish Translation of the MIUI Weekly ROM Releases
 
 Main Translator:
 Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com
+
 Editor:
 Emrah BİLGİÇ (Codered) :: rabilgic@outlook.com
 
@@ -34,7 +35,9 @@ Check [Contributing to a project](https://guides.github.com/activities/forking) 
 
 ## For all problems:
 Administrator :: Driffex (https://disqus.com/by/driffex/)
+
 TR Translator : Suat SARIOĞLU     :: suatsari (suatsarioglu@gmail.com)
+
 Editor : Emrah BİLGİÇ  :: Codered (rabilgic@outlook.com
 
 I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
