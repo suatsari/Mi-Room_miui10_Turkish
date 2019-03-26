@@ -88,5 +88,10 @@
         <item>Toplam %1$s %3$s</item>
         <item>Toplam %2$s %3$s</item>
         <item>Toplam %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Beyaz</item>
+        <item>Siyah</item>
+        <item>Otomatik</item>
     </string-array>	
 </resources>

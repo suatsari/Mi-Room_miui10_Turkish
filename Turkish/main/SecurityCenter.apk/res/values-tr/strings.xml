@@ -824,6 +824,7 @@
   <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>
   <string name="gb_network_status_bad">Bir bağlantı hatası oluştu.</string>
   <string name="gb_new_feature">Yeni özellik</string>
+  <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
   <string name="gb_sign_gift">Ödüller almak için giriş yapın</string>
   <string name="gb_sign_gift_button_text">Alınan</string>
   <string name="gb_sign_notification_summary">Xunyou desteği almak için günlük olarak kontrol edin</string>

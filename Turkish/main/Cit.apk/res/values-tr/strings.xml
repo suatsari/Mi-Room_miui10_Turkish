@@ -683,5 +683,11 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="cit_tool_modem_mbn_config_load_and_active">MBN yapılandırma yükleme ve etkinleştirme aracı</string>
   <string name="cit_tool_opt_fail_info_notify">Opt başarısız oldu, Lütfen tekrar denemek için telefonu yeniden başlatın.</string>
   <string name="cit_splash_check_summary">Siyah ekran fenomeni için daha 5s olduğundan emin olun.</string>
-  <string name="cit_tool_splash_test_title">Sıçrama Testi</string>  
+  <string name="cit_tool_splash_test_title">Sıçrama Testi</string>
+  <string name="cit_tool_dc_backlight_toast_off">DC Arka ışık Kapalı</string>
+  <string name="cit_tool_dc_backlight_toast_on">DC Arka ışık Açık</string>
+  <string name="dc_backlight_title">Düşük Işık için DC Arka Işık Modu</string>
+  <string name="open_dc_backlight_summary">Bazı ekran ayarları DC arka aydınlatma modu ile uyumlu değil. Ancak, bu modu kapattığınızda tekrar eski haline gelir. DC arka ışık modunu aç?</string>
+  <string name="screen_cancel">Kapat</string>
+  <string name="screen_confirm">Aç</string>  
 </resources>
