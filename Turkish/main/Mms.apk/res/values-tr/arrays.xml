@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string-array name="contact_entries">
     <item>Adı</item>
@@ -65,12 +65,12 @@
     <item>Al ve bildir</item>
     <item>Sadece al</item>
     <item>Reddet</item>
-  </string-array>  
+  </string-array>
   <string-array name="reason_type">
-    <item>Dolandırıcılık</item>
-    <item>Açık veya yasa dışı içerik</item>
+    <item>Dolandırıcı</item>
+    <item>Müstehcen veya yasa dışı içerik</item>
     <item>Spam</item>
     <item>Diğer</item>
-    <item>Geri</item>
-  </string-array>
+    <item>İptal</item>
+  </string-array>  
 </resources>

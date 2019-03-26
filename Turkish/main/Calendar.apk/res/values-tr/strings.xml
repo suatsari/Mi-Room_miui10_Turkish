@@ -209,7 +209,7 @@
   <string name="event_reminder_value_zero">Etkinlikten önce</string>
   <string name="event_title">Başlık</string>
   <string name="event_view">Etkinliği görüntüle</string>
-  <string name="every_weekday">Her hafta içi (Pzt-Cum)</string>
+  <string name="every_weekday">Pazartesiden Cumaya</string>
   <string name="festival_detail_title">Festival</string>
   <string name="flight_check_in">Giriş yap</string>
   <string name="flight_check_in_done">Giriş yapıldı</string>
@@ -461,6 +461,7 @@
   <string name="setting_title_debug">Günlüğü Aktar</string>
   <string name="setting_title_holiday_display">Tatilleri göster</string>
   <string name="setting_title_limit_card_desc">Takvimin ana sayfasında yer alan bir limit kartı, servis ağı gerektiriyor</string>
+  <string name="setting_title_weather_card_desc">Ay kartının sağ tarafında hava durumu bilgileri</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
   <string name="share_title">Paylaş</string>
@@ -585,5 +586,12 @@
   <string name="chips_action_copy">Kopyala</string>
   <string name="chips_permission_text">Kişi önerilerine izin ver</string>
   <string name="dropdown_delete_button_desc">%s\'yi alıcılardan kaldır</string>
-  <string name="feed_list_load_more">Daha fazla yükle</string>  
+  <string name="feed_list_load_more">Daha fazla yükle</string>
+  <string name="feed_tips_got_it">Biliyorum</string>
+  <string name="feed_tips_primary_text">Takvim abonelik kanalı yenilenmiş versiyonu</string>
+  <string name="feed_tips_secondary_text">Zengin bilgilerin ve verimli hizmetlerin eksiksiz entegrasyonu</string>
+  <string name="feed_tips_see_details">Detayları göster</string>
+  <string name="feed_tips_subscribe_more">Daha fazla kanala abone olun</string>
+  <string name="weather_huangli_card_no_data_hint">Hava durumu bilgisi almak için tıklayın</string>
+  <string name="yiji_app_download_card_lebal">Gerekir</string>  
 </resources>

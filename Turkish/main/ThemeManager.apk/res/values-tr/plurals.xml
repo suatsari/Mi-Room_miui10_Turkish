@@ -11,5 +11,9 @@
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d yorum</item>
         <item quantity="one">%d yorum</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s çalışıyor</item>
+        <item quantity="one">%1$s çalışıyor</item>
     </plurals>	
 </resources>

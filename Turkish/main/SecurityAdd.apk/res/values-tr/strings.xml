@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_done">Başarıyla eklendi</string>
-   <string name="add_game">Oyun ekle</string>
+  <string name="ad_downloading">İndir…</string>
+  <string name="add_game">Oyun ekle</string>
   <string name="add_whitelist">İstisnalara ekle</string>
   <string name="anim_gamebooster_text">Biraz bekleyin…</string>
   <string name="anti_disturb_msg_detail">Gelen çağrılar hariç tüm bildirimleri kapat</string>
   <string name="anti_disturb_msg_title">Rahatsız Etme</string>
-  <string name="app_name">Güvenlik Hizmeti Eklentisi</string>
+  <string name="app_name">Sistem hizmeti eklentisi</string>
   <string name="app_not_installed_toast">"Uygulama cihazınızda yüklü değil."</string>
   <string name="application_item_already_permission">İzin verildi</string>
   <string name="application_item_disable">Kısıtlandı</string>

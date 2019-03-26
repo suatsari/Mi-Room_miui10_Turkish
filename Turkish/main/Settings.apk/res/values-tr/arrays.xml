@@ -201,8 +201,9 @@
   </string-array>
   <string-array name="battery_indicator_style_entries">
     <item>Grafiksel</item>
-    <item>Yüzdeli</item>
-    <item>Üst Çizgi</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
+    <item>Üst çubuk</item>
   </string-array>
   <string-array name="battery_labels">
     <item>%0</item>
@@ -345,12 +346,12 @@
     <item>PIN</item>
     <item>Şifre</item>
   </string-array>
-  <string-array name="check_importance_entries">
+  <string-array name="fold_entries">
     <item>Tavsiye edilen</item>
     <item>Önemli</item>
     <item>Önemsiz</item>
   </string-array>
-  <string-array name="check_importance_summary">
+  <string-array name="fold_summaries">
     <item>Doğrudan görünecek bildirimlere MIUI karar verecek</item>
     <item>Bildirimler, bildirim alanında görünecek</item>
     <item>Bildirimler, ayrı bir klasörde görünecek</item>
@@ -1261,19 +1262,23 @@
     <item>İyi</item>
     <item>Mükemmel</item>
   </string-array>
-  <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+  <string-array name="notification_shade_shortcut_entries">
     <item>Arama</item>
     <item>Ayarlar</item>
   </string-array>
+  <string-array name="notification_style_entries">
+    <item>MIUI</item>
+    <item>Android</item>
+  </string-array>  
   <string-array name="ai_key_item_name">
-     <item>Google Asistan ile konuş</item>
-     <item>Google aramayı aç</item>
-     <item>Arka kamera aç</item>
-     <item>Ön kamera aç</item>
-     <item>Önceki uygulamayı aç</item>
-     <item>El fenerini aç</item>
-     <item>Okuma modunu aç</item>
-     <item>Yok</item>
+    <item>Google Asistan ile konuş</item>
+    <item>Google aramayı aç</item>
+    <item>Arka kamerayı aç</item>
+    <item>Ön kamerayı aç</item>
+    <item>Önceki uygulamayı aç</item>
+    <item>El fenerini aç</item>
+    <item>Okuma modunu aç</item>
+    <item>Yok</item>
   </string-array>
   <string-array name="keyguard_notification_status_entries">
     <item>Ekranı uyandır</item>
@@ -1310,5 +1315,10 @@
     <item>3</item>
     <item>4</item>
     <item>5</item>
+  </string-array>
+  <string-array name="time_format_entries">
+    <item>12-saat 1:00 ÖS</item>
+    <item>24-saat 13:00</item>
+    <item>Otomatik (sistem diline göre)</item>
   </string-array>  
 </resources>
