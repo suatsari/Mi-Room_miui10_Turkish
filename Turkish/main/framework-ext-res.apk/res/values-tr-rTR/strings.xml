@@ -34,15 +34,13 @@
   <string name="default_name">Varsayılan</string>
   <string name="enable_livetalk_summary">Arama ücretlerinden %70 tasarruf edin</string>
   <string name="enable_livetalk_title">Kontör paketini aç</string>
-  <string name="fc_dialog_body">Analiz için Mi\'ye hata raporu gönderilsin mi? Bu rapor Şahsi İçerikli Bilgiler içerebilir. Raporunuz bu hatayı düzeltmeye yardımcı olmak için kullanılacak ve herhangi bir ticari bağlamda asla paylaşılmayacak.</string>
-  <string name="fc_dialog_jump_to_preview">Sonuca gözat</string>
-  <string name="first_back_long_press_message">"Basın &amp; geçerli işlemi ve arka plan hizmetlerini sonlandırmak için Geri düğmesine basılı tutun.
-
-Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölümüne gidin"</string>
+  <string name="fc_dialog_body">Hata raporu analiz için Mi\'ye gönderilsin mi? Bu rapor Kişisel Olarak Tanımlanabilir Bilgiler içerebilir. Raporunuz bu hatayı gidermeye yardımcı olacak ve hiçbir zaman ticari bağlamda paylaşılmayacaktır.</string>
+  <string name="fc_dialog_jump_to_preview">Özeti görüntüle</string>
+  <string name="first_back_long_press_message">Gezinme düğmeleri için özel basılı tutma eylemlerini ayarlamak için Ayarlar &gt; Ek ayarlar &gt; Düğmeler\'e gidin</string>
   <string name="fm_record_smaple_prefix_miui">FM Kaydı</string>
   <string name="force_exit_message">%1$s zorla kapatıldı!</string>
-  <string name="force_exit_skip_message">"%1$s sistem uygulaması olduğu için kapatılamaz!"</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bu özellikle Ana Ekrana dönmek için Ayarlar> Ek Ayarlar> Düğmeler> Ana Ekran düğmesine dokunun.</string>
+  <string name="force_exit_skip_message">%1$s sistemde gerekli olduğu için kapatılamıyor</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Ev düğmesine hafifçe dokunarak ana ekranınıza dönebilirsiniz. Bu özelliği Ayarlar &gt; Ek Ayarlar &gt; Düğmeler bölümünden açıp kapatabilirsiniz.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hızlıca dokunup aç</string>
