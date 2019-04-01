@@ -654,6 +654,7 @@
   <string name="fdn_summary">Giden aramaları listelenen sabit arama numaraları veya belirli öneki olan numaralarla sınırlandırın</string>
   <string name="fdn_with_label">Sabit arama numaraları (%s)</string>
   <string name="fdnListLabel">Sabit arama numara listesi</string>
+  <string name="fiveg_switch_title">5G ağı</string>
   <string name="flash_time">Flaş hızı ayarlama</string>
   <string name="flash_time_off_title">Kapalı</string>
   <string name="flash_time_on_title">Etkin</string>

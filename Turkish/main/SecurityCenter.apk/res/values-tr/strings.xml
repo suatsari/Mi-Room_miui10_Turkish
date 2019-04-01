@@ -2641,5 +2641,11 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="security_center_slogan">Güvenlik. Her zaman koruma altında.</string>
   <string name="third_desktop_dialog_content">Üçüncü taraf başlatıcı uygulamaları veri sızıntısı, anormal pil boşalması ve gecikme gibi sorunlara neden olabileceğinden, yalnızca MIUI tarafından doğrulananlar varsayılan başlatıcınız olarak ayarlanabilir.</string>
   <string name="third_desktop_dialog_ok">Anladım</string>
-  <string name="third_desktop_dialog_title">Hata</string>  
+  <string name="third_desktop_dialog_title">Hata</string>
+  <string name="app_manager_find_apps">Uygulamaları bul</string>
+  <string name="securityadd_install_fail">Eklenti güncellenemedi. Tekrar deneyin.</string>
+  <string name="securityadd_update_tips_cancle">Şimdi değil</string>
+  <string name="securityadd_update_tips_message">En yeni oyun özelliklerine erişmek için Güvenlik hizmeti eklentisini güncelleyin. %1$dMB indirilecek.</string>
+  <string name="securityadd_update_tips_now">Güncelleştirme</string>
+  <string name="securityadd_update_tips_title">Güncelleştirme</string>  
 </resources>

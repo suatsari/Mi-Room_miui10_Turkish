@@ -496,5 +496,7 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="time_consume">Süre</string>
   <string name="try_download">İndirmeyi dene</string>  
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="ad">İLAN</string>
+  <string name="ad">Reklam</string>
+  <string name="close">Kapat</string>
+  <string name="close_ad">Reklamı kapat</string>  
 </resources>

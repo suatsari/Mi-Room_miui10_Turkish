@@ -816,5 +816,8 @@
   <string name="failed_obtain_permissions">İzin alınamadı</string>
   <string name="not_support_documentui">Belge arayüzü bu aygıtta desteklenmiyor</string>
   <string name="request_document_permission">SD kartınızdaki dosyaları yönetmek için Dosya Yöneticisi\'ne gerekli izinleri verin.</string>
-  <string name="request_document_permission_title">İzin gerekli</string>  
+  <string name="request_document_permission_title">İzin gerekli</string>
+  <string name="ftp_anonymous_warning_msg">Anonimleştirme özellikleri güvenlik riskleri oluşturabilir. Yine de özelliği kullan?</string>
+  <string name="ftp_anonymous_warning_title">Dikkat</string>
+  <string name="home_action_up">Geri</string>  
 </resources>

@@ -638,11 +638,10 @@
   <string name="ad_download_download_now">İndir</string>
   <string name="dynamic_video_wallpaper">24saat duvar kağıdı</string>
   <string name="find_more_font">Daha fazla bul</string>
-  <string name="float_wallpaper_is_here">Şeffaf duvar kağıdı</string>
   <string name="incall_show_apply">Giden aramalar için profil videosu</string>
   <string name="incall_show_apply_fail">Ayarlanamadı</string>
   <string name="incall_show_apply_success">"Başarıyla uygulandı. Bu özelliği kapatmak için, 
-Ayarlar &gt; Ses ve titreşim &gt; Profil videosu bölümüne gidin."</string>
+Ayarlar &gt; Ses &amp; titreşim &gt; Profil videosu bölümüne gidin."</string>
   <string name="incall_show_apply_success_without_ringtone">"Başarıyla uygulandı. Bu videoda ses yok. Orijinal zil sesi kullanılacak.
 Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu bölümüne gidin."</string>
   <string name="incall_show_find_more">Daha fazla bul</string>
@@ -651,7 +650,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="incall_show_remove_dialog_message">Giden aramalar için zaten bir profil videosu ayarladınız. Video şimdi kaldırılsın mı?</string>
   <string name="incall_show_remove_success">Profil videosu başarıyla kaldırıldı</string>
   <string name="incall_show_title">Profil videoları</string>
-  <string name="lab">Beta özellikler</string>
+  <string name="lab">Tema laboratuvarı</string>
   <string name="mix_global_option">Genel</string>
   <string name="mix_global_option_des">Bildirim alanı, Telefon, Mesajlaşma ve diğer sistem öğeleri. Varsayılan seçenekleri kullanmak için bu kutunun işaretini kaldırın.</string>
   <string name="mix_home_option_des">Duvar kağıdı ve saat. Varsayılan seçenekleri kullanmak için bu kutunun işaretini kaldırın.</string>
@@ -667,7 +666,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="theme_staggered_item_text">Mi Kredisi alın</string>
   <string name="theme_to_comment">Fena değil!</string>
   <string name="transparent_wallpaper">Şeffaf duvar kağıdı</string>
-  <string name="transparent_wallpaper_apply_success">Başarıyla ayarlandı. Bu özelliği, Temalar&gt; Profil&gt; Beta özelliklerinden kapatabilirsiniz.</string>
+  <string name="transparent_wallpaper_apply_success">Başarıyla ayarlandı. Daha fazla özellik için Temalar &gt; Profil &gt; Tema laboratuvarına gidin.</string>
   <string name="transparent_wallpaper_enable_success">Başarıyla açıldı</string>
   <string name="transparent_wallpaper_guide">Temalara git</string>
   <string name="transparent_wallpaper_guide_tip">Şimdi Temalar\'dan şeffaf bir duvar kağıdı seçebilirsiniz.</string>
@@ -676,5 +675,48 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="transparent_wallpaper_white_wallpaper_success">Arka plan rengi şimdi beyaz</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Şeffaf duvar kağıdı en iyi beyaz arka plan üzerinde görünür</string>
   <string name="video_wallpaper_import">Öğe eklemek için dokunun</string>
-  <string name="wallpaper_set_as_float_wallpaper">Şeffaf duvar kağıdı (Beta)</string>  
+  <string name="wallpaper_set_as_float_wallpaper">Şeffaf duvar kağıdı olarak ayarla</string>
+  <string name="accessibility_setting_hint">"Bu hizmeti açmak için sağ üst köşedeki düğmeye dokunun.
+Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda saydam duvar kağıtlarını görüntüler.​"</string>
+  <string name="app_disable_transparent_wallpaper">Şeffaf duvar kağıdı olmadan</string>
+  <string name="app_enable_transparent_wallpaper">Şeffaf duvar kağıdı ile</string>
+  <string name="enable_accessibility">Erişilebilirlik izinleri gerekli</string>
+  <string name="enable_accessibility_hint">Bu hizmeti Temalar içinden açabilirsiniz. Bundan sonra, hangi uygulamaların saydam duvar kağıtları ile çalışması gerektiğini seçebileceksiniz.</string>
+  <string name="enable_transparent_wallpaper">Şeffaf duvar kağıdı kullanın</string>
+  <string name="go_accessibility_setting">Seçin</string>
+  <string name="loop_wallpaper_is_here">Duvar kağıdı slayt gösterileri şu anda hazır</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Bu zil sesi her iki SIM kart için de uygulanacaktır.</string>
+  <string name="reenable_accessibility">Bir hata oluştu. Erişilebilirlik izinlerini yeniden verin.</string>
+  <string name="theme_apply_audio_dialog_item_mms">Mesajlaşma zil sesi</string>
+  <string name="transparency_pref_summary">Duvar kağıdınızın ne kadar saydam olmasını istediğinizi seçin</string>
+  <string name="transparency_pref_title">Opaklık seviyesi</string>
+  <string name="transparent_wallpaper_disable">Kapalı</string>
+  <string name="transparent_wallpaper_enable">Açık</string>
+  <string name="transparent_wallpaper_filter_pref_summary">Şeffaf duvar kağıtları kısıtlı uygulamalarda görüntülenmez</string>
+  <string name="transparent_wallpaper_filter_pref_title">Şeffaf duvar kağıtları ile çalışmasını istediğiniz uygulamaları seçin</string>
+  <string name="transparent_wallpaper_filter_set_successfully">Başarıyla ayarlandı</string>
+  <string name="transparent_wallpaper_filter_setting">Bireysel uygulamalar</string>
+  <string name="transparent_wallpaper_pref_summary">Azaltılmış arka plan opaklığı ile duvar kağıtları</string>
+  <string name="wallpaper_loop_add_success">Başarıyla eklendi</string>
+  <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Ana ekran slayt gösterisine ekle</string>
+  <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Kilit ekranı slayt gösterisine ekle</string>
+  <string name="wallpaper_loop_desc_all_walpaper">Özel duvar kağıdı slayt gösterileri oluşturun</string>
+  <string name="wallpaper_loop_desc_desk_walpaper">Ana ekranınız için özel bir slayt gösterisi oluşturun</string>
+  <string name="wallpaper_loop_desc_lock_walpaper">Kilit ekranınız için özel bir slayt gösterisi oluşturun</string>
+  <string name="wallpaper_loop_interval_15min">15 dakikada bir</string>
+  <string name="wallpaper_loop_interval_1d">Her gün</string>
+  <string name="wallpaper_loop_interval_1h">Her saat</string>
+  <string name="wallpaper_loop_interval_desc">Slayt gösteriniz için zaman aralığını ayarlayın</string>
+  <string name="wallpaper_loop_interval_title">Duvar kağıdını değiştir</string>
+  <string name="wallpaper_loop_manage">Yönet</string>
+  <string name="wallpaper_loop_more_options">Ek ayarlar</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Ana ekran duvar kağıtlarım</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Kilit ekranı duvar kağıtlarım</string>
+  <string name="wallpaper_loop_order_desc">Slaytların görüneceği sırayı seçin</string>
+  <string name="wallpaper_loop_order_loop">Orijinal</string>
+  <string name="wallpaper_loop_order_shuffle">Rasgele</string>
+  <string name="wallpaper_loop_order_title">Slayt sırası</string>
+  <string name="wallpaper_loop_title">Duvar kağıdı slayt gösterisi</string>
+  <string name="wallpaper_loop_title_desk_wallpaper">Ana ekran duvar kağıdı slayt gösterisi</string>
+  <string name="wallpaper_loop_title_lock_walpaper">Kilit ekranı duvar kağıdı slayt gösterisi</string>  
 </resources>

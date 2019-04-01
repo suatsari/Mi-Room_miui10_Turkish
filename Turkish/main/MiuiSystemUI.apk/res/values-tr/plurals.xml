@@ -145,12 +145,12 @@
     <item quantity="one">%1$d s %2$d d kaldı</item>
   </plurals>
   <plurals name="input_password_after_timeout_msg">
-    <item quantity="other">Şifrenizi en az %d saat kullanmadınız. Şifrenizi girin.</item>
-    <item quantity="one">Şifrenizi en az %d saat kullanmadınız. Şifrenizi girin.</item>
+    <item quantity="other">Her zaman hatırlamak için en az %d saatte bir şifrenizi girin</item>
+   <item quantity="one">Her zaman hatırlamak için en az %d saatte bir şifrenizi girin</item>
   </plurals>
   <plurals name="input_pattern_after_timeout_msg">
-    <item quantity="other">Kilit açma deseninizi en az %d saat boyunca kullanmadınız. Deseni çizin.</item>
-    <item quantity="one">Kilit açma deseninizi en az %d saat boyunca kullanmadınız. Deseni çizin.</item>
+    <item quantity="other">Her zaman hatırlamak için en az %d saatte bir şifrenizi girin</item>
+    <item quantity="one">Her zaman hatırlamak için en az %d saatte bir şifrenizi girin</item>
   </plurals>
   <plurals name="aod_dual_togother_city">
     <item quantity="other">" %1$ssaat %2$s"</item>

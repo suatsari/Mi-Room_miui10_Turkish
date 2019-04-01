@@ -359,5 +359,6 @@
   <string name="dual_app">Klonlu uygulamalar</string>
   <string name="edit_mode_top_menu_finish">Bitti</string>
   <string name="menu_finish">Bitti</string>
-  <string name="widgets_preview_title">Widget ekle</string>  
+  <string name="widgets_preview_title">Widget ekle</string>
+  <string name="launcher_sliding_up_gesture">Aramayı açmak için Ana ekranda yukarı kaydırın</string>  
 </resources>

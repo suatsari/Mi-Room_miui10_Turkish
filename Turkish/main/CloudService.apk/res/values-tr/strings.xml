@@ -399,4 +399,6 @@
   <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar senkronize edilmiyor</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
+  <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
+  <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
 </resources>
