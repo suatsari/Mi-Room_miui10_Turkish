@@ -685,5 +685,6 @@
   <string name="facebook_group_image">Resimler</string>
   <string name="facebook_group_video">Videolar</string>
   <string name="facebook_function_summery">Facebook tarafından önbelleğe alınan öğeleri temizle</string>
-  <string name="facebook_function_title">Facebook temizleyici</string>  
+  <string name="facebook_function_title">Facebook temizleyici</string>
+  <string name="security_center_slogan">Güvenlik. Her zaman koruma altında.</string>  
 </resources>

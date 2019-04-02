@@ -271,7 +271,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="animator_duration_scale_title">Animasyon hızı</string>
   <string name="another_migration_already_in_progress">Başka bir göç zaten sürüyor.</string>
   <string name="anti_spam">Engelli Listesi</string>
-  <string name="aod_mode_summary">Ekran kapalıyken saati, tarihi ve mesajları göster.</string>
+  <string name="aod_mode_summary">Bu özellik sistem güç tüketimini arttırır. Cihaz uzun süre kullanılmadığında veya Pil tasarrufu kısıtlamaları uygulandığında kapatılır.</string>
   <string name="aod_mode_time_summary">Cihazınızın Her zaman açık moduna geçmesi gereken zaman aralığı</string>
   <string name="aod_mode_time_title">Zamanlama</string>
   <string name="aod_mode_title">Daima Açık Modu</string>
@@ -1628,7 +1628,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="double_twist_for_camera_mode_title">Kamerayı çevir</string>
   <string name="download_current_rom">MIUI\'nin en son sürümünü edinin</string>
   <string name="downloading_description">İndiriliyor…</string>
-  <string name="doze_always_on_summary">Saati ve bildirimleri gösterir. Batarya kullanımını arttırır.</string>
+  <string name="doze_always_on_summary">Bu özellik sistem güç tüketimini arttırır. Cihaz uzun süre kullanılmadığında veya Pil tasarrufu kısıtlamaları uygulandığında kapatılır.</string>
   <string name="doze_always_on_title">Açık</string>  
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam ekranı</string>
@@ -2950,11 +2950,11 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="normal">Normal</string>
   <string name="normal_info">Tüm sesler normal</string>
   <string name="normal_smartcover_title">Opak ön kapak</string>
-  <string name="not_battery_optimizing">Pilin iyi hale getirilmesi kullanılmıyor</string>
+  <string name="not_battery_optimizing">Pil optimizasyonu kullanmıyor</string>
   <string name="not_installed">Yüklenmedi</string>
   <string name="notch_force_black_desc">Açık olduğunda, ekranda çentik alanı siyah</string>
   <string name="notch_force_black_title">Ekran çentiğini gizle</string>
-  <string name="notes_privacy_password_role_instruction">Özel notlarınız burada depolanacak...</string>
+  <string name="notes_privacy_password_role_instruction">Özel notlarınız burada saklanacaktır.</string>
   <string name="notification_app_settings_button">Bildirim Ayarları</string>
   <string name="notification_badge_title">Bildirim noktasına izin ver</string>
   <string name="notification_badging_title">Bildirim noktalarına izin ver</string>
@@ -6186,7 +6186,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="switch_select_to_speak_on">Konuşmak için seçin</string>
   <string name="aod_clock_style_title">Saat stili</string>
   <string name="eq_return">Giriş</string>
-  <string name="page_layout_confirm_message_enlarge">Metin, resimler ve simgeler büyütülecek. Bazı simgelerin yeri değişebilir.</string>
+  <string name="page_layout_confirm_message_enlarge">Metin, resimler ve simgeler büyüyecek. Bazı simgelerin yeri değişebilir.</string>
   <string name="page_layout_confirm_message_narrow">Metin, resimler ve simgeler küçülecek. Bazı simgelerin yeri değişebilir.</string>
   <string name="page_layout_confirm_title_enlarge">Daha büyük öğeler</string>
   <string name="page_layout_confirm_title_narrow">Daha küçük öğeler</string>
@@ -6280,7 +6280,7 @@ Bu özelliği, Ayarlar > Bluetooth > Eşleşmiş cihazlar bölümünden kapatabi
   <string name="dual_clock_aod_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kapalı ekran için, Ayarlar &gt; Görüntüle bölümünden öğelerin gösterilmesine izin verin; 2. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 3. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun."</string>
   <string name="dual_clock_hint">"\"Çift Saat\" aşağıdaki özelliklere dayanır: 1. Kilit ekranı için, Ayarlar &gt; Temalar bölümünden varsayılan veya klasik temayı kullandığınızdan emin olun; 2. Ana ekran için, varsayılan sistem saati widget'ini kullandığınızdan emin olun."</string>
   <string name="dual_clock_ok">Anladım</string>
-  <string name="dual_clock_open_message">Çift Saat, Kilit ekranında, Ana ekranda ve ekran kapandığında görüntülenir.</string>
+  <string name="dual_clock_open_message">Çift Saat Kilit ekranında, Ana ekranda görüntülenecektir.</string>
   <string name="more_installed_services_title">Daha fazla indirilen hizmetler</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Kapalı</string>
@@ -6297,7 +6297,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="allow_float_title">Yüzen bildirimler</string>
   <string name="allow_keyguard_summary">Kilit ekranında bildirimleri göster</string>
   <string name="allow_keyguard_title">Kilit ekranı bildirimleri</string>
-  <string name="allow_lights_title">Hafif nefes ipuçlarına izin ver</string>
+  <string name="allow_lights_title">Nefes ışık ipuçlarına izin ver</string>
   <string name="allow_sound_title">Sese izin ver</string>
   <string name="allow_vibrate_title">Titreşime izin ver</string>
   <string name="app_link_title">Uygulamadaki ek ayarlar</string>
@@ -6316,7 +6316,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="importance_default">Varsayılan</string>
   <string name="importance_high">Yüksek</string>
   <string name="importance_low">Düşük</string>
-  <string name="importance_min">Minimum</string>
+  <string name="importance_min">Önemsiz</string>
   <string name="importance_title">Önem</string>
   <string name="lights_title">Yanıp sönen ışık</string>
   <string name="loading">Sadece bir saniye…</string>
@@ -6326,8 +6326,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="notifi_channels_other">Diğer</string>
   <string name="notifi_importance_default">Her yerde gösterilir, ses çıkarır, ancak görsel yok.</string>
   <string name="notifi_importance_high">Her yerde gösterilir, ses çıkarır ve göz atılabilir. Tam ekran girişlerini kullanabilir.</string>
-  <string name="notifi_importance_low">Her yeri gösterilir, ama bir şeye müdahele etmez.</string>
-  <string name="notifi_importance_min">Sadece alanda gösterilir</string>
+  <string name="notifi_importance_low">Her yerde gösterilir, ama müdahale edilemez.</string>
+  <string name="notifi_importance_min">Sadece bildirim alanında gösterilir</string>
   <string name="notifi_importance_none">Kapalı</string>
   <string name="notifi_importance_unspecified">Uygulama karar versin</string>
   <string name="notifi_no_channels">Bu uygulama herhangi bir bildirim göndermemiş</string>
@@ -6357,5 +6357,11 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="title_of_auto_launch_manage">Otomatik başlat</string>
   <string name="toggle_collapse_after_clicked_title">Dokunduktan sonra daralt</string>
   <string name="vibrate_title">Titreşim</string>
-  <string name="visibility_override_title">Kilit ekranında</string>  
+  <string name="visibility_override_title">Kilit ekranında</string>
+  <string name="auto_dual_clock_aod_summary">Geçerli saat ikinci saatten farklı olduğunda Çift Saat\'i göster</string>
+  <string name="dual_clock_aod_open_message">Çift Saat, Kilit ekranında, Ana ekranda ve ekran kapatıldığında gösterilecek</string>
+  <string name="gxzw_enroll_again">Parmağınızı kaldırın ve parmak izi tarayıcıya tekrar basın</string>
+  <string name="layout_exhuge_font_take_effect_tips">XXL metin boyutu yalnızca Telefon, Mesajlaşma ve Rehber\’de çalışır.</string>
+  <string name="layout_exhuge_font_tips">%1$s içinde daha fazla seçenek mevcuttur</string>
+  <string name="layout_exhuge_font_tips_reg">Erişilebilirlik &gt; Ekran boyutu</string>  
 </resources>

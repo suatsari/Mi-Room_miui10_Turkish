@@ -78,15 +78,15 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="confirm_cancel_restore_positive">Devam et</string>
   <string name="confirm_cancel_restore_title">Geri yüklemeyi iptal et?</string>
   <string name="confirm_restore">Geri Yükle</string>
-  <string name="confirm_restore_summary">Ana Ekran yeniden başlar ve WLAN ağına bağlandığında uygulamalar otomatik olarak yüklenir</string>
+  <string name="confirm_restore_summary">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir.</string>
   <string name="confirm_restore_title">Geri Yükle</string>
-  <string name="customization">&lt;u&gt;Özelleştir&lt;/u&gt;</string>
+  <string name="customization"><u>Özelleştir</u></string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
   <string name="deskclock_backup">Alarm Saati</string>
   <string name="desktop_downloading">İndiriliyor</string>
   <string name="desktop_failed">Başarısız</string>
   <string name="desktop_installing">Yükleniyor</string>
-  <string name="desktop_wait_wifi">Bekleniyor</string>
+  <string name="desktop_wait_network">Bekleniyor…</string>
   <string name="desktop_waiting">Bekleniyor</string>
   <string name="device_corrupt">Mi Telefon (Veri bozulmuş)</string>
   <string name="device_delete_prompt">%s yedek silinsin mi?</string>
@@ -190,5 +190,28 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="restore_finish_description">Geri yükleme tamamlandı</string>
   <string name="restore_init_description">Geri yüklemeyi başlat</string>
   <string name="restoring_file_title_no_progress">Dosyalar geri yükleniyor…</string>
-  <string name="restoring_settings">Ayarları geri yükleniyor…</string>  
+  <string name="restoring_settings">Ayarlar geri yükleniyor…</string>
+  <string name="doing_calc_backup_data_size">Boyut hesaplanıyor…</string>
+  <string name="btn_restore_wait">Wi-Fi için bekleyin</string>
+  <string name="btn_restore_continue">Yine de geri yükle</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecek."</string>
+  <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz, indirmek için mobil veri kullanılacaktır.</string>
+  <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecektir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek.&lt;/font>&lt;/b>"</string>
+  <string name="title_restore_with_current_network">Dosya indirmek için geçerli bağlantıyı kullan</string>
+  <string name="restore_network_unconnect">%s (Bağlantı için bekleniyor)</string>
+  <string name="restore_network_pause">%s (Devam etmek için dokunun)</string>
+  <string name="restore_detail_title">Geri yüklenecek öğeleri seçin</string>
+  <string name="restore_detail_category_settings">Ayarlar</string>
+  <string name="restore_detail_category_apps">Ana ekran düzeni &amp; uygulamalar</string>
+  <string name="restore_detail_more">Daha</string>
+  <string name="restore_app_order_title">Geri yüklenen öğelere öncelik ver</string>
+  <string name="restore_app_order_search_hint">Önceliği belirlemek için öğeleri arayın</string>
+  <string name="restore_app_order_search_prior">Yüksek öncelikli uygulamalar</string>
+  <string name="restore_app_order_search_normal">Normal öncelikli uygulamalar</string>
+  <string name="restore_app_order_search_installed">Bu cihazdaki uygulamalar</string>
+  <string name="restore_app_order_retry">Tekrar deneyin</string>
+  <string name="restore_app_order_retry_desc">"Ağa bağlanılamadı.
+Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
+  <string name="restore_app_order_loading">Sadece bir saniye…</string>
+  <string name="restore_app_order_finish">Bitti</string>  
 </resources>
