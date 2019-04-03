@@ -21,16 +21,16 @@
         <item>Yarın</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Birkez</item>
-        <item>Günlük</item>
-        <item>Mesai Günleri</item>
-        <item>Tatil Günleri</item>
+        <item>Bir kez</item>
+        <item>Her gün</item>
+        <item>Mesai günleri</item>
+        <item>Tatil günleri</item>
         <item>Pazartesi-Cuma</item>
         <item>Özel</item>
     </string-array>
 	<string-array name="alarm_repeat_type_no_workdays">
-        <item>Birkez</item>
-        <item>Günlük</item>
+        <item>Bir kez</item>
+        <item>Her gün</item>
         <item>Pazartesi-Cuma</item>
         <item>Özel</item>
     </string-array>
