@@ -64,7 +64,7 @@
         <item>30 dakika</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Birşey yapma</item>
+        <item>Hiçbir şey yapma</item>
         <item>Ertele</item>
         <item>Kapat</item>
     </string-array>

@@ -2967,6 +2967,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="notification_channels_other">Diğer</string>
   <string name="notification_content_block_summary">Bildirimleri hiçbir zaman gölgede veya çevre birimi cihazlarında gösterme</string>
   <string name="notification_content_block_title">Bildirim göster</string>
+  <string name="notification_fold_footer_icon_summary">Tüm önemsiz bildirim simgeleri, depolama çubuğunun sağ tarafında görünür.</string>
+  <string name="notification_fold_footer_icon_title">Simgeleri göster</string>  
   <string name="notification_importance_blocked">Bildirimleri asla gösterme</string>
   <string name="notification_importance_default">Ses çıkar</string>
   <string name="notification_importance_default_title">Yüksek</string>
@@ -6297,7 +6299,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="allow_float_title">Yüzen bildirimler</string>
   <string name="allow_keyguard_summary">Kilit ekranında bildirimleri göster</string>
   <string name="allow_keyguard_title">Kilit ekranı bildirimleri</string>
-  <string name="allow_lights_title">Nefes ışık ipuçlarına izin ver</string>
+  <string name="allow_lights_title">LED ışık kullanmaya izin ver</string>
   <string name="allow_sound_title">Sese izin ver</string>
   <string name="allow_vibrate_title">Titreşime izin ver</string>
   <string name="app_link_title">Uygulamadaki ek ayarlar</string>

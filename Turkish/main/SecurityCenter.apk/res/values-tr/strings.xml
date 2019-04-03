@@ -1346,7 +1346,7 @@
   <string name="optimize_result_summary_system_default_settings">Varsayılan MIUI uygulamalarını kullanmak, sistemin kararlılığını ve güvenliğini artırır.</string>
   <string name="optimize_result_title_sucurity_risk">Güvenlik riskleri bulundu</string>
   <string name="optimize_result_title_system_default_settings">Varsayılan ayarlar değiştirildi</string>
-  <string name="optimize_result_title_uninstall_apps">Uygulamalar</string>
+  <string name="optimize_result_title_uninstall_apps">Uygulamaları kaldır</string>
   <string name="optimize_result_toast_system_default_settings">Varsayılan ayarlar geri yüklendi</string>
   <string name="optimize_result_toast_system_no_item_selected">Seçili öğe yok</string>
   <string name="optmizingbar_optimize_done">Optimize edildi</string>

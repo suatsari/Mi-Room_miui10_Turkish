@@ -885,8 +885,12 @@
   <string name="local_backup_password_toast_confirmation_mismatch">Yeni şifre ve onayı eşleşmiyor.</string>
   <string name="local_backup_password_toast_success">Yeni yedekleme şifresi ayarlandı</string>
   <string name="local_backup_password_toast_validation_failure">Yedekleme şifresi ayarlanamadı</string>
-  <string name="lock_screen_date">dd MMMM EEEE</string>
-  <string name="lock_screen_date_12">dd MMMM EEEE</string>
+  <string name="lock_screen_date">d MMMM, EEEE</string>
+  <string name="lock_screen_date_12">d MMMM, EEEE</string>
+  <string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
   <string name="lock_screen_no_sim_card">SIM kart yok</string>
   <string name="lock_wallpaper_enter">Giriş</string>
   <string name="lock_wallpaper_learn_more">Diğer</string>
