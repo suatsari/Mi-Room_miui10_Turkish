@@ -264,8 +264,8 @@
   <string name="audio_effect_custom">Yapılandırma</string>
   <string name="audio_effect_info">Ses optimizasyonu</string>
   <string name="audio_effect_settings">Kulaklık türünü seçin</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Ekran düğmeleri devre dışı, çıkmak için herhangi bir tuşa çift basın</string>
-  <string name="auto_disable_screenbuttons_enable_toast_text">Ekran düğmeleri etkin</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Gezinme düğmeleri devre dışı, tekrar açmak için herhangi bir düğmeye iki kez dokunun.</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Gezinme düğmeleri etkin</string>
   <string name="available_via_passpoint">%1$s üzerinden kullanılabilir</string>
   <string name="back">Geri</string>
   <string name="battery">Pil</string>
@@ -1276,8 +1276,8 @@ d MMMM"</string>
   <string name="save">Kaydet</string>
   <string name="save_mode_btn_ok">Tamam</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
-  <string name="screen_button_notification_text">Etkinleştirmek için ana ekran ve güç tuşlarına birlikte basın.</string>
-  <string name="screen_button_notification_title">Navigasyon tuşları devre dışı bırakıldı</string>
+  <string name="screen_button_notification_text">Onları açmak için, Ana ekran ve Güç düğmelerine aynı anda basın.</string>
+  <string name="screen_button_notification_title">Gezinme düğmeleri kapalı</string>
   <string name="screen_pinning_description">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
   <string name="screen_pinning_description_accessible">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
   <string name="screen_pinning_negative">Hayır, teşekkürler</string>

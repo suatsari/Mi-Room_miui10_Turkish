@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string-array name="cell_layout_size_entries">
-    <item>4x4</item>
-    <item>4x5</item>
-  </string-array>
-  <string-array name="cell_layout_size_values">
-    <item>4x4</item>
-    <item>4x5</item>
-  </string-array>
   <string-array name="editing_mode_entries">
     <item>Duvar kağıdı</item>
-    <item>Araçlar</item>
+    <item>Widget</item>
     <item>Ayarlar</item>
   </string-array>
   <string-array name="gadget_weather_image">
@@ -46,21 +38,21 @@
   </string-array>
   <string-array name="transformation_entries">
     <item>Kaydır</item>
-    <item>Bindirmeli</item>
-    <item>Karıştır</item>
-    <item>Sayfa</item>
-    <item>Basamaklı</item>
+    <item>Geçiş</item>
     <item>Döndür</item>
+    <item>Sayfa</item>
+    <item>Basamak</item>
+    <item>Çevir</item>
     <item>Küp</item>
   </string-array>
   <string-array name="wallpaper_scroll_entries">
-    <item>Tema (Varsayılan)</item>
+    <item>Tema varsayılanı</item>
     <item>Merkez</item>
     <item>Sol</item>
     <item>Sağ</item>
   </string-array>
   <string-array name="wallpaper_scroll_values">
-    <item>tema</item>
+    <item>Temaya göre</item>
     <item>merkez</item>
     <item>sol</item>
     <item>sağ</item>

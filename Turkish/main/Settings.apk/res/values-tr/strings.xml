@@ -6357,7 +6357,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="show_wifi_name_title">WLAN\'ı göster</string>
   <string name="sound_title">Ses</string>
   <string name="title_of_auto_launch_manage">Otomatik başlat</string>
-  <string name="toggle_collapse_after_clicked_title">Dokunduktan sonra daralt</string>
+  <string name="toggle_collapse_after_clicked_title">Dokunduktan sonra kapat</string>
   <string name="vibrate_title">Titreşim</string>
   <string name="visibility_override_title">Kilit ekranında</string>
   <string name="auto_dual_clock_aod_summary">Geçerli saat ikinci saatten farklı olduğunda Çift Saat\'i göster</string>
