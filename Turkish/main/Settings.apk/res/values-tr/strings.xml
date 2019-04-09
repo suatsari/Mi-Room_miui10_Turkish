@@ -2967,8 +2967,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="notification_channels_other">Diğer</string>
   <string name="notification_content_block_summary">Bildirimleri hiçbir zaman gölgede veya çevre birimi cihazlarında gösterme</string>
   <string name="notification_content_block_title">Bildirim göster</string>
-  <string name="notification_fold_footer_icon_summary">Tüm önemsiz bildirim simgeleri, depolama çubuğunun sağ tarafında görünür.</string>
-  <string name="notification_fold_footer_icon_title">Simgeleri göster</string>  
+  <string name="notification_fold_footer_icon_summary">Önemsiz bildirimler gruplandırıldığında uygulama simgelerini göster</string>
+  <string name="notification_fold_footer_icon_title">Uygulama simgelerini göster</string>  
   <string name="notification_importance_blocked">Bildirimleri asla gösterme</string>
   <string name="notification_importance_default">Ses çıkar</string>
   <string name="notification_importance_default_title">Yüksek</string>

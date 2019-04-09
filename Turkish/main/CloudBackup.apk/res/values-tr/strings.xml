@@ -213,5 +213,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="restore_app_order_retry_desc">"Ağa bağlanılamadı.
 Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_app_order_loading">Sadece bir saniye…</string>
-  <string name="restore_app_order_finish">Bitti</string>  
+  <string name="restore_app_order_finish">Bitti</string>
+  <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
+  <string name="provision_restore_data">Öğeler geri yükleniyor</string>  
 </resources>
