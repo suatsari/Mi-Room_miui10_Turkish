@@ -689,5 +689,16 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="dc_backlight_title">Düşük Işık için DC Arka Işık Modu</string>
   <string name="open_dc_backlight_summary">Bazı ekran ayarları DC arka aydınlatma modu ile uyumlu değil. Ancak, bu modu kapattığınızda tekrar eski haline gelir. DC arka ışık modunu aç?</string>
   <string name="screen_cancel">Kapat</string>
-  <string name="screen_confirm">Aç</string>  
+  <string name="screen_confirm">Aç</string>
+  <string name="cit_f2_cali">Kalibrasyon</string>
+  <string name="cit_f2_cali_done">Kalibrasyon Bitti!</string>
+  <string name="cit_f2_cali_failed">Kalibrasyon Başarısız, lütfen Yeniden deneyin!</string>
+  <string name="cit_f2_cali_title">Kamera kalibrasyonu</string>
+  <string name="cit_f2_calibrating">Kalibrasyon devam ediyor...</string>
+  <string name="cit_f2_camera_check_summary">"Test talimatları:
+
+1.Kalibrasyon düğmesine dokunun.
+2.Kameranın kalibre edildiğini gösteren bir kalibrasyon geçişi etiketi olacaktır."</string>
+  <string name="cit_f2_capture_fail">Yakalama Başarısız, lütfen Yeniden Dene!</string>
+  <string name="cit_f2_capture_success">Kalibrasyon düğmesine tıklayın!</string>  
 </resources>

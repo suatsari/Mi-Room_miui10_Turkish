@@ -593,5 +593,8 @@
   <string name="feed_tips_see_details">Detayları göster</string>
   <string name="feed_tips_subscribe_more">Daha fazla kanala abone olun</string>
   <string name="weather_huangli_card_no_data_hint">Hava durumu bilgisi almak için tıklayın</string>
-  <string name="yiji_app_download_card_lebal">Gerekir</string>  
+  <string name="yiji_app_download_card_lebal">Gerekir</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için \"Hesap ekle\" seçeneğine dokunun.</string>
+  <string name="share_not_install_wechat">Lütfen wechat\'i kurun.</string>
+  <string name="share_not_install_weibo">Lütfen weibo\'yu kurun.</string>  
 </resources>

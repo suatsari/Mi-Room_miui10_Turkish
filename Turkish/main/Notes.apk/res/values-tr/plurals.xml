@@ -27,5 +27,25 @@
     <plurals name="word_count">
         <item quantity="other">%d karakter</item>
         <item quantity="one">%d karakter</item>
+    </plurals>
+    <plurals name="alert_message_delete">
+        <item quantity="other">%1$s öğe silinsin mi?</item>
+        <item quantity="one">%1$s öğe silinsin mi?</item>
+    </plurals>
+	<plurals name="format_move_notes_out_folder">
+        <item quantity="other">Klasörden %1$s not kaldırıldı</item>
+        <item quantity="one">Klasörden %1$s not kaldırıldı</item>
+    </plurals>
+	<plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s not %2$s konumuna taşındı</item>
+        <item quantity="one">%1$s not %2$s konumuna taşındı</item>
+    </plurals>
+	<plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s not başarıyla gizlendi</item>
+        <item quantity="one">%1$s not başarıyla gizlendi</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s not başarıyla gösterilir</item>
+        <item quantity="one">%1$s not başarıyla gösterilir</item>
     </plurals>	
 </resources>

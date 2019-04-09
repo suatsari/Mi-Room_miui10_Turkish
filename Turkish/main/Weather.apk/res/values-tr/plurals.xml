@@ -39,5 +39,13 @@
     <plurals name="aqi_all_city_cur_num">
         <item quantity="other">Ortalama %1$s istasyon</item>
         <item quantity="one">Ortalama %1$s istasyon</item>
+    </plurals>
+	<plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">%1$s dakika içinde tekrar geri bildirim gönderebilirsiniz</item>
+        <item quantity="one">%1$s dakika içinde tekrar geri bildirim gönderebilirsiniz</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">%1$s saniye içinde tekrar geri bildirim gönderebilirsiniz</item>
+        <item quantity="one">%1$s saniye içinde tekrar geri bildirim gönderebilirsiniz</item>
     </plurals>	
 </resources>

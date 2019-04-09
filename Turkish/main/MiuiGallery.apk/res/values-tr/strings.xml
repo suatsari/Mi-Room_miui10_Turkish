@@ -317,7 +317,7 @@
   <string name="deny">Reddet</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
-  <string name="detail_title">Detaylar</string>
+  <string name="detail_title">Ayrıntılar</string>
   <string name="disable_auto_upload_tip">Bu albümün Mi Bulut ile eşitlenmesi kapatılsın mı?</string>
   <string name="disable_auto_upload_title">Mi Bulut ile eşitlemeyi kapat</string>
   <string name="do_not_remind_me">Tekrar gösterme</string>
@@ -373,7 +373,7 @@
   <string name="error_internal_sdcard_write_tip">Bir hata oluştu. Cihazınızı yeniden başlatıp tekrar deneyin.</string>
   <string name="error_invalid_link">Geçersiz bağlantı</string>
   <string name="error_link_has_expired">Bağlantı süresi doldu</string>
-  <string name="error_network_restrict_action">Detayları göster</string>
+  <string name="error_network_restrict_action">Ayrıntıları göster</string>
   <string name="error_network_restrict_msg">Galerinin ağa bağlanmasına izin ver.</string>
   <string name="error_network_restrict_tip">Ağa bağlanılamıyor.</string>
   <string name="error_no_account_action">Oturum aç</string>
@@ -489,17 +489,19 @@
   <string name="filter_scene_series">Yansıma</string>
   <string name="filter_scene_vivid">Canlı</string>
   <string name="filter_scene_warm">Güneş</string>
-  <string name="finish_create_baby_album_toast">Mi Bulut\'taki \"%s\" albüm oluşturuldu</string>
+  <string name="finish_create_baby_album_toast">Mi Bulut\'ta \"%s\" için bir albüm oluşturuldu</string>
   <string name="finish_fill_baby">Oluştur</string>
   <string name="flash_off">Flaş kapalı</string>
   <string name="flash_on">Flaş açık</string>
   <string name="gallery_setting">Ayarlar</string>
   <string name="gallery_sync_disable_toast">Galeri eşitlemesi etkin değil</string>
-  <string name="get_album_info_in_process">Paylaşılan albümlerin detayları alınıyor...</string>
+  <string name="get_album_info_in_process">Paylaşılan albümlerin ayrıntıları alınıyor...</string>
   <string name="gif_tip">GIF</string>
-  <string name="gigabyteShort">" GB"</string>
+  <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Ayarla</string>
-  <string name="grant_permission_text">Galerinin normal çalışması için \u000d\n%s\u000d\n erişmesi gerekir, İzinlerden ayarlamak için \"Ayarla\" dokunun.</string>
+  <string name="grant_permission_text">"Galerinin normal çalışması için 
+%s
+ erişmesi gerekiyor, İzinler\'e gitmek için \"Ayarla\" düğmesine dokunun."</string>
   <string name="grant_permission_title">Erişime izin ver</string>
   <string name="grant_permission_unlock_and_set">Kilidi aç ve ayarla</string>
   <string name="has_invalid_recipient">Geçersiz alıcılar: %1$s</string>
@@ -530,9 +532,9 @@
   <string name="image_download_item_title">Orjinal resmi indir (%s)</string>
   <string name="image_invalid_path">Geçersiz yol</string>
   <string name="image_not_found">Resim bulunamadı</string>
-  <string name="image_quota_fulfiled">Çok fazla görüntü. Bazı görüntüleri silin ve tekrar deneyin.</string>
-  <string name="impunity_declaration_settings">İnternet Bağlantı Bildirimi</string>
-  <string name="impunity_declaration_summary">İnternet bağlantısı bildirimi her gösterildiğinde Galeri\'de altyazıları göster</string>
+  <string name="image_quota_fulfiled">Çok fazla resim var. Bazı görüntüleri silin ve tekrar deneyin.</string>
+  <string name="impunity_declaration_settings">İnternet bağlantısı bildirimi</string>
+  <string name="impunity_declaration_summary">Galeri\’yi her açtığınızda internet bağlantısı bildirimini göster</string>
   <string name="initializing_cloud">Başlatılıyor…</string>
   <string name="input_a_name">Adı Girin</string>
   <string name="input_baby_name">Adı Girin</string>
@@ -545,7 +547,7 @@
   <string name="invalid_recipient_message">Girdiğiniz alıcı isimleri geçersiz</string>
   <string name="invite_sharer_confirm_button_text">Davet</string>
   <string name="invite_sharer_relation_tip">%1$s\'nin ilişkisi</string>
-  <string name="invite_sharer_title">%1$s\'nin %2$s davet et</string>
+  <string name="invite_sharer_title">%1$s %2$s davet et</string>
   <string name="invite_tip">Bebeğinizin fotoğraflarınızı paylaşın</string>
   <string name="is">Evet</string>
   <string name="is_higher_definition">HD Önizle</string>
@@ -645,7 +647,7 @@
   <string name="operation_cast_connected_format">Aktarma - %s</string>
   <string name="operation_cast_connecting_format">%s bağlanma</string>
   <string name="operation_delete">Sil</string>
-  <string name="operation_detail">Detaylar</string>
+  <string name="operation_detail">Ayrıntılar</string>
   <string name="operation_disable_auto_upload">Mi Bulut ile eşitleme kapalı</string>
   <string name="operation_download">Fotoğrafı (%s) indir</string>
   <string name="operation_edit">Düzenle</string>
@@ -697,6 +699,8 @@
   <string name="photo_editor_beautify">Güzelleştirme</string>
   <string name="photo_editor_beautify_auto">Oto</string>
   <string name="photo_editor_beauty_compare">Orijinal</string>
+  <string name="photo_editor_compare_tip">Orijinal resmi görüntülemek için basılı tutun</string>
+  <string name="photo_editor_remove_watermark">Filigranı kaldır</string>  
   <string name="photo_editor_crop_and_rotate">Kırp&amp;Döndür</string>
   <string name="photo_editor_crop_reset">Sıfırla</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>

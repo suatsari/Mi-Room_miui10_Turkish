@@ -401,4 +401,6 @@
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
   <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
   <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
+  <string name="user_detail_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="user_detail_privacy_policy">Gizlilik Politikası</string>  
 </resources>

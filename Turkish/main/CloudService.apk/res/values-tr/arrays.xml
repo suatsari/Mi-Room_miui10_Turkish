@@ -125,5 +125,9 @@
     <item>Mi Bulut ile WLAN ayarlarını eşitle</item>
     <item>Eşitlemeyi aç</item>
     <item>WLAN;wifi;WLAN;Bulut;Eşitle;Bulut hizmetleri;Mi Bulut</item>
-  </string-array>	
+  </string-array>
+  <string-array name="user_detail_fixed_items">
+    <item>Senkronize edilmiş öğeleri göster</item>
+    <item>Depolama detayları</item>
+  </string-array>  
 </resources>
