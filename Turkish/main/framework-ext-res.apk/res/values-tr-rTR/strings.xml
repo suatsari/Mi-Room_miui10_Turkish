@@ -199,5 +199,19 @@
   <string name="resolver_mi_browser">Mi Tarayıcı</string>
   <string name="resolver_offical_recommend">Resmi</string>
   <string name="resolver_other_method">Diğer seçenekler</string>
-  <string name="resolver_recommend_options_tag">Önerilen seçenekler</string>  
+  <string name="resolver_recommend_options_tag">Önerilen seçenekler</string>
+  <string name="popup_camera_calibrate_failed">Kalibre edilemedi. Sorunu teşhis etmek için cihazınızı size en yakın bir Mi Home\'a getirin.</string>
+  <string name="popup_camera_calibrate_now">Kalibre et</string>
+  <string name="popup_camera_calibrate_success">Başarıyla kalibre edildi. Ön kamerayı şimdi açabilirsiniz.</string>
+  <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
+  <string name="popup_camera_front_falied_times">Ön kamera birden çok denemede açılamadı. Sorunu teşhis etmek için cihazınızı size en yakın bir Mi Home\'a getirin.</string>
+  <string name="popup_camera_front_when_use">Ön kamera şimdi meşgul. Yine de açılsın mı?</string>
+  <string name="popup_camera_popup_falied_times_calibrate">Ön kamera birden çok denemede açılamadı. Kamerayı kalibre etmeyi deneyin.</string>
+  <string name="popup_camera_sure">Anladım</string>
+  <string name="popup_camera_sure_wait">Anladım (%ds)</string>
+  <string name="popup_camera_takeback_falied_times_calibrate">Ön kamera birden çok denemede kapatılamadı. Kamerayı kalibre etmeyi deneyin.</string>
+  <string name="popup_camera_tip">Dikkat</string>
+  <string name="popup_camera_using_camera_background">%s ön kamerayı kullanıyor</string>
+  <string name="stop_operate_camera_frequently">Kameralar arasında çok sık geçiş yapıyorsunuz gibi görünüyor.</string>
+  <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>  
 </resources>

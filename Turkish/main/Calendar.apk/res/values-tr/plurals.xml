@@ -125,5 +125,9 @@
   <plurals name="travel_eta_advice">
     <item quantity="other">%1$s için %2$s dakika sürüş.</item>
     <item quantity="one">%1$s için %2$s dakika sürüş.</item>
+  </plurals>
+  <plurals name="reminder_later_toast">
+    <item quantity="other">Sonraki hatırlatma %1$d dakika içinde</item>
+    <item quantity="one">Sonraki hatırlatma %1$d dakika içinde</item>
   </plurals>  
 </resources>

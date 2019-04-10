@@ -127,5 +127,13 @@ Yenilemek için yardım ister misiniz?"</item>
   <plurals name="Nhungama_free_download_summary">
     <item quantity="other">%1$d ücretsiz şarkı indirebilirsin. %2$s şimdi indirilsin mi?</item>
     <item quantity="one">%1$d ücretsiz şarkı indirebilirsin. %2$s şimdi indirilsin mi?</item>
+  </plurals>
+  <plurals name="free_downloads_num_hint">
+    <item quantity="other">%d ücretsiz indirme kaldı</item>
+    <item quantity="one">%d ücretsiz indirme kaldı</item>
+  </plurals>
+  <plurals name="vip_remain_days_hint">
+    <item quantity="other">%d gün kaldı</item>
+    <item quantity="one">%d gün kaldı</item>
   </plurals>  
 </resources>

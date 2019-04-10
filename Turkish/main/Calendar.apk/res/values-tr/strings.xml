@@ -44,7 +44,7 @@
   <string name="agenda_month_empty_hint">Bugün herhangi bir faaliyet yok</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
   <string name="agenda_view">Faaliyetler</string>
-  <string name="alarm_label">Reddet</string>
+  <string name="alarm_label">Anladım</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Süresi doldu</string>
   <string name="alert_title">Takvim Bildirimleri</string>
@@ -596,5 +596,9 @@
   <string name="yiji_app_download_card_lebal">Gerekir</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">Bir takvim hesabı eklemeniz gerekiyor. Devam etmek için \"Hesap ekle\" seçeneğine dokunun.</string>
   <string name="share_not_install_wechat">Lütfen wechat\'i kurun.</string>
-  <string name="share_not_install_weibo">Lütfen weibo\'yu kurun.</string>  
+  <string name="share_not_install_weibo">Lütfen weibo\'yu kurun.</string>
+  <string name="cancel_reminder_later">Hatırlatıcıyı iptal et</string>
+  <string name="default_reminder_later_time">\"Daha sonra hatırlat\" için varsayılan aralık</string>
+  <string name="next_alarm_time">Sonraki hatırlatma %1$s sonra</string>
+  <string name="reminder_later">Daha sonra hatırlat</string>  
 </resources>

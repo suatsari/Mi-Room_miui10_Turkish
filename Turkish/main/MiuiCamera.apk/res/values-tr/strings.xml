@@ -850,5 +850,7 @@ Daha heyecan verici güzelliği keşfedin"</string>
   <string name="wideselfie_result_image_lossless">Panorama kaydedilemedi</string>
   <string name="dialog_google_lens_option_0">Google Lens(Tavsiye edilen)</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
-  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Kilidi</string>  
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Kilidi</string>
+  <string name="accessibility_video_btn_play">Video oynat</string>
+  <string name="beauty_body_whole">Vücut</string>  
 </resources>
