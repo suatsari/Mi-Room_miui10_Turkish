@@ -1276,8 +1276,8 @@ d MMMM"</string>
   <string name="save">Kaydet</string>
   <string name="save_mode_btn_ok">Tamam</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
-  <string name="screen_button_notification_text">Onları açmak için, Ana ekran ve Güç düğmelerine aynı anda basın.</string>
-  <string name="screen_button_notification_title">Gezinme düğmeleri kapalı</string>
+  <string name="screen_button_notification_text">Açmak için, Ana ekran ve Güç düğmelerine aynı anda basın.</string>
+  <string name="screen_button_notification_title">Gezinme düğmeleri kapatıldı</string>
   <string name="screen_pinning_description">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
   <string name="screen_pinning_description_accessible">Siz sabitlemeyi kaldırana kadar görünümde kalmasını sağlar. Sabitlemeyi kaldırmak için Ana ekran ve Güç düğmelerine aynı anda basılı tutun.</string>
   <string name="screen_pinning_negative">Hayır, teşekkürler</string>

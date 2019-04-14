@@ -197,6 +197,7 @@
   <string name="is_system_wallpaper_message">Sistem kaynakları silinemiyor</string>
   <string name="launcher_auto_fill_empty_title">Boş hücreleri doldur</string>
   <string name="launcher_not_exist">Bir hata oluştu. Ana ekrana dönün ve tekrar deneyin.</string>
+  <string name="launcher_sliding_up_gesture">Aramayı açmak için Ana ekranda yukarı kaydırın</string>
   <string name="launcher_title">Ana ekran &amp; Son kullanılanlar</string>
   <string name="like">Favorilere ekle</string>
   <string name="liked">Favorilere eklendi</string>
