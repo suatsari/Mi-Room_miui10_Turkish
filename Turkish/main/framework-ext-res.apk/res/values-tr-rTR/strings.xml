@@ -8,10 +8,10 @@
   <string name="apply_password_action">Tamam</string>
   <string name="apply_password_confirm_dlg_msg">%s ayarlarına erişmek için geçerli kilit ekranı şifrenizi kullanın.</string>
   <string name="apply_password_confirm_dlg_title">%s şifre</string>
-  <string name="auto_disable_screenbuttons_disable_toast_text">Gezinme düğmeleri devre dışı, açmak için herhangi bir düğmeye iki kez dokunun</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Gezinme düğmeleri devre dışı, açmak için bir tuşa iki kez dokunun</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Gezinme düğmeleri etkin</string>
   <string name="auto_disable_screenbuttons_float_text">Gezinme düğmelerini devre dışı bırakmak için dokunun</string>
-  <string name="auto_disable_screenbuttons_prompts_message">Gezinme düğmelerini tekrar açmak için herhangi bir düğmeye iki kez dokunun.</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Gezinme düğmelerini tekrar açmak için bir tuşa iki kez dokunun.</string>
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Tekrar gösterme</string>
   <string name="auto_disable_screenbuttons_prompts_ok">Tamam</string>
   <string name="auto_disable_screenbuttons_prompts_title">Gezinme düğmeleri devre dışı bırakılsın mı?</string>
@@ -200,7 +200,7 @@
   <string name="resolver_offical_recommend">Resmi</string>
   <string name="resolver_other_method">Diğer seçenekler</string>
   <string name="resolver_recommend_options_tag">Önerilen seçenekler</string>
-  <string name="popup_camera_calibrate_failed">Kalibre edilemedi. Sorunu teşhis etmek için cihazınızı size en yakın bir Mi Home\'a getirin.</string>
+  <string name="popup_camera_calibrate_failed">Kalibre edilemedi</string>
   <string name="popup_camera_calibrate_now">Kalibre et</string>
   <string name="popup_camera_calibrate_success">Başarıyla kalibre edildi. Ön kamerayı şimdi açabilirsiniz.</string>
   <string name="popup_camera_front_failed">Ön kamera açılamadı. Tekrar deneyin.</string>
@@ -212,6 +212,6 @@
   <string name="popup_camera_takeback_falied_times_calibrate">Ön kamera birden çok denemede kapatılamadı. Kamerayı kalibre etmeyi deneyin.</string>
   <string name="popup_camera_tip">Dikkat</string>
   <string name="popup_camera_using_camera_background">%s ön kamerayı kullanıyor</string>
-  <string name="stop_operate_camera_frequently">Kameralar arasında çok sık geçiş yapıyorsunuz gibi görünüyor.</string>
+  <string name="stop_operate_camera_frequently">Ön kamerayı çok sık açıyorsun.</string>
   <string name="takeback_camera_front_failed">Ön kamera kapatılamadı. Tekrar deneyin.</string>  
 </resources>

@@ -44,7 +44,7 @@
   <string name="account_user_birthday">Doğum Tarihi</string>
   <string name="account_user_details">Kişisel Bilgi</string>
   <string name="account_user_education">Eğitim</string>
-  <string name="account_user_email">E-Posta</string>
+  <string name="account_user_email">Kurtarma Postası</string>
   <string name="account_user_gender">Cinsiyet</string>
   <string name="account_user_gender_female">Kadın</string>
   <string name="account_user_gender_male">Erkek</string>
@@ -56,7 +56,7 @@
   <string name="account_user_name">Adı</string>
   <string name="account_user_name_dialog_title">Kullanıcı adını girin</string>
   <string name="account_user_other_info">Fazla Kaynak</string>
-  <string name="account_user_phone">Telefon Numarası</string>
+  <string name="account_user_phone">Kurtarma telefonu</string>
   <string name="account_user_recovery_phone">Telefonu kurtar</string>
   <string name="account_user_region">Bölge</string>
   <string name="account_user_secure_info">Telefon &amp; E-Posta</string>
@@ -631,7 +631,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
   <string name="diagnosis_log_send_failed">Tanı günlüğü gönderilemedi.</string>
   <string name="diagnosis_log_sent_format">"Tanı günlüğü gönderildi.
-ID:%s
+Kimlik:%s
 Lütfen bu kodu teknisyene gönderin."</string>
   <string name="for_diagnosis_usage_only">Bu bilgiyi sadece teşhis için kullanın.</string>
   <string name="ok">Tamam</string>
@@ -662,5 +662,8 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>
   <string name="permission_group_storage">Depolama</string>
-  <string name="select_all">Tümünü seç</string>  
+  <string name="select_all">Tümünü seç</string>
+  <string name="agreement_and_privacy">Kullanıcı Sözleşmesi ve Gizlilik Politikası</string>
+  <string name="passport_first_login_prompt">İlk kez oturum açtığınızda, Mi Hesabı otomatik olarak oluşturulacaktır.</string>
+  <string name="scan_barcode">QR kodunu tara</string>  
 </resources>

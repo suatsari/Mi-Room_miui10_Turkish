@@ -1788,5 +1788,6 @@ d MMM"</string>
   <string name="usb_port_short_circuit_recovered_content">Şarj etmek veya diğer cihazlara bağlamak için kullanabilirsiniz.</string>
   <string name="usb_port_short_circuit_recovered_title">Şarj portu şimdi normal çalışıyor</string>
   <string name="usb_port_short_circuit_title">Şarj portunda nem var</string>
-  <string name="face_unlock_success">Yüz verisi başarıyla doğrulandı</string>  
+  <string name="face_unlock_success">Yüz verisi başarıyla doğrulandı</string>
+  <string name="gxzw_use_password_to_unlock">Şifreyi girin</string>  
 </resources>

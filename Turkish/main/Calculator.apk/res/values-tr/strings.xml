@@ -824,4 +824,6 @@
   <string name="yesterday">Dün</string>
   <string name="younger_brother">弟弟</string>
   <string name="younger_sister">妹妹</string>
+  <string name="err_no_gms">Uyumsuz uygulama sürümü. Bu uygulamayı ayrı olarak yükleyin</string>
+  <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>  
 </resources>

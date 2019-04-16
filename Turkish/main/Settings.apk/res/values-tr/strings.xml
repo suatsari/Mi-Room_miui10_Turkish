@@ -4015,7 +4015,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="security_keyguard_category_name">Kilit ekranı</string>
   <string name="security_password_category_name">Ekran kilidi</string>
   <string name="security_passwords_title">Gizlilik</string>
-  <string name="security_patch">Android güvenlik düzeltme eki seviyesi</string>
+  <string name="security_patch">Android güvenlik yaması düzeyi</string>
   <string name="security_privacy_settings_title">Gizlilik</string>
   <string name="security_relative">Güvenlik</string>
   <string name="security_settings_billing_desc">Bu uygulama sizden para alabilir:</string>
@@ -6366,5 +6366,67 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="gxzw_enroll_again">Parmağınızı kaldırın ve parmak izi tarayıcıya tekrar basın</string>
   <string name="layout_exhuge_font_take_effect_tips">XXL metin boyutu yalnızca Telefon, Mesajlaşma ve Rehber\’de çalışır.</string>
   <string name="layout_exhuge_font_tips">%1$s içinde daha fazla seçenek mevcuttur</string>
-  <string name="layout_exhuge_font_tips_reg">Erişilebilirlik &gt; Ekran boyutu</string>  
+  <string name="layout_exhuge_font_tips_reg">Erişilebilirlik &gt; Ekran boyutu</string>
+  <string name="usage_state_app_timer">Ekran süresi</string>
+  <string name="usage_state_app_usage_detail_title">Uygulama kullanım detayları</string>
+  <string name="usage_state_app_usage_list_title">Uygulamaların bugünkü ekran süresi</string>
+  <string name="usage_state_app_usage_list_week_title">Uygulamaların ekran süresi (son 7 gün)</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">%d:00 - %d:00 arasındaki ekran süresi</string>
+  <string name="usage_state_app_use_time">Uygulama ekran süresi</string>
+  <string name="usage_state_channel_mouth">Son 30 gün</string>
+  <string name="usage_state_channel_week">Son 7 gün</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00 - %d:00 arasında bildirimler</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00 - %d:00 arasında cihaz kilidi açık</string>
+  <string name="usage_state_friday">Cum</string>
+  <string name="usage_state_go_more">Daha fazla uygulama</string>
+  <string name="usage_state_hour_minute" formatted="false">%ds %dd</string>
+  <string name="usage_state_less_one_minute">1 dakikadan az</string>
+  <string name="usage_state_monday">Pzt</string>
+  <string name="usage_state_mourth_day">"'Ekran süresi' d MMM"</string>
+  <string name="usage_state_noti_mourth_day">"'Bildirimler' d MMM"</string>
+  <string name="usage_state_notification">Bildirimleri yönet</string>
+  <string name="usage_state_notification_manager">Uygulama bildirimlerini yönet</string>
+  <string name="usage_state_remind_summary">Ekran süresi uyarıları almak için açın. Hafta içi ve hafta sonu için farklı zaman sınırları belirleyebilirsiniz.</string>
+  <string name="usage_state_remind_title">Ekran süresi uyarısı</string>
+  <string name="usage_state_rest_day">Hafta sonu</string>
+  <string name="usage_state_saturday">Cmt</string>
+  <string name="usage_state_set_invalid_time_toast">Zaman sınırları 1 dakikadan daha kısa olarak ayarlanamıyor</string>
+  <string name="usage_state_sunday">Pzr</string>
+  <string name="usage_state_thursday">Prş</string>
+  <string name="usage_state_today">Bugün</string>
+  <string name="usage_state_today_total_text">Bugünkü ekran süresi</string>
+  <string name="usage_state_tuesday">Sal</string>
+  <string name="usage_state_unlock_mourth_day">"'Kilitsiz' d MMM"</string>
+  <string name="usage_state_usage_time">Ekran süresi</string>
+  <string name="usage_state_usage_time_remind">Ekran süresi uyarısı</string>
+  <string name="usage_state_use_time_remind_title">Ekran süresi uyarısı</string>
+  <string name="usage_state_wednesday">Çrş</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">Hafta sonu: %ds %dd</string>
+  <string name="usage_state_week_total_text">Ekran süresi (son 7 gün)</string>
+  <string name="usage_state_work_day">Hafta içi</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Hafta içi: %ds %dd</string>
+  <string name="usage_stats_normal_day">Hafta içi</string>
+  <string name="usage_stats_week_day">Hafta sonu</string>
+  <string name="usagestats_app_category_miui_financial">Finans</string>
+  <string name="usagestats_app_category_miui_game">Oyunlar</string>
+  <string name="usagestats_app_category_miui_life">Yaşam tarzı</string>
+  <string name="usagestats_app_category_miui_productivity">Verimlilik</string>
+  <string name="usagestats_app_category_miui_reading">Okuma</string>
+  <string name="usagestats_app_category_miui_shopping">Alışveriş</string>
+  <string name="usagestats_app_category_miui_social">Sosyal ağlar</string>
+  <string name="usagestats_app_category_miui_system">Sistem uygulamaları</string>
+  <string name="usagestats_app_category_miui_tools">Araçlar</string>
+  <string name="usagestats_app_category_miui_undefined">Diğer</string>
+  <string name="usagestats_app_category_miui_video_etc">Müzik ve video</string>
+  <string name="usagestats_device_notification_des">Bugün için ekran süresi sınırı: %s</string>
+  <string name="usagestats_device_notification_des_over">Bugünkü ekran süresi sınırınıza zaten ulaştınız.</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Bugünün ekran süresi sınırı: %s | %s kalan</string>
+  <string name="usagestats_device_notification_title">Ekran süresi uyarısı</string>
+  <string name="usagestats_device_timeout_des" formatted="false">Cihazınızı bugün %ds %dd boyunca kullanıyorsunuz. Biraz dinlenin!</string>
+  <string name="usagestats_device_timeout_negative">1 saat içinde hatırlat</string>
+  <string name="usagestats_device_timeout_positive">Anladım</string>
+  <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
+  <string name="wifi_protection_on">Açık</string>
+  <string name="wifi_protection_settings_title">WİFİ prob koruması</string>
+  <string name="wifi_protection_tip">MIUI, WİFİ prob koruma fonksiyonunu otomatik olarak açar. Cep telefonu WLAN\'ı taradığında, WİFİ prob kutusunun kullanıcının gizliliğini çalmasını önlemek ve cep telefonunu korumak için MAC adresini rastgele seçer.</string>  
 </resources>
