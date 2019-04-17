@@ -46,8 +46,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="power_checker_background_gps_title">%1$s sıklıkla konum bilgisini alıyor</string>
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s sıklıkla ağa erişiyor</string>
   <string name="power_checker_mobile_radio_title">%1$s sıklıkla ağa erişiyor</string>
-  <string name="power_checker_multi_apps_title">Pili en fazla boşaltan: %2$s</string>
-  <string name="power_checker_notify_summary">Pili boşaltan uygulamaları iyi hale getir</string>
+  <string name="power_checker_multi_apps_title">Pili boşaltan uygulamalar: %2$s</string>
+  <string name="power_checker_notify_summary">Pili tüketen uygulamaları optimize edin</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s MIUI\'nin uyku moduna geçmesine engel oluyor</string>
   <string name="power_checker_partial_wakelock_title">%1$s MIUI\'nin uyku moduna geçmesine engel oluyor</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s sıklıkla başlatılıyor</string>

@@ -450,7 +450,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="btn_text_network_speed_detail">Bağlantı</string>
   <string name="btn_text_open_now">Aç</string>
   <string name="btn_text_optimize_extend_battery_time">%s ekle</string>
-  <string name="btn_text_optimize_manually">Elle iyi hale getir</string>
+  <string name="btn_text_optimize_manually">Manuel olarak optimize et</string>
   <string name="btn_text_optimize_now">İyi Hale Getir</string>
   <string name="btn_text_power_cleanup">Derin Temizlik</string>
   <string name="btn_text_quick_cleanup">Temizle</string>
@@ -715,8 +715,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="enter">进入</string>
   <string name="every_day">Hergün</string>
   <string name="examination_score_60_0">Şimdi tara</string>
-  <string name="examination_score_80_60">Bazı öğeler en iyi hale getirebilir</string>
-  <string name="examination_score_80_100">Birkaç öğe en iyi hale getirilebilir</string>
+  <string name="examination_score_80_60">Bazı öğeler optimize edilebilir</string>
+  <string name="examination_score_80_100">Birkaç öğe optimize edilebilir</string>
   <string name="examination_score_100">Her şey iyi görünüyor!</string>
   <string name="examination_score_has_virus">Tehlikeli olabilecek şüpheli uygulamalar algılandı</string>
   <string name="exception_dialog_message">当前网络统计模块异常，可能导致无法正常统计手机流量消耗与超流量断网，重启可解决此问题，是否立即重启？</string>

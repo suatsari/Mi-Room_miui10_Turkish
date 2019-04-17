@@ -115,5 +115,11 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görselleri ve hikayeleri alın. Şartlar ve koşullar geçerlidir.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
   <string name="congratulation_label_night">Yeni Karanlık moduna göz atın!</string>
-  <string name="start_up_slogan_night">Yeni Karanlık moduna göz atın!</string>  
+  <string name="start_up_slogan_night">Yeni Karanlık moduna göz atın!</string>
+  <string name="font_hint_large">Varsayılan metin boyutu</string>
+  <string name="font_hint_normal">Metin boyutunu arttır</string>
+  <string name="skip_gesture_guide_dialog_message">Bu seçeneği seçmeden önce tam ekran hareketlerini nasıl kullanacağınızı bildiğinizden emin olun.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">İptal</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">Tamam</string>
+  <string name="skip_gesture_guide_dialog_title">Tam ekran hareketleri</string>  
 </resources>

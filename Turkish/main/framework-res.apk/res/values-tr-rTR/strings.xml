@@ -75,13 +75,13 @@
   <string name="android_preparing_apk">%1$s hazırlanıyor...</string>
   <string name="android_start_title">Android başlatılıyor…</string>
   <string name="android_system_label">Android Sistemi</string>
-  <string name="android_upgrading_apk">%2$d\'de %1$d uygulaması iyi hale getiriliyor...</string>
+  <string name="android_upgrading_apk">%2$d / %1$d uygulama optimize ediliyor...</string>
   <string name="android_upgrading_complete">Açılış tamamlanıyor.</string>
-  <string name="android_upgrading_fstrim">Depolama iyi hale getiriliyor....</string>
+  <string name="android_upgrading_fstrim">Depolama optimize ediliyor.</string>
   <string name="android_upgrading_notification_body">Bazı uygulamalar, yükseltme tamamlanıncaya kadar düzgün çalışmayabilir</string>
-  <string name="android_upgrading_notification_title">Android güncelleniyor</string>
+  <string name="android_upgrading_notification_title">Sistem güncellemesi bitiyor…</string>
   <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor.</string>
-  <string name="android_upgrading_title">Android güncelleniyor...</string>
+  <string name="android_upgrading_title">Telefon güncelleniyor…</string>
   <string name="anr_activity_application">"%2$s cevap vermiyor.
 
 Kapatmak istiyor musunuz?"</string>

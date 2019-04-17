@@ -104,7 +104,7 @@
   <string name="screenshot_gesture_detect_alert_title">Üç-Parmakla Ekran Görüntüsü Al</string>
   <string name="security_permission_denied_text">Erişim engellendi</string>
   <string name="security_permission_failed_text">Bir hata oluştu, daha sonra tekrar deneyin</string>
-  <string name="security_permission_validate_warning">"MIUI'yi daha iyi hale getirdiğinizi için teşekkürler!"</string>
+  <string name="security_permission_validate_warning">MIUI\'yi iyileştirmemize yardımcı olduğunuz için teşekkür ederiz!</string>
   <string name="security_permission_wifi_and_data_opened_text">WLAN ve mobil veri açık</string>
   <string name="security_permission_xiaomi_account_missed_text">Mi Hesap Kimliğinizi girin</string>
   <string name="select">Seç</string>

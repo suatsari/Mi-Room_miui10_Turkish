@@ -156,7 +156,7 @@
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>
-        <item>Göze göründüğü şekilde tabii renkler</item>
-        <item>Dijital içerik için iyi hale getirilmiş renkler</item>
+        <item>Göz tarafından görüldüğü gibi doğal renkler</item>
+        <item>Dijital içerik için optimize edilmiş renkler</item>
     </string-array>
 </resources>

@@ -2296,7 +2296,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="license_title">Lisans</string>
   <string name="lift_to_wake_title">Uyandırmak için cihazı kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
-  <string name="line_breaking_title">Metini iyi hale getir</string>
+  <string name="line_breaking_title">Metni optimize et</string>
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="list_bg_header_text">Arka plan bağlantısını kısıtlarsanız, yeni uygulamalar yüklemeden sonra arka planda internete bağlanamaz. Bundan sonra mesaj alamaz veya içerik indiremezler.</string>
   <string name="list_empty_text">Boş</string>
@@ -2678,7 +2678,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="miui_allow_music">Medya</string>
   <string name="miui_allow_vibrate">Titreşim</string>
   <string name="miui_data_usage_menu_metered">Mobil Paylaşım</string>
-  <string name="miui_experience_optimization">MIUI\'yi iyi hale getir</string>
+  <string name="miui_experience_optimization">MIUI optimizasyonunu açın</string>
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
   <string name="miui_lab_ai_preload_title">AI önyükleme</string>
@@ -3074,8 +3074,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="onscreen_keyboard_settings_summary">Ekran Klavyesinin Ayarları</string>
   <string name="open_demo_mode">Açık</string>
   <string name="open_demo_mode_warning_message">Demo modu açık olduğunda, durum çubuğundaki saat duracak, pil ve sinyal simgeleri dolu olarak görüntülenecektir. Bunu değiştirmek için Demo modunu kapatabilir veya cihazı yeniden başlatabilirsiniz.</string>
-  <string name="open_miui_optimization_title">\'MIUI\'i iyi hale getir\' açık</string>
-  <string name="open_optimization_message">Daha pürüzsüz, daha hızlı bir kullanıcı arayüzünün keyfini çıkarmak için optimizasyonu açın.</string>
+  <string name="open_miui_optimization_title">MIUI optimizasyonunu açın</string>
+  <string name="open_optimization_message">Daha yumuşak ve daha hızlı bir kullanıcı arayüzü kullanmak için optimizasyonu açın.</string>
   <string name="open_optimization_option">Aç</string>
   <string name="open_sdcard_optimization_title">Taklit sdcard optimizasyonu açık</string>
   <string name="open_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
@@ -3405,7 +3405,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="private_sms_need_to_unlock">Şifre gerekli:</string>
   <string name="private_sms_recording_intro_header">Bir kilit açma deseni çizin:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
-  <string name="process_dex2oat_label">Uygulamayı iyi hale getir</string>
+  <string name="process_dex2oat_label">Uygulama optimizasyonu</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanıyor.</string>
@@ -5260,7 +5260,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wfd_wps_pbc">PIN kodunu girin</string>
   <string name="whetstone_level_reboot">Cihazınızı yeniden başlattıktan sonra, bu ayar yürürlüğe girecek.</string>
   <string name="whetstone_level_reboot_OK">Y. Başlat</string>
-  <string name="whetstone_level_title">Belleği en iyi hale getir</string>
+  <string name="whetstone_level_title">Bellek optimizasyonu</string>
   <string name="widget_picker_title">Araç seç</string>
   <string name="wifi">WLAN</string>
   <string name="wifi_access_points">WLAN Ağları</string>
@@ -5604,8 +5604,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_stopping">WLAN kapatılıyor…</string>
   <string name="wifi_subnet_mask">Alt ağ maskesi</string>
   <string name="wifi_suspend_efficiency_title">Verimliliği arttır</string>
-  <string name="wifi_suspend_optimizations">WLAN ağını en iyi hale getir</string>
-  <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indir</string>
+  <string name="wifi_suspend_optimizations">WLAN optimizasyonu</string>
+  <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirin</string>
   <string name="wifi_switch_away_when_unvalidated">WLAN internet erişimini kaybederse mobil veriye geçin.</string>
   <string name="wifi_switch_to_gsm_message">WLAN bağlantısı kesildi. Bunun yerine mobil veri bağlantısı kullanılsın mı?</string>
   <string name="wifi_switch_to_gsm_title">GSM kullanılsın mı?</string>

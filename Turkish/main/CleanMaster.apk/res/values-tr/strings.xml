@@ -461,16 +461,16 @@
   <string name="qq_data_type_other">Diğer</string>
   <string name="qq_data_type_other_desc">Dikkatli olun, bu dosyaları sildikten sonra geri yükleyemeyebilirsiniz.</string>
   <string name="recommend_news">Tavsiyeleri al</string>
-  <string name="recommend_the_following">Cihazınızı en iyi hale getirmek için aşağıdaki faaliyetleri de uygulayabilirsiniz.</string>
-  <string name="recommended">Seçilmiş</string>
-  <string name="resutl_function_deep_clean_summary">" \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; daha fazla dosya temizlenebilir. Daha fazla alan aç.&lt;/Data&gt;\" "</string>
-  <string name="resutl_function_qq_clean_summary">" \"&lt;Data&gt;QQ tarafından oluşturulan &lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; önbelleği temizleyebilirsiniz.&lt;/Data&gt;\" "</string>
-  <string name="resutl_function_wechat_clean_summary">" \"&lt;Data&gt;&lt;font color=#ff0000 &gt;%1$s&lt;/font&gt; WeChat önbelleği. Daha fazla alan aç.&lt;/Data&gt;\" "</string>
+  <string name="recommend_the_following">Cihazınızdan en iyi şekilde yararlanmak için aşağıdaki işlemleri yapın</string>
+  <string name="recommended">Öne çıkan</string>
+  <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın.</Data>" "</string>
+  <string name="resutl_function_qq_clean_summary">" "<Data>QQ tarafından oluşturulan &lt;font color=#ff0000 >%1$s&lt;/font> önbelleği temizleyebilirsiniz.</Data>" "</string>
+  <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat önbelleği. Daha fazla alan boşaltın.</Data>" "</string>
   <string name="RF_DalvikCacheLeftovers">Yazılım Sisteminin Artıkları (Dalvik-Cache)</string>
-  <string name="sc_allow_network_dialog_button">İzinli</string>
-  <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
+  <string name="sc_allow_network_dialog_button">İzin ver</string>
+  <string name="sc_allow_network_dialog_message">Bu uygulamanın internete bağlanmasına izin verilsin mi?</string>
   <string name="scanning">Taranıyor…</string>
-  <string name="search_history">Arama Geçmişi</string>
+  <string name="search_history">Arama geçmişi</string>
   <string name="see_more">Daha</string>
   <string name="set_immediately">Ayarla</string>
   <string name="seton_immediately">Aç</string>
