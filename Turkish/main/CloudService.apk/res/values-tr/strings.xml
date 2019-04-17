@@ -350,12 +350,12 @@
   <string name="sync_detail_summary_off">Kapalı</string>
   <string name="sync_detail_text">Eşitleme ayrıntıları</string>
   <string name="sync_dspt">Eşitle</string>
-  <string name="sync_dspt_entrance_provision">Tüm cihazlarınızdaki fotoğraflarınızı, kişilerinizi, arama geçmişinizi ve mesajlarınızı senkronize edin. Herhangi bir tarayıcıdan %s adresinden senkronize ettiğiniz öğelere erişin</string>
+  <string name="sync_dspt_entrance_provision">"Tüm cihazlarınızda fotoğraflarınızı, kişilerinizi, arama geçmişinizi ve mesajlarınızı eşitleyin. Herhangi bir tarayıcıdan %s adresinden eşitlediğiniz öğelere erişin. "</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Kullanma!</string>
   <string name="sync_dspt_entrance_provision_confirm_content">MIUI yerleşik uygulamaları fotoğrafları, kişileri, notları ve daha fazlasını yedekleyebilmek için Mi Bulut\'a ihtiyaç duyar. Mi Bulut ücretsiz ve kullanıma hazırdır.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Mi Bulut kullanmıyor musunuz?</string>
-  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Veri eşitleme mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
+  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Veri eşitlemesi mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğrafları, kişileri, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision3">". Ayarlar'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.
@@ -375,7 +375,7 @@
   <string name="title_back">Geri</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
-  <string name="user_agreement_content">Bu hizmeti kullanarak %s kabul ediyorsunuz.</string>
+  <string name="user_agreement_content">Bu hizmeti kullanarak %s\'nı kabul ediyorsunuz.</string>
   <string name="user_agreement_link">Mi Bulut Hizmet Şartları</string>
   <string name="user_agreement_title">Mi Bulut Hizmet Şartları</string>
   <string name="user_storage_info_available_text_prefix">%s mevcut</string>
