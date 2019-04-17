@@ -815,11 +815,11 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="pref_google_lens_title">Lens Önerileri</string>
   <string name="pref_google_lens_summary">QR kodlarını, E-postaları, sayıları ve daha fazlasını otomatik olarak tanımlama</string>
   <string name="wideselfie_press_shoot_key_to_start">Deklanşöre dokunun</string>
-  <string name="wideselfie_rotate_slowly">Telefonu yavaşça yana doğru döndürün</string>
+  <string name="wideselfie_rotate_slowly">Telefonu yana doğru döndürün</string>
   <string name="wideselfie_rotate_to_back">Telefonu geriye doğru eğin</string>
   <string name="wideselfie_rotate_to_front">Telefonu öne eğin</string>
-  <string name="wideselfie_rotate_to_left_slowly">Telefonu yavaşça sola döndürün</string>
-  <string name="wideselfie_rotate_to_right_slowly">Telefonu yavaşça sağa döndürün</string>
+  <string name="wideselfie_rotate_to_left_slowly">Telefonu sola döndür</string>
+  <string name="wideselfie_rotate_to_right_slowly">Telefonu sağa döndür</string>
   <string name="macro_mode">Makro modu</string>
   <string name="macro_mode_tip">Lütfen objeyi 10 cm içine yerleştirin</string>
   <string name="mimoji_back">geri</string>
@@ -847,7 +847,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="mimoji_check_beyond_20_degrees">Yüz özelliklerini tanımlamak için lütfen yüzünüzü ekrana döndürün</string>
   <string name="recapture_dialog_message">Geri almayı onayla?</string>
   <string name="recapture_dialog_title">Yeniden çekim yapmak geçerli görüntüyü temizler</string>
-  <string name="wideselfie_result_image_lossless">Panorama kaydedilemedi</string>
+  <string name="wideselfie_result_image_lossless">Panoramik çekim oluşturulamadı</string>
   <string name="dialog_google_lens_option_0">Google Lens(Tavsiye edilen)</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Kilidi</string>

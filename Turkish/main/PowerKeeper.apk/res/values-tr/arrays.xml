@@ -18,8 +18,8 @@
 	<item>Aşırı pil tasarrufu tarafından desteklenmiyor</item>
   </string-array>
   <string-array name="pc_manage_active_app_items">
-	<item>Uygulamaları uyut</item>
-	<item>Gücü koru</item>
+	<item>Uygulamayı uyku moduna geçir</item>
+	<item>Güç tasarrufu</item>
   </string-array>
   <string-array name="hmode_app_classify1">
     <item>Özel</item>

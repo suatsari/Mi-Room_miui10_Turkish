@@ -320,12 +320,12 @@
     <item quantity="one">" %1$ssaat %2$s"</item>
   </plurals>
   <plurals name="usage_state_device_explain_today">
-    <item quantity="other">Bugünkü kilitsiz zaman %d</item>
-    <item quantity="one">Bugünkü kilitsiz zaman %d</item>
+    <item quantity="other">Bugün %d kez kilit açıldı</item>
+    <item quantity="one">Bugün %d kez kilit açıldı</item>
   </plurals>
   <plurals name="usage_state_device_explain_week">
-    <item quantity="other">Son 7 gün içindeki kilitsiz zaman %d</item>
-    <item quantity="one">Son 7 gün içindeki kilitsiz zaman %d</item>
+    <item quantity="other">Son 7 gün içinde %d kez kilit açıldı</item>
+    <item quantity="one">Son 7 gün içinde %d kez kilit açıldı</item>
   </plurals>
   <plurals name="usage_state_device_noti_explain_today">
     <item quantity="other">Bugün %d bildirim alındı</item>
