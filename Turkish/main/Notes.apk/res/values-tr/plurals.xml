@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="note_count_in_folder">
-        <item quantity="other">%1$s not</item>
-        <item quantity="one">1 not</item>
-    </plurals>
-    <plurals name="search_results_title">
-        <item quantity="other">\"%2$s\" için %1$s sonuç </item>
-        <item quantity="one">\"%2$s\" için %1$s sonuç</item>
-    </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s not</item>
-        <item quantity="one">%1$s not</item>
-    </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s dizin</item>
-        <item quantity="one">%1$s dizin</item>
-    </plurals>
-    <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"%1$s eşitlenemedi"</item>
-        <item quantity="one">"%1$s eşitlenemedi"</item>
-    </plurals>
-    <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d saniye kaldı</item>
-        <item quantity="one">%d saniye kaldı</item>
-    </plurals>
-    <plurals name="word_count">
-        <item quantity="other">%d karakter</item>
-        <item quantity="one">%d karakter</item>
-    </plurals>
-    <plurals name="alert_message_delete">
-        <item quantity="other">%1$s öğe silinsin mi?</item>
-        <item quantity="one">%1$s öğe silinsin mi?</item>
-    </plurals>
-	<plurals name="format_move_notes_out_folder">
-        <item quantity="other">Klasörden %1$s not kaldırıldı</item>
-        <item quantity="one">Klasörden %1$s not kaldırıldı</item>
-    </plurals>
-	<plurals name="format_move_notes_to_folder">
-        <item quantity="other">%1$s not %2$s konumuna taşındı</item>
-        <item quantity="one">%1$s not %2$s konumuna taşındı</item>
-    </plurals>
-	<plurals name="toast_notes_hidden_count">
-        <item quantity="other">%1$s not başarıyla gizlendi</item>
-        <item quantity="one">%1$s not başarıyla gizlendi</item>
-    </plurals>
-    <plurals name="toast_notes_unhidden_count">
-        <item quantity="other">%1$s not başarıyla gösterilir</item>
-        <item quantity="one">%1$s not başarıyla gösterilir</item>
-    </plurals>	
+  <plurals name="alert_message_delete">
+    <item quantity="other">%1$s öğe silinsin mi?</item>
+    <item quantity="one">%1$s öğe silinsin mi?</item>
+  </plurals>
+  <plurals name="cloud_state_unsynced_count">
+    <item quantity="other">%1$s öğe eşitlenemedi</item>
+    <item quantity="one">%1$s öğe eşitlenemedi</item>
+  </plurals>
+  <plurals name="folder_terms">
+    <item quantity="other">%1$s klasör</item>
+    <item quantity="one">%1$s klasör</item>
+  </plurals>
+  <plurals name="format_move_notes_out_folder">
+    <item quantity="other">Klasörden %1$s not kaldırıldı</item>
+    <item quantity="one">Klasörden %1$s not kaldırıldı</item>
+  </plurals>
+  <plurals name="format_move_notes_to_folder">
+    <item quantity="other">%1$s not %2$s konumuna taşındı</item>
+    <item quantity="one">%1$s not %2$s konumuna taşındı</item>
+  </plurals>
+  <plurals name="note_terms">
+    <item quantity="other">%1$s not</item>
+    <item quantity="one">%1$s not</item>
+  </plurals>
+  <plurals name="record_last_ten_seconds_reminder">
+    <item quantity="other">%d saniye kaldı</item>
+    <item quantity="one">%d saniye kaldı</item>
+  </plurals>
+  <plurals name="toast_notes_hidden_count">
+    <item quantity="other">%1$s not başarıyla gizlendi</item>
+    <item quantity="one">%1$s not başarıyla gizlendi</item>
+  </plurals>
+  <plurals name="toast_notes_unhidden_count">
+    <item quantity="other">%1$s not başarıyla gizliden çıkarıldı</item>
+    <item quantity="one">%1$s not başarıyla gizliden çıkarıldı</item>
+  </plurals>
+  <plurals name="word_count">
+    <item quantity="other">%d karakter</item>
+    <item quantity="one">%d karakter</item>
+  </plurals>
 </resources>
