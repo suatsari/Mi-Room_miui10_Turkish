@@ -36,4 +36,8 @@
         <item quantity="other">%d yorumu görüntüle</item>
         <item quantity="one">%d yorumu görüntüle</item>
     </plurals>
+    <plurals name="subscriber">
+        <item quantity="other"> aboneler</item>
+        <item quantity="one"> aboneler</item>
+    </plurals>	
 </resources>

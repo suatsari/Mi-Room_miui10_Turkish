@@ -523,5 +523,7 @@
   <string name="kr_authorization_storage">Depolama</string>
   <string name="kr_authorization_storage_desc">Depolamaya erişmek, günlükler, resimler ve videolar dahil olmak üzere öğeleri kaydetmek için</string>
   <string name="kr_authorization_summary">Yasal belgeler</string>
-  <string name="kr_authorization_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>  
+  <string name="kr_authorization_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
+  <string name="feedback_description_hint_suggestion">MIUI\'yi nasıl geliştirmek istediğinizi bize söyleyin.</string>
+  <string name="feedback_jira_key_place_holder">Jira oluşturuluyor…</string>  
 </resources>

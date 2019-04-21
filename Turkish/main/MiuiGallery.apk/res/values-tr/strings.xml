@@ -205,8 +205,8 @@
   <string name="cityname_6">DuvarKağıdı Galerisi</string>
   <string name="cleaner_empty_value_description">Her şey iyi gözüküyor</string>
   <string name="cleaner_photo_pick_delete_selected">Seçilen fotoğrafları sil</string>
-  <string name="cleaner_scan_description">Öğeleri iyileştirmek, cihazınızdaki depolama alanını boşaltır</string>
-  <string name="cleaner_scan_exit_dialog_message">Bir dahaki sefere baştan başlamalısın. Taramayı yinede durdur?</string>
+  <string name="cleaner_scan_description">Öğeleri optimize etmek, cihazınızdaki depolama alanını boşaltır</string>
+  <string name="cleaner_scan_exit_dialog_message">Bir dahaki sefere baştan başlamak zorunda kalacaksın. Taramayı şimdi durdur?</string>
   <string name="cleaner_scan_exit_dialog_positive">Durdur</string>
   <string name="cleaner_scan_exit_dialog_title">Taramayı durdur</string>
   <string name="cleaner_scan_finish">Başarıyla tarandı</string>
@@ -216,12 +216,12 @@
   <string name="cleaner_screen_shot_action">Temizle</string>
   <string name="cleaner_screen_shot_description">Artık ihtiyacınız olmayan ekran görüntülerini silin.</string>
   <string name="cleaner_screen_shot_title">Ekran görüntülerini sil</string>
-  <string name="cleaner_slim_action">İyileştirme başlıyor…</string>
-  <string name="cleaner_slim_description">İyileştirilmiş fotoğrafları cihazınızda saklayın. Orijinal dosyalar Mi Bulut\'ta saklanacaktır.</string>
-  <string name="cleaner_slim_start">İyileştirme</string>
-  <string name="cleaner_slim_title">Fotoğrafları İyileştirme</string>
+  <string name="cleaner_slim_action">Optimizasyonu başlat</string>
+  <string name="cleaner_slim_description">Optimize edilmiş fotoğrafları cihazınızda tutun. Orijinal dosyalar Mi Bulut\'ta saklanır.</string>
+  <string name="cleaner_slim_start">Optimize</string>
+  <string name="cleaner_slim_title">Fotoğrafları optimize et</string>
   <string name="cleaner_space_description">serbest bırakılabilir</string>
-  <string name="cleaner_space_detail_description">Depolama alanınızı boşaltmak için Galeri\'nizdeki fotoğrafları temizleyin</string>
+  <string name="cleaner_space_detail_description">Depolama alanınızı boşaltmak için Galerinizdeki fotoğrafları temizleyin</string>
   <string name="cleaner_stop_scan">Taramayı durdur</string>
   <string name="click_download_gif">gif indirmek için tıklayın</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
@@ -956,7 +956,7 @@
   <string name="slideshow_interval_title">Her resmin geçiş süresini seçin</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slim_complete">Tamam</string>
-  <string name="slim_complete_action_title">Başarıyla iyileştirildi</string>
+  <string name="slim_complete_action_title">Başarıyla optimize edildi</string>
   <string name="slim_cost_time_minute">Kalan %dd</string>
   <string name="slim_cost_time_minute_and_second">Kalan %1$dd %2$ds</string>
   <string name="slim_cost_time_second">Kalan %ds</string>
@@ -1478,7 +1478,7 @@ mevcut"</string>
   <string name="set_video_wallpaper_failed">Bu öğeyi video duvar kağıdı olarak kullanamazsınız</string>
   <string name="cleaner_similar_action">Şimdi sil</string>
   <string name="cleaner_similar_description">Çift fotoğrafları sil</string>
-  <string name="cleaner_similar_title">Fotoğrafları çoğalt</string>
+  <string name="cleaner_similar_title">Yinelenen fotoğraflar</string>
   <string name="cleaner_video_action">Şimdi sil</string>
   <string name="cleaner_video_description">Depolama alanı kaplayan videoları silin</string>
   <string name="cleaner_video_pick_delete_selected">Seçilen videoları sil</string>

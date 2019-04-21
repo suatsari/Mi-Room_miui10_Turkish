@@ -241,12 +241,12 @@
         <item quantity="one">Paylaşılamadı. Hala %d fotoğraf işleniyor…</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
-        <item quantity="other">%d fotoğraf iyileştirildi</item>
-        <item quantity="one">%d fotoğraf iyileştirildi</item>
+        <item quantity="other">%d fotoğraf  optimize edildi</item>
+        <item quantity="one">%d fotoğraf optimize edildi</item>
     </plurals>
     <plurals name="slim_exit_dialog_message">
-        <item quantity="other">%d fotoğraf iyileştirilmedi. Şimdi dursun mu?</item>
-        <item quantity="one">%d fotoğraf iyileştirilmedi. Şimdi dursun mu?</item>
+        <item quantity="other">%d fotoğraf optimize edilmedi. Şimdi durdur?</item>
+        <item quantity="one">%d fotoğraf optimize edilmedi. Şimdi durdur?</item>
     </plurals>
     <plurals name="slim_remain_photo_count">
         <item quantity="other">%d fotoğraf kaldı</item>

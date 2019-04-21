@@ -824,6 +824,12 @@
   <string name="yesterday">Dün</string>
   <string name="younger_brother">弟弟</string>
   <string name="younger_sister">妹妹</string>
-  <string name="err_no_gms">Uyumsuz uygulama sürümü. Bu uygulamayı ayrı olarak yükleyin</string>
-  <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>  
+  <string name="app_notification_info">Hesap makinesi arka planda çalışıyor</string>
+  <string name="btn_float_window_alpha">Opaklığı ayarla</string>
+  <string name="btn_float_window_back_to_app">Hesap Makinesini büyüt</string>
+  <string name="btn_float_window_close">Küçültülmüş hesap makinesini kapat</string>
+  <string name="btn_float_window_resize">Küçültülmüş hesap makinesini yeniden boyutlandır</string>
+  <string name="float_window_guide_text">Hesap makinesini küçültmek için buraya dokunun</string>
+  <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
+  <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>  
 </resources>

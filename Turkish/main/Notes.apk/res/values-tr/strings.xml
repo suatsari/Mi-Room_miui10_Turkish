@@ -13,7 +13,7 @@
   <string name="alert_message_delete_note">Bu notu sil?</string>
   <string name="alert_message_edit_anyway">Bu notu düzenlerseniz içeriğinin bir kısmı kaybolabilir.</string>
   <string name="alert_message_restore">Bu not açılamadı. İçeriğini düzenlemek için geri yükleyin.</string>
-  <string name="alert_title_delete">Notu sil</string>
+  <string name="alert_title_delete">Not sil</string>
   <string name="alert_title_edit_anyway">Bu not desteklenmeyen içerik içeriyor</string>
   <string name="alert_title_hidden_note">Gizli bir not hatırlatıcısı alındı</string>
   <string name="alert_title_restore">Notu geri yükle</string>
@@ -79,7 +79,7 @@
   <string name="error_send_empty_note_to_weibo">Boş not Weibo adresine gönderilemez</string>
   <string name="error_unsupport_content">Bu not desteklenmeyen içerik içeriyor, güncellemek için buraya dokunun</string>
   <string name="error_widget_exist_for_send_to_desktop">Bu not zaten Ana ekranınızda</string>
-  <string name="first_enter_custom_folder_hint">Burada klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
+  <string name="first_enter_custom_folder_hint">Buradan klasörleri yeniden adlandırabilir veya silebilirsiniz</string>
   <string name="folder_exist">Aynı ada sahip bir klasör zaten var</string>
   <string name="folder_operation_delete">Sil</string>
   <string name="folder_operation_rename">Yeniden adlandır</string>
@@ -97,7 +97,7 @@
   <string name="menu_add_description">Not ekle</string>
   <string name="menu_add_folder">Klasöre ekle</string>
   <string name="menu_add_folder_description">Klasör ekle</string>
-  <string name="menu_create_folder">Yeni dosya</string>
+  <string name="menu_create_folder">Yeni klasör</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_delete_forever">Kalıcı olarak sil</string>
   <string name="menu_folders">Klasörler</string>
