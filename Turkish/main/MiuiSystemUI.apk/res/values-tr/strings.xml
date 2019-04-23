@@ -1800,5 +1800,7 @@ d MMM"</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
   <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapatın</string>
   <string name="power_save_ps_freeze">Arka planda uygulamaları dondurun</string>
-  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>  
+  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>
+  <string name="notification_channel_dnd">Rahatsız etme</string>
+  <string name="dnd_notification_warnings_title">Rahatsız etmeyi kapatana kadar çağrılar ve bildirimler susturulacak</string>  
 </resources>

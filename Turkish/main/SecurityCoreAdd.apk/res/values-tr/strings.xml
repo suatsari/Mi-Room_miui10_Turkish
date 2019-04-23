@@ -444,4 +444,6 @@
   <string name="xspace_uninstall_dialog_content">Klonlu uygulamayı kaldırmak tüm uygulama verisini kaldıracak.</string>
   <string name="xspace_uninstall_dialog_title">Klonlu uygulamayı kaldır</string>
   <string name="xspace_uninstalling">Kaldırılıyor…</string>
+  <string name="dual_animation">Animasyonu başlat</string> 
+  <string name="dual_animation_description">Klonlu uygulamalar başlatıldığında animasyonu göster</string>  
 </resources>
