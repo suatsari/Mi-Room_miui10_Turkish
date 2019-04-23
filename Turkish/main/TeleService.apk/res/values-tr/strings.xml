@@ -422,7 +422,7 @@
   <string name="connect_disconnect_vibrate_none">Yok</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">Aradığınız kişi, çağrıyı yanıtladığı zaman titret</string>
-  <string name="connect_disconnect_vibrate_title">Aramanız cevaplandığında titret</string>
+  <string name="connect_disconnect_vibrate_title">Çağrı cevaplandığında titret</string>
   <string name="connect_disconnect_vibrate_weak">Hafif</string>
   <string name="connect_later">Şu anda bu ağa bağlanılamıyor. Daha sonra tekrar deneyin.</string>
   <string name="connected_via_passpoint">"%1$s üzerinden bağlı "</string>

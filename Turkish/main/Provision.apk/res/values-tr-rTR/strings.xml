@@ -15,8 +15,8 @@
   <string name="content_description_miui_version">MIUI 10</string>
   <string name="content_description_start">Başlat</string>
   <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutun.</string>
-  <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerini doğrulayın veya uygulamalarda ve hizmetlerde oturum açın.</string>
-  <string name="desc_international_fingerprint">Parmakizinizi kullanarak cihazın kilidi açabilir veya uygulamalara ve hizmetlere oturum açabilirsiniz.</string>
+  <string name="desc_fingerprint">Cihaz kilidini açmak için parmak izini kullanın, Mi Ödeme işlemlerini doğrulayın veya uygulamalarda ve hizmetlerde oturum açın.</string>
+  <string name="desc_international_fingerprint">Parmak izinizi kullanarak cihazın kilidi açabilir veya uygulamalara ve hizmetlere oturum açabilirsiniz.</string>
   <string name="disagree">İptal</string>
   <string name="enable_accessibility_canceled">Erişilebilirlik iptal edildi.</string>
   <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack\'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine ve ardından ekrana iki kez dokunun.</string>
@@ -27,7 +27,7 @@
   <string name="input_method_category">E-Posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz.</string>
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
   <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
-  <string name="item_fingerprint">Parmakizi</string>
+  <string name="item_fingerprint">Parmak izi</string>
   <string name="item_lock_screen_password">Sadece ekran kilidi</string>
   <string name="language_picker_other_languages_title">Diğer Diller</string>
   <string name="language_settings">Dil seçin</string>
@@ -73,7 +73,7 @@
   <string name="terms_of_use">Hükümler ve Koşullar</string>
   <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Topladığımız bilgileri, bunları nasıl kullandığımızı ve sizin için hangi seçeneklerin bulunduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.
   
-MIUI\'yi kullanabilmeniz için Hizmet Şartlarımız ve Gizlilik Politikamızı kabul etmeniz gerekir. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır."</string>
+MIUI\'ı kullanabilmeniz için Hizmet Şartlarımız ve Gizlilik Politikamızı kabul etmeniz gerekir. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır."</string>
   <string name="title_fingerprint">Şifreyi belirle</string>
   <string name="user_agreement">Hizmet Şartları</string>
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>

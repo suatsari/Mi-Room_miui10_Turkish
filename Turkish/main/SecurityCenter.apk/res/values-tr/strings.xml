@@ -2632,5 +2632,9 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="securityadd_update_tips_cancle">Şimdi değil</string>
   <string name="securityadd_update_tips_message">En yeni oyun özelliklerine erişmek için Güvenlik hizmeti eklentisini güncelleyin. %1$dMB indirilecek.</string>
   <string name="securityadd_update_tips_now">Güncelleştirme</string>
-  <string name="securityadd_update_tips_title">Güncelleştirme</string>  
+  <string name="securityadd_update_tips_title">Güncelleştirme</string>
+  <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
+  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapatın</string>
+  <string name="power_save_ps_freeze">Arka planda uygulamaları dondurun</string>
+  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>  
 </resources>

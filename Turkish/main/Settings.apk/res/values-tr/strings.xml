@@ -160,7 +160,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="account_list">Diğer Hesaplar</string>
   <string name="account_other">Diğer</string>
   <string name="account_settings">Hesaplar</string>
-  <string name="account_settings_menu_auto_sync">Verileri oto eşitle</string>
+  <string name="account_settings_menu_auto_sync">Verileri otomatik eşitle</string>
   <string name="account_settings_menu_auto_sync_personal">Kişisel verileri otomatik eşitle</string>
   <string name="account_settings_menu_auto_sync_work">Çalışma verilerini otomatik eşitle</string>
   <string name="account_settings_title">Hesaplar</string>
@@ -2061,8 +2061,8 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="header_category_wireless_networks">Ağ</string>
   <string name="header_data_and_synchronization">Veri &amp; Eşitleme</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Eğer durdurursanız mevcut bazı işleri kaybedebilirsiniz.</string>
-  <string name="help_feedback_label">Yardım &amp; Geribildirim</string>
-  <string name="help_label">Yardım ve Geribildirim</string>
+  <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
+  <string name="help_label">Yardım ve geri bildirim</string>
   <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="hide">Gizle</string>
   <string name="hide_extra_apps">Uygulama kullanımını göster</string>
@@ -3571,7 +3571,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="reset_network_data">Mobil veri</string>
   <string name="reset_network_desc">Bu, tüm ağ ayarlarını sıfırlar</string>
   <string name="reset_network_final_button_text">Ayarları sıfırla</string>
-  <string name="reset_network_final_desc">Tüm ağ ayarları sıfırlansın mı? Bu geri alınamaz!</string>
+  <string name="reset_network_final_desc">Tüm ağ ayarları şimdi sıfırlansın mı? Bu birkaç saniye sürebilir. Bu işlemi geri alamazsınız.</string>
   <string name="reset_network_title">Ağ ayarlarını sıfırla</string>
   <string name="reset_network_wifi">WLAN</string>
   <string name="reset_second_space_passwd">İkinci Alan şifresini sıfırla</string>
@@ -4126,8 +4126,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="setup_choose_unlock_fingerprint_msg">Parmak izinizi eklemeden önce ekran kilidini ayarlayın.</string>
   <string name="setup_choose_unlock_mixed_password">Şifre</string>
   <string name="setup_choose_unlock_mixpassword_title">Şifreyi belirle</string>
-  <string name="setup_choose_unlock_password">PİMİ</string>
-  <string name="setup_choose_unlock_password_msg">4 sayı girin</string>
+  <string name="setup_choose_unlock_password">PIN</string>
+  <string name="setup_choose_unlock_password_msg">4 rakam girin</string>
   <string name="setup_choose_unlock_password_title">PIN\'i ayarla</string>
   <string name="setup_choose_unlock_pattern">Şablon</string>
   <string name="setup_choose_unlock_pattern_title">Kilit açma desenini çiz</string>
@@ -4177,11 +4177,11 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="show_profile_info_on_lockscreen_label">Kilit ekranında profil bilgisini göster</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
   <string name="show_running_services">Çalışan hizmetleri göster</string>
-  <string name="show_screen_updates">Ekran güncellemelerini göster</string>
-  <string name="show_screen_updates_summary">Güncelledikleri zaman tüm pencere yüzeylerini yanıp söner</string>
+  <string name="show_screen_updates">Yüzey güncellemelerini göster</string>
+  <string name="show_screen_updates_summary">Güncelleme sırasında tüm pencere yüzeyleri yanıp söner</string>
   <string name="show_silently_summary">Ses, titreşim, uyarı olmaksızın ekranda bildirimleri göster.</string>
   <string name="show_touches">Dokunmaları göster</string>
-  <string name="show_touches_summary">Dokunmalar için görsel geribildirim göster</string>
+  <string name="show_touches_summary">Dokunmalar için görsel geri bildirim göster</string>
   <string name="show_user_info_on_lockscreen_label">Kilit ekranında kullanıcı bilgisini göster</string>
   <string name="shut_down_find_device_failure_confirm">Tamam</string>
   <string name="shut_down_find_device_network_failure_content">Telefonu Bul kapatılamadı. Cihazınızın internet bağlantısı olduğundan emin olun.</string>
@@ -4844,7 +4844,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Cihazın kilidini açmak için parmağınızla basit bir desen çizin</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
-  <string name="unlock_set_unlock_pin_summary" formatted="false">Cihazın kilidini açmak için %d-%d haneli sayı girin</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Cihazın kilidini açmak için %d-%d haneli rakam girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Bir ekran kilidi ayarladıktan sonra, parmak izinizi Ayarlar &gt; Kilit ekranı bölümünde de ayarlayabilirsiniz.</string>
@@ -6015,11 +6015,11 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="to_close">Kapat</string> 
   <string name="title_jeejen">Jeejen Ana ekranı</string>
-  <string name="status_bar_settings_customer_feedback">Geribildirim</string>
+  <string name="status_bar_settings_customer_feedback">Geri bildirim</string>
   <string name="status_bar_settings_function_description">Bu özellik hakkında</string>
   <string name="status_bar_settings_user_fold_description1">Bildirimler klasörü MIUI 9\'da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
   <string name="status_bar_settings_user_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından bunların önemli olup olmadığını belirlemek için birden fazla ölçüt kullanacaktır.</string>
-  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirin. Şimdiden geribildirim için teşekkür ederiz.</string>
+  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirin. Şimdiden geri bildirim için teşekkür ederiz.</string>
   <string name="status_bar_settings_user_fold_disable">Kapalı</string>
   <string name="status_bar_settings_user_fold_enable">Açık</string>
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
@@ -6427,6 +6427,6 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usagestats_device_timeout_positive">Anladım</string>
   <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
   <string name="wifi_protection_on">Açık</string>
-  <string name="wifi_protection_settings_title">WİFİ prob koruması</string>
-  <string name="wifi_protection_tip">MIUI, WİFİ prob koruma fonksiyonunu otomatik olarak açar. Cep telefonu WLAN\'ı taradığında, WİFİ prob kutusunun kullanıcının gizliliğini çalmasını önlemek ve cep telefonunu korumak için MAC adresini rastgele seçer.</string>  
+  <string name="wifi_protection_settings_title">WLAN prob taleplerinden koruma</string>
+  <string name="wifi_protection_tip">MIUI, cihazınız WLAN ağlarını ararken, rastgele MAC adreslerinden ve WLAN prob algılayıcılarından gelen WLAN prob isteklerinden kişisel verilerinizi koruyacaktır.</string>  
 </resources>

@@ -42,4 +42,5 @@
   <string name="tencent_dialog_title">Tencent’in Gizlilik Kuralı</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
   <string name="title_activity_main">Esas Faaliyet</string>
+  <string name="common_ids_permission_label">Avast ortak kimlikleri izni</string> 
 </resources>

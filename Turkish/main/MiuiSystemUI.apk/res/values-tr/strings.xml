@@ -586,7 +586,7 @@
   <string name="face_unlock_down">Başını kaldır</string>
   <string name="face_unlock_identify_error">Bir tanıma hatası oluştu</string>
   <string name="face_unlock_fail">Yüz doğrulanamadı</string>
-  <string name="face_unlock_fail_retry">Yüzünü doğrulayamadım. Yeniden denemek için simgeye dokunun.</string>
+  <string name="face_unlock_fail_retry">Yüzünü doğrulayamadım. Tekrar denemek için yukarıya dokunun</string>
   <string name="face_unlock_success_stay_screen_msg">Yüzünüz doğrulandıktan sonra Kilit ekranında kalın. Ana ekranı açmak için yukarı kaydırın.</string>
   <string name="face_unlock_success_stay_screen_title">Kilidi açtıktan sonra Kilit ekranında kalın</string>  
   <string name="face_unlock_not_found">Seni tanıyamadım</string>
@@ -599,8 +599,8 @@
   <string name="face_unlock_passwork">Şifreyi kullan</string>
   <string name="face_unlock_passwork_and_fingerprint">Şifre veya parmak izi kullan</string>
   <string name="face_unlock_quality">Yüzünü net göremedim</string>
-  <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz verilerini tekrar kaydetmek için dokunun.</string>
-  <string name="face_unlock_reenter_title">Yüz verilerini tekrar kaydedin.</string>
+  <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz verisini tekrar kaydetmek için dokunun.</string>
+  <string name="face_unlock_reenter_title">Yüz verisini tekrar kaydedin.</string>
   <string name="face_unlock_reveal_eye">Gözlerinizi görünür olsun</string>
   <string name="face_unlock_reveal_mouth">Dudaklarınızı görünür olsun</string>
   <string name="face_unlock_rise">Kafanızı indirin</string>
@@ -1789,5 +1789,16 @@ d MMM"</string>
   <string name="usb_port_short_circuit_recovered_title">Şarj portu şimdi normal çalışıyor</string>
   <string name="usb_port_short_circuit_title">Şarj portunda nem var</string>
   <string name="face_unlock_success">Yüz verisi başarıyla doğrulandı</string>
-  <string name="gxzw_use_password_to_unlock">Şifreyi girin</string>  
+  <string name="gxzw_use_password_to_unlock">Şifreyi girin</string>
+  <string name="battery_low_button_not_open_power_save">Şimdi değil</string>
+  <string name="battery_low_button_open_power_save">Aç</string>
+  <string name="battery_low_percent_format_save_mode_closed">Kalan pil %d%% değerinden az. Cihazınızı şarj edin.</string>
+  <string name="battery_low_percent_format_save_mode_open">Kalan pil %d%% değerinden az. Gücü korumak için Pil tasarrufunu açın.</string>
+  <string name="battery_low_title_power_save">Pil tasarrufu</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Ekran açıldığında, yüz verilerini kullanarak cihazın kilidini açmak için yukarı kaydırın.</string>
+  <string name="face_unlock_fail_retry_global">Yüz kilidini kullanmak için yukarıya dokunun</string>
+  <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
+  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapatın</string>
+  <string name="power_save_ps_freeze">Arka planda uygulamaları dondurun</string>
+  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>  
 </resources>
