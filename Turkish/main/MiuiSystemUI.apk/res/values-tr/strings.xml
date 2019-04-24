@@ -212,7 +212,7 @@
   <string name="accessibility_signal_full">Sinyal tam.</string>
   <string name="accessibility_status_bar_headphones">Kulaklık bağlandı</string>
   <string name="accessibility_status_bar_headset">Kulaklık bağlı</string>
-  <string name="accessibility_status_bar_hotspot">Hotspot</string>
+  <string name="accessibility_status_bar_hotspot">Paylaşım</string>
   <string name="accessibility_three_bars">Üç çubuk.</string>
   <string name="accessibility_tty_enabled">Daktilo (TTY) etkin.</string>
   <string name="accessibility_two_bars">İki çubuk.</string>
@@ -1176,7 +1176,7 @@ d MMMM"</string>
   <string name="quick_settings_edit_label">Düzenle</string>
   <string name="quick_settings_flashlight_label">El feneri</string>
   <string name="quick_settings_gps_label">GPS</string>
-  <string name="quick_settings_hotspot_label">Hotspot</string>
+  <string name="quick_settings_hotspot_label">Paylaşım</string>
   <string name="quick_settings_ime_label">Giriş yöntemi</string>
   <string name="quick_settings_inversion_label">Renkleri ters çevir</string>
   <string name="quick_settings_location_label">Konum</string>

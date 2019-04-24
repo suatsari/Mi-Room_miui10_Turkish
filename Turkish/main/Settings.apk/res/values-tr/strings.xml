@@ -1116,8 +1116,8 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="condition_cellular_title">Hücresel veriler kapalı</string>
   <string name="condition_expand_hide">Gizle</string>
   <string name="condition_expand_show">Göster</string>
-  <string name="condition_hotspot_summary">%1$s mobil Wi-Fi hotspot etkin, bu cihaz için Wi-Fi kapalı.</string>
-  <string name="condition_hotspot_title">Hotspot açık</string>
+  <string name="condition_hotspot_summary">%1$s WLAN paylaşımı etkin, bu cihaz için WLAN kapalı.</string>
+  <string name="condition_hotspot_title">İnternet paylaşımı açık</string>
   <string name="condition_night_display_summary">Ekran rengi amber tonuna geçirilir. Bu renk, uyumanıza yardımcı olabilir.</string>
   <string name="condition_night_display_title">Gece Işığı açık</string>
   <string name="condition_turn_off">Kapalı</string>
@@ -5417,7 +5417,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK Mobil WLAN Paylaşımı</string>
   <string name="wifi_hotspot_connect">BAĞLAN</string>
   <string name="wifi_hotspot_message">%1$s ağa bağlanmadan önce çevrimiçi oturum açmanızı gerektirir.</string>
-  <string name="wifi_hotspot_off_subtext">Hotspot üzerinden bu telefonun İnternet bağlantısı paylaşılmıyor</string>
+  <string name="wifi_hotspot_off_subtext">İnternet veya içeriği diğer cihazlarla paylaşılmıyor</string>
   <string name="wifi_hotspot_title">Bağlanmak için oturum açılsın mı?</string>
   <string name="wifi_in_airplane_mode">Uçak Modunda</string>
   <string name="wifi_info_reconnect">Bağlantı başarısız, lütfen tekrar deneyin!</string>
@@ -6428,5 +6428,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
   <string name="wifi_protection_on">Açık</string>
   <string name="wifi_protection_settings_title">WLAN prob taleplerinden koruma</string>
-  <string name="wifi_protection_tip">MIUI, cihazınız WLAN ağlarını ararken, rastgele MAC adreslerinden ve WLAN prob algılayıcılarından gelen WLAN prob isteklerinden kişisel verilerinizi koruyacaktır.</string>  
+  <string name="wifi_protection_tip">MIUI, cihazınız WLAN ağlarını ararken, rastgele MAC adreslerinden ve WLAN prob algılayıcılarından gelen WLAN prob isteklerinden kişisel verilerinizi koruyacaktır.</string>
+  <string name="dc_light_title">Titreşim önleme modu</string>
+  <string name="dc_light_summary">Göz yorgunluğunu azaltmak için DC karartma uygulayın</string>
+  <string name="dc_light_dialog_summary">Titreşim önleme modu açık olduğunda görüntü kalitesi etkilenebilir. Yine de açılsın mı?</string>  
 </resources>
