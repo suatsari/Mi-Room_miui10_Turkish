@@ -778,15 +778,16 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_pairing_accept_all_caps">EŞLE</string>
   <string name="bluetooth_pairing_decline">İptal</string>
   <string name="bluetooth_pairing_device_down_error_message">%1$s ile iletişim kurulamıyor.</string>
-  <string name="bluetooth_pairing_dialog_contants_request">%1$s kişilerinize erişmek ve geçmişi aramak istiyor.</string>
-  <string name="bluetooth_pairing_dialog_paring_request">%1$s Bluetooth ile eşleşmek istiyor. Bağlantı kurulduğunda, bu kişilere erişebilir ve geçmişi arayabilir.</string>
+  <string name="bluetooth_pairing_dialog_contants_request">%1$s kişilerinize ve arama geçmişinize erişmek istiyor.</string>
+  <string name="bluetooth_pairing_dialog_paring_request">%1$s Bluetooth ile eşleşmek istiyor. Bağlandığında, rehberinize ve arama geçmişinize erişebilecek.</string>
   <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Telefon rehberi paylaşılsın mı?</string>
-  <string name="bluetooth_pairing_dialog_title">Bu cihazla eşleşilsin mi?</string>
-  <string name="bluetooth_pairing_error_message">%1$s ile eşlenemedi.</string>
-  <string name="bluetooth_pairing_key_msg">Eşleşme kodu</string>
-  <string name="bluetooth_pairing_pin_error_message">PIN veya Passkey kodu yanlış olduğundan %1$s ile eşleştirilemedi.</string>
+  <string name="bluetooth_pairing_dialog_title">Bu cihazla eşleştirilsin mi?</string>
+  <string name="bluetooth_pairing_error_message">%1$s ile eşleştirilemedi.</string>
+  <string name="bluetooth_pairing_key_msg">Bluetooth eşleştirme kodu</string>
+  <string name="bluetooth_pairing_page_title">Yeni cihazı eşleştir</string>
+  <string name="bluetooth_pairing_pin_error_message">Yanlış bir PIN veya anahtar nedeniyle %1$s ile eşleştirilemedi.</string>
   <string name="bluetooth_pairing_rejected_error_message">Eşleştirme %1$s tarafından reddedildi.</string>
-  <string name="bluetooth_pairing_request">%1$s ile eşlensin mi?</string>
+  <string name="bluetooth_pairing_request">%1$s ile eşleştirilsin mi?</string>
   <string name="bluetooth_pairing_shares_phonebook">Kişilerinize ve arama geçmişinize erişime izin verin</string>
   <string name="bluetooth_pairing_will_share_phonebook">Eşleştirme bağlandığında kişilerinize ve arama geçmişinize erişmenizi sağlar.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Yerel İnternet bağlantısını cihazla paylaş</string>
@@ -1632,8 +1633,8 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="doze_always_on_title">Açık</string>  
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam ekranı</string>
-  <string name="draw_overlay">Diğer uygulamaların üzerinde göster</string>
-  <string name="draw_overlay_title">Diğer uygulamaların üzerinde gösterilen uygulamalar</string>
+  <string name="draw_overlay">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
   <string name="edge_mode_back">Geri Dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
@@ -3093,7 +3094,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="other_sound_category_preference_title">Diğer sesler ve titreşimler</string>
   <string name="other_sound_settings">Diğer sesler</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="overlay_settings">Diğer uygulamaların üzerinde göster</string>
+  <string name="overlay_settings">Diğer uygulamaların üzerinde görüntüle</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
@@ -3164,7 +3165,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="passpoint_content">%1$s kimlik bilgileri</string>
   <string name="passpoint_label">Üzerinden kaydedildi</string>
-  <string name="password_entrance_title">Ekran kilidi</string>
+  <string name="password_entrance_title">Ekran kilidini ayarla</string>
   <string name="password_guard">Şifre</string>
   <string name="password_turned_off_text">Şifre kapatıldı</string>
   <string name="password_turned_on_text">Şifre açıldı</string>
@@ -3182,7 +3183,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="permission_settings_summary">Konum, Depolama, Telefon, Mesaj ve Kişilerin izinlerini yönet.</string>
   <string name="permission_settings_title">Uygulama İzinleri</string>
   <string name="permissions_label">İzinler</string>
-  <string name="permit_draw_overlay">Diğer uygulamaların üzerinde gösterime izin ver</string>
+  <string name="permit_draw_overlay">Diğer uygulamaların üzerinde görüntülemeye izin ver</string>
   <string name="permit_running_network">Arkaplan verisi</string>
   <string name="permit_usage_access">Müsaade kullanarak eriş</string>
   <string name="permit_write_settings">Sistem ayarlarını değiştirmeye izinli</string>
@@ -3197,7 +3198,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="pick_up_gesture_wakeup_title">Uyandırmak için cihazı kaldır</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
-  <string name="picture_in_picture_app_detail_summary">Bu uygulamanın, uygulama açıkken veya uygulamadan çıktıktan sonra (örneğin, video izlemeye devam etmek için) ekran içinde ekran penceresi oluşturmasına izin verin. Bu pencere, kullandığınız diğer uygulamaların üzerinde gösterilir.</string>
+  <string name="picture_in_picture_app_detail_summary">Bu uygulamanın, uygulama açıkken veya uygulamadan çıktıktan sonra (örneğin, video izlemeye devam etmek için) ekran içinde ekran penceresi oluşturmasına izin verin. Bu pencere, kullandığınız diğer uygulamaların üzerinde görüntülenir.</string>
   <string name="picture_in_picture_app_detail_switch">Ekran içinde ekran özelliğine izin ver</string>
   <string name="picture_in_picture_app_detail_title">Ekran içinde ekran</string>
   <string name="picture_in_picture_empty_text">Yüklü uygulamalardan hiçbiri ekran içinde ekran özelliğini desteklemiyor</string>
@@ -4607,11 +4608,11 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
-  <string name="system_alert_window_access_title">Diğer uygulamaların üzerinde göster</string>
+  <string name="system_alert_window_access_title">Diğer uygulamaların üzerinde görüntüle</string>
   <string name="system_alert_window_apps_title">Uygulamalar</string>
   <string name="system_alert_window_off">Hayır</string>
   <string name="system_alert_window_on">Evet</string>
-  <string name="system_alert_window_settings">Diğer uygulamaların üzerinde göster</string>
+  <string name="system_alert_window_settings">Diğer uygulamaların üzerinde görüntüle</string>
   <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
   <string name="system_and_device_section_title">Sistem ayarları</string>
   <string name="system_app">(Sistem)</string>
@@ -6370,8 +6371,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="layout_exhuge_font_tips_reg">Erişilebilirlik &gt; Ekran boyutu</string>
   <string name="usage_state_app_timer">Ekran süresi</string>
   <string name="usage_state_app_usage_detail_title">Uygulama kullanım detayları</string>
-  <string name="usage_state_app_usage_list_title">Uygulamaların bugünkü ekran süresi</string>
-  <string name="usage_state_app_usage_list_week_title">Uygulamaların ekran süresi (son 7 gün)</string>
+  <string name="usage_state_app_usage_list_title">Uygulamaların ekran süresi</string>
+  <string name="usage_state_app_usage_list_week_title">Uygulamaların ekran süresi</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">%d:00 - %d:00 arasındaki ekran süresi</string>
   <string name="usage_state_app_use_time">Uygulama ekran süresi</string>
   <string name="usage_state_channel_mouth">Son 30 gün</string>
@@ -6383,8 +6384,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usage_state_hour_minute" formatted="false">%ds %dd</string>
   <string name="usage_state_less_one_minute">1 dakikadan az</string>
   <string name="usage_state_monday">Pzt</string>
-  <string name="usage_state_mourth_day">"'Ekran süresi' d MMM"</string>
-  <string name="usage_state_noti_mourth_day">"'Bildirimler' d MMM"</string>
+  <string name="usage_state_mourth_day">%s üzerinde ekran süresi</string>
+  <string name="usage_state_noti_mourth_day">%s üzerinden bildirim</string>
   <string name="usage_state_notification">Bildirimleri yönet</string>
   <string name="usage_state_notification_manager">Uygulama bildirimlerini yönet</string>
   <string name="usage_state_remind_summary">Ekran süresi uyarıları almak için açın. Hafta içi ve hafta sonu için farklı zaman sınırları belirleyebilirsiniz.</string>
@@ -6397,7 +6398,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usage_state_today">Bugün</string>
   <string name="usage_state_today_total_text">Bugünkü ekran süresi</string>
   <string name="usage_state_tuesday">Sal</string>
-  <string name="usage_state_unlock_mourth_day">"'Kilitsiz' d MMM"</string>
+  <string name="usage_state_unlock_mourth_day">%s ile kilit açıldı</string>
   <string name="usage_state_usage_time">Ekran süresi</string>
   <string name="usage_state_usage_time_remind">Ekran süresi uyarısı</string>
   <string name="usage_state_use_time_remind_title">Ekran süresi uyarısı</string>
@@ -6421,7 +6422,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usagestats_app_category_miui_video_etc">Müzik ve video</string>
   <string name="usagestats_device_notification_des">Bugün için ekran süresi sınırı: %s</string>
   <string name="usagestats_device_notification_des_over">Bugünkü ekran süresi sınırınıza zaten ulaştınız.</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Bugünün ekran süresi sınırı: %s | %s kalan</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">"Bugünün sınırı: %s | %s kaldı"</string>
   <string name="usagestats_device_notification_title">Ekran süresi uyarısı</string>
   <string name="usagestats_device_timeout_des" formatted="false">Cihazınızı bugün %ds %dd boyunca kullanıyorsunuz. Biraz dinlenin!</string>
   <string name="usagestats_device_timeout_negative">1 saat içinde hatırlat</string>
@@ -6432,5 +6433,14 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="wifi_protection_tip">MIUI, cihazınız WLAN ağlarını ararken, rastgele MAC adreslerinden ve WLAN prob algılayıcılarından gelen WLAN prob isteklerinden kişisel verilerinizi koruyacaktır.</string>
   <string name="dc_light_title">Titreşim önleme modu</string>
   <string name="dc_light_summary">Göz yorgunluğunu azaltmak için DC karartma uygulayın</string>
-  <string name="dc_light_dialog_summary">Titreşim önleme modu açık olduğunda görüntü kalitesi etkilenebilir. Yine de açılsın mı?</string>  
+  <string name="dc_light_dialog_summary">Titreşim önleme modu açık olduğunda görüntü kalitesi etkilenebilir. Yine de açılsın mı?</string>
+  <string name="choose_keyguard_clock_style">Kilit ekranı saat biçimi</string>
+  <string name="choose_keyguard_clock_summary">Bu ayar üçüncü taraf temalarla çalışmaz</string>
+  <string name="choose_unlock_face_msg">Yüz verilerini kaydetmeden önce bir ekran kilidi ayarlayın.</string>
+  <string name="choose_unlock_fingerprint_msg">Parmak izinizi eklemeden önce ekran kilidini ayarlayın.</string>
+  <string name="miui_lab_gesture_title">Tam Ekran Hareketi</string>
+  <string name="miui_lab_gesture_desc">Fiziksel düğmeleri devre dışı bırakın ve tam ekran hareketinin tadını çıkarın</string>
+  <string name="search_ambient_display_screen_title">Ortam ekranı</string>
+  <string name="search_doze_always_on_title">Her zaman açık</string>
+  <string name="usage_state_date">d MMM</string>  
 </resources>

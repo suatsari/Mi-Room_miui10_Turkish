@@ -1017,13 +1017,12 @@ d MMMM"</string>
   <string name="notification_default_channel_desc">Bu uygulamanın bildirim kategorileri yok</string>
   <string name="notification_done">Tamam</string>
   <string name="notification_group_collapse_button_text">Daralt</string>
-  <string name="notification_group_divider_symbol">%1$s • %2$s</string>
   <string name="notification_header_default_channel">Bildirimler</string>
   <string name="notification_header_title">Bildirimler</string>
   <string name="notification_hidden_by_policy_text">Politika tarafından gizlenen içerikler</string>
   <string name="notification_hidden_text">Yeni bir mesajınız var</string>
-  <string name="notification_info_channel_disabled_text">%1$s tarafından %2$S bildirimleri almayacaksınız.</string>
-  <string name="notification_info_channel_enabled_text">%1$s tarafından %2$S bildirimleri alacaksınız.</string>
+  <string name="notification_info_channel_disabled_text">%1$s tarafından %2$s bildirimleri almayacaksınız.</string>
+  <string name="notification_info_channel_enabled_text">%1$s tarafından %2$s bildirimleri alacaksınız.</string>
   <string name="notification_low_battery_action_btn">Aç</string>
   <string name="notification_low_battery_need_charge">Pil seviyesi düşük. Cihazınızı şarj edin.</string>
   <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
@@ -1798,9 +1797,12 @@ d MMM"</string>
   <string name="face_data_manage_unlock_liftcamera_msg">Ekran açıldığında, yüz verilerini kullanarak cihazın kilidini açmak için yukarı kaydırın.</string>
   <string name="face_unlock_fail_retry_global">Yüz kilidini kullanmak için yukarıya dokunun</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
-  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapatın</string>
-  <string name="power_save_ps_freeze">Arka planda uygulamaları dondurun</string>
+  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapat</string>
+  <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
   <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>
   <string name="notification_channel_dnd">Rahatsız etme</string>
-  <string name="dnd_notification_warnings_title">Rahatsız etmeyi kapatana kadar çağrılar ve bildirimler susturulacak</string>  
+  <string name="dnd_notification_warnings_title">Rahatsız Etme açık. Çağrılar ve bildirimler susturuldu</string>
+  <string name="choose_clock_title_left_top">Sola hizalı</string>
+  <string name="choose_clock_title_middle">Ortalanmış</string>
+  <string name="choose_clock_title_vertical">Dikey</string>  
 </resources>

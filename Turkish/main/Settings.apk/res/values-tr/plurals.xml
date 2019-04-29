@@ -320,20 +320,20 @@
     <item quantity="one">" %1$ssaat %2$s"</item>
   </plurals>
   <plurals name="usage_state_device_explain_today">
-    <item quantity="other">Bugün %d kez kilit açıldı</item>
-    <item quantity="one">Bugün %d kez kilit açıldı</item>
+    <item quantity="other">%d kez kilit açıldı</item>
+    <item quantity="one">%d kez kilit açıldı</item>
   </plurals>
   <plurals name="usage_state_device_explain_week">
-    <item quantity="other">Son 7 gün içinde %d kez kilit açıldı</item>
-    <item quantity="one">Son 7 gün içinde %d kez kilit açıldı</item>
+    <item quantity="other">%d kez kilit açıldı</item>
+    <item quantity="one">%d kez kilit açıldı</item>
   </plurals>
   <plurals name="usage_state_device_noti_explain_today">
-    <item quantity="other">Bugün %d bildirim alındı</item>
-    <item quantity="one">Bugün %d bildirim alındı</item>
+    <item quantity="other">%d bildirim alındı</item>
+    <item quantity="one">%d bildirim alındı</item>
   </plurals>
   <plurals name="usage_state_device_noti_explain_week">
-    <item quantity="other">Son 7 günde %d bildirim alındı</item>
-    <item quantity="one">Son 7 günde %d bildirim alındı</item>
+    <item quantity="other">%d bildirim alındı</item>
+    <item quantity="one">%d bildirim alındı</item>
   </plurals>
   <plurals name="usage_state_hour">
     <item quantity="other">%d saat</item>

@@ -22,8 +22,8 @@
   <string name="accessibility_gameboosterservice_description">Oyun oynarken gelen WeChat çağrılarını susturmak için açın</string>
   <string name="action_button_text_60">Düzelt</string>
   <string name="action_button_text_60_80">Düzelt</string>
-  <string name="action_button_text_80_100">İyi hale getir</string>
-  <string name="action_button_text_100">İyi hale getir</string>
+  <string name="action_button_text_80_100">Optimize et</string>
+  <string name="action_button_text_100">Optimize et</string>
   <string name="action_source_call_title">Engellenen Çağrılar</string>
   <string name="action_source_sms_title">Engelli SMS</string>
   <string name="activity_title_antispam">Engelli Listesi</string>
@@ -451,7 +451,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="btn_text_open_now">Aç</string>
   <string name="btn_text_optimize_extend_battery_time">%s ekle</string>
   <string name="btn_text_optimize_manually">Manuel olarak optimize et</string>
-  <string name="btn_text_optimize_now">İyi Hale Getir</string>
+  <string name="btn_text_optimize_now">Optimize et</string>
   <string name="btn_text_power_cleanup">Derin Temizlik</string>
   <string name="btn_text_quick_cleanup">Temizle</string>
   <string name="btn_text_quick_save_power">Düzelt</string>
@@ -2634,7 +2634,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="securityadd_update_tips_now">Güncelleştirme</string>
   <string name="securityadd_update_tips_title">Güncelleştirme</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
-  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapatın</string>
-  <string name="power_save_ps_freeze">Arka planda uygulamaları dondurun</string>
+  <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapat</string>
+  <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
   <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>  
 </resources>

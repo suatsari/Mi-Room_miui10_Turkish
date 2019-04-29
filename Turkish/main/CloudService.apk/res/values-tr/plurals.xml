@@ -69,7 +69,7 @@
     <item quantity="one">Eşitleme duraklatıldı. %d dakika içinde devam edecek…</item>
   </plurals>
   <plurals name="provision_sync_items_status_title">
-    <item quantity="other">%s hizmeti Mi Bulut ile eşitlenecek</item>
-    <item quantity="one">%s hizmeti Mi Bulut ile eşitlenecek</item>
+    <item quantity="other">Mi Bulut ile %s hizmet eşitlenecek</item>
+    <item quantity="one">Mi Bulut ile %s hizmet eşitlenecek</item>
   </plurals>  
 </resources>

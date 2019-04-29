@@ -244,7 +244,7 @@
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Gizlilik: %d</string>
   <string name="hints_quick_cleanning">Temizleniyor…</string>
-  <string name="hints_quick_cleanuping">İyi hale getiriliyor……</string>
+  <string name="hints_quick_cleanuping">Optimize ediliyor……</string>
   <string name="hints_quick_deep_clean">Temizle</string>
   <string name="hints_quick_deep_scanning">Taranıyor...</string>
   <string name="hints_quick_deep_uninstall">Sil</string>

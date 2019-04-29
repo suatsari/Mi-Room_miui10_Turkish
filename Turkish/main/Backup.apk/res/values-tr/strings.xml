@@ -267,6 +267,7 @@
   <string name="perm_read_phone_state">Telefonun durumunu oku</string>
   <string name="perm_read_sms">SMS oku</string>
   <string name="perm_storage">Harici depolamada okuma ve yazma</string>
+  <string name="phone_title">Telefon ayarları</string>  
   <string name="platform_chooser_item_android_mi">Mi telefon</string>
   <string name="platform_chooser_item_android_others">Diğer markalar</string>
   <string name="platform_chooser_item_ios">IOS cihazından içe aktarma</string>
