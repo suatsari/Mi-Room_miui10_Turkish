@@ -1617,5 +1617,7 @@ Acil durum araması yapmak için cihaz otomatik olarak hücresel bir şebekeye(2
 Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."</string>
   <string name="vowifi_emergency_warning_title">WLAN Çağrısı yoluyla acil çağrılar</string>
   <string name="wifi_call_setting_vodafone_de">WLAN çağrısı</string>
-  <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>  
+  <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>
+  <string name="jump_to_mobile_network_setting">Mobil ağ ayarları</string>
+  <string name="select_dds_dialog_title">Varsayılan mobil veri SIM\'ini seçin</string>  
 </resources>

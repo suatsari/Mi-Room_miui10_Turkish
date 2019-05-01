@@ -1489,5 +1489,21 @@ mevcut"</string>
   <string name="screen_save_dialog_btn_cancel">İptal</string>
   <string name="screen_save_dialog_btn_delete">Ekran görüntüsünü sil</string>
   <string name="screen_save_dialog_btn_save">Galeriye kaydet</string>
-  <string name="similar_keep_clear">En iyi çekimi tutun</string>  
+  <string name="similar_keep_clear">En iyi çekimi tutun</string>
+  <string name="ai_album_setting_key_word">Fotoğrafları ara</string>
+  <string name="base_btn_cancel">İptal</string>
+  <string name="base_btn_download">İndir</string>
+  <string name="filter_category_sky">Gökyüzü</string>
+  <string name="filter_sky_cloudy">Bulutlu</string>
+  <string name="filter_sky_detect_forbidden_tips">Gökyüzü algılanamadı</string>
+  <string name="filter_sky_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="filter_sky_download_finish">Eklenti başarıyla indirildi</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">Wi-Fi\’ye bağlı değilseniz, fotoğraflarınızdaki gökyüzünü değiştirmenize olanak sağlayan eklentiyi (%1$dMB) indirmek için mobil veri kullanabilirsiniz.</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Eklentiyi indir</string>
+  <string name="filter_sky_dusk">Alacakaranlık</string>
+  <string name="filter_sky_glow">Parlaklık</string>
+  <string name="filter_sky_rainbow">Gökkuşağı</string>
+  <string name="filter_sky_sunny">Güneşli</string>
+  <string name="filter_sky_sunset">Gün batımı</string>
+  <string name="trash_bin_key_word">Silinen fotoğraflar</string>  
 </resources>

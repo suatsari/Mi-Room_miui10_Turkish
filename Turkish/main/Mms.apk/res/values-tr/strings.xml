@@ -168,6 +168,8 @@
   <string name="dialog_message_mx">Mi Mesaj, ücret ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajı etkinleştirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi Mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz.</string>
   <string name="dialog_message_networking">Mesajlaşma, Gönderen Kimliğini tanıması için Sarı sayfaları kullanmalıdır. Mesajlaşma ve Sarı sayfaların normal olarak çalışması için internete bağlanması ve konumunuza erişmesi gerekir. İzin ver?</string>
   <string name="dialog_message_rcs">Çin Mobil Mesajlaşma, Anakara Çin\'deki diğer Çin Mobil kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar. Çin Mobil Mesajlaşma kullanmadan önce \"%1$s\" kabul etmeniz gerekir.</string>
+  <string name="dialog_sim_locked_confirm">Tamam</string>
+  <string name="dialog_sim_locked_message">SIM kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz varsa veya bu konuda daha fazla bilgiye ihtiyacınız varsa, lütfen Xiaomi servis merkezlerine veya size ürünü satan mağazaya başvurun.</string>  
   <string name="dialog_title_fake_cell_detect_error">Düzelt</string>
   <string name="dialog_title_mx_rcs">Mi Mesaj</string>
   <string name="dialog_title_networking">Şartlar ve Koşullar</string>

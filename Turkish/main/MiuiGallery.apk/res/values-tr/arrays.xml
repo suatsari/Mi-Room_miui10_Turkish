@@ -191,5 +191,9 @@
   <string-array name="sports_title">
      <item>İlerleme</item>
      <item>Enerji dolu</item>
+  </string-array>
+  <string-array name="backup_automatically_key_words">
+    <item>Fotoğrafları yedekle</item>
+    <item>Fotoğrafları Mi Bulut ile eşitle</item>
   </string-array>  
 </resources>

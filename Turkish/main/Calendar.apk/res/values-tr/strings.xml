@@ -206,7 +206,7 @@
   <string name="event_info_where">Nerede</string>
   <string name="event_lunar_month">Ay</string>
   <string name="event_reminder_allday_day_zero">Aynı gün %2$s</string>
-  <string name="event_reminder_value_zero">Etkinlikten önce</string>
+  <string name="event_reminder_value_zero">Etkinlik başladığında</string>
   <string name="event_title">Başlık</string>
   <string name="event_view">Etkinliği görüntüle</string>
   <string name="every_weekday">Pazartesiden Cumaya</string>
@@ -598,5 +598,8 @@
   <string name="cancel_reminder_later">Hatırlatıcıyı iptal et</string>
   <string name="default_reminder_later_time">\"Daha sonra hatırlat\" için varsayılan aralık</string>
   <string name="next_alarm_time">Sonraki hatırlatma %1$s sonra</string>
-  <string name="reminder_later">Daha sonra hatırlat</string>  
+  <string name="reminder_later">Daha sonra hatırlat</string>
+  <string name="edit_event_custom_reminder_time_dup">Özel hatırlatma: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Özel hatırlatıcı ayarla</string>
+  <string name="event_reminder_custom">Özel</string>  
 </resources>

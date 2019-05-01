@@ -1804,5 +1804,12 @@ d MMM"</string>
   <string name="dnd_notification_warnings_title">Rahatsız Etme açık. Çağrılar ve bildirimler susturuldu</string>
   <string name="choose_clock_title_left_top">Sola hizalı</string>
   <string name="choose_clock_title_middle">Ortalanmış</string>
-  <string name="choose_clock_title_vertical">Dikey</string>  
+  <string name="choose_clock_title_vertical">Dikey</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Kilit ekranı bildirimlerinin, Kilit ekranınızda görüntülenebilmesine izin verin.</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Hayır teşekkürler</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">İzin ver</string>
+  <string name="face_unlock_success_show_message_dialog_title">Kilit ekranı bildirimleri</string>
+  <string name="face_unlock_success_show_message_msg">Cihaz kilitlendiğinde yalnızca bildirim kaynağını göster ve yüz verileri doğrulandıktan sonra bildirim ayrıntıları ekle</string>
+  <string name="face_unlock_success_show_message_title">Yüz verilerini doğruladıktan sonra bildirim ayrıntılarını göster</string>
+  <string name="face_unlock_success_show_message_toast">Bildirimler Kilit ekranında gösterilecektir</string>  
 </resources>

@@ -64,8 +64,8 @@
     <item quantity="one">+1</item>
   </plurals>
   <plurals name="Ndays">
-    <item quantity="other">%d gün önce</item>
-    <item quantity="one">%d gün önce</item>
+    <item quantity="other">Etkinlikten %d gün önce</item>
+    <item quantity="one">Etkinlikten %d gün önce</item>
   </plurals>
   <plurals name="Ndays_after">
     <item quantity="other">%1$d gün sonra</item>
@@ -80,20 +80,20 @@
     <item quantity="one">%1$d gün önce</item>
   </plurals>
   <plurals name="Ndays_ago_at">
-    <item quantity="other">%1$d gün önce %2$s</item>
-    <item quantity="one">%1$d gün önce %2$s</item>
+    <item quantity="other">Etkinlikten %1$d gün önce %2$s</item>
+    <item quantity="one">Etkinlikten %1$d gün önce %2$s</item>
   </plurals>
   <plurals name="Nhours">
-    <item quantity="other">%d saat önce</item>
-    <item quantity="one">%d saat önce</item>
+    <item quantity="other">Etkinlikten %d saat önce</item>
+    <item quantity="one">Etkinlikten %d saat önce</item>
   </plurals>
   <plurals name="Nminutes">
-    <item quantity="other">%d dakika önce</item>
-    <item quantity="one">%d dakika önce</item>
+    <item quantity="other">Etkinlikten %d dakika önce</item>
+    <item quantity="one">Etkinlikten %d dakika önce</item>
   </plurals>
   <plurals name="Nweeks">
-    <item quantity="other">%d hafta önce</item>
-    <item quantity="one">%d hafta önce</item>
+    <item quantity="other">Etkinlikten %d hafta önce</item>
+    <item quantity="one">Etkinlikten %d hafta önce</item>
   </plurals>
   <plurals name="repeat_interval_frequency_day_multiple">
     <item quantity="other">%1$d gün</item>
@@ -129,5 +129,17 @@
   <plurals name="reminder_later_toast">
     <item quantity="other">Sonraki hatırlatma %1$d dakika içinde</item>
     <item quantity="one">Sonraki hatırlatma %1$d dakika içinde</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_day">
+    <item quantity="other">" gün"</item>
+    <item quantity="one">" gün"</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_hour">
+    <item quantity="other">" saat"</item>
+    <item quantity="one">" saat"</item>
+  </plurals>
+  <plurals name="reminder_custom_unit_minute">
+    <item quantity="other">" dakika"</item>
+    <item quantity="one">" dakika"</item>
   </plurals>  
 </resources>
