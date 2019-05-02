@@ -6442,5 +6442,16 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="miui_lab_gesture_desc">Fiziksel düğmeleri devre dışı bırakın ve tam ekran hareketinin tadını çıkarın</string>
   <string name="search_ambient_display_screen_title">Ortam ekranı</string>
   <string name="search_doze_always_on_title">Her zaman açık</string>
-  <string name="usage_state_date">d MMM</string>  
+  <string name="usage_state_date">d MMM</string>
+  <string name="popup_title">Ön kamera efektleri</string>
+  <string name="popup_led_title">Görsel efekt</string>
+  <string name="popup_led_summary">Ön kamera göründüğünde ve geri çekildiğinde animasyonu göster</string>
+  <string name="popup_voice_title">Ses efekti</string>
+  <string name="popup_voice_summary">Ön kamera göründüğünde ve geri çekildiğinde ses çal</string>
+  <string name="popup_title_chilun">Dişli çark</string>
+  <string name="popup_title_yingyan">Akbaba</string>
+  <string name="popup_title_muqin">Ksilofon</string>
+  <string name="popup_title_cangmen">Kabin kapısı</string>
+  <string name="popup_title_mofa">Sihir</string>
+  <string name="popup_title_jijia">Mekanizma</string>  
 </resources>
