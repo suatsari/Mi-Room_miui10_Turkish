@@ -66,7 +66,7 @@
   <string name="last_sync_time_yesterday">Dün</string>
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgileri şimdi görüntülemek için, %s adresine gidin.</string>
   <string name="loading">Biraz bekleyin...</string>
-  <string name="master_alert_notif_content">Senkronize edilemiyor</string>
+  <string name="master_alert_notif_content">Eşitlenemiyor</string>
   <string name="master_alert_notif_title">Mi Bulut ile eşitlemeyi aç</string>
   <string name="member_entrance_normal_title">Mi Bulut planını değiştirin</string>
   <string name="member_entrance_title_free_high_case_a">Daha fazla depolama alanı edinin</string>
@@ -133,7 +133,7 @@
   <string name="micloud_detail_query_error">Eşitlenme durumu alınamıyor</string>
   <string name="micloud_dspt">"Mi Bulut kullanarak verilerinizi eşitleyin, cihazın konumunu bulun, "</string>
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
-  <string name="micloud_dspt_provision_xms">Verileri senkronize etmek için Mi Bulut kullanın.</string>
+  <string name="micloud_dspt_provision_xms">Verileri eşitlemek için Mi Bulut kullanın.</string>
   <string name="micloud_find_device_close_alert_content">Bu özelliği kapatırsanız cihazınızın kaybolması durumunda cihazınızı bulamazsınız.</string>
   <string name="micloud_find_device_close_alert_negtive">Yine de kapat</string>
   <string name="micloud_find_device_close_alert_positive">Devam et</string>
@@ -150,7 +150,7 @@
   <string name="micloud_find_device_guide_fail_reopen">Mi Hesabı - Mi Bulut içinde Cihazı bul\'u açabilirsiniz</string>
   <string name="micloud_find_device_guide_fail_sub_net">Ağ bağlantınız kontrol edin ve tekrar deneyin.</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Kişileri, fotoğrafları, notları ve daha fazlasını Mi Bulut ile eşitle</string>
-  <string name="micloud_find_device_guide_noti_content">Cihaz bağlantısı kaybedildiğinde veriyi koru</string>
+  <string name="micloud_find_device_guide_noti_content">Cihazınız kaybolsa bile verilerinizi koruyun</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">QQ verileriniz cihazınızı kaybetseniz bile güvende olacak</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">WeChat verileriniz, cihazınızı kaybetseniz bile güvende olacak</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Alipay verileriniz, cihazınızı kaybetseniz bile güvende olacak</string>
@@ -271,11 +271,11 @@
   <string name="micloud_storage_expires_soon_title">Mi Bulut depolama yakında sona eriyor</string>
   <string name="micloud_storage_expires_very_soon_title">Mi Bulut depolama yakında sona eriyor</string>
   <string name="micloud_storage_full">Bulut doldu</string>
-  <string name="micloud_sync_alert_dialog_message">Tüm cihazlarınızda fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını senkronize edin.</string>
+  <string name="micloud_sync_alert_dialog_message">Tüm cihazlarınızda fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını eşitleyin.</string>
   <string name="micloud_sync_alert_dialog_negative">İptal</string>
   <string name="micloud_sync_alert_dialog_positive">Tamam</string>
   <string name="micloud_sync_alert_dialog_title">Mi Bulut kullan</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Rehber, Takvim ve Notlar otomatik olarak senkronize edilir. Daha fazla öğe senkronize etmek için Mi Bulut ayarlarına gidin.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Rehber, Takvim ve Notlar otomatik olarak eşitlenir. Daha fazla öğe eşitlemek için Mi Bulut ayarlarına gidin.</string>
   <string name="micloud_sync_result_already_in_progress">Önceki eşitleme işleniyor…</string>
   <string name="micloud_sync_result_auth_exception">Hesap hatası</string>
   <string name="micloud_sync_result_cancel">Eşitleme kesintiye uğradı</string>
@@ -396,7 +396,7 @@
   <string name="wipe_data_dialog_msg_and_on">, ve diğer öğeler</string>
   <string name="wipe_data_dialog_msg_separator">", "</string>
   <string name="wipe_data_dialog_title">Bazı öğeler eşitlenemedi</string>
-  <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar senkronize edilmiyor</string>
+  <string name="wipe_secret_photo_dialog_title">Gizli fotoğraflar eşitlenemiyor</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
   <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
