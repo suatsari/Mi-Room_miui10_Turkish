@@ -555,7 +555,7 @@
   <string name="wallpaper_personal_dialog_disagree">Hayır teşekkürler</string>
   <string name="wallpaper_personal_dialog_title">Duvar kağıtlarınızı kişiselleştirin</string>  
   <string name="wallpaper_scroll_type_tips">Duvar kağıdını kaydır</string>
-  <string name="wallpaper_set_as_both">İkisi içinde ayarla</string>
+  <string name="wallpaper_set_as_both">İkisi için de ayarla</string>
   <string name="wallpaper_set_as_desktop">Ana ekran için ayarla</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı için ayarla</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
@@ -669,7 +669,7 @@ Bu özelliği kapatmak için, Ayarlar &gt; Ses ve titreşim &gt; Profil videosu 
   <string name="transparent_wallpaper">Şeffaf duvar kağıdı</string>
   <string name="transparent_wallpaper_apply_success">Başarıyla ayarlandı. Daha fazla özellik için Temalar &gt; Profil &gt; Tema laboratuvarına gidin.</string>
   <string name="transparent_wallpaper_enable_success">Başarıyla açıldı</string>
-  <string name="transparent_wallpaper_guide">Temalara git</string>
+  <string name="transparent_wallpaper_guide">Temalar\'a git</string>
   <string name="transparent_wallpaper_guide_tip">Şimdi Temalar\'dan şeffaf bir duvar kağıdı seçebilirsiniz.</string>
   <string name="transparent_wallpaper_white_wallpaper">Arka planı beyaz yap</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Arka plan beyaz yapılamadı</string>

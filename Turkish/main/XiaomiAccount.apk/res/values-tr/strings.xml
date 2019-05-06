@@ -261,7 +261,7 @@
   <string name="passport_imei_permission_denied_message">Biz cihazınızın IMEI\'sini almak için sizden izin talep ediyoruz. Mi Hesabını güvende tutmak için oturum açıldığında IMEI kimliğini kullanırız.</string>
   <string name="passport_imei_permission_denied_title">IMEI izin isteği</string>
   <string name="passport_input_captcha_hint">Kodu girin</string>
-  <string name="passport_input_password_for_login">Bu numara, varolan bir hesab ile ilişkilidir, şifrenizi girin</string>
+  <string name="passport_input_password_for_login">Bu numara, varolan bir hesap ile ilişkilidir, şifrenizi girin</string>
   <string name="passport_input_password_hint">Şifreyi girin</string>
   <string name="passport_input_phone_hint">Telefon numarasını girin</string>
   <string name="passport_input_phone_password">Lütfen %s cep numarası için şifreyi girin</string>

@@ -363,6 +363,11 @@
   <string name="home_gesture_notification_bar">Bildirimler</string>
   <string name="home_pull_down_action">Ana ekranda aşağı kaydırın</string>
   <string name="home_slide_up_action">Ana ekranda yukarı kaydırın</string>
-  <string name="launcher_pull_down_title">Ana ekranda yukarı kaydırın</string>
-  <string name="launcher_slide_up_title">Ana ekranda aşağı kaydırın</string>  
+  <string name="launcher_pull_down_title">Ana ekranda aşağı kaydırın</string>
+  <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırın</string>
+  <string name="edit_mode_dual_app">Klonlu uygulama oluştur</string>
+  <string name="edit_mode_group_error_cant_delete_system_apps">Sistem uygulamaları kaldırılamıyor</string>
+  <string name="edit_mode_group_error_nothing_be_selected">Önce bir uygulama seçin</string>
+  <string name="minus_one_screen">Uygulama kasası</string>
+  <string name="menu_auto_fill_of_uninstall">Kaldırılan uygulamaların hücrelerini doldur</string>  
 </resources>

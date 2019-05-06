@@ -27,7 +27,7 @@
   <string name="can_not_backup_in_lite_mode">Hafif Modda yedeklenemiyor</string>
   <string name="can_not_restore_in_lite_mode">Hafif Modda geri yüklenemiyor</string>
   <string name="cancel_backup">Yedekleme iptal ediliyor…</string>
-  <string name="cancel_recover_settings">&lt;u&gt;İptal&lt;/u&gt;</string>
+  <string name="cancel_recover_settings"><u>İptal</u></string>
   <string name="cancel_restore_home">İptal ediliyor...</string>
   <string name="click_try_to_restore_again">Denemek için dokunun</string>
   <string name="cloud_app_backup_success">Uygulamalar başarıyla yedeklendi</string>
@@ -216,5 +216,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_app_order_finish">Bitti</string>
   <string name="provision_background_restore_more_data">Arka planda daha fazla öğe geri yükle</string>
   <string name="provision_restore_data">Öğeler geri yükleniyor</string>
-  <string name="hint_restore_cross_space">Öğeleri alanlar arasında aktarırsanız, Ana ekran düzeni yanlış görüntülenebilir.</string>  
+  <string name="hint_restore_cross_space">Öğeleri alanlar arasında aktarırsanız, Ana ekran düzeni yanlış görüntülenebilir.</string>
+  <string name="selected">Seçili</string>
+  <string name="unselected">Seçili değil</string>  
 </resources>

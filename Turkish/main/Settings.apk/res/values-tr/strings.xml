@@ -6454,5 +6454,18 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="popup_title_muqin">Ksilofon</string>
   <string name="popup_title_cangmen">Kabin kapısı</string>
   <string name="popup_title_mofa">Sihir</string>
-  <string name="popup_title_jijia">Mekanizma</string>  
+  <string name="popup_title_jijia">Mekanizma</string>
+  <string name="backup_set_clear_success">Yedekleme şifresi başarıyla kapatıldı</string>
+  <string name="backup_set_clear_title">Yedekleme şifresini kapat</string>
+  <string name="backup_set_confirm">Tamam</string>
+  <string name="backup_set_confirm_clear">Kapat</string>
+  <string name="backup_set_enter_new_pw">Yeni yedekleme şifresini girin</string>
+  <string name="backup_set_enter_new_pw_again">Yeni yedekleme şifresini onayla</string>
+  <string name="backup_set_enter_old_pw">Eski yedekleme şifresini girin</string>
+  <string name="backup_set_enter_pw_title">Yedekleme şifresini girin</string>
+  <string name="backup_set_error_pw">Girdiğiniz şifre yanlış</string>
+  <string name="backup_set_modify_title">Yedekleme şifresini değiştir</string>
+  <string name="backup_set_new_pw_title">Yeni yedekleme şifresini girin</string>
+  <string name="backup_set_null_pw">Önce şifreyi girin</string>
+  <string name="backup_set_pw_confirm_title">Yeni yedekleme şifresini onayla</string>  
 </resources>
