@@ -375,7 +375,7 @@
   <string name="title_back">Geri</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
-  <string name="user_agreement_content">Bu hizmeti kullanarak %s\'nı kabul ediyorsunuz.</string>
+  <string name="user_agreement_content">Bu hizmeti kullanarak %s\'nı kabul etmiş oluyorsunuz.</string>
   <string name="user_agreement_link">Mi Bulut Hizmet Şartları</string>
   <string name="user_agreement_title">Mi Bulut Hizmet Şartları</string>
   <string name="user_storage_info_available_text_prefix">%s mevcut</string>

@@ -29,7 +29,7 @@
   <string name="adjust_saturation">Doygunluk</string>
   <string name="adjust_sharpen">Keskinlik</string>
   <string name="adjust_vignette">Süslü</string>
-  <string name="album_already_exists_check">Gözat</string>
+  <string name="album_already_exists_check">Göz at</string>
   <string name="album_already_exists_msg">\"%s\" albüm zaten var</string>
   <string name="album_already_forced_top">Daima üstte</string>
   <string name="album_camera_name">Kamera</string>
@@ -174,7 +174,7 @@
   <string name="backuping_title_normal">Yedekleniyor...</string>
   <string name="begin_share">Bebek Albümü \"%s\" oluşturuldu ve şimdi paylaşabilirsiniz</string>
   <string name="begin_share_toast">Paylaşmadan önce çocuk için ayrı bir albüm oluşturulsun mu?</string>
-  <string name="browse_category_title">Gözat</string>
+  <string name="browse_category_title">Göz at</string>
   <string name="buy_member_tip">Üye ol.</string>
   <string name="by_email">E-Posta</string>
   <string name="by_others">Diğer</string>
@@ -1472,7 +1472,7 @@ mevcut"</string>
   <string name="image_selection_summary">MIUI benzer fotoğrafları analiz edecek ve sizin için en iyi çekimleri işaretleyecektir. Fotoğraflardan işaretleri kaldırmak için bu özelliği kapatın.</string>
   <string name="image_selection_title">En iyi fotoğrafı seç</string>
   <string name="operation_set_video_wallpaper">Video duvar kağıdını ayarla</string>
-  <string name="recommend_category_title">Galerinin seçtikleri</string>
+  <string name="recommend_category_title">Galeri\'nin seçimleri</string>
   <string name="set_as_video_wallpaper_description">Bu öğe indirilsin ve video duvar kağıdı olarak kullanılsın mı?</string>
   <string name="set_as_video_wallpaper_title">Video duvar kağıdını ayarla</string>
   <string name="set_video_wallpaper_failed">Bu öğeyi video duvar kağıdı olarak kullanamazsınız</string>

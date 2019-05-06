@@ -248,7 +248,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="allow_data_usage_title">Dolaşımda veri kullanımına izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde gösterilmesine izin verin. Bu, uygulamaları kullanmanızı engelleyebilir veya görünüm ve davranış biçimini değiştirebilir.</string>
+  <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde görüntülenmesine izin ver. Bu, uygulamaları kullanmanıza engel olabilir, görünüm veya davranış şeklini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
   <string name="alpha_build">\nAlfa</string>
   <string name="always">Her zaman</string>
@@ -2585,6 +2585,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="master_clear_personal_data_sdcard">Kişisel bilgileri silmek ve SD Kartınızı biçimlendirmek istediğinizden emin misiniz? Bu işlemin geri dönüşü yoktur!</string>
   <string name="master_clear_progress_text">Lütfen bekleyin...</string>
   <string name="master_clear_progress_title">Siliniyor</string>
+  <string name="master_clear_summary">Telefondaki tüm verileri siler</string>
   <string name="master_clear_title">Fabrika Ayarlarına Sıfırla</string>
   <string name="max_aspect_settings_all_app_display_loading">Sadece bir saniye…</string>
   <string name="max_cpu2_info">Azami Çift Çekirdek</string>
@@ -6298,8 +6299,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="toast_sta_ap_works_wifi_display_disable">WLAN bağlantısı kurulduğunda ve internet paylaşımı açıkken kullanılamaz.</string>
   <string name="activity_title_power_manager">Pil tasarrufu;Pil tasarrufu</string>
   <string name="ai_settings_click_title">Basın</string>
-  <string name="allow_float_summary">Ekranın üst kısmındaki bildirimler açılır</string>
-  <string name="allow_float_title">Yüzen bildirimler</string>
+  <string name="allow_float_summary">Kayan bildirimlere izin ver</string>
+  <string name="allow_float_title">Kayan bildirimler</string>
   <string name="allow_keyguard_summary">Kilit ekranında bildirimleri göster</string>
   <string name="allow_keyguard_title">Kilit ekranı bildirimleri</string>
   <string name="allow_lights_title">LED ışık kullanmaya izin ver</string>
@@ -6313,7 +6314,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="custom_wifi_name_title">WLAN adını düzenle</string>
   <string name="expandable_under_keyguard_title">Kilit ekranında göster</string>
   <string name="feedback">Geri bildirim</string>
-  <string name="fold_title">Gruplanmış bildirimler için kurallar</string>
+  <string name="fold_title">Gruplandırılmış bildirimler için kurallar</string>
   <string name="function_description">Bu özellik hakkında</string>
   <string name="game_booster">Oyun;Oyunlar;Turbo;Oyun;Oyun modu</string>
   <string name="gxzw_aod_show_summary">Ekran kapalıyken parmak izi simgesi görüntülenecek. Bu özellik sistem güç tüketimini arttırır.</string>
@@ -6323,7 +6324,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="importance_low">Düşük</string>
   <string name="importance_min">Önemsiz</string>
   <string name="importance_title">Önem</string>
-  <string name="lights_title">Yanıp sönen ışık</string>
+  <string name="lights_title">LED ışık</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="manage_notification_title">Uygulama bildirimleri</string>
   <string name="none">Yok</string>
