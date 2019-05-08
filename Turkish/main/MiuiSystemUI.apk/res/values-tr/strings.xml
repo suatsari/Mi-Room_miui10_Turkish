@@ -1026,7 +1026,7 @@ d MMMM"</string>
   <string name="notification_low_battery_action_btn">Aç</string>
   <string name="notification_low_battery_need_charge">Pil seviyesi düşük. Cihazınızı şarj edin.</string>
   <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
-  <string name="notification_low_battery_title">Düşük pil: %d%%</string>
+  <string name="notification_low_battery_title">Kalan pil %d%% değerinden az</string>
   <string name="notification_manager">Bildirimleri yönet</string>
   <string name="notification_manager_des">Bildirimleri filtrele ve yönet</string>
   <string name="notification_menu_accessibility">%1$s %2$s</string>

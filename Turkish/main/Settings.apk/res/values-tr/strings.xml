@@ -6317,7 +6317,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="fold_title">Gruplandırılmış bildirimler için kurallar</string>
   <string name="function_description">Bu özellik hakkında</string>
   <string name="game_booster">Oyun;Oyunlar;Turbo;Oyun;Oyun modu</string>
-  <string name="gxzw_aod_show_summary">Ekran kapalıyken parmak izi simgesi görüntülenecek. Bu özellik sistem güç tüketimini arttırır.</string>
+  <string name="gxzw_aod_show_summary">Parmak izi simgesinin görünmesini sağlamak için cihazı kaldırın veya ekrana dokunun. Bu özellik sistem güç tüketimini arttırır.</string>
   <string name="gxzw_aod_show_tittle">Ekran kapalıyken parmak izi simgesini göster</string>
   <string name="importance_default">Varsayılan</string>
   <string name="importance_high">Yüksek</string>

@@ -23,5 +23,21 @@
     <plurals name="transparent_wallpaper_filter_result">
         <item quantity="other">%1$d uygulama bulundu</item>
         <item quantity="one">%1$d uygulama bulundu</item>
+    </plurals>
+    <plurals name="resource_rating">
+        <item quantity="other">%1$.1f puan</item>
+        <item quantity="one">%1$.1f puan</item>
+    </plurals>
+    <plurals name="ringtone_nums">
+        <item quantity="other">%1$s zil sesi</item>
+        <item quantity="one">%1$s zil sesi</item>
+    </plurals>
+    <plurals name="trial_countdown_notification_tip">
+        <item quantity="other">\"%2$s\ öğesini %1$d saat içinde ücretsiz deneyebilirsiniz</item>
+        <item quantity="one">\"%2$s\ öğesini %1$d saat içinde ücretsiz deneyebilirsiniz</item>
+    </plurals>
+    <plurals name="try_3_day">
+        <item quantity="other">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
+        <item quantity="one">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
     </plurals>	
 </resources>

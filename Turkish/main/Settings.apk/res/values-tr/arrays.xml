@@ -1320,5 +1320,10 @@
     <item>12-saat 1:00 ÖS</item>
     <item>24-saat 13:00</item>
     <item>Otomatik (sistem diline göre)</item>
+  </string-array>
+  <string-array name="drip_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simgenin içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
   </string-array>  
 </resources>

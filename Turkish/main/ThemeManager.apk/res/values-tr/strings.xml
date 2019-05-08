@@ -719,5 +719,21 @@ Temalar, kullandığınız uygulamaları algılar ve seçtiğiniz uygulamalarda 
   <string name="wallpaper_loop_order_title">Slayt sırası</string>
   <string name="wallpaper_loop_title">Duvar kağıdı slayt gösterisi</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Ana ekran duvar kağıdı slayt gösterisi</string>
-  <string name="wallpaper_loop_title_lock_walpaper">Kilit ekranı duvar kağıdı slayt gösterisi</string>  
+  <string name="wallpaper_loop_title_lock_walpaper">Kilit ekranı duvar kağıdı slayt gösterisi</string>
+  <string name="audition_ringtone">Oynat</string>
+  <string name="count_down_tip">Kalan %ds</string>
+  <string name="like_list">Sevdiğim öğeler</string>
+  <string name="playing_ringtone">Oynatılıyor</string>
+  <string name="trial_count_empty">Bugün için artık ücretsiz ürün kalmadı. Yarın geri gel!</string>
+  <string name="trial_count_tip">%1$s:%2$s:%3$s için deneme süresi bitiyor</string>
+  <string name="trial_for_free">Ücretsiz deneme</string>
+  <string name="trial_get_failed_tip">Temayı almak için videoyu izlemeyi bitirin.</string>
+  <string name="trial_get_success_tip">"Tebrikler! 3 günlük ücretsiz deneme süreniz var."</string>
+  <string name="trial_now">Şimdi dene</string>
+  <string name="try_5_min">5 dakika deneyin</string>
+  <string name="video_ad_click">Şimdi dene</string>
+  <string name="video_ad_try_for_free">Ücretsiz deneme</string>
+  <string name="video_ad_uncomplete_tip">Temayı almak için videoyu izlemeyi bitirin.</string>
+  <string name="video_ad_uncomplete_tip_cancel">İptal</string>
+  <string name="video_ad_uncomplete_tip_continue">İzlemeye devam et</string>  
 </resources>
