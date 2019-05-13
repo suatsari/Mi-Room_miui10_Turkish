@@ -6439,8 +6439,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="choose_keyguard_clock_summary">Bu ayar üçüncü taraf temalarla çalışmaz</string>
   <string name="choose_unlock_face_msg">Yüz verilerini kaydetmeden önce bir ekran kilidi ayarlayın.</string>
   <string name="choose_unlock_fingerprint_msg">Parmak izinizi eklemeden önce ekran kilidini ayarlayın.</string>
-  <string name="miui_lab_gesture_title">Tam Ekran Hareketi</string>
-  <string name="miui_lab_gesture_desc">Fiziksel düğmeleri devre dışı bırakın ve tam ekran hareketinin tadını çıkarın</string>
+ <string name="miui_lab_gesture_title">Tam ekran hareketleri</string>
+ <string name="miui_lab_gesture_desc">Gezinme için düğmeler yerine hareketleri kullanın</string>
   <string name="search_ambient_display_screen_title">Ortam ekranı</string>
   <string name="search_doze_always_on_title">Her zaman açık</string>
   <string name="usage_state_date">d MMM</string>
@@ -6467,5 +6467,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="backup_set_modify_title">Yedekleme şifresini değiştir</string>
   <string name="backup_set_new_pw_title">Yeni yedekleme şifresini girin</string>
   <string name="backup_set_null_pw">Önce şifreyi girin</string>
-  <string name="backup_set_pw_confirm_title">Yeni yedekleme şifresini onayla</string>  
+  <string name="backup_set_pw_confirm_title">Yeni yedekleme şifresini onayla</string>
+  <string name="dc_light_summary_new">DC karartma, düşük ışık koşullarında göz yorgunluğunu azaltır. Ancak, Titreşimsiz mod açıkken görüntü kalitesi etkilenebilir.</string>
+  <string name="search_add_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>
+  <string name="search_manage_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>  
 </resources>

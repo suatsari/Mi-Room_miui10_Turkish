@@ -598,5 +598,8 @@ Yeni cihazda benzer öğelerin üzerine yazılacaktır.
 Bağlantı kuruluncaya kadar bu sayfadan ayrılmayın."</string>
   <string name="waiting">Sadece bir saniye…</string>
   <string name="err_no_gms">Uyumsuz uygulama sürümü. Bu uygulamayı ayrı olarak yükleyin</string>
-  <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>  
+  <string name="trans_detail_item_app_data_skip_data">Uygulama verileri aktarılamıyor</string>
+  <string name="dialog_app_upgrade_message">Mi Mover\'ın yeni bir sürümü mevcut.  Mi Mover şimdi güncellensin mi?</string>
+  <string name="dialog_app_upgrade_exit">Çıkış</string>
+  <string name="dialog_app_upgrade_download">Güncelle</string>  
 </resources>

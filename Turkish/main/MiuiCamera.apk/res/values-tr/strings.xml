@@ -514,7 +514,7 @@
   <string name="user_agree">Kabul et</string>
   <string name="user_agreement2">Kullanım Şartları</string>
   <string name="user_agreement4">Gizlilik Politikası</string>
-  <string name="user_notice_identify_summary_format">Bu hizmeti kullanarak,Xiaomi\'nin %1$s ve %2$s\'ni kabul etmiş olursunuz. İnternete bağlanmayı kabul ediyor musunuz?</string>
+  <string name="user_notice_identify_summary_format">"Kamera\'yı kullanmadan önce <a href="http://www.miui.com/res/doc/eula.html?lang=en_US">Kullanıcı Sözleşmemizi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en_US">Gizlilik Politikamızı</a> kabul etmelisiniz. Ayrıca Kamera\'nın normal çalışması için internete bağlanması gerekir. Kabul?"</string>
   <string name="user_notice_title">Ağ Bağlantısı Anlaşması</string>
   <string name="video_camera_label">Video Kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
@@ -663,7 +663,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="live_speed_extreme_slow">Süper yavaş</string>
   <string name="live_speed_slow">Yavaş</string>
   <string name="live_speed_normal">Normal</string>
-  <string name="live_speed_fragment_tab_name">Kayıt hızı</string>
+  <string name="live_speed_fragment_tab_name">Hız</string>
   <string name="live_speed_fast">Hızlı</string>
   <string name="live_speed_extreme_fast">Süper hızlı</string>
   <string name="module_name_professional">Pro</string>
@@ -723,7 +723,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="autozoom_click_hint">Hareket halindeyken odağı korumak için bir nesneye dokunun. En iyi etki için en az 3 metre uzakta kalın.</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi izleme durduruldu</string>
   <string name="autozoom_hint">Hareketli nesneyi izle</string>
-  <string name="live_sticker_fragment_tab_name">TikTok Sihirli Etiket</string>
+  <string name="live_sticker_fragment_tab_name">TikTok efektleri</string>
   <string name="network_access_user_notice_title">İnternete bağlanıyor</string>
   <string name="accessibility_ultra_pixel_photography_32mp_off">32MP kapalı</string>
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP açık</string>

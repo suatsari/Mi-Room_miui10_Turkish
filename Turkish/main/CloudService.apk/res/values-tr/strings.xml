@@ -181,8 +181,8 @@
   <string name="micloud_main_network_error">Ağa bağlanılamıyor</string>
   <string name="micloud_main_simple_last_sync_time">Son eşitleme： %s</string>
   <string name="micloud_main_simple_off">Eşitleme Kapalı</string>
-  <string name="micloud_main_sync_mode_summary">Şarj cihazı bağlı ve ekran kapalıyken çoğu öğeyi eşitle</string>
-  <string name="micloud_main_sync_mode_title">Güç tasarruflu eşitleme</string>
+  <string name="micloud_main_sync_mode_title">Gerçek zamanlı olarak eşitle</string>
+  <string name="micloud_main_sync_mode_summary">Bu özellik açıkken yukarıdaki öğeler gerçek zamanlı olarak eşitlenecektir. Bu, cihazınızın güç tüketimini artırabilir.</string>
   <string name="micloud_main_wait_charge">Eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_main_wait_charge_sleep">Ekranı kapatın ve eşitlemeye devam etmek için cihazınızı tamamen şarj edin.</string>
   <string name="micloud_main_wait_wlan">WLAN bekleniyor</string>
