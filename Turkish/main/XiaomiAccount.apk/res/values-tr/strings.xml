@@ -359,8 +359,8 @@
   <string name="passport_setting">Ayarlanıyor…</string>
   <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
-  <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
-  <string name="passport_skip_setup_account_title">Mi Bulut kullanma?</string>
+  <string name="passport_skip_setup_account_msg">Ayarlar\'dan daha sonra bir Mi Hesabı ekleyebilirsiniz.</string>
+  <string name="passport_skip_setup_account_title">Mi Bulut\'u kullanma?</string>
   <string name="passport_sms_send_success">Gönderildi</string>
   <string name="passport_sms_verification_code_login">SMS doğrulama kodu giriş</string>
   <string name="passport_sms_verification_code_login_or_register">SMS kullanarak giriş yapın veya hesap oluşturun</string>

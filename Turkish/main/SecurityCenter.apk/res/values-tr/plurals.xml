@@ -315,72 +315,76 @@
     <item quantity="other">%d öğe</item>
     <item quantity="one">%d öğe</item>
    </plurals>
-   <plurals name="menu_text_antivirus_3">
-     <item quantity="other">%d gün</item>
-     <item quantity="one">%d gün</item>
-   </plurals>
-   <plurals name="menu_text_antispam_2">
-     <item quantity="other">%d öğe</item>
-     <item quantity="one">%d öğe</item>
-   </plurals>
-   <plurals name="menu_text_app_manager_2">
-     <item quantity="other">%d uygulama</item>
-     <item quantity="one">%d uygulama</item>
-   </plurals>
-   <plurals name="privacy_apps_enable_header_title">
-     <item quantity="other">%d uygulama gizlenebilir</item>
-     <item quantity="one">%d uygulama gizlenebilir</item>
-   </plurals>
-   <plurals name="privacy_apps_disable_header_title">
-     <item quantity="other">%d uygulama gizli</item>
-     <item quantity="one">%d uygulama gizli</item>
-   </plurals>
-   <plurals name="reset_data_dialog_ok_tick">
-     <item quantity="other">Fabrika sıfırlama (%ds)</item>
-     <item quantity="one">Fabrika sıfırlama (%ds)</item>
-   </plurals>
-   <plurals name="hide_txt_hint_with_blank_2">
-     <item quantity="other">    +%1$d daha fazla karakter</item>
-     <item quantity="one">    +%1$d daha fazla karakter</item>
-   </plurals>
-   <plurals name="first_aid_result_summary_exception">
-     <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
-     <item quantity="one">%1$d sorun optimizasyon gerektirir</item>
-   </plurals>
-   <plurals name="power_center_menu_text">
-     <item quantity="other">öğe</item>
-     <item quantity="one">öğe</item>
-   </plurals>
-   <plurals name="power_center_list_item_optimize_button">
-     <item quantity="other">%d dakika ekle</item>
-     <item quantity="one">%d dakika ekle</item>
-   </plurals>
-   <plurals name="first_aid_card_float_window_summary">
-     <item quantity="other">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
-     <item quantity="one">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
-   </plurals> 
-   <plurals name="notification_battery_consume_abnormal_summary">
-     <item quantity="other">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
-     <item quantity="one">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
-   </plurals>
-   <plurals name="om_locked_apps_title">
-     <item quantity="other">%d kilitli uygulamalar</item>
-     <item quantity="one">%d kilitli uygulamalar</item>
-   </plurals>
-   <plurals name="lockpattern_recording_incorrect_too_short">
-     <item quantity="other">En az %d noktayı bağlayın</item>
-     <item quantity="one">En az %d noktayı bağlayın</item>
-   </plurals>
-   <plurals name="numeric_recording_incorrect_too_short">
-     <item quantity="other">En az %d basamak girin</item>
-     <item quantity="one">En az %d basamak girin</item>
-   </plurals>
-   <plurals name="mixed_recording_incorrect_too_short">
-     <item quantity="other">En az %d karakter girin</item>
-     <item quantity="one">En az %d karakter girin</item>
-   </plurals>
-   <plurals name="hints_scan_danger_result_with_number">
-     <item quantity="other">%d risk bulundu, şimdi düzelt</item>
-     <item quantity="one">%d risk bulundu, şimdi düzelt</item>
-   </plurals>  
+  <plurals name="menu_text_antivirus_3">
+    <item quantity="other">%d gün</item>
+    <item quantity="one">%d gün</item>
+  </plurals>
+  <plurals name="menu_text_antispam_2">
+    <item quantity="other">%d öğe</item>
+    <item quantity="one">%d öğe</item>
+  </plurals>
+  <plurals name="menu_text_app_manager_2">
+    <item quantity="other">%d uygulama</item>
+    <item quantity="one">%d uygulama</item>
+  </plurals>
+  <plurals name="privacy_apps_enable_header_title">
+    <item quantity="other">%d uygulama gizlenebilir</item>
+    <item quantity="one">%d uygulama gizlenebilir</item>
+  </plurals>
+  <plurals name="privacy_apps_disable_header_title">
+    <item quantity="other">%d uygulama gizli</item>
+    <item quantity="one">%d uygulama gizli</item>
+  </plurals>
+  <plurals name="reset_data_dialog_ok_tick">
+    <item quantity="other">Fabrika sıfırlama (%ds)</item>
+    <item quantity="one">Fabrika sıfırlama (%ds)</item>
+  </plurals>
+  <plurals name="hide_txt_hint_with_blank_2">
+    <item quantity="other">    +%1$d daha fazla karakter</item>
+    <item quantity="one">    +%1$d daha fazla karakter</item>
+  </plurals>
+  <plurals name="first_aid_result_summary_exception">
+    <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
+    <item quantity="one">%1$d sorun optimizasyon gerektirir</item>
+  </plurals>
+  <plurals name="power_center_menu_text">
+    <item quantity="other">öğe</item>
+    <item quantity="one">öğe</item>
+  </plurals>
+  <plurals name="power_center_list_item_optimize_button">
+    <item quantity="other">%d dakika ekle</item>
+    <item quantity="one">%d dakika ekle</item>
+  </plurals>
+  <plurals name="first_aid_card_float_window_summary">
+    <item quantity="other">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
+    <item quantity="one">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
+  </plurals>
+  <plurals name="notification_battery_consume_abnormal_summary">
+    <item quantity="other">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
+    <item quantity="one">Son %1$d dakika boyunca pilin %2$d%% boşaldı</item>
+  </plurals>
+  <plurals name="om_locked_apps_title">
+    <item quantity="other">%d kilitli uygulama</item>
+    <item quantity="one">%d kilitli uygulama</item>
+  </plurals>
+  <plurals name="lockpattern_recording_incorrect_too_short">
+    <item quantity="other">En az %d noktayı bağlayın</item>
+    <item quantity="one">En az %d noktayı bağlayın</item>
+  </plurals>
+  <plurals name="numeric_recording_incorrect_too_short">
+    <item quantity="other">En az %d basamak girin</item>
+    <item quantity="one">En az %d basamak girin</item>
+  </plurals>
+  <plurals name="mixed_recording_incorrect_too_short">
+    <item quantity="other">En az %d karakter girin</item>
+    <item quantity="one">En az %d karakter girin</item>
+  </plurals>
+  <plurals name="hints_scan_danger_result_with_number">
+    <item quantity="other">%d risk bulundu, şimdi düzelt</item>
+    <item quantity="one">%d risk bulundu, şimdi düzelt</item>
+  </plurals>
+  <plurals name="function_shield_num">
+    <item quantity="other">%d özellik</item>
+    <item quantity="one">%d özellik</item>
+  </plurals>
 </resources>

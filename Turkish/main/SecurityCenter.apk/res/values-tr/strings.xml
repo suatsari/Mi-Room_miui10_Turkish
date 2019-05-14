@@ -2335,8 +2335,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="privacy_apps_enable_summary">Uygulamaları gizli bir klasöre taşıyın ve ana ekran kısayollarını kaldırın</string>
   <string name="privacy_apps_manage">Gizli uygulamaları yönet</string>
   <string name="privacy_apps_tutorial">Öğretici</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Bir uygulamayı gizlediğinizde, gizli bir klasöre taşınır. Ana ekran kısayolu gizlenir.
-Bu özellik sistem uygulamaları için desteklenmez."</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">Bu özellik, uygulama simgelerini gizlemenize izin verir, böylece artık Ana Ekranınızda görünmezler.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Ekranda iki parmağınızı yayın. Uygulama kilitleme şifrenizi girmenizi isteyen bir mesaj görürsünüz.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
   <string name="privacy_apps_manage_dialog_title">Gizli uygulamalar hakkında</string>
@@ -2564,7 +2563,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="create_gamebooster_destop">Ana ekran kısayolu başarıyla oluşturuldu</string>
   <string name="doze_optimization_summary">Dokunma tepkisi ve hassasiyeti arttırın</string>
   <string name="doze_optimization_title">Dokunmatik kontroller optimize edildi</string>
-  <string name="function_shield_summary">Otomatik parlaklığı, ekran hareketlerini ve Okuma modunu kısıtlayın</string>
+  <string name="function_shield_summary">Oyun oynarken seçili sistem özelliklerini kısıtlayın</string>
   <string name="function_shield_title">Gelişmiş deneyim</string>
   <string name="game_else_function">Diğer</string>
   <string name="gamebox_browser_not_find">Önce Mi Browser\'ı yükleyin</string>
@@ -2636,5 +2635,14 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
   <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapat</string>
   <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
-  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>  
+  <string name="power_save_ps_limit">Sistem uygulamalarının etkinliğini kısıtla</string>
+  <string name="function_shield_settings_title">Oyun oynarken aşağıdaki özellikleri kısıtla</string>
+  <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
+  <string name="function_shield_eye_shield">Okuma modunu kapat</string>
+  <string name="function_shield_three_finger">Ekran görüntüsü hareketlerini kısıtla</string>
+  <string name="function_shield_pull_notification_bar">Bildirim alanını açma</string>
+  <string name="choose_gs_show_way">Ana sayfa yönünü seç</string>
+  <string name="gs_show_way">Ana sayfa yönü</string>
+  <string name="gs_show_way_horizontal">Yatay</string>
+  <string name="gs_show_way_vertical">Dikey</string>  
 </resources>

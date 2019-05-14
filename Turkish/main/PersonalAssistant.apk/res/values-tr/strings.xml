@@ -630,10 +630,10 @@
   <string name="locations">Sık kullanılan yerler</string>
   <string name="locations_preferences">Sık kullanılan yerler ve tercihler</string>
   <string name="login_before_use">Önce oturum açmanız gerekiyor</string>
-  <string name="login_dialog_body">Öğelerinize birden fazla cihazdan erişmek için Mi Bulut ile senkronizasyonu açın. Oturum şimdi açılsın mı?</string>
+  <string name="login_dialog_body">Öğelerinize birden fazla cihazdan erişmek için Mi Bulut ile eşitlemeyi açın. Giriş yap ve şimdi aç?</string>
   <string name="login_dialog_negative">Şimdi değil</string>
-  <string name="login_dialog_positive">Oturum açın ve açın</string>
-  <string name="login_dialog_title">Senkronizasyonu aç</string>
+  <string name="login_dialog_positive">Giriş yap ve aç</string>
+  <string name="login_dialog_title">Eşitlemeyi aç</string>
   <string name="login_ok">Oturum aç</string>
   <string name="look_more">Daha fazla göster</string>
   <string name="main_add">Ekle</string>

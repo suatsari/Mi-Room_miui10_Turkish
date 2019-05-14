@@ -31,7 +31,7 @@
   <string name="corpus_label_global">Tümü</string>
   <string name="corpus_label_web">Web sonuçları</string>
   <string name="corpus_selection_heading">Ara</string>
-  <string name="cta_declaration">Bu özelliğin normal çalışması için internete bağlanmayı, cihazınızın konumuna erişmeyi, çağrı geçmişiyle kişileri görüntülemeyi gerektirir.</string>
+  <string name="cta_declaration">Bu özelliğin normal şekilde çalışması için internete bağlanması, cihazınızın konumuna erişmesi, arama geçmişinizi ve kişilerinizi görüntülemesi gerekir.</string>
   <string name="cta_declaration_ignore">Tekrar gösterme</string>
   <string name="cta_declaration_negative_text">İzin Verme</string>
   <string name="cta_declaration_positive_text">İzin Ver</string>

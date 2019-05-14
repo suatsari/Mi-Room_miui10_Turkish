@@ -204,4 +204,6 @@
   <string name="wifi_assistant_wifi_no_internet_detail">Detayları görmek için dokunun</string>
   <string name="xspace_head">Klonlu uygulama</string>
   <string name="xspace_resolver_activity_title">Uygulama seç</string>
+  <string name="sim_lock_non_ais_msg">SIM kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz veya bu konuda daha fazla bilgiye ihtiyacınız varsa, lütfen Xiaomi servis merkezlerine veya size ürünü satan mağazaya başvurun.</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>  
 </resources>

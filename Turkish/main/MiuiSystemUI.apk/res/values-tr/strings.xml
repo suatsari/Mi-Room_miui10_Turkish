@@ -1811,5 +1811,10 @@ d MMM"</string>
   <string name="face_unlock_success_show_message_dialog_title">Kilit ekranı bildirimleri</string>
   <string name="face_unlock_success_show_message_msg">Cihaz kilitlendiğinde yalnızca bildirim kaynağını göster ve yüz verileri doğrulandıktan sonra bildirim ayrıntıları ekle</string>
   <string name="face_unlock_success_show_message_title">Yüz verilerini doğruladıktan sonra bildirim ayrıntılarını göster</string>
-  <string name="face_unlock_success_show_message_toast">Bildirimler Kilit ekranında gösterilecektir</string>  
+  <string name="face_unlock_success_show_message_toast">Bildirimler Kilit ekranında gösterilecektir</string>
+  <string name="keyguard_charging_normal_and_level_tip">Şarj %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Hızlı şarj %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">Hızlı şarj %d%%</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Daha</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Giriş</string>  
 </resources>

@@ -644,7 +644,7 @@
   <string name="whatsapp_function_title">WhatsApp temizleyici</string>
   <string name="whatsapp_group_audio">Ses dosyaları</string>
   <string name="whatsapp_group_document">Belgeler</string>
-  <string name="whatsapp_group_gif">Gifler</string>
+  <string name="whatsapp_group_gif">GIFler</string>
   <string name="whatsapp_group_image">Resimler</string>
   <string name="whatsapp_group_video">Videolar</string>
   <string name="whatsapp_group_voice">Sesli mesajlar</string>
@@ -681,7 +681,7 @@
   <string name="facebook_clean_exit_confirm_title">Taramayı durdur?</string>
   <string name="facebook_cleaner">Facebook temizleyici</string>
   <string name="facebook_group_cache">Önbellek dosyaları</string>
-  <string name="facebook_group_gif">Gifler</string>
+  <string name="facebook_group_gif">GIFler</string>
   <string name="facebook_group_image">Resimler</string>
   <string name="facebook_group_video">Videolar</string>
   <string name="facebook_function_summery">Facebook tarafından önbelleğe alınan öğeleri temizle</string>
