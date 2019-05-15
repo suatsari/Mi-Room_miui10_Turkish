@@ -68,4 +68,7 @@
   <string name="using_recorder_dialog_title">İzin Erişimi</string>
   <string name="view_stations_list">İstasyon listesini görüntüle</string>
   <string name="menu_privacy">Gizlilik Politikası</string>
+  <string name="noheadset_dialog_info">FM sinyalleri zayıf olabilir, çevrimiçi içerik öner</string>
+  <string name="noheadset_dialog_insert">Kulaklık takın</string>
+  <string name="noheadset_dialog_more">Daha fazla radyo dinle</string>  
 </resources>
