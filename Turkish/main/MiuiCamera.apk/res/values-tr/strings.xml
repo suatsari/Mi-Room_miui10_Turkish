@@ -840,7 +840,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="mimoji_check_normal">Çekim düğmesine dokunun</string>
   <string name="mimoji_confirm">Tamam</string>
   <string name="mimoji_create_tips">Mimoji\'nizi oluşturmak için doğrudan kameraya bakın</string>
-  <string name="mimoji_delete"<font fgcolor="#ffff0000">Sil</font></string>
+  <string name="mimoji_delete"><font fgcolor="#ffff0000">Sil</font></string>
   <string name="mimoji_delete_dialog_title">Mimoji\'yi sil?</string>
   <string name="mimoji_delete_mimoji">Mimoji\'yi sil?</string>
   <string name="mimoji_delete_success">Başarıyla silindi</string>
