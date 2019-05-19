@@ -898,5 +898,6 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="accessibility_video_btn_play">Video oynat</string>
   <string name="beauty_clear">Temizle</string>
   <string name="beauty_clear_toast">Güzelleştirme efekti başarıyla temizlendi</string>
-  <string name="edit_hairline">Saç çizgisi</string>  
+  <string name="edit_hairline">Saç çizgisi</string>
+  <string name="ultra_wide_recommend_tip_hint_sat">Ultra geniş açı modu 0.6X deneyin</string>
 </resources>

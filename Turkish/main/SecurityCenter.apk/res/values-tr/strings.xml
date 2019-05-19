@@ -2644,5 +2644,14 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="choose_gs_show_way">Ana sayfa yönünü seç</string>
   <string name="gs_show_way">Ana sayfa yönü</string>
   <string name="gs_show_way_horizontal">Yatay</string>
-  <string name="gs_show_way_vertical">Dikey</string>  
+  <string name="gs_show_way_vertical">Dikey</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s pili boşalıyor</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Sorunu çözmek için dokunun</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Sistemin bekleme moduna girmesini önler</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Wi-Fi aramayı çok sık yapar</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Konum servislerini çok sık kullanır</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">Anormal çalışır</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Sistemi çok sık uyandırır</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Ağa çok sık bağlanmaya çalışır</string>
+  <string name="pc_abnormal_scan_button_text">Uygulamaları kapat</string>  
 </resources>

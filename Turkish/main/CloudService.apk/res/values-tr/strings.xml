@@ -154,7 +154,7 @@
   <string name="micloud_find_device_guide_noti_content_by_app_change_qq">QQ verileriniz cihazınızı kaybetseniz bile güvende olacak</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_wx">WeChat verileriniz, cihazınızı kaybetseniz bile güvende olacak</string>
   <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Alipay verileriniz, cihazınızı kaybetseniz bile güvende olacak</string>
-  <string name="micloud_find_device_guide_noti_title">Cihazı bul özelliğini aç</string>
+  <string name="micloud_find_device_guide_noti_title">Cihazı bul özelliğini açın</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat, Cihazı bul özelliğini açmanızı önerir</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay, Cihazı bul özelliğini açmanızı önerir</string>

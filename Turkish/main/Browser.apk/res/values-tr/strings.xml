@@ -318,7 +318,7 @@
   <string name="dialog_queued_body">Bu dosya sonra indirilmek üzere kuyruğa ekledi</string>
   <string name="dialog_recovery_tabs_action">Geri yüklemek için tıklayın</string>
   <string name="dialog_recovery_tabs_disc">Kapatılmamış sayfaların tespiti için tam kurtarma gereklidir.</string>
-  <string name="dialog_recovery_tabs_tip">Enson kapatılmayan web sayfasını bulun</string>
+  <string name="dialog_recovery_tabs_tip">Son kapatılmayan web sayfasını bul</string>
   <string name="dialog_recovery_tabs_title">Kurtarma işleminden önce sayfayı açın</string>
   <string name="dialog_title_not_available">İndirilemedi</string>
   <string name="dialog_title_queued_body">Dosya henüz mevcut değil</string>

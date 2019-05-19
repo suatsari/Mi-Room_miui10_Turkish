@@ -594,4 +594,8 @@
   <string name="xiaomi_update_dialog_message">Tanıtım sürümü: %1$s\nBoyut: %2$s</string>
   <string name="xiaomi_update_dialog_message_diff">Tanıtım sürümü: %1$s\nDelta güncelleme boyutu: %2$s</string>
   <string name="xiaomi_update_dialog_title">Güncelleme mevcut!</string>
+  <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramazsınız. Mi Mover\'ı kullanmadan önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_backup_tips">Yedekleme şifresi açıkken öğeler yedeklenemiyor. Yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_cancel">İptal</string>
+  <string name="dialog_backup_password_to_settings">Ayarlar</string>  
 </resources>

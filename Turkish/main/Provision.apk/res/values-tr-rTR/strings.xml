@@ -108,4 +108,5 @@
   <string name="voice_assist_title">Ses ile uyandırma</string>
   <string name="welcome">Hoşgeldiniz</string>
   <string name="zone_picker_title">Saat dilimini seç</string>
+  <string name="terms_of_use_label_updater">, Güncelleyici</string>
 </resources>

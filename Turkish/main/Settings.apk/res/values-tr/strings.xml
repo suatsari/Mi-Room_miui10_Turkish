@@ -1633,7 +1633,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="doze_always_on_title">Açık</string>  
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam ekranı</string>
-  <string name="draw_overlay">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="draw_overlay">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="draw_overlay_title">Diğer uygulamaların üzerinde görüntülenen uygulamalar</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
   <string name="edge_mode_back">Geri Dön</string>
@@ -2314,8 +2314,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="local_backup_password_toast_confirmation_mismatch">Yeni şifre ve onayı eşleşmiyor</string>
   <string name="local_backup_password_toast_success">Yeni yedekleme şifresini ayarla</string>
   <string name="local_backup_password_toast_validation_failure">Yedek şifre ayarlanamıyor</string>
-  <string name="local_backup_section_summary">Cihaz sistem ayarlarını, hesap bilgileri ve uygulamaları içerikleriyle birlikte yedekler</string>
-  <string name="local_backup_section_title">Yerel Yedeklemeler</string>
+  <string name="local_backup_section_summary">Sistem ayarlarını, hesap bilgilerini ve uygulamaları yedekleme</string>
+  <string name="local_backup_section_title">Yerel yedeklemeler</string>
   <string name="locale_default">Varsayılan</string>
   <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
   <string name="locale_remove_menu">Kaldır</string>
@@ -3097,7 +3097,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="other_sound_category_preference_title">Diğer sesler ve titreşimler</string>
   <string name="other_sound_settings">Diğer sesler</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="overlay_settings">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="overlay_settings">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="owner_info_settings_edit_text_hint">Görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit ekranında kişisel bilgi</string>
@@ -4611,11 +4611,11 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
-  <string name="system_alert_window_access_title">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="system_alert_window_access_title">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="system_alert_window_apps_title">Uygulamalar</string>
   <string name="system_alert_window_off">Hayır</string>
   <string name="system_alert_window_on">Evet</string>
-  <string name="system_alert_window_settings">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="system_alert_window_settings">Diğer uyglmlr üzerinde görüntüle</string>
   <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
   <string name="system_and_device_section_title">Sistem ayarları</string>
   <string name="system_app">(Sistem)</string>
@@ -6477,5 +6477,26 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="backup_set_pw_confirm_title">Yeni yedekleme şifresini onayla</string>
   <string name="dc_light_summary_new">DC karartma, düşük ışık koşullarında göz yorgunluğunu azaltır. Ancak, Titreşimsiz mod açıkken görüntü kalitesi etkilenebilir.</string>
   <string name="search_add_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>
-  <string name="search_manage_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>  
+  <string name="search_manage_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>
+  <string name="bluetooth_device_misc_title">Nadiren kullanılan cihazlar</string>
+  <string name="color_led_applications_title">Uygulamaları seç</string>
+  <string name="color_led_applications_title_summary">Uygulamalar için tek tek LED ışık kullanımını kısıtlayabilirsiniz</string>
+  <string name="color_led_battery_title">Şarj olurken devam edin</string>
+  <string name="color_led_end_time">Bitiş zamanı</string>
+  <string name="color_led_game_mode_title">Oyun Turbo</string>
+  <string name="color_led_hint">LED ışığın kullanılması gereken durumları seçin. Ekran aşağı bakarken ve Rahatsız etme kapalı olduğunda LED ışığı yanacaktır.</string>
+  <string name="color_led_incall_pulse_title">Gelen aramalar için Flaş ışığı</string>
+  <string name="color_led_lucky_dialog_title">Kırmızı zarf asistanını açın</string>
+  <string name="color_led_lucky_dialog_message">Bu özellik Kırmızı zarf asistanı kullanılmasını gerektirir. Şimdi aç?</string>
+  <string name="color_led_music_mode_title">Müzik</string>
+  <string name="color_led_music_mode_summary">Müzik çalarken ritmik ışık efektleri göster</string>
+  <string name="color_led_notification_pulse_title">Bildirimler için titreşim</string>
+  <string name="color_led_red_more_feature">Özel efektler</string>
+  <string name="color_led_red_package_title">Kırmızı zarflar</string>
+  <string name="color_led_start_time">Başlangıç zamanı</string>
+  <string name="color_led_title">Led ışık</string>
+  <string name="long_press_power_key">Güç düğmesine uzun basın</string>
+  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha uygun&lt;/font></Data></string>
+  <string name="toggle_auto_speaker_preference_title">Otomatik olarak hoparlöre geç</string>
+  <string name="toggle_auto_speaker_preference_summary">Çağrılar sırasında cihazı kulağınızdan uzaklaştırdığınızda hoparlöre geçilecektir. Bu özellik yalnızca TalkBack açıkken çalışır.</string>  
 </resources>

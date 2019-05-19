@@ -387,4 +387,12 @@
     <item quantity="other">%d özellik</item>
     <item quantity="one">%d özellik</item>
   </plurals>
+  <plurals name="notification_battery_scan_consume_abnormal_title_split">
+    <item quantity="other">%1$s dahil, %2$d uygulama pili boşaltıyor</item>
+    <item quantity="one">%1$s dahil, %2$d uygulama pili boşaltıyor</item>
+  </plurals>
+  <plurals name="pc_abnormal_scan_result_model_result_title">
+    <item quantity="other">%d uygulama pili boşaltıyor</item>
+    <item quantity="one">%d uygulama pili boşaltıyor</item>
+  </plurals>  
 </resources>

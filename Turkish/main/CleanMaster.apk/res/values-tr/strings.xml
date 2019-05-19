@@ -677,7 +677,7 @@
   <string name="app_clean_group_image_send">Gönderilen görüntüler</string>
   <string name="facebook_clean_exit_confirm_cancel">Taramaya devam et</string>
   <string name="facebook_clean_exit_confirm_msg">"Henüz Facebook'u taramadım. Şimdi tarama durdurulsun mu?"</string>
-  <string name="facebook_clean_exit_confirm_ok">Dur</string>
+  <string name="facebook_clean_exit_confirm_ok">Durdur</string>
   <string name="facebook_clean_exit_confirm_title">Taramayı durdur?</string>
   <string name="facebook_cleaner">Facebook temizleyici</string>
   <string name="facebook_group_cache">Önbellek dosyaları</string>
@@ -686,5 +686,11 @@
   <string name="facebook_group_video">Videolar</string>
   <string name="facebook_function_summery">Facebook tarafından önbelleğe alınan öğeleri temizle</string>
   <string name="facebook_function_title">Facebook temizleyici</string>
-  <string name="security_center_slogan">Güvenlik. Her zaman koruma altında.</string>  
+  <string name="security_center_slogan">Güvenlik. Her zaman koruma altında.</string>
+  <string name="notification_garbage_cleanup_summary">Çöp boyutu %s büyüklüğüne ulaştı</string>
+  <string name="notification_garbage_cleanup_title">Çöp dosyalarını temizle</string>
+  <string name="notification_low_memory_cache_summary">1,5 GB\'den daha az depolama alanı mevcut</string>
+  <string name="notification_low_memory_cache_title">Önbelleği temizle</string>
+  <string name="notification_low_memory_deepclean_summary">Derin temizlik ile cihazınızda depolama alanı boşaltabilirsiniz</string>
+  <string name="notification_low_memory_deepclean_title">Depolama alanı azalıyor</string>  
 </resources>
