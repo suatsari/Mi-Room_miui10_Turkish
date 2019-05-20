@@ -76,7 +76,7 @@
   <string name="account_setup_check_settings_check_incoming_msg">Sunucu ayarları doğrulanıyor...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">SMTP ayarları doğrulanıyor…</string>
   <string name="account_setup_check_settings_retr_info_msg">"   Hesap bilgileri alınıyor..."</string>
-  <string name="account_setup_correct_address_tips">E-Posta adresinizi girin</string>
+  <string name="account_setup_correct_address_tips">Girdiğiniz e-mail adresi geçersiz.</string>
   <string name="account_setup_creating_account_msg">"   Hesabınız oluşturuluyor..."</string>
   <string name="account_setup_deleting_account_msg">"   Hesabınız kaldırılıyor..."</string>
   <string name="account_setup_exchange_certificate_title">İstemci Sertifikası</string>
@@ -422,7 +422,11 @@
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Hata</string>
-  <string name="exception_cancel">" Bu olay şunun için iptal  edildi:\n%s "</string>
+  <string name="exception_cancel">"
+        Bu etkinlik şunun için iptal 
+        edildi:
+        %s 
+    "</string>
   <string name="exception_updated">" Bu etkinliği değiştirenin detayları:\n%s "</string>
   <string name="exchange_name">Kurumsal</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -596,17 +600,50 @@
   <string name="mark_unread">Okunmadı</string>
   <string name="me_object_pronun">ben</string>
   <string name="me_subject_pronun">ben</string>
-  <string name="meeting_accepted">Kabul Edildi: %s</string>
-  <string name="meeting_allday">Ne Zaman: %s (hergün)</string>
-  <string name="meeting_allday_recurring">Ne Zaman: %s (hergün, devirli)</string>
-  <string name="meeting_canceled">İptal Edildi: %s</string>
-  <string name="meeting_declined">Kabul Edilmedi: %s</string>
-  <string name="meeting_recurring">Ne Zaman: %s (devirli)</string>
+  <string name="meeting_accepted">"
+        Kabul edildi:
+		%s
+	"</string>
+  <string name="meeting_allday">"
+        Ne zaman:
+        %s
+        (tüm gün)
+    "</string>
+  <string name="meeting_allday_recurring">"
+        Ne zaman:
+        %s
+        (tüm gün, yinelenen)
+    "</string>
+  <string name="meeting_canceled">"
+        İptal edildi:
+        %s
+    "</string>
+  <string name="meeting_declined">"
+        Reddedildi:
+        %s
+    "</string>
+  <string name="meeting_recurring">"
+        Ne zaman:
+        %s
+        (yinelenen)
+    "</string>
   <string name="meeting_responded_failed">Cevap yok</string>
-  <string name="meeting_tentative">Tereddütlü: %s</string>
-  <string name="meeting_updated">Güncellendi: %s</string>
-  <string name="meeting_when">Ne Zaman: %s</string>
-  <string name="meeting_where">Nerede: %s</string>
+  <string name="meeting_tentative">"
+        Geçici:
+        %s
+    "</string>
+  <string name="meeting_updated">"
+        Güncellendi:
+        %s
+    "</string>
+  <string name="meeting_when">"
+        Ne zaman:
+        %s
+    "</string>
+  <string name="meeting_where">"
+        Nerede:
+        %s
+    "</string>
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Ekler</string>
   <string name="menu_att_mgr_order_default">Önceden görüntülenen</string>
@@ -803,7 +840,7 @@
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
-  <string name="preference_eas_tips">Posta sunucusu ayarındaki Etkinleştir\'e dokun.</string>
+  <string name="preference_eas_tips">Posta sunucusunu ayarlamak için \"Etkinleştir\" e dokunun.</string>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak E-Posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
   <string name="preference_sender_image_description">Bir sonraki gelen kutusunda gönderenin adının profil resimleri göster</string>
   <string name="preference_sender_image_title">Gelen kutusunda profil resimlerini göster</string>
@@ -1050,7 +1087,7 @@
   <string name="title_activity_about">Hakkında</string>
   <string name="to">Kime</string>
   <string name="to_heading">"Kime: "</string>
-  <string name="toast_bar_fail_synchronization">Ağa bağlanamıyor</string>
+  <string name="toast_bar_fail_synchronization">Sunucuya erişilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="toast_bar_insufficient_memory_space">Yetersiz depolama alanı</string>
   <string name="toast_bar_invalid_account">Tekrar oturum açmanız gerekir</string>
   <string name="toast_bar_no_connection_network">İnternet bağlantısı yok</string>
@@ -1122,31 +1159,41 @@
   <string name="youfuli">Promosyon</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
   <string name="account_settings_preference_add_account">E-posta hesabı ekle</string>
-  <string name="chinese">Çince</string>
   <string name="notify_channel_new_mail">Yeni mesajlar hakkında bilgilendir</string>
-  <string name="notify_channel_permission_notice">İzin Uyarı hatırlatıcısı</string>
+  <string name="notify_channel_permission_notice">Gerekli izinler</string>
   <string name="notify_channel_send_fail">Başarısız teslimat hakkında bilgilendir</string>
   <string name="show_more_attachment">Daha fazla ek</string>
   <string name="overlays_tip_23">Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
-  <string name="mail_search_lab">arama etiketi</string>
-  <string name="add_file_exception">İstisna ekle. Lütfen diğer yollardan eklemeyi deneyin.</string>
+  <string name="add_file_exception">Eklenemedi. Bu eki farklı bir yerden eklemeyi deneyin.</string>
   <string name="dialog_agree">Kabul et</string>
   <string name="dialog_disagree">Reddet</string>
-  <string name="list_empty_to_fresh">Posta yok, lütfen aşağı çekip yenilemeyi deneyin.</string>
-  <string name="notify_channel_no_disterb">Rahatsız etme modu yok</string>
-  <string name="privacy_des">İşlem kaydı bilgileri, e-posta uygulaması tarafından yazdırılan hata ayıklama bilgilerini ve geri bildirimde bulunduğunuz sorunları bulmak için cihazınızla ilgili bilgileri içerir. Aşağıdaki \"%1$s\" seçin. Bu okuduğunuz ve kabul ettiğiniz anlamına gelir.《%2$s》</string>
-  <string name="notify_channel_service">Arka plan senkronizasyonu hatırlatma</string>
-  <string name="appraise_des">Sadece sizin memnuniyetinize göre ürünler geliştirmek için çok çalışıyoruz. Lütfen yorumlarınız ile bize destek verin.</string>
-  <string name="appraise_good">Övgü ve teşvik</string>
-  <string name="appraise_ignore">Geçici değerlendirme</string>
-  <string name="appraise_negative">Olumsuz yorum</string>
-  <string name="have_auth_code">Giriş koduyla</string>
-  <string name="help_me_get_qq_auth">QQ yetkilendirme kodunu almama yardım et</string>
-  <string name="open_androidp_warning">OPEN 9.0 Gayri Resmi SDK Uyarısı</string>
-  <string name="qq_login_notice">Sıcak İpucu: Bağımsız bir şifre ayarladıysanız, posta kutusuna girişinizi doğrulamak için bağımsız bir şifre girmeniz gerekir.</string>
-  <string name="qq_pwd_or_qq_auth_code">QQ yetkilendirme kodu veya posta kutusu şifresi</string>
+  <string name="list_empty_to_fresh">Henüz e-posta yok.</string>
+  <string name="notify_channel_no_disterb">Rahatsız etme modu</string>
+  <string name="privacy_des">"Günlükler e-posta istemcisinin hata ayıklama bilgilerini ve cihaz bilginizi içerir. Bu bilgi, sorunları daha hızlı bulmak için kullanılır. Aşağıdaki \"%1$s\" seçeneğine dokunarak \"%2$s\"yi kabul ediyorsunuz."</string>
+  <string name="notify_channel_service">Arka plan eşitleme hakkında bilgilendir</string>
+  <string name="appraise_des">Uygulamamızı sevdiniz mi?</string>
+  <string name="appraise_good">Evet</string>
+  <string name="appraise_ignore">Şimdi değil</string>
+  <string name="appraise_negative">Hayır</string>
+  <string name="have_auth_code">Kodum var</string>
+  <string name="help_me_get_qq_auth">QQ kodunu al</string>
+  <string name="open_androidp_warning">9.0 resmi olmayan SDK\’ları uyar</string>
+  <string name="qq_login_notice">Not: Zaten bir şifre ayarladıysanız, oturum açtığınızda doğrulamanız gerekir.</string>
+  <string name="qq_pwd_or_qq_auth_code">QQ kodunu veya e-posta şifrenizi girin</string>
   <string name="folder_empty_to_fresh">Posta senkronize edilmedi. Senkronize etmek için aşağı çekin.</string>
-  <string name="folder_no_mails">Bu klasörde e-posta yok</string>
-  <string name="toast_bar_sync_failed_mi_authority">Senkronizasyon başarısız oldu, lütfen daha sonra tekrar deneyin. Yeni cihaza giriş yapmak için, lütfen cihazı hesap merkezi veya SMS istemi aracılığıyla yetkilendirin.</string>
-  <string name="wipe_account_fail_description_remind">Veri izinleri nedeniyle, hesap silindikten sonra takvimde ve rehberde artık veri kalmış olabilir, lütfen manuel olarak silin.</string>  
+  <string name="folder_no_mails">Bu klasörde e-posta yok.</string>
+  <string name="toast_bar_sync_failed_mi_authority">Senkronize edilemedi. Bir iki dakika bekleyin ve tekrar deneyin. İlk kez oturum açıyorsanız, cihazınızı intranet/SMS belirteci ile yetkilendirin.</string>
+  <string name="wipe_account_fail_description_remind">Veri kullanım kısıtlamaları nedeniyle, hesabı sildikten sonra Takvim ve Rehber\’de kalan veriler olabilir. Bu öğeleri manuel olarak silin.</string>
+  <string name="account_setup_basics_password_label_authcode">Şifreyi veya doğrulama kodunu girin</string>
+  <string name="add_account_search">Hesap ekle</string>
+  <string name="attachment_opening_mode">Ekler için uygulamalar</string>
+  <string name="default_opening_attchemnt_mode">Varsayılan uygulamaları kullanarak ekleri açın</string>
+  <string name="delete_contact_content">Bu kişiyi şimdi sil?</string>
+  <string name="local_search_result">Eşitlenen mesajlarda %s sonuç</string>
+  <string name="login_err_message">Girdiğiniz şifre yanlış. Oturum açmak için bir doğrulama koduna da ihtiyacınız olabilir. Şifrenizi sıfırlamanız gerekirse, kullanabileceğiniz seçenekleri görmek için https://email.163.com/ adresini ziyaret edin.</string>
+  <string name="print_scheduler_title">Tüm Zamanlayıcıları Yazdır</string>
+  <string name="recommend_protocal">Tavsiye protokolü</string>
+  <string name="update_domain_summary">Etki Alanı Listesini ve Yapılandırmayı Güncelle</string>
+  <string name="update_domain_title">Etki Alanını Güncelle</string>
+  <string name="wait_while_update_db">Veritabanı yükseltme işlemi sırasında bir dakika bekleyin lütfen!</string>  
 </resources>
