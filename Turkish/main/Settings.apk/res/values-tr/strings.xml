@@ -6478,7 +6478,6 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="dc_light_summary_new">DC karartma, düşük ışık koşullarında göz yorgunluğunu azaltır. Ancak, Titreşimsiz mod açıkken görüntü kalitesi etkilenebilir.</string>
   <string name="search_add_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>
   <string name="search_manage_facerecoginition_text">Yüz ile kilit aç; yüz tanıma</string>
-  <string name="bluetooth_device_misc_title">Nadiren kullanılan cihazlar</string>
   <string name="color_led_applications_title">Uygulamaları seç</string>
   <string name="color_led_applications_title_summary">Uygulamalar için tek tek LED ışık kullanımını kısıtlayabilirsiniz</string>
   <string name="color_led_battery_title">Şarj olurken devam edin</string>

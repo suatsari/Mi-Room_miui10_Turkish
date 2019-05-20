@@ -37,7 +37,7 @@
   <string name="find_device_dspt_provision">Cihazınızı kaybederseniz, yerini belirlemek, kilitlemek veya sıfırlamak için %s adresine gidebilirsiniz. Ayarlar\'dan bu özelliği istediğiniz zaman açıp kapatabilirsiniz.</string>
   <string name="find_device_error_network">Veri bağlantınızı kontrol edin ve tekrar deneyin.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
-  <string name="find_device_gdpr_prompt">Cihazı bul özelliğini açarak, Gizlilik Politikamızı kabul etmiş olursunuz. Yetkilendirmeyi iptal etmeniz gerekirse, bu özelliği kapatın.</string>
+  <string name="find_device_gdpr_prompt">Cihazı bul özelliğini açarak <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik Politikamızı</a></u> kabul etmiş olursunuz. Yetkilendirmeyi iptal etmeniz gerekirse, bu özelliği kapatın.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Gizlilik Politikası</string>
   <string name="find_device_operation_failure_rpc">RPC hatası nedeniyle işlem gerçekleştirilemedi.</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS daha gönderilebilir.</string>
