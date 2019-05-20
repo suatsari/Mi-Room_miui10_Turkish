@@ -702,5 +702,7 @@ Fikstürü yakından ve uzaktan telefondan kontrol edin"</string>
   <string name="cit_f2_capture_fail">Yakalama Başarısız, lütfen Yeniden Dene!</string>
   <string name="cit_f2_capture_success">Kalibrasyon düğmesine tıklayın!</string>
   <string name="allow_gpu_maxfreq_summary">GPU aşırı frekans deney modu güç sorunları veya daha ciddi problemler ortaya çıkarabilir. Ancak, bu modu kapatdıktan sonra geri yüklenecektir.. GPU maksimum frekans modu açılsın mı?</string>
-  <string name="gpu_maxfreq_title">Deneysel GPU Aşırı Frekans Modu</string>  
+  <string name="gpu_maxfreq_title">Deneysel GPU Aşırı Frekans Modu</string>
+  <string name="close_third_color_led">üç renkli led kapalı</string>
+  <string name="open_third_color_led">üç renkli led açık</string>  
 </resources>

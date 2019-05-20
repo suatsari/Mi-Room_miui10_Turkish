@@ -266,5 +266,8 @@
   <string name="permission_storage_introduce">Cihazdaki öğelere erişmek ve dosyaları kaydetmek için</string>
   <string name="permission_user_protocol">Kullanıcı Sözleşmesi (zorunlu)</string>
   <string name="weather_introduce">Ne olursa olsun, her zaman seninle.</string>
-  <string name="weather_permission_agree">Kabul</string>  
+  <string name="weather_permission_agree">Kabul</string>
+  <string name="tts_best_aqi">En iyi hava kalitesi</string>
+  <string name="tts_hour_weather_date_time">%2$s %1$s itibaren %4$s %3$s saatine kadar</string>
+  <string name="tts_max_wind_power">En yüksek rüzgar hızı</string>  
 </resources>

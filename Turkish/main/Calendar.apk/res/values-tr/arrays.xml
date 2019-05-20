@@ -261,6 +261,7 @@
     <item>10 dakika</item>
     <item>15 dakika</item>
     <item>30 dakika</item>
+	<item>1 saat</item>
   </string-array>
   <string-array name="repeat_monthly_on_day_count_values">
     <item>ilk Pazartesi</item>
@@ -298,5 +299,13 @@
     <item>geçen Cuma</item>
     <item>geçen Cumartesi</item>
     <item>geçen Pazar</item>
+  </string-array>
+  <string-array name="close_alarm_repeating_labels">
+    <item>Sadece bu sefer için</item>
+    <item>Tekrarlanan hatırlatıcıyı kapat</item>
+  </string-array>
+  <string-array name="open_alarm_repeating_labels">
+    <item>Sadece bu sefer için</item>
+    <item>Tekrarlanan hatırlatıcıyı ayarla</item>
   </string-array>  
 </resources>

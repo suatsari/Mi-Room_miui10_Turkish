@@ -1505,5 +1505,8 @@ mevcut"</string>
   <string name="filter_sky_rainbow">Gökkuşağı</string>
   <string name="filter_sky_sunny">Güneşli</string>
   <string name="filter_sky_sunset">Gün batımı</string>
-  <string name="trash_bin_key_word">Silinen fotoğraflar</string>  
+  <string name="trash_bin_key_word">Silinen fotoğraflar</string>
+  <string name="clear_dup_medias">Çift fotoğrafları temizle</string>
+  <string name="clear_dup_success">Başarıyla temizlendi</string>
+  <string name="clear_dup_tip">Çift fotoğraflar temizleniyor</string>  
 </resources>
