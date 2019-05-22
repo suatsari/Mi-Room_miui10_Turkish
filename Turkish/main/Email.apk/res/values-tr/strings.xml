@@ -435,8 +435,8 @@
   <string name="failed">Resim yüklenemedi</string>
   <string name="failed_parse_eml_file">EML dosyası açılamadı, tekrar deneyin.</string>
   <string name="failed_read_phone_state_permission">Telefon durumuna erişim izni yok</string>
-  <string name="failed_read_write_calendar_permission">Takvim erişim izni yok</string>
-  <string name="failed_read_write_contacts_permission">Kişilere erişim hakkı yok</string>
+  <string name="failed_read_write_contacts_permission">Kişilere erişim kısıtlanmış</string>
+  <string name="failed_read_write_calendar_permission">Takvime erişim kısıtlanmış</string>
   <string name="feedback">Geribildirim gönder</string>
   <string name="feedback_body">Geribildirim bilgisi</string>
   <string name="feedback_sent">Görüşleriniz için teşekkür ederiz.</string>

@@ -261,5 +261,6 @@
   <string name="module_download_data_msg_timer">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmesi gerekir. Bu indirme için ≈20MB mobil veri gerekiyor. Şimdi indir?</string>
   <string name="module_download_msg_timer">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmesi gerekir. Şimdi indir?</string>
   <string name="personal_recommend">Kişiselleştirilmiş içerik önerileri</string>
-  <string name="user_agreement">Kullanıcı Sözleşmesi</string>  
+  <string name="user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="update_notification_info">Arka planda veri güncelleniyor…</string>  
 </resources>
