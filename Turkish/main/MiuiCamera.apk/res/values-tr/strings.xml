@@ -888,7 +888,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="mimoji_selected">Seçin</string>
   <string name="mimoji_start_create">Mimoji oluşturuluyor…</string>
   <string name="mimoji_tips">Fotoğraf çekmek için dokunun. Video kaydı için basılı tutun.</string>
-  <string name="module_name_fun_ar">Eğlence</string>
+  <string name="module_name_fun_ar">Mimoji</string>
   <string name="recapture_dialog_message">Geri almayı onayla?</string>
   <string name="recapture_dialog_title">Yeniden çekim yapmak geçerli görüntüyü temizler</string>
   <string name="wideselfie_result_image_lossless">Panoramik çekim oluşturulamadı</string>
