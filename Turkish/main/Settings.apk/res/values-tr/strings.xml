@@ -6494,8 +6494,6 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="color_led_red_package_title">Kırmızı zarflar</string>
   <string name="color_led_start_time">Başlangıç zamanı</string>
   <string name="color_led_title">Led ışık</string>
-  <string name="long_press_power_key">Güç düğmesine uzun basın</string>
-  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha uygun&lt;/font></Data></string>
   <string name="toggle_auto_speaker_preference_title">Otomatik olarak hoparlöre geç</string>
   <string name="toggle_auto_speaker_preference_summary">Çağrılar sırasında cihazı kulağınızdan uzaklaştırdığınızda hoparlöre geçilecektir. Bu özellik yalnızca TalkBack açıkken çalışır.</string>  
 </resources>

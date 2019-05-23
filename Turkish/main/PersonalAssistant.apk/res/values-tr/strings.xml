@@ -682,12 +682,12 @@
   <string name="miot_device_add_device">Cihaz ekle</string>
   <string name="miot_device_all_device">Tüm cihazlar</string>
   <string name="miot_device_cancel">İptal</string>
-  <string name="miot_device_card_title">Mi Ev</string>
-  <string name="miot_device_click_show_detail">(Akıllı ev cihazları hakkında bilgi edinmek için dokunun)</string>
+  <string name="miot_device_card_title">Mi Ev cihazları</string>
+  <string name="miot_device_click_show_detail">Akıllı ev cihazları hakkında daha fazla bilgi edinmek için dokunun.</string>
   <string name="miot_device_click_show_img">Resmi görüntülemek için dokunun</string>
   <string name="miot_device_cta_and"> ve </string>
   <string name="miot_device_cta_end">. (</string>
-  <string name="miot_device_cta_message">Akıllı cihazlarınızı istendiğinde kontrol etmek için ekleyin. Kabul etmek için Yetkilendir\'e dokunun </string>
+  <string name="miot_device_cta_message">"Uygulama kasasından kontrol edebilmek için akıllı cihazlarınızı ekleyin. Aşağıdaki \"Kabul\" seçeneğine dokunarak kabul etmiş olursunuz "</string>
   <string name="miot_device_cta_priv">Gizlilik Politikası</string>
   <string name="miot_device_cta_use_info">Mi Ev Kullanıcı Sözleşmesi</string>
   <string name="miot_device_edit">Düzenle</string>
@@ -695,7 +695,7 @@
   <string name="miot_device_empty_text">İsteğe bağlı olarak çalıştırmak için hava temizleyici, kamera, robot vakum ve diğer akıllı cihazlar ekleyin.</string>
   <string name="miot_device_hide_frame_toast">Resmi gizle</string>
   <string name="miot_device_install_mijia">İndir</string>
-  <string name="miot_device_introduction">Akıllı cihazları hızlı kontrol (Görüntülemek için Uygulama kasasında aşağı kaydırın)</string>
+  <string name="miot_device_introduction">Kullanılabilir akıllı ev kontrollerini görmek için Uygulama kasasında aşağı kaydırın</string>
   <string name="miot_device_loading">Yükleniyor…</string>
   <string name="miot_device_login">Oturum aç</string>
   <string name="miot_device_mijia_logout_message">Herhangi bir cihaz eklemeden veya kullanmadan önce Mi hesabınızla oturum açmanız gerekir. Şimdi oturum açmak ister misiniz?</string>
@@ -1157,7 +1157,7 @@
   <string name="miot_delete_dialog_title">Mi ev kartı kaldırıldı</string>
   <string name="miot_device_edit_device">Cihazları yeniden düzenle</string>
   <string name="preload_empty">Henüz burada öğe yok. Yenilemek için aşağı çekin.</string>
-  <string name="quick_app_setting_brief">Son kullanılan hızlı uygulamalar (Görüntülemek için Uygulama kasasında aşağı kaydırın)</string>
+  <string name="quick_app_setting_brief">Son kullanılan hızlı uygulamaları görmek için Uygulama kasasında aşağı kaydırın</string>
   <string name="quick_app_setting_brief_detail">En son kullandığınız tüm hızlı uygulamaları görüntüleyin</string>
   <string name="quick_app_title">Son hızlı uygulamalar</string>
   <string name="recommend_empty_tip">Henüz burada öğe yok. Daha fazla ürün ekleyebilirsiniz.</string>
