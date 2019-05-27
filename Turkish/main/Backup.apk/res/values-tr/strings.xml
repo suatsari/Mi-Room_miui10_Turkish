@@ -597,5 +597,7 @@
   <string name="dialog_backup_password_change_machine_tips">Şifre korumalı yedekleri aktaramazsınız. Mi Mover\'ı kullanmadan önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_backup_tips">Yedekleme şifresi açıkken öğeler yedeklenemiyor. Yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_cancel">İptal</string>
-  <string name="dialog_backup_password_to_settings">Ayarlar</string>  
+  <string name="dialog_backup_password_to_settings">Ayarlar</string>
+  <string name="gallery_summary">Galeri ayarları (fotoğraflar dahil değil)</string>
+  <string name="user_feedback">Geri bildirim</string>  
 </resources>

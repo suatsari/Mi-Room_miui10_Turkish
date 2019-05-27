@@ -467,4 +467,5 @@
   <string name="vip_account_settings">VIP Ayarları</string>
   <string name="vip_settings_info">VIP ayarları</string>
   <string name="xiao_mi_vip">Mi VIP</string>
+  <string name="passport_wx_bind_account_limit">Şimdi hesap oluşturulamıyor. Diğer oturum açma yöntemlerini deneyin.</string>  
 </resources>

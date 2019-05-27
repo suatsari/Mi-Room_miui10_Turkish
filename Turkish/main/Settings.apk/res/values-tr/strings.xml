@@ -873,7 +873,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz güncel cihaz ile değiştirilecek</string>
   <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seç</string>
   <string name="bluetooth_unlock_confirm_device_text">Bluetooth cihazını doğrulamak için dokun.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Kilidini açmak için saatin üzerindeki düğmeye dokunun.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Saatin üzerinde onaylayın.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Kilidini açmak için saatin üzerindeki düğmeye dokunun.</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
@@ -6495,5 +6495,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="color_led_start_time">Başlangıç zamanı</string>
   <string name="color_led_title">Led ışık</string>
   <string name="toggle_auto_speaker_preference_title">Otomatik olarak hoparlöre geç</string>
-  <string name="toggle_auto_speaker_preference_summary">Çağrılar sırasında cihazı kulağınızdan uzaklaştırdığınızda hoparlöre geçilecektir. Bu özellik yalnızca TalkBack açıkken çalışır.</string>  
+  <string name="toggle_auto_speaker_preference_summary">Çağrılar sırasında cihazı kulağınızdan uzaklaştırdığınızda hoparlöre geçilecektir. Bu özellik yalnızca TalkBack açıkken çalışır.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Bant üzerinden onaylayın.</string>
+  <string name="miui_touch_filtered_touchassistant_warning">İzinler iletişim kutusu, Kısayol düğmesi ile kaplıdır. Kısayol düğmesini uzaklaştırın veya bu özelliği kapatın.</string>  
 </resources>

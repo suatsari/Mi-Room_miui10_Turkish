@@ -16,40 +16,40 @@
     </string-array>
     <string-array name="compose_modes">
         <item>Cevapla</item>
-        <item>Tümünü Cevapla</item>
+        <item>Tümünü cevapla</item>
         <item>Yönlendir</item>
     </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Bu gece</item>
         <item>Yarın</item>
-        <item>Haftasonu</item>
+        <item>Hafta sonu</item>
         <item>Gelecek hafta</item>
         <item>Gelecek ay</item>
         <item>Tarih seç</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Küçücük</item>
+        <item>Çok küçük</item>
         <item>Küçük</item>
         <item>Normal</item>
         <item>Büyük</item>
-        <item>Kocaman</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>En Son Görüntülenen</item>
+        <item>En son görüntüleme</item>
         <item>Biçim</item>
-        <item>Adı</item>
+        <item>İsim</item>
         <item>Gönderen</item>
-        <item>Alınma Tarihi</item>
+        <item>Alınma tarihi</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistem</item>
-        <item>Sık Kullanılan</item>
-        <item>Tüm Klasörler</item>
+        <item>Sık kullanılan</item>
+        <item>Tüm klasörler</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Yeni Postalar</item>
-        <item>Eski Postalar</item>
-        <item>Gelen Kutusu</item>
+        <item>Yeni postalar</item>
+        <item>Eski postalar</item>
+        <item>Gelen kutusu</item>
     </string-array>
     
     <string-array name="signature_normal_string_array">
@@ -81,10 +81,10 @@
     </string-array>
     <string-array name="signature_special_string_array">
         <item>Feragat:</item>
-        <item>E-Posta Feragatı</item>
+        <item>E-Posta feragatı</item>
         <item>WPSMail yoluyla gönder</item>
-        <item>Şundan Geldi</item>
-        <item>Şunla Gönder</item>
+        <item>Şundan geldi</item>
+        <item>Şunla gönder</item>
         <item>Teşekkürler,</item>
         <item>Saygılarımla</item>
     </string-array>
@@ -92,17 +92,12 @@
         <item>Teşekkürler,</item>
         <item>Saygılarımla</item>
         <item>Gönderen</item>
-        <item>Asıl E-Posta</item>
+        <item>Orijinal e-posta</item>
         <item>Gönderen</item>
         <item>Gönderilen</item>
         <item>Gönderen</item>
-        <item>Bu Posta</item>
+        <item>Bu e-posta</item>
         <item>Feragat</item>
-        <item>E-Posta Feragatı</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
+        <item>E-Posta feragatı</item>
     </string-array>
     </resources>
