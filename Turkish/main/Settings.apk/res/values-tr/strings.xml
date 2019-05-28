@@ -3697,6 +3697,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_paper_mode_global_summary">Tüm uygulamalar için Okuma modunu kullanın</string>
   <string name="screen_paper_mode_global_title">Tüm uygulamalar</string>
   <string name="screen_paper_mode_hdr_toast">HDR videoları oynatırken Okuma modu kapatılacak. Oynatma bittikten sonra otomatik olarak tekrar açılacak.</string>
+  <string name="screen_paper_mode_hdr_toast_new">HDR video oynatma ve parmak izi doğrulaması sırasında Okuma modu otomatik olarak kapanacaktır. Bu işlemler tamamlandıktan sonra cihazınız Okuma moduna geri döner.</string>  
   <string name="screen_paper_mode_local_summary">Seçtiğiniz uygulamalar için Okuma modunu kullanın</string>
   <string name="screen_paper_mode_local_title">Seçilen uygulamalar</string>
   <string name="screen_paper_mode_off_apps_title">Okuma modunu kullanma</string>

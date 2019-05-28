@@ -558,6 +558,7 @@
   <string name="open_online_service">Bu özelliği kullanarak çevrimiçi hizmetleri açabilirsiniz. Şimdi açılsın mı?</string>
   <string name="open_service">Aç</string>
   <string name="other_song_in_album">Aynı albümdeki diğer şarkılar.</string>
+  <string name="password_toggle_content_description">Şifre görünürlüğünü değiştir</string>
   <string name="paused_by_app">Durduruldu</string>
   <string name="paused_in_power_save_mode">Güç Tasarruf Modunda durduruldu</string>
   <string name="paused_insufficient_space">Bekliyor</string>
