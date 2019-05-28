@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
   <string name="account_duplicate_dlg_message_fmt">\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz.</string>
   <string name="account_duplicate_dlg_title">Yinelenen hesap</string>
   <string name="account_failure">Oturum zaman aşımına uğradı</string>
@@ -323,7 +322,6 @@
   <string name="contextmenu_send_mail">E-Posta gönder</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Konuşma İçeriği Sağlayıcısı</string>
   <string name="conversation_detail_hide">Gizle</string>
   <string name="conversation_detail_show">Ayrıntılar</string>
   <string name="conversation_folder_moved">%1$s bölümüne taşındı</string>
@@ -586,14 +584,6 @@
   <string name="mailbox_name_display_starred">Favoriler</string>
   <string name="mailbox_name_display_trash">Çöp Kutusu</string>
   <string name="mailbox_name_display_unread">Okunmamış</string>
-  <string name="mailbox_name_server_all_unread">Okunmamış</string>
-  <string name="mailbox_name_server_drafts">Taslaklar</string>
-  <string name="mailbox_name_server_inbox">Gelen kutusu</string>
-  <string name="mailbox_name_server_junk">Önemsiz</string>
-  <string name="mailbox_name_server_outbox">Giden kutusu</string>
-  <string name="mailbox_name_server_sent">Gönderilen</string>
-  <string name="mailbox_name_server_starred">Yıldızlı</string>
-  <string name="mailbox_name_server_trash">Çöp</string>
   <string name="mailbox_settings_activity_title">Eşitleme ayarları</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Eşitleme ayarları (%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">Postayı eşitle</string>
@@ -827,7 +817,6 @@
   <string name="policy_screen_timeout">Ekranı kilitlemesi için cihazın boşta olması  gerekir</string>
   <string name="policy_text_truncation">Posta yazı boyutunu kısıtla</string>
   <string name="pop3_name">POP3</string>
-  <string name="prefDefault_autoAdvance">liste</string>
   <string name="preference_eas_tips">Posta sunucusunu ayarlamak için \"Etkinleştir\" e dokunun.</string>
   <string name="preference_pop_tips">POP3\'te, ekler otomatik olarak E-Posta ile indirilebilir olacak. Bu mobil veri kullanımını artırabilir.</string>
   <string name="preference_sender_image_description">Bir sonraki gelen kutusunda gönderenin adının profil resimleri göster</string>
@@ -952,7 +941,6 @@
   <string name="refreshing_done">Tamam</string>
   <string name="release_to_refresh">Yenilemek için bırakın</string>
   <string name="remind_attachment_size_limit">E-Postalarınız %sMB\'tan az olmalıdır</string>
-  <string name="remote_no_mail">Sunucuda başka e-posta yok.</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_folder">%1$s\'dan kaldır</string>
   <string name="remove_star">Favoriden çıkart</string>

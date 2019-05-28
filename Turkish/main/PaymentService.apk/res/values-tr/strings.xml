@@ -467,5 +467,7 @@ To activate your account, follow the
   <string name="mibi_error_privacy_summary">Yetkilendirmeyi iptal ettiniz.</string>
   <string name="mibi_giftcard_in_available">Mevcut</string>
   <string name="mibi_privacy_tip_message">Yetkilendirme iptal edildikten sonra Mi Kredilerini kullanamazsınız</string>
-  <string name="mibi_privacy_tip_title">Önce yetkilendirmeyi onayla</string>  
+  <string name="mibi_privacy_tip_title">Önce yetkilendirmeyi onayla</string>
+  <string name="mibi_menu_qa_feedback">SSS &amp; geri bildirim</string>
+  <string name="mibi_paytool_wechat_return_cancel">WeChat giriş iptali</string>  
 </resources>

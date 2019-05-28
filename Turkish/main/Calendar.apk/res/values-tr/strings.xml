@@ -629,5 +629,8 @@
   <string name="setting_daysoff_update_net_err">Güncellemeler kontrol edilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="setting_daysoff_update_schedule">Güncelleniyor…</string>
   <string name="setting_daysoff_update_success">Başarıyla güncellendi</string>
-  <string name="talk_back_tab_switch">Görünümler arasında geçiş yap</string>  
+  <string name="talk_back_tab_switch">Görünümler arasında geçiş yap</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI, hangi etkinliklerin en alakalı olduğunu otomatik olarak belirleyecektir.</string>
+  <string name="preferences_popup_alert_smart_tips">Önemli etkinliklerin atlanmasını önlemek için geleneksel bildirimleri açılır uyarılar ile değiştirin. Oyun oynarken, tam ekran video izlerken veya Araba modunu kullanırken açılır uyarılar görünmez.</string>
+  <string name="preferences_popup_alert_title">Açılır uyarılar</string>  
 </resources>

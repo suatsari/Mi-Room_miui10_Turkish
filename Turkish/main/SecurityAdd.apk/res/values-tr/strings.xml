@@ -56,4 +56,14 @@
   <string name="title_share_link">Linki paylaş</string>
   <string name="usage_sorted_loading_text">Sadece bir saniye…</string>
   <string name="xunyou_pay_webview">Xunyou hizmetleri</string>
+  <string name="dialog_market_score_cancel">İptal</string>
+  <string name="dialog_market_score_dislike">Yorum</string>
+  <string name="dialog_market_score_like">5 yıldız!</string>
+  <string name="dialog_market_score_positive_button">Yorum</string>
+  <string name="dialog_market_score_submit">Gönder</string>
+  <string name="dialog_market_score_subtitle_step1">Bu uygulamayı derecelendirmek için yıldızlara dokunun</string>
+  <string name="dialog_market_score_subtitle_step2">Sen de bir yorum bırakabilirsin.</string>
+  <string name="dialog_market_score_subtitle_step3">Bu uygulamayı değerlendirin</string>
+  <string name="dialog_market_score_title_step1_format">\"%s\" sevdin mi?</string>
+  <string name="dialog_market_score_title_step2">Geri bildiriminiz için teşekkürler!</string>  
 </resources>

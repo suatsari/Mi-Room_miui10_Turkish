@@ -117,7 +117,7 @@
   <string name="antivirus_update_btn_update">Güncelle</string>
   <string name="apn_exception_summary">Operatörün Erişim Noktası Yapılandırmasını Test Et</string>
   <string name="apn_exception_title">APN Yapılandırmasını Denetle</string>
-  <string name="app_bg_restrict_dialog_message">Arka plandaki ağ bağlantısını kısıtlamak, uygulamanın normal şekilde çalışmasını engelleyebilir. Örneğin, artık ileti alamaz veya içerik güncelleşmeyebilir. Yinede kısıtlayalım mı?</string>
+  <string name="app_bg_restrict_dialog_message">Arka plan ağ bağlantısını kısıtlamak, uygulamanın normal şekilde çalışmasını engelleyebilir. Örneğin, artık iletileri almak veya içeriği güncelleştirmek mümkün olmayabilir.</string>
   <string name="app_check_no_issue">Pilde herhangi bir sorun gözükmüyor. Harika!</string>
   <string name="app_detail">Detaylar</string>
   <string name="app_error_tip_for_launcher">Cihazınızın donanım bileşenleri veya Android sistemi sürümü, uyumluluk sorunlarına neden olabilir ve bazı uygulamalar yanlış çalışmaya, donmaya veya zorla durdurulmaya neden olabilir. Bu tür sorunlarla karşılaşırsanız, görüşlerinizi uygulama geliştiricileri ile paylaşın.</string>
@@ -581,26 +581,26 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="customizer_mode_user_define_name">Kurallarım</string>
   <string name="daily_limit_and_lock_screen">Veri kullanımı uyarısı</string>
   <string name="daily_limit_network_available_body">Veri kullanım istatistiklerini görmek için dokunun.</string>
-  <string name="daily_limit_over_message">Günlük veri limitini aştınız.</string>
-  <string name="daily_pkg_traffic">Üst Veri Limiti</string>
+  <string name="daily_limit_over_message">Günlük veri sınırınızı aştınız.</string>
+  <string name="daily_pkg_traffic">En yüksek veri sınırı</string>
   <string name="data_booster_desc">Bağlantıyı sabit tutmak için diğer SIM yuvalarını devre dışı bırakın</string>
   <string name="data_booster_title">Veri bağlantısını dengede tutun</string>
   <string name="data_network_blocked_notification_title">İnternet bağlantısı yok</string>
   <string name="data_usage_correction_timeout_title">Veri kullanım eşitlemesi zaman aşımına uğradı</string>
   <string name="data_usage_disabled_dialog">Planlanan veri kullanım sınırına ulaştınız. Sınırı aşarsan, Operatörünüz ek ücret talep edebilir.</string>
   <string name="data_usage_disabled_dialog_enable">Veriyi aç</string>
-  <string name="data_usage_leisure_warning_body">Veri kullanım detaylarını görüntülemek için dokunun.</string>
-  <string name="data_usage_leisure_warning_title">Üst Veri Kullanım Limiti</string>
+  <string name="data_usage_leisure_warning_body">Veri kullanım ayrıntılarını görüntülemek için dokunun.</string>
+  <string name="data_usage_leisure_warning_title">Serbest veri kullanım sınırı</string>
   <string name="data_usage_limit_body">Mobil veriyi açmak için dokunun.</string>
   <string name="data_usage_mobile_dialog_title">Zaten 5 GB mobil veri kullandınız. MIUI mobil verileri kapattı.</string>
   <string name="data_usage_mobile_limit_title">Mobil veri sınırına ulaşıldı</string>
-  <string name="data_usage_no_total_package_body">Veri limitini ayarlamak için dokunun</string>
+  <string name="data_usage_no_total_package_body">Veri sınırını ayarlamak için dokunun</string>
   <string name="data_usage_no_total_package_body_dual">%s için mobil veri sınırı yok</string>
-  <string name="data_usage_no_total_package_title">Veri kullanım limitini ayarlayın</string>
+  <string name="data_usage_no_total_package_title">Veri kullanım sınırını ayarlayın</string>
   <string name="data_usage_protected_dialog_message">MIUI, ek operatör ücretleri oluşturmanızı önlemek için mobil verileri kapattı.\n\nMobil verileri tekrar açtığınızda operatörünüz size ek ücretler talep edebilir.</string>
   <string name="data_usage_protected_notify_message">MIUI, ek operatör ücretleri oluşturmanızı önlemek için mobil verileri kapattı.</string>
   <string name="data_usage_protected_notify_title">Zaten 5 GB mobil veri kullandınız</string>
-  <string name="data_usage_warning_body">Veri kullanım detaylarını görüntülemek için dokunun.</string>
+  <string name="data_usage_warning_body">Veri kullanım ayrıntılarını görüntülemek için dokunun.</string>
   <string name="data_usage_warning_body_notify">Detayları görüntülemek için dokunun</string>
   <string name="data_usage_warning_title_notify">Veri sınırını aştın</string>
   <string name="databooster_tips_message">Veri kartı haricindeki tüm SIM kartları kısıtlamak için açın. Seçtiğiniz oyunlarda hatalar oluşursa, bu özelliği kapatın.</string>
@@ -628,9 +628,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="dialog_remobe_luckymoney_cancle">Eski</string>
   <string name="dialog_remobe_luckymoney_ok">Yeni</string>
   <string name="dialog_remove_luckymoney">Yeni yerleşik kızıl zarf asistanını kullanabilir veya faal olanı kullanmaya devam edebilirsiniz. Hangisini tercih ediyorsun?</string>
-  <string name="dialog_restrict_all_mobile_summary">Bundan sonra tüm uygulamalar için %s mobil veri bağlantısı kısıtlanacaktır.</string>
-  <string name="dialog_restrict_all_mobile_title">%s mobil veri bağlantısını kısıtla</string>
-  <string name="dialog_restrict_all_wlan_summary">Bundan sonra tüm uygulamalar için WLAN bağlantısı sınırlandırılacaktır.</string>
+  <string name="dialog_restrict_all_mobile_summary">%s Mobil veri bağlantısı bundan sonra tüm uygulamalar için kısıtlanacaktır.</string>
+  <string name="dialog_restrict_all_mobile_title">%s Mobil veri bağlantısını kısıtla</string>
+  <string name="dialog_restrict_all_wlan_summary">WLAN bağlantısı bundan sonra tüm uygulamalar için kısıtlanacaktır.</string>
   <string name="dialog_restrict_all_wlan_title">WLAN bağlantısını kısıtla</string>
   <string name="dialog_restrict_negative">Kısıtla</string>
   <string name="dialog_restrict_positive">İptal</string>
@@ -768,9 +768,9 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="firewall_temp_rule_reason">%1$s​ için %2$s kısıtlı internet bağlantısı​</string>
   <string name="firewall_wifi_dialog_message">Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamaz.</string>
   <string name="five_percent_total_pkg">%s (aylık verinin 5%%\'i)</string>
-  <string name="forbid_autobright_summary">"Otomatik parlaklık bittikten sonra oynatılır ve geri yüklenir"</string>
-  <string name="forbid_autobright_title">Ekran parlaklığını düzenle</string>
-  <string name="foreground_traffic">Önplanda: %s</string>
+  <string name="forbid_autobright_summary">Oynatırken otomatik parlaklık kapanır ve bitirdikten sonra geri yüklenir</string>
+  <string name="forbid_autobright_title">Ekran parlaklığını düzelt</string>
+  <string name="foreground_traffic">Ön planda %s</string>
   <string name="forget_password_button_text"><u>Şifremi Unuttum</u></string>
   <string name="forget_password_button_text_normal">Parolamı unuttum</string>
   <string name="forget_pattern"><u>Deseni Unuttum</u></string>
@@ -778,11 +778,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="free_send_net_booster_busniess">Ücretsiz bir Xunlei hız artırıcı edinin</string>
   <string name="free_send_net_booster_busniess_tip">Almak için dokunun</string>
   <string name="free_send_net_booster_tip">Ücretsiz Ağ hızı artırması ile sorunsuz oyun keyfini çıkarın.</string>
-  <string name="free_time_traffic">Veri Üst Limiti</string>
-  <string name="free_time_traffic_hint">Veri üst limitini girin</string>
-  <string name="free_time_traffic_settings">Veri Üst Limiti</string>
-  <string name="free_time_traffic_title">Veri üst limitini girin</string>
-  <string name="free_traffic_settings">Üst Veri Kullanım Ayarları</string>
+  <string name="free_time_traffic">Serbest veri sınırı</string>
+  <string name="free_time_traffic_hint">Serbest veri sınırını girin</string>
+  <string name="free_time_traffic_settings">Serbest veri sınırı</string>
+  <string name="free_time_traffic_title">Serbest veri sınırını girin</string>
+  <string name="free_traffic_settings">Serbest veri kullanım ayarları</string>
   <string name="function_close">Kapalı</string>
   <string name="fw_blocked">Engelli Listesi</string>
   <string name="fw_blocked_count">Engelli</string>
@@ -894,7 +894,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="hide_system_app">Sistem Uygulamaları Gizle</string>
   <string name="hint_antispam_mode_edit">Özel Mod</string>
   <string name="hints_handle_item_text_virus">Tehlike</string>
-  <string name="hints_input_roaming_daily_limit">Veri kullanım limitini girin</string>
+  <string name="hints_input_roaming_daily_limit">Veri kullanım sınırını girin</string>
   <string name="hints_loading_text">Yükleniyor...</string>
   <string name="hints_risk_descx_title">Açıklama:</string>
   <string name="hints_risk_name_title">Risk:</string>
@@ -926,7 +926,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="info_unantispam_phone_sms">Çağrı ve SMS\'lere izin ver</string>
   <string name="info_unantispam_sms">SMS\'e izin ver</string>
   <string name="information_setting">Tavsiyeler</string>
-  <string name="input_aviable_traffic">Veri kullanım limitini ayarla</string>
+  <string name="input_aviable_traffic">Veri kullanım sınırını ayarla</string>
   <string name="input_password_hint_text">Parolanı Gir</string>
   <string name="input_traffic_pkg">Veri kullanımını girin</string>
   <string name="input_used_hint">Veri kullanımını girin</string>
@@ -971,8 +971,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (Tatil bilgisi geçti)</string>
   <string name="legal_workday_invalidate_message">Yasal tatil bilgisini güncellemek için dokunun.</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
-  <string name="leisure_usage_dialog_message">Üst veri limitinize ulaştınız.\n\nMobil veri bağlantısı tekrar kullanırsanız, operatör sizeden ek ücret talep edebilir.</string>
-  <string name="leisure_usage_dialog_title">Veri üst limitini aştığınızdan veri bağlantısı kapatıldı</string>
+  <string name="leisure_usage_dialog_message">"Serbest veri sınırınıza ulaştınız.
+
+Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ücret alabilir."</string>
+  <string name="leisure_usage_dialog_title">Serbest veri sınırını aştınız, veri bağlantısı kapalı</string>
   <string name="list_empty_text">Boş</string>
   <string name="load_only_under_wlan">Yalnızca WLAN kullanarak yükle</string>
   <string name="loading">Sadece bir saniye…</string>
@@ -1050,22 +1052,22 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="main_button_usage_adjust_manual">Veri kullanımını ayarla</string>
   <string name="main_button_usage_adjusting">Değiştiriliyor…</string>
   <string name="main_button_usage_adjusting_bill">Değiştiriliyor…</string>
-  <string name="main_button_usage_package_setting">Veri kullanım limitini ayarla</string>
+  <string name="main_button_usage_package_setting">Veri kullanım sınırını ayarla</string>
   <string name="main_daily_package">Günlük veri planı</string>
   <string name="main_indicator_title">Etkinleştirme</string>
-  <string name="main_leisure_remained">Kalan en yüksek veri</string>
+  <string name="main_leisure_remained">Kalan serbest veri</string>
   <string name="main_month_total_used">Bu ay kullanılan</string>
   <string name="main_month_used">Veri Planı</string>
   <string name="main_no_info">Veri yok</string>
   <string name="main_normal_data_usage">Mobil veri kullanımı</string>
   <string name="main_open_traffic_ctrl_button">Veri kullanımını kısıtla</string>
-  <string name="main_primary_message_leisure_alert">Üst limit veri uyarısı</string>
-  <string name="main_primary_message_leisure_overlimit">Dağılımsız veri sınırı aşıldı</string>
-  <string name="main_primary_message_leisure_remain">Üst Limit Verisi</string>
-  <string name="main_primary_message_traffic_overlimit">Veri kullanım limiti aşıldı</string>
-  <string name="main_primary_message_traffic_remain">Mobil Veri</string>
-  <string name="main_primary_message_traffic_warning">Veri kullanım limitine yaklaşılıyor</string>
-  <string name="main_purchase_tips">Promosyon</string>
+  <string name="main_primary_message_leisure_alert">Serbest veri uyarısı</string>
+  <string name="main_primary_message_leisure_overlimit">Serbest veri sınırı geçildi</string>
+  <string name="main_primary_message_leisure_remain">Serbest veri</string>
+  <string name="main_primary_message_traffic_overlimit">Veri sınırı aşıldı</string>
+  <string name="main_primary_message_traffic_remain">Mobil veri</string>
+  <string name="main_primary_message_traffic_warning">Mobil veri uyarısı</string>
+  <string name="main_purchase_tips">Tanıtım</string>
   <string name="main_tc_over">Başarıyla kalibre edildi</string>
   <string name="main_tc_send_sms">Kalibre etmek için\nSMS gönder</string>
   <string name="main_tc_wait_result">Operatörün cevap vermesi\niçin bekleniyor</string>
@@ -1080,7 +1082,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Otomatik başlatma uygulamalarını manuel olarak ekle</string>
   <string name="managed_user_title">Tüm çalışan uygulamalar</string>
-  <string name="manual_input_free_traffic">En yüksek veri kullanımını ayarla</string>
+  <string name="manual_input_free_traffic">Serbest veri kullanımını ayarla</string>
   <string name="manual_input_traffic">Veri kullanımını ayarla</string>
   <string name="manual_item_white_list_summary">Seçilen uygulamaların optimize edilmesini önle</string>
   <string name="manual_item_white_list_title">İstisnalar</string>
@@ -1213,7 +1215,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="network_connected_exception_title">Ağı Test Et</string>
   <string name="network_control">Uygulama ayarlarına gözat</string>
   <string name="network_diagnostics">Ağı Test Et</string>
-  <string name="network_mobile_exception_detail">Cihazınız internete bağlanamıyorsa:\n\n 1. Operatörünüzün mobil veri limitini aşmadığınızdan emin olun.\n\n 2. Cihazınızı yeniden başlatın ve tekrar deneyin.\n\n 3. Bulunduğunuz bölgede operatörünüzün sinyali zayıf olabilir.</string>
+  <string name="network_mobile_exception_detail">Cihazınız internete bağlanamıyorsa:\n\n 1. Operatörünüzün mobil veri sınırını aşmadığınızdan emin olun.\n\n 2. Cihazınızı yeniden başlatın ve tekrar deneyin.\n\n 3. Bulunduğunuz bölgede operatörünüzün sinyali zayıf olabilir.</string>
   <string name="network_operator_exception_summary">SIM kartı etkinleştirilemedi. SIM kartınızın doğru yerleştirildiğinden ve mobil planınızın operatörünüz tarafından etkinleştirildiğinden emin olun.</string>
   <string name="network_permission_exception_tips">Ağa bağlanmak için mobil veri kullanılamıyor</string>
   <string name="network_roaming_exception_tips">Dolaşımda iken mobil veri kullanılamıyor</string>
@@ -1248,10 +1250,10 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
   <string name="notify_channel_name_security">Sistem güvenliği</string>
   <string name="notify_daily_data_usage_body">Otomatik olarak veri kullanımını sınırlamak için, aylık veri planını ayarla.</string>
-  <string name="notify_daily_limit_body">Veri limitini ayarlamak için dokunun.</string>
+  <string name="notify_daily_limit_body">Veri sınırını ayarlamak için dokunun.</string>
   <string name="notify_daily_limit_title">Bugün %s veri kullanıldı.</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s kullanıldı, bugün ise %2$s</string>
-  <string name="notify_month_traffic_body">Aylık veri planını üzerine çıkmayı önlemek için veri kullanım limitini ayarlayın.</string>
+  <string name="notify_month_traffic_body">Aylık veri planınızı aşmamak için bir veri kullanım sınırı belirleyin.</string>
   <string name="notify_month_traffic_title">Bu ay %s kullanıldı</string>
   <string name="notify_month_traffic_title_for_slotnum">Bu ay %2$s\'dan %1$s kullanıldı</string>
   <string name="notify_weekly_traffic_body">Otomatik olarak veri kullanım sınırlamak için, aylık veri planını ayarla.</string>
@@ -1368,7 +1370,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="other_exception_summary">İnternet bağlantınız yok</string>
   <string name="other_exception_title">Diğer sorunları kontrol et</string>
   <string name="package_change_notification_summary">Daha fazla bilgi için dokunun.</string>
-  <string name="package_change_notification_title">Veri limitini otomatik belirle</string>
+  <string name="package_change_notification_title">Veri sınırını otomatik belirle</string>
   <string name="package_setted_error_notification_summary">Veri kullanım bilgilerini görmek için dokunun.</string>
   <string name="package_setted_error_notification_titile">Veri planı ayarlanamadı</string>
   <string name="packages_subtitle">Dahil edilen paketler</string>
@@ -1403,7 +1405,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">USB üzerinden yükleyin</string>
   <string name="pc_to_phone_install">USB üzerinden %s yüklenmesi engellendi</string>
-  <string name="per_month_pkg_traffic_settings">Veri limitini ayarla</string>
+  <string name="per_month_pkg_traffic_settings">Veri sınırını ayarla</string>
   <string name="percent_formatted_text">%%%s</string>
   <string name="percent_symbol">%</string>
   <string name="percent_text_formatted">%%%s</string>
@@ -1422,7 +1424,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="person_hotpot">Mobil internet paylaşımı</string>
   <string name="phone">Telefon</string>
   <string name="Phonepass">İzinli Çağrılar</string>
-  <string name="pkg_traffic">Veri kullanım limitini ayarla</string>
+  <string name="pkg_traffic">Veri kullanım sınırını ayarla</string>
   <string name="pm_auto_start_by_other">Başlatma tetiklendi</string>
   <string name="pm_auto_start_by_other_app">Uygulamanın diğer uygulamalar tarafından başlatılmasına izin ver</string>
   <string name="pm_auto_start_by_system">Uygulamaları başlat</string>
@@ -1516,12 +1518,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="pref_correction_setting_switch">Özel kalibrasyon şablonu kullan</string>
   <string name="pref_correction_sms_content">Kalibrasyon şablonu</string>
   <string name="pref_correction_sms_number">Kalibrasyon SMS\'i gönder</string>
-  <string name="pref_daily_adjust">Üst veri kullanımını ayarla</string>
-  <string name="pref_daily_traffic">Üst veri sınırı</string>
-  <string name="pref_data_usage_ignore_settings">Veri kullanımını görmezden gel</string>
-  <string name="pref_data_usage_ignore_settings_summary">Seçilen uygulama grubunun veri kullanımını takip etme</string>
+  <string name="pref_daily_adjust">En yüksek veri kullanımını ayarla</string>
+  <string name="pref_daily_traffic">En yüksek veri sınırı</string>
+  <string name="pref_data_usage_ignore_settings">Veri kullanımını yoksay</string>
+  <string name="pref_data_usage_ignore_settings_summary">Seçili uygulamaların veri kullanımını takip etme</string>
   <string name="pref_data_usage_not_set">Bilinmeyen veri planı</string>
-  <string name="pref_free_adjust">İndirimli veri kullanımını ayarla</string>
+  <string name="pref_free_adjust">Serbest veri kullanımını ayarla</string>
   <string name="pref_key_daily_package_summary">Günlük veri planını sıfırlamak için açın</string>
   <string name="pref_key_daily_package_switch">Günlük veri planı</string>
   <string name="pref_key_daily_package_value">Günlük veri planı</string>
@@ -1542,11 +1544,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="pref_over_traffic_limit">Veri planınızı aştığınızda</string>
   <string name="pref_package_traffic_settings">Veri planı</string>
   <string name="pref_pkg_begin_date">Kullanımı sıfırlama tarihi</string>
-  <string name="pref_roaming_daily_limit_setting">Dolaşımda günlük veri limitini ayarla</string>
+  <string name="pref_roaming_daily_limit_setting">Dolaşımda günlük veri sınırını ayarla</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Günlük veri sınırı</string>
   <string name="pref_roaming_setting_gategory">Ayarlar</string>
   <string name="pref_special_package_setting">Özel veri planı</string>
-  <string name="pref_special_package_setting_summary">Üste veri limitini, kontör paketlerini, günlük veri limitini ve faaliyetlerinizi yönetin</string>
+  <string name="pref_special_package_setting_summary">Serbest verileri, yükleme paketlerini ve belirtilen verileri yönetin</string>
   <string name="pref_summary_upload_data_usage">MIUI hizmetlerini geliştirmemize yardımcı olmak için veri kullanım bilgilerinizi bildirin. Raporlama işlemi Gizlilik Politikamıza uygun olarak yapılacaktır.</string>
   <string name="pref_title_declaration">Önemli feragat</string>
   <string name="pref_title_diagnostics_show_float_notification">Kayan bildirimler</string>
@@ -1925,7 +1927,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="summary_cloud_space_full">Daha fazla özelliklere daha fazla depolama alanıyla erişin</string>
   <string name="summary_cmcc_app_check">Bazı uygulamalar doğrulanamadı</string>
   <string name="summary_consume_power">Isınma problemleri bulundu, bu pilin ömrünü etkiler</string>
-  <string name="summary_data_flow">Operatörünüzün aylık veri limitini geçmemeye dikkat edin</string>
+  <string name="summary_data_flow">Operatörünüzün aylık veri sınırını geçmemeye dikkat edin</string>
   <string name="summary_default_app">%s varsayılan uygulama olarak ayarlanamadı</string>
   <string name="summary_dev">Kötü amaçlı yazılımı önle ve kişisel verileri koru</string>
   <string name="summary_do_not_disturb">Rahatsız etme modunu kullanıyorsunuz.</string>
@@ -2041,7 +2043,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_sms_report_send_num">Operatör Telefon #</string>
   <string name="tc_sms_report_summary">Veri kullanım bilgisi yanlış veya güncellemek için başarısız olduğunda bize bir rapor göndererek bu özelliği geliştirmemize yardımcı olun.</string>
   <string name="tc_sms_report_tips_dialog_message">Veri kullanımı, operatörünüzden en yeni veri kullanımınızı elde etmek için özel olarak  biçimlendirilmiş bir SMS kullanır. Bu özellik normal çalışmıyorsa, veri kullanımı SMS  biçimini güncellemeyi deneyin. Yeni güncellenen format sunucularımıza yüklenecektir.</string>
-  <string name="tc_sms_report_tips_dialog_title">Veri Kullanım SMS\'i</string>
+  <string name="tc_sms_report_tips_dialog_title">Veri kullanım SMS\'i</string>
   <string name="tc_sms_report_title">Veri Kullanım Hata Raporu</string>
   <string name="tc_sms_report_toast_text">Bilgi alınıyor…</string>
   <string name="tc_sms_report_type">Rapor tipi</string>
@@ -2049,8 +2051,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_sms_report_upload_when_net">Görüşleriniz için teşekkür ederiz!</string>
   <string name="tc_web_correct_error">Kalibre edilemedi</string>
   <string name="ten_percent_total_pkg">%s (aylık verinin 10%%\'u)</string>
-  <string name="tether_custom_dialog_title">Mobil veri limiti</string>
-  <string name="tether_limit_dialog_title">Mobil veri limiti</string>
+  <string name="tether_custom_dialog_title">Mobil veri sınırı</string>
+  <string name="tether_limit_dialog_title">Mobil veri sınırı</string>
   <string name="tether_limit_value_custom">Özel</string>
   <string name="tether_over_limit_dialog_cancle_btn">İnternet paylaşımını sıfırla</string>
   <string name="tether_over_limit_dialog_message">Taşınabilir paylaşım veri sınırına ulaştınız.</string>
@@ -2067,7 +2069,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="timeshow_h_int">%ds</string>
   <string name="timeshow_m">%ddak</string>
   <string name="timeshow_s">%dsan</string>
-  <string name="tips_dialog_title">Limitini bilmiyorum</string>
+  <string name="tips_dialog_title">Sınırını bilmiyorum</string>
   <string name="tips_message">Veri planı ayrıntılarını görüntülemek için, %2$s (%1$s) arayın.</string>
   <string name="tips_of_app_manage">Depolama alanından yer kazanmak için nadiren kullanılan uygulamaları sil</string>
   <string name="tips_of_auto_launch_manage">Nadiren kullanılan uygulamaların otomatik başlamasını önle</string>
@@ -2104,7 +2106,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="title_garbage_lib">Çöp tanımlamalarını güncelle</string>
   <string name="title_install_virus_no">Yüklemeleri izleme kapalı</string>
   <string name="title_install_virus_yes">Yüklemeleri izleme açık</string>
-  <string name="title_limit_traffic_per_day">Günlük Veri Kullanım Sınırı</string>
+  <string name="title_limit_traffic_per_day">Günlük veri kullanım sınırı</string>
   <string name="title_mifi_insurance">Uzatılmış garanti</string>
   <string name="title_miui_update">Güncelleme mevcut</string>
   <string name="title_miui_update_latest">MIUI sürümü güncel</string>
@@ -2145,7 +2147,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="toast_network_switch">Bu uygulama internete bağlanabilir</string>
   <string name="toast_reject_sms_read_permission_success">Başarıyla ayarlandı!</string>
   <string name="toast_removed_from_virus_white_list">İstisnalardan kaldırıldı. Öğe sonraki zamanda taranacak.</string>
-  <string name="toast_root_apply_accept">%s için Root Eişimi onaylandı</string>
+  <string name="toast_root_apply_accept">%s için Root Erişimi onaylandı</string>
   <string name="toast_root_apply_reject">%s için Root Erişimi engellendi</string>
   <string name="toast_set_success">Başarıyla açıldı!</string>
   <string name="toast_show_notification">Bildirim alanına iğnelendi</string>
@@ -2160,13 +2162,21 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="traffic_alert_auto_modify_notification_titile">Veri planı güncellendi</string>
   <string name="traffic_alert_auto_modify_package_summary">Otomatik olarak operatörün bilgisine göre veri paketini ayarla</string>
   <string name="traffic_config_alert_auto_modify">Veri planını otomatik olarak güncelle</string>
-  <string name="traffic_config_alert_body">Operatörünüzün hesap göstergesi :%s. Bunu alacak mısın?</string>
-  <string name="traffic_config_alert_body_extra">\nBu ay %1$s ek veri aldım. Bu elle eklediğiniz %2$s göre farklı.</string>
-  <string name="traffic_config_alert_body_extra_notset">\nBu ay %s of ek veri aldım. Bu aylık veri planınızı yansıtmaz.</string>
-  <string name="traffic_config_alert_body_leisure">\nAylık planlanmış veri limitiniz %1$s. Bu elle ayarladığınız %2$s göre farklı.</string>
-  <string name="traffic_config_alert_body_leisure_notset">\n Aylık planlanmış veri limitiniz %1$s. Limit üstü için bir değer ayarlamadınız.</string>
-  <string name="traffic_config_alert_body_normal">\nAylık planlanmış veri limitiniz %1$s . Bu değer elle ayarladığınız %2$s değerinden farklı.</string>
-  <string name="traffic_config_alert_package">\nEkstra veri yuvarlanmış</string>
+<string name="traffic_config_alert_body">"Operatörünüzün planı bunu gösteriyor: %s.
+
+Bunu alacak mısın?"</string>
+  <string name="traffic_config_alert_body_extra">"
+Bu ay %1$s ek veri aldınız. Bu, manuel olarak eklediğiniz %2$s\'dan farklı."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Bu ay %s ek veri satın aldınız. Bu, manuel olarak ayarladığınız aylık veri sınırına yansıtılmaz."</string>
+  <string name="traffic_config_alert_body_leisure">"
+Planınızın aylık serbest veri kullanım sınırı %1$s. Bu, manuel olarak ayarladığınız %2$s sınırından farklı."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Planınızın aylık serbest veri kullanım sınırı %1$s. Herhangi bir serbest veri kullanım sınırı belirlemediniz."</string>
+  <string name="traffic_config_alert_body_normal">"
+Planınızın aylık en yüksek veri kullanım sınırı %1$s. Bu, manuel olarak ayarladığınız %2$s sınırından farklı."</string>
+  <string name="traffic_config_alert_package">"
+Ekstra veri üzerinden yuvarlandı"</string>
   <string name="traffic_config_alert_setted">Ayarlar uygulandı</string>
   <string name="traffic_config_alert_title">%s Düzeltme</string>
   <string name="traffic_correction_failed">Bilgi alınamıyor</string>
@@ -2175,10 +2185,12 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="traffic_correction_success">Veri kullanım bilgileri güncellendi</string>
   <string name="traffic_correction_success_notify_message">Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="traffic_limit_error_alert_body">Operatörünüzün hesabına göre bu ay %1$s veriniz kaldı. Bu el ile ayarladığınız %2$s veri limitine göre daha fazla. Aylık plan değiştirilsin mi?</string>
-  <string name="traffic_limit_error_alert_package">\n\nKalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış</string>
-  <string name="traffic_limit_error_alert_title">%s veri limit hatırlatıcısı</string>
+  <string name="traffic_limit_error_alert_package">"
+
+Kalan veriler, bir önceki aydan aktarılmış olan verileri içerir."</string>
+  <string name="traffic_limit_error_alert_title">%s veri sınırı hatırlatıcısı</string>
   <string name="traffic_none">Yok</string>
-  <string name="traffic_over_purchase_link">"Veri limitini aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font>"</string>
+  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font>"</string>
   <string name="traffic_purchase_body">Kontör bakiyeniz için dokunun.</string>
   <string name="traffic_setting_fragment_area">Yerel</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
@@ -2491,11 +2503,11 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="daily_card_setting_fragment_daily_card_brand">Operatör</string>
   <string name="daily_card_setting_fragment_daily_card_brand_value">Operatör seçin</string>
   <string name="daily_card_setting_fragment_daily_card_setting">Günlük veri planı ayarları</string>
-  <string name="daily_card_setting_fragment_daily_card_summary">"MIUI, seçtiğiniz operatöre göre veri limitlerini ve uygulamaları sınırsız veri ile ayarlayacaktır. Operatörünüz listede yoksa, \"Diğer\" seçeneğini seçin ve günlük veri planınızı manuel olarak ayarlayın."</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">"MIUI seçtiğiniz operatöre göre veri sınırlarını ve sınırsız veri içeren uygulamaları belirler. Operatörünüz listede yoksa, \"Diğer\" seçeneğini seçin ve günlük veri planınızı manuel olarak ayarlayın."</string>
   <string name="daily_card_setting_fragment_daily_package">Günlük veri planı</string>
   <string name="daily_card_setting_fragment_month_package">Aylık veri paketi</string>
   <string name="daily_card_setting_fragment_package_summary">Günlük veri planınız aylık bir veri paketi içeriyorsa, günlük paketten önce kullanılacaktır.</string>
-  <string name="dialog_change_package_type_summary">Veri planı türünün değiştirilmesi tüm veri kullanım ayarlarını (ör. Veri sınırları) varsayılan değerlerine sıfırlar. Veri planı türünü şimdi değiştir?</string>
+  <string name="dialog_change_package_type_summary">Veri planı türünü değiştirmek, tüm veri kullanım ayarlarını (örn. veri sınırları) varsayılan değerlerine sıfırlar. Veri planı türü şimdi değiştirilsin mi?</string>
   <string name="dialog_change_package_type_title">Veri planı türünü değiştir</string>
   <string name="main_daily_card_guide_dialog_ok">Ayarla</string>
   <string name="main_daily_card_guide_dialog_summary">Günlük, aylık ve sınırsız planlar arasında seçim yapabilirsiniz. Veri planı türünü şimdi ayarla?</string>
@@ -2511,7 +2523,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="pref_traffic_unlimited_package">Sınırsız veri planı</string>
   <string name="traffic_setting_fragment_daily_summary">Mobil veriler günlük olarak güncellenir</string>
   <string name="traffic_setting_fragment_daily_title">Günlük veri planı</string>
-  <string name="traffic_setting_fragment_month_summary">Mobil veriler ve çağrı dakikaları aylık olarak güncellenir</string>
+  <string name="traffic_setting_fragment_month_summary">Mobil veri ve çağrı dakikaları aylık olarak güncellenir</string>
   <string name="traffic_setting_fragment_month_title">Aylık veri planı</string>
   <string name="traffic_setting_fragment_next">Sonraki</string>
   <string name="traffic_setting_fragment_not_limited_summary">Sınırsız mobil veri seçeneği</string>
