@@ -1194,9 +1194,9 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="monitor_app_more">Diğer</string>
   <string name="monitor_requests_from_pc">USB üzerinden uygulamaların yüklenmesini yönet</string>
   <string name="more_game">Daha fazla oyun</string>
-  <string name="more_lock">Daha</string>
+  <string name="more_lock">Daha fazla</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
-  <string name="more_settings">Daha</string>
+  <string name="more_settings">Daha fazla</string>
   <string name="name">Adı</string>
   <string name="net_booster">Ağ hızı artırma</string>
   <string name="net_booster_expire_notification">Ağ hız artırması oturumu sona erecek</string>
@@ -1464,7 +1464,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="power_idle">Telefon boşta</string>
   <string name="power_optimize_auto_catagory_title">Pil problemleri</string>
   <string name="power_optimize_battery_save_idea">Pili optimize et</string>
-  <string name="power_optimize_battery_save_more">Daha</string>
+  <string name="power_optimize_battery_save_more">Daha fazla</string>
   <string name="power_optimize_brightness">Ekran parlaklığı</string>
   <string name="power_optimize_btn_text_fixed">Optimize edildi</string>
   <string name="power_optimize_catagory_fixed_title">Optimize edildi</string>

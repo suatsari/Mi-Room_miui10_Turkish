@@ -30,6 +30,17 @@
   <string name="abc_searchview_description_voice">Sesli Ara</string>
   <string name="abc_shareactionprovider_share_with">Paylaş:</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_slice_error">Bağlanamadı</string>
+  <string name="abc_slice_more">Daha fazla</string>
+  <string name="abc_slice_permission_allow">İzin ver</string>
+  <string name="abc_slice_permission_checkbox">%1$s öğesinin herhangi bir uygulamadan dilimler göstermesine izin ver</string>
+  <string name="abc_slice_permission_deny">Reddet</string>
+  <string name="abc_slice_permission_text_1">- %1$s üzerinden bilgi okuyabilir</string>
+  <string name="abc_slice_permission_text_2">- %1$s içinde işlem yapabilir</string>
+  <string name="abc_slice_permission_title">%1$s öğesinin %2$s dilimi göstermesine izin verilsin mi?</string>
+  <string name="abc_slice_show_more">Daha fazla göster</string>
+  <string name="abc_slice_updated">%1$s güncellendi</string>
+  <string name="abc_slices_permission_request">%1$s %2$s dilimi göstermek istiyor</string>  
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="about_ad_service_instructions">Reklam Hizmetleri ve Gizlilik Hakkında​</string>
   <string name="about_phone_enter_xiaomi_net">Mi ağına gir</string>
@@ -3466,8 +3477,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="quiet_important_interruptions_mode">Sadece istisnalar izinli</string>
   <string name="quiet_no_interruptions_mode">Rahatsızlıkların tümünü sessize al</string>
   <string name="quiet_off_mode">Rahatsız Etme Modu kapalı</string>
-  <string name="radio_controls_summary">WLAN, Bluetooth, Uçak Modu, Hücresel Ağlar, &amp; VPN\'i Yönet</string>
-  <string name="radio_controls_title">Daha</string>
+  <string name="radio_controls_summary">WLAN, Bluetooth, Uçak Modu, Mobil ağları ve Vpn\'leri yönet</string>
+  <string name="radio_controls_title">Daha fazla</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Durumu:</string>
   <string name="radio_info_band_mode_label">Frekans bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
@@ -4584,7 +4595,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="support_tips_and_tricks_title">İpuçlarını ve püf noktalarını keşfedin</string>
   <string name="sure_sync_now">Öğeler şimdi eşitlensin mi?</string>
   <string name="suw_back_button_label">Geri</string>
-  <string name="suw_more_button_label">Diğer</string>
+  <string name="suw_more_button_label">Daha fazla</string>
   <string name="suw_next_button_label">Sonraki</string>
   <string name="switch_off_text">Kapalı</string>
   <string name="switch_on_text">Açık</string>
@@ -5456,7 +5467,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_menu_wps_pbc">WPS Push Tuşu</string>
   <string name="wifi_menu_wps_pin">WPS Pin Girişi</string>
   <string name="wifi_menu_write_to_nfc">NFC etiketi yazın</string>
-  <string name="wifi_more">Diğer</string>
+  <string name="wifi_more">Daha fazla</string>
   <string name="wifi_multiple_cert_added">(Birden fazla sertifika eklendi)</string>
   <string name="wifi_network_optimization">Optimize edilmiş bağlantı</string>
   <string name="wifi_network_prefix_length">Önek uzunluğu</string>
@@ -5474,7 +5485,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_off_airplane_on_content">Uçak Modunda elle WLAN ağını açabilirsiniz.</string>
   <string name="wifi_off_airplane_on_not_remind">Tekrar gösterme</string>
   <string name="wifi_off_airplane_on_title">Dikkat</string>
-  <string name="wifi_on_time">Wi-Fi açık kalma süresi</string>
+  <string name="wifi_on_time">WLAN açık kalma süresi</string>
   <string name="wifi_other_connection_mode">Diğer bağlantı seçenekleri</string>
   <string name="wifi_p2p_cancel_connect_message">%1$s ile bağlantı için daveti iptal etmek istiyor musunuz?</string>
   <string name="wifi_p2p_cancel_connect_title">Daveti iptal etmek istiyor musunuz?</string>
@@ -6126,13 +6137,13 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="status_bar_settings_notification_style">Bildirim stili</string>
   <string name="enable_atrace">Atrace\'yi aç</string>
   <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string> 
-  <string name="allow_device_id_access">Cihaz kimliğine erişimi olan uygulamalar</string>
-  <string name="device_id">Cihaz kimliği</string>
+  <string name="allow_device_id_access">Cihaz kimliğini kullanabilecek uygulamaları seçin</string>
+  <string name="device_id">Kişiselleştirilmiş öneriler için cihaz kimliği</string>
   <string name="pref_show_lunar_calendar_title">Kilit ekranında geleneksel Çin takvimini göster</string>
-  <string name="restore_device_id_content">Kişiselleştirilmiş önerileri sıfırla</string>
-  <string name="restore_device_id_title">Cihaz kimliğini geri yükle</string>
-  <string name="restore_dialog_content">Geri Yükleme Cihaz Kimliği kişiselleştirilmiş önerilerinizi sıfırlayacaktır.</string>
-  <string name="restore_dialog_positive">Geri yükle</string>
+  <string name="restore_device_id_content">Kişiselleştirilmiş öneriler sıfırlanacak</string>
+  <string name="restore_device_id_title">Cihaz kimliğini sıfırla</string>
+  <string name="restore_dialog_content">Mevcut cihaz kimliğinizi sıfırlamak kişiselleştirilmiş önerileri de sıfırlar. Şimdi sıfırlansın mı?</string>
+  <string name="restore_dialog_positive">Sıfırla</string>
   <string name="restore_dialog_title">Dikkat</string> 
   <string name="call_records_name_1">Debbie Smith</string>
   <string name="call_records_name_2">Jason Lee</string>
@@ -6146,7 +6157,7 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="page_layout_35">Notlar</string>
   <string name="switch_access_service_on">Erişim Anahtarı</string>
   <string name="words_title">Metin</string>  
-  <string name="bootloader_tips">"Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız."</string>
+  <string name="bootloader_tips">Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız.</string>
   <string name="bootloader_tips_ok">Anladım</string>
   <string name="keyguard_notification_status_title">Ekran kapalı bildirim geldiğinde</string>
   <string name="others">Diğer</string>
@@ -6498,5 +6509,10 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="toggle_auto_speaker_preference_title">Otomatik olarak hoparlöre geç</string>
   <string name="toggle_auto_speaker_preference_summary">Çağrılar sırasında cihazı kulağınızdan uzaklaştırdığınızda hoparlöre geçilecektir. Bu özellik yalnızca TalkBack açıkken çalışır.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Bant üzerinden onaylayın.</string>
-  <string name="miui_touch_filtered_touchassistant_warning">İzinler iletişim kutusu, Kısayol düğmesi ile kaplıdır. Kısayol düğmesini uzaklaştırın veya bu özelliği kapatın.</string>  
+  <string name="miui_touch_filtered_touchassistant_warning">İzinler iletişim kutusu, Kısayol düğmesi ile kaplıdır. Kısayol düğmesini uzaklaştırın veya bu özelliği kapatın.</string>
+  <string name="allow_oaid_used">Cihaz kimliğini kullanmaya izin ver</string>
+  <string name="device_oaid">Cihaz kimliği</string>
+  <string name="restore_oaid_content">Mevcut cihaz kimliğinizi sıfırlamak yeni bir tane oluşturacaktır. Şimdi sıfırlansın mı?</string>
+  <string name="restore_oaid_positive">Sıfırla</string>
+  <string name="restore_oaid_title">Cihaz kimliğini sıfırlama</string>  
 </resources>
