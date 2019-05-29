@@ -265,7 +265,7 @@
   <string name="notif_trans_sending_failed">Veri gönderilemedi</string>
   <string name="notif_trans_wait_for_reconnecting">Bağlantı kesildi. Tekrar bağlan.</string>
   <string name="old_soft_name">QR kodu ile bağlan</string>
-  <string name="old_way">Ayrıca bir QR kodu kullanarak da bağlanabilirsiniz. Kodu oluşturmak için dokunun.</string>
+  <string name="old_way">Ayrıca yeni cihazınızda bir QR kodu oluşturabilir ve eskisini kullanarak tarayabilirsiniz.</string>
   <string name="page_loading">Biraz bekleyin...</string>
   <string name="password">Şifre</string>
   <string name="password_null">Şifre boş olamaz</string>
@@ -584,7 +584,9 @@
   <string name="user_notice_message">Bazı özellikler normal çalışması için internet bağlantısı gerekir.</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="view_password_description">Şifreyi göster</string>
-  <string name="wait_link">Eski cihazınızı bu bağlantı noktasına bağlayın.\nBağlantı kuruluncaya kadar bu sayfadan ayrılmayın.</string>
+  <string name="wait_link">"Eski cihazda Mi Mover uygulamasını açın,
+\"Ben bir göndericiyim\" öğesine dokunun ve bağlanmak için bir etkin nokta seçin.
+Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="waiting">Sadece bir saniye…</string>
   <string name="wifi_title">WLAN Ayarları</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme işlemi başlatılamadı. İndirme Yöneticisi\'nin normal şekilde çalıştığından emin olun.</string>

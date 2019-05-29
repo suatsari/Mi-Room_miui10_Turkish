@@ -343,7 +343,7 @@
   <string name="soundrecorder_sync_only_in_wifi">Eşitlemek için için sadece WLAN kullan</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Kaydedici, kayıtları indirmek veya yüklemek için mobil veri kullanmayacak</string>
   <string name="soundrecorder_sync_records">Mi Bulut ile eşitle</string>
-  <string name="sub_alert_notif_content">Verilerinizi yedeklemek için Mi Bulut ile eşitlemeyi açın</string>
+  <string name="sub_alert_notif_content">Verilerinizi yedeklemek için eşitlemeyi açın</string>
   <string name="sub_alert_notif_title">Mi Bulut ile eşitle</string>
   <string name="sub_sync_item_sms_summary">Fotoğraf, ses veya diğer medya içeren mesajları sadece WLAN ağına bağlıyken eşitle</string>
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesi için sadece WLAN kullan</string>
