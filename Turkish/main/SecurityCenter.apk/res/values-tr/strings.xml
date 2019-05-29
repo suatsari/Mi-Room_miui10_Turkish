@@ -135,7 +135,7 @@
   <string name="app_manager_app_storage">"Depolama: "</string>
   <string name="app_manager_app_traffic">"Veri Kullanımı: "</string>
   <string name="app_manager_app_update">Güncellemeler</string>
-  <string name="app_manager_app_version_name">Sürüm:</string>
+  <string name="app_manager_app_version_name">"Sürüm: "</string>
   <string name="app_manager_appupdate_remind">Güncellemeleri bildir</string>
   <string name="app_manager_as_dlg_msg">Uygulamaların otomatik başlatılmasına izin vermek RAM ve pil tüketimini artırabilir. Yinede izin verilsin mi?</string>
   <string name="app_manager_as_dlg_title">Dikkat</string>
@@ -961,7 +961,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="keywords_securitycenter">Güvenlik;Denetle;Tara</string>
   <string name="keywords_securitycenter_settings">Pil kullanımı;Otomatik başlatmayı yönet;USB üzerinden yükleme;Uygulama izinleri;Mobil veri satın al;Engelli listesi;Veri kullanımı;Veri planını kalibre et;Ağ testi;Pil tasarrufu;Isınma;Aç;Kapat;Pil;Boşaltma;Pil sorunları;Enerji;Pil koruyucu;Enerji tasarrufu;Enerji tasarrufu;Pil tasarrufu;Otomatik başlatma;İzinler;Otomatik başlatma;MIUI otomatik başlatma;Uygulama otomatik başlatma;otomatik başlatılan uygulamalar;Zincir başlangıç;zincirleme başlangıç;tetiklenen başlangıç;USB kurulumu;bilgisayardan yükleyin;ADB kurulumu;Yer;Kişilere erişim;veri;mobil veri;veri satın alma;verileri doldurma;veri planı;Blok;Kara liste;Akıllı engelleme listesi;Dolandırıcılık;Satış;Ajanlar;Çağrı engelleme listesi;Mesaj engelleme listesi; Mesajlaşma engelleme listesi;SMS engelleme listesi;kara liste;kara liste;engelleme listesi;blok listesi;dolandırıcılık;blok teması;blok temasları;Trafik;Kalibre et;Bağ;İnternet;Ölçek;Pil kullanımı;Pil optimizasyonu;Güç kullanımı;Oyun;hız yükseltici;Kralın Zaferi;Performans modu;Rahatsız etme</string>
   <string name="keywords_usb_install">USB kurulumu, bilgisayardan yükleme, ADB kurulumu</string>
-  <string name="kilobyte_per_second">K/s</string>
+  <string name="kilobyte_per_second">KB/s</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_callwait">Çağrı bildirimi bekliyor</string>
   <string name="label_mi_stats">Mi Analiz</string>
@@ -986,8 +986,8 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="lock_screen_traffic_guide_notification_title">Veri kullanımını yönetmek için dokunun.</string>
   <string name="lock_screen_traffic_notify_body">%1$s, %2$s için kilitlendi, %3$s veri kullanıldı</string>
   <string name="lock_screen_traffic_purchase_textview">Mobil veri satınal</string>
-  <string name="lock_screen_traffic_warn_title">Kilit Ekran Bildirimleri</string>
-  <string name="lock_screen_warning_category">Kilit ekran bildirimleri</string>
+  <string name="lock_screen_traffic_warn_title">Kilit ekranı bildirimleri</string>
+  <string name="lock_screen_warning_category">Kilit ekranı bildirimleri</string>
   <string name="lock_screen_warning_switch_summary">Veri kullanımı belirlenen miktarı aştığında Kilit ekranında uyarı göster</string>
   <string name="lock_screen_warning_switch_title">Uyarıları Kilit Ekranında Göster</string>
   <string name="lock_screen_warning_value">Veri Kullanım Uyarısı</string>
@@ -1084,7 +1084,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="managed_user_title">Tüm çalışan uygulamalar</string>
   <string name="manual_input_free_traffic">Serbest veri kullanımını ayarla</string>
   <string name="manual_input_traffic">Veri kullanımını ayarla</string>
-  <string name="manual_item_white_list_summary">Seçilen uygulamaların optimize edilmesini önle</string>
+  <string name="manual_item_white_list_summary">Seçilen öğelerin optimize edilmesini önle</string>
   <string name="manual_item_white_list_title">İstisnalar</string>
   <string name="mark_agent">Rapor edilen acentaları engelle</string>
   <string name="mark_agent_block">Acenta olarak rapor edildi</string>
@@ -1115,7 +1115,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="mark_time_setting_dialog_title">Numarayı raporla</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_user">"bu şekilde işaretlediniz "</string>
-  <string name="megabyte_per_second">M/s</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="megabyteShort">MB</string>
   <string name="memory_check_content">%s serbest</string>
   <string name="memory_clean_btn_click_text">Hızı artır</string>
@@ -2441,7 +2441,7 @@ Kalan veriler, bir önceki aydan aktarılmış olan verileri içerir."</string>
   <string name="first_aid_card_unable_install_button">Alan boşalt</string>
   <string name="first_aid_result_summary_normal">Her şey güzel görünüyor!</string>
   <string name="first_aid_result_feedback_title">Geribildirim</string>
-  <string name="first_aid_result_feedback_summary">Herhangi bir sorun bulunamadı. Ancak, bazıları tespit edildi.</string>
+  <string name="first_aid_result_feedback_summary">Güvenlik taraması herhangi bir sorun bulamadı. Ancak, bazı lekeler gördüm.</string>
   <string name="first_aid_result_feedback_button">Gönder</string>
   <string name="first_aid_card_kadun_title">Cihaz yavaşlıyor</string>
   <string name="first_aid_card_kadun_summary1">Cihazın normal  çalışabilmesi için depolama alanını boşaltın.</string>

@@ -402,7 +402,7 @@
   <string name="pref_content_cleanup_white_list_none">Yok</string>
   <string name="pref_summary_auto_clean_and_alert">Temizleyiciyi otomatik olarak çalışmaya ayarla</string>
   <string name="pref_summary_auto_update_cleanup_db">" %s güncellendi"</string>
-  <string name="pref_summary_cleanup_white_list">Seçili uygulamaların temizliği görmezden gelinecek</string>
+  <string name="pref_summary_cleanup_white_list">Seçilen dosyaların temizlenmesini önle</string>
   <string name="pref_summary_expand_cache_group">Önbellek bilgilerini otomatik göster</string>
   <string name="pref_summary_garbage_auto_clean_content">Otomatik temizlenecek öğerleri seçin</string>
   <string name="pref_summary_garbage_cleanup_check_size">Çöpler belirli bir boyuta ulaştığında bildir</string>

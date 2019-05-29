@@ -6326,7 +6326,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="allow_sound_title">Sese izin ver</string>
   <string name="allow_vibrate_title">Titreşime izin ver</string>
   <string name="app_link_title">Uygulamadaki ek ayarlar</string>
-  <string name="badge_title">Masaüstü uygulama simgesinde rozeti göster</string>
+  <string name="badge_title">Uygulama simgesi rozetlerini göster</string>
   <string name="battery_indicator_title">Pil göstergesi</string>
   <string name="block_title">Bildirimleri göster</string>
   <string name="custom_carrier_title">Operatör adını düzenle</string>

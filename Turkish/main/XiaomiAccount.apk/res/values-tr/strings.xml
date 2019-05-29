@@ -338,7 +338,7 @@
   <string name="passport_login_instead_reg">Bu numarayı kullan</string>
   <string name="passport_login_instead_reg_with_email">Bu E-Postayı kullan</string>
   <string name="passport_login_other_account">Başka bir hesap</string>
-  <string name="passport_login_prompt">Tek Mi Hesabı, tüm Mi Hizmetleri.</string>
+  <string name="passport_login_prompt">Tüm Mi hizmetleri. Bir Mi Hesabı.</string>
   <string name="passport_login_recycle_account_no">Hayır</string>
   <string name="passport_login_recycle_account_yes">Evet</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>

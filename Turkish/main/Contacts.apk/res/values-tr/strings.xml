@@ -1497,5 +1497,10 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="description_image_button_sim2_named_dial">SIM2 %s kullanarak çevir</string>
     <string name="contacts_default_notification_channel">Bildirimler</string>
     <string name="confirm_call_log_dial_summary">Yanlışlıkla arama yapmamak için çağrı kayıtları üzerinden çağrı yapmadan önce onay isteyin.</string>
-    <string name="confirm_call_log_dial_title">Çağrı kayıtları üzerinden aramaları onaylayın</string> 	
+    <string name="confirm_call_log_dial_title">Çağrı kayıtları üzerinden aramaları onaylayın</string>
+    <string name="menu_share_qrcode">QR kodu</string>
+    <string name="menu_share_text">Metin</string>
+    <string name="menu_share_vcard_file">Dosya</string>
+    <string name="share_contact_as">Kişi olarak paylaş</string>
+    <string name="share_qrcode">QR kodunu paylaş</string> 	
 </resources>

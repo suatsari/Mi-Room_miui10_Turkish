@@ -830,5 +830,10 @@
   <string name="rcs_auto_resend_as_sms_remind_title">SMS\'e dönüştür</string>
   <string name="rcs_hello_from_pc">Dosyaları aktarmak için bilgisayarınızda Fetion\'da oturum açın.</string>
   <string name="rcs_offline">UC\’de oturum açılmamış. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="select_copy_text">Kopyalanacak metni seçin</string>  
+  <string name="select_copy_text">Kopyalanacak metni seçin</string>
+  <string name="heduohao_sub_sim_card">Alt</string>
+  <string name="recipients_contain_sub_sim_number">Alıcılar arasında ikincil bir SIM numarası var gibi görünüyor. Bu mesajı ikincil SIM kullanarak gönderin.</string>
+  <string name="sub_sim_card">Alt</string>
+  <string name="sub_sim_card_indicator">Alt%d</string>
+  <string name="sub_sim_not_support_mms">İkincil SIM kullanarak MMS gönderilemiyor</string>  
 </resources>
