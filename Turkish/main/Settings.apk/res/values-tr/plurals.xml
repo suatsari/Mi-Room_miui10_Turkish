@@ -360,8 +360,8 @@
     <item quantity="one">%d bildirim</item>
   </plurals>
   <plurals name="usage_state_unlock_count">
-    <item quantity="other">%d zaman</item>
-    <item quantity="one">%d zaman</item>
+    <item quantity="other">%d defa</item>
+    <item quantity="one">%d defa</item>
   </plurals>
   <plurals name="usage_state_week_day_hour">
     <item quantity="other">Hafta sonu: %d saat</item>

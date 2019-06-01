@@ -156,6 +156,7 @@
   <string name="feature_title_call_log">Çağrı geçmişi</string>
   <string name="feature_title_contacts">Kişiler</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_mms_setting">MMS Ayarları</string>
   <string name="feature_title_sms">Mesajlar</string>
   <string name="file_uploading">Yükleniyor…</string>
   <string name="files_backup_info">SD karttaki tüm dosyalar (fotoğraflar, şarkılar, videolar, uygulama verileri vb. dahil)</string>

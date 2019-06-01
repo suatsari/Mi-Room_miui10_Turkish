@@ -193,7 +193,7 @@
   <string name="micloud_manaul_sync_success_title">Başarıyla eşitlendi</string>
   <string name="micloud_manual_activating">Etkinleştiriliyor…</string>
   <string name="micloud_manual_all_sync_off_button_text">Aç</string>
-  <string name="micloud_manual_all_sync_off_summary">Mi Bulut kullanarak eşitlenmiş verileri yeni cihazlarda geri yükle</string>
+  <string name="micloud_manual_all_sync_off_summary">Mi Bulut kullanarak eşitlenmiş verileri yeni cihazlarda geri yükleyin</string>
   <string name="micloud_manual_all_sync_off_title">Mi Bulut ile eşitleme kapalı</string>
   <string name="micloud_manual_buy_vip">Mi Bulut planını yükseltin</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Yükselt</string>

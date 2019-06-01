@@ -66,8 +66,8 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="scenario_policies_title">Akıllı senaryolar</string>
   <string name="scenario_policies_warmcontrol">Sıcaklık Kontrolu</string>
   <string name="show_system_app">Sistem uygulamalarını göster</string>
-  <string name="sleep_config_enhance_description">MIUI uyuduğunuzu algıladığında, arka plan uygulamalarını kapatır, NFC, Bluetooth, GPS, mobil veriler ve WLAN kullanımını kısıtlar ve bildirimler için ekranı açmaz.</string>
-  <string name="sleep_config_enhance_description_non_nfc">MIUI ekran kapalıyken uyku sırasında arka plan uygulamalarını kapatacak. Bluetooth, GPS, mobil veri ve WLAN kullanımını kısıtlayacak ve bildirimler için ekran açılmayacaktır.</string>
+  <string name="sleep_config_enhance_description">MIUI uyuduğunuzu algıladığında, arka plan uygulamalarını kapatır, NFC, Bluetooth, GPS, mobil veri, WLAN kullanımını kısıtlar ve bildirimler için ekranı açmaz.</string>
+  <string name="sleep_config_enhance_description_non_nfc">MIUI uyuduğunuzu algıladığında, arka plan uygulamalarını kapatır, Bluetooth, GPS, mobil veri, WLAN kullanımını kısıtlar ve bildirimler için ekranı açmaz.</string>
   <string name="sleep_config_enhance_title">Uyku modu</string>
   <string name="sucess">Bitti</string>
   <string name="update_profile_failture_not_connect_wifi">Güncellenemedi. WLAN\'a bağlanın ve tekrar deneyin.</string>
@@ -106,5 +106,5 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapalı</string>
   <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
-  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>  
+  <string name="adaptive_battery_title">Pili Adaptif Kullan</string>  
 </resources>

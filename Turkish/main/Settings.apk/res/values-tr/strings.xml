@@ -2044,13 +2044,13 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="gxzw_add_fingerprint_put_finger_message">Ekrana basın ve titreşimden sonra parmağınızı kaldırın. Birkaç kez tekrarlayın.</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Basın ve titreşimden sonra kaldırın</string>
   <string name="gxzw_add_fingerprint_title">Parmak izinizi ekleyin</string>
-  <string name="handy_mode">Tek Elle Kullanım Modu</string>
-  <string name="handy_mode_enable">Tek Elle Kullanım Modu</string>
-  <string name="handy_mode_size">Ekran Boyutu</string>
-  <string name="handy_mode_tips">Ekranı yakınlaştırmak istediğinizde Ana Sayfa tuşundan sağa veya sola doğru kaydırın.</string>
+  <string name="handy_mode">Tek elle kullanım modu</string>
+  <string name="handy_mode_enable">Tek elle kullanım modu</string>
+  <string name="handy_mode_size">Ekran boyutu</string>
+  <string name="handy_mode_tips">Ekranı bir tarafa yaklaştırmak için Ana ekran düğmesinden sola veya sağa kaydırın.</string>
   <string name="haptic_feedback_enable_title">Dokununca titret</string>
   <string name="haptic_feedback_level">Titreşim</string>
-  <string name="hardkeyboard_category">Fiziksel Klavye Ayarları</string>
+  <string name="hardkeyboard_category">Fiziksel klavye ayarları</string>
   <string name="hardware_info">Model ve donanım</string>
   <string name="hardware_revision">Donanım sürümü</string>
   <string name="hardware_version">Donanım Sürümü</string>
@@ -2921,23 +2921,23 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="night_display_category_status">Durum</string>
   <string name="night_display_end_time_title">Bitiş zamanı</string>
   <string name="night_display_start_time_title">Başlangıç zamanı</string>
-  <string name="night_display_summary_off">%1$s kapalı</string>
-  <string name="night_display_summary_off_auto_mode_custom">Şu saatte otomatik olarak açılacak: %1$s</string>
-  <string name="night_display_summary_off_auto_mode_never">Hiçbir zaman otomatik olarak açılmayacak.</string>
-  <string name="night_display_summary_off_auto_mode_twilight">Güneş battığında otomatik olarak açılacak.</string>
-  <string name="night_display_summary_on">%1$s açık</string>
-  <string name="night_display_summary_on_auto_mode_custom">Şu saatte otomatik olarak kapatılacak: %1$s</string>
-  <string name="night_display_summary_on_auto_mode_never">Hiçbir zaman otomatik olarak kapatılmayacak.</string>
-  <string name="night_display_summary_on_auto_mode_twilight">Güneş doğduğunda otomatik olarak kapatılacak.</string>
+  <string name="night_display_summary_off">Kapalı / %1$s</string>
+  <string name="night_display_summary_off_auto_mode_custom">%1$s olduğunda otomatik olarak açılacak</string>
+  <string name="night_display_summary_off_auto_mode_never">Hiçbir zaman otomatik olarak açılmayacak</string>
+  <string name="night_display_summary_off_auto_mode_twilight">Güneş battığında otomatik olarak açılacak</string>
+  <string name="night_display_summary_on">Açık / %1$s</string>
+  <string name="night_display_summary_on_auto_mode_custom">%1$s olduğunda otomatik olarak kapanacak</string>
+  <string name="night_display_summary_on_auto_mode_never">Hiçbir zaman otomatik olarak kapanmayacak</string>
+  <string name="night_display_summary_on_auto_mode_twilight">Güneş doğarken otomatik olarak kapanacak</string>
   <string name="night_display_temperature_title">Yoğunluk</string>
-  <string name="night_display_text">Gece Işığı, ekranınızın renk tonunu amber yapar. Bu renk tonlaması, ekranınızı loş ışıkta daha iyi görmenizi sağlar ve daha kolay uyumanıza yardımcı olabilir.</string>
+  <string name="night_display_text">Gece Işığı ekranınıza sarı renk verir. Bu, ekranınıza bakmayı veya loş ışıkta okumayı kolaylaştırır ve daha kolay uykuya dalmanıza yardımcı olabilir.</string>
   <string name="night_display_title">Gece Işığı</string>
-  <string name="night_light">Gece Işığı</string>
-  <string name="night_light_brightness">Gece Işığı Parlaklığı</string>
-  <string name="night_light_color">Gece Işığı Rengi</string>
+  <string name="night_light">Gece modu</string>
+  <string name="night_light_brightness">Gece modu parlaklığı</string>
+  <string name="night_light_color">Gece modu renk sıcaklığı</string>
   <string name="night_light_color_tip">Okuma modu kapalıyken değişiklikler geçerli olacaktır</string>
-  <string name="night_light_summary">Gece Işığı moduna girmek için, düşük ışık koşullarında arka plan aydınlatmasını en aza indirin</string>
-  <string name="night_light_tip">Gece modu açıkken değişiklikler geçerli olacaktır.</string>
+  <string name="night_light_summary">Gece modunu açmak için, düşük ışık koşullarında ekran parlaklığını en aza indirin.</string>
+  <string name="night_light_tip">Gece modu açık olduğunda değişiklikler geçerli olacaktır</string>
   <string name="no">Hayır</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_applications">Uygulama yok.</string>
@@ -6397,8 +6397,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usage_state_app_use_time">Uygulama ekran süresi</string>
   <string name="usage_state_channel_mouth">Son 30 gün</string>
   <string name="usage_state_channel_week">Son 7 gün</string>
-  <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00 - %d:00 arasında bildirimler</string>
-  <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00 - %d:00 arasında cihaz kilidi açık</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">%d:00 - %d:00 arasındaki bildirimler</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">%d:00 - %d:00 arasında cihaz kilidi açıldı</string>
   <string name="usage_state_friday">Cum</string>
   <string name="usage_state_go_more">Daha fazla uygulama</string>
   <string name="usage_state_hour_minute" formatted="false">%ds %dd</string>
@@ -6514,5 +6514,10 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="device_oaid">Cihaz kimliği</string>
   <string name="restore_oaid_content">Mevcut cihaz kimliğinizi sıfırlamak yeni bir tane oluşturacaktır. Şimdi sıfırlansın mı?</string>
   <string name="restore_oaid_positive">Sıfırla</string>
-  <string name="restore_oaid_title">Cihaz kimliğini sıfırlama</string>  
+  <string name="restore_oaid_title">Cihaz kimliğini sıfırlama</string>
+  <string name="backup_set_new_continue">Devam et</string>
+  <string name="backup_set_new_exit">Çıkış</string>
+  <string name="backup_set_new_pw_confirm_hint">Dikkat</string>
+  <string name="backup_set_new_pw_confirm_summary">Öğeleriniz şimdi otomatik olarak yedeklendi. Bir yedekleme şifresi oluşturmak otomatik yedeklemeyi durduracaktır. Yine de devam edilsin mi?</string>
+  <string name="device_miui_version_parameters">MIUI sürümü</string>  
 </resources>

@@ -816,6 +816,8 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gateway_exception_summary2">Sunucuya bağlanamıyor</string>
   <string name="gateway_exception_title">Yönlendirici Testi</string>
   <string name="gb_ad_game_size">MB</string>
+  <string name="gb_global_settings">Genel ayarlar</string>
+  <string name="gb_add_game_hint">Uygulamalar listesinden öğe ekleyin</string>  
   <string name="gb_cutoff">|</string>
   <string name="gb_description_image_button_answer">Cevap</string>
   <string name="gb_description_image_button_reject">Reddet</string>
@@ -842,7 +844,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-  <string name="gdpr_msg">&lt;Data&gt;\"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Gizlilik Politikası&lt;/a&gt; ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"&lt;/Data&gt;</string>
+  <string name="gdpr_msg">&lt;Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir."&lt;/Data></string>
   <string name="ge">个</string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="gigabyteShort">GB</string>
