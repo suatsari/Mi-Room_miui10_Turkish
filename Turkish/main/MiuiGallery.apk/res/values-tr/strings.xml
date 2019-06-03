@@ -14,7 +14,7 @@
   <string name="add_to_album_success">Albüme eklendi</string>
   <string name="add_to_album_tip">Bulut Fotoğrafları</string>
   <string name="add_to_favorites_failed">Sık kullanılanlara eklenemedi</string>
-  <string name="add_to_secret_exist">Fotoğraf zaten gizli albümde var</string>
+  <string name="add_to_secret_exist">Bu öğe zaten gizli albümde var</string>
   <string name="add_to_secret_fail">Gizli albüme fotoğraf eklenemedi</string>
   <string name="add_to_secret_failed_with_reason">Gizli albüme eklenemez. %1$s.</string>
   <string name="add_to_secret_successful">Gizli albüme eklendi</string>
@@ -1157,7 +1157,7 @@
   <string name="filter_master_rise">Yükselme</string>
   <string name="filter_master_somber">Hüzünlü</string>
   <string name="filter_people_movie">Film</string>
-  <string name="filter_people_riddle">Bilmece</string>
+  <string name="filter_people_riddle">Şeker</string>
   <string name="filter_people_story">Hikaye</string>
   <string name="free_view_desc">3B görünüm</string>
   <string name="photo_editor_talkback_cancel">İptal</string>
@@ -1508,5 +1508,33 @@ mevcut"</string>
   <string name="trash_bin_key_word">Silinen fotoğraflar</string>
   <string name="clear_dup_medias">Çift fotoğrafları temizle</string>
   <string name="clear_dup_success">Başarıyla temizlendi</string>
-  <string name="clear_dup_tip">Çift fotoğraflar temizleniyor</string>  
+  <string name="clear_dup_tip">Çift fotoğraflar temizleniyor</string>
+  <string name="burst_image_download_item_title" formatted="false">Orijinali indir (%s|%s)</string>
+  <string name="burst_preview_title">Seri çekim</string>
+  <string name="burst_save_all">Tümünü kaydet</string>
+  <string name="burst_save_choice_title" formatted="false">%d dışında %d seçildi</string>
+  <string name="burst_save_confirm_dialog_title">Fotoğraflar kaydediliyor</string>
+  <string name="burst_save_error_msg">Kaydedilemedi</string>
+  <string name="burst_save_processing">İşleniyor…</string>
+  <string name="decrypt_video_failed">Video hazırlanamadı</string>
+  <string name="decrypting_video">Video hazırlanıyor…</string>
+  <string name="editor_cancel">İptal</string>
+  <string name="editor_export">Kaydet</string>
+  <string name="editor_talkback_redo">Yinele</string>
+  <string name="editor_talkback_undo">Geri al</string>
+  <string name="first_time_add_video_to_secret_tips">Videoları gizleyebilmek için Galeri\'yi güncelle</string>
+  <string name="photo_editor_remove_watermark_on">Filigran ekle</string>
+  <string name="photo_editor_talkback_crop_2_3">İki ila üç</string>
+  <string name="special_type_eye_repair">AI kullanarak kapalı gözler düzeltildi</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">AI Düşük Işık Güzelleştirme</string>
+  <string name="special_type_night_mode">AI gece modu</string>
+  <string name="special_type_portrait">AI ışık boyama portre</string>
+  <string name="special_type_wide_angle">AI ultra geniş açı</string>
+  <string name="video_editor_audio_antiquity">Retro</string>
+  <string name="video_editor_audio_dream">Rüya</string>
+  <string name="video_editor_audio_electronics">Elektro</string>
+  <string name="video_editor_audio_quiet">Zen</string>
+  <string name="video_editor_audio_summertime">Yaz</string>
+  <string name="video_editor_audio_vitality">Dinç</string>  
 </resources>

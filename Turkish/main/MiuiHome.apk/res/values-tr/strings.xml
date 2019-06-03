@@ -369,5 +369,9 @@
   <string name="edit_mode_group_error_cant_delete_system_apps">Sistem uygulamaları kaldırılamıyor</string>
   <string name="edit_mode_group_error_nothing_be_selected">Önce bir uygulama seçin</string>
   <string name="minus_one_screen">Uygulama kasası</string>
-  <string name="menu_auto_fill_of_uninstall">Kaldırılan uygulamaların hücrelerini doldur</string>  
+  <string name="menu_auto_fill_of_uninstall">Kaldırılan uygulamaların hücrelerini doldur</string>
+  <string name="announce_for_search_bar">Arama çubuğu</string>
+  <string name="announce_for_xiaoai">Mi AI</string>
+  <string name="privacy_thumbnail_blur_summary">Son kullanılanlar bölümünde uygulama önizlemelerini bulanıklaştırın</string>
+  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>  
 </resources>

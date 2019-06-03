@@ -831,5 +831,6 @@
   <string name="btn_float_window_resize">Küçültülmüş hesap makinesini yeniden boyutlandır</string>
   <string name="float_window_guide_text">Hesap makinesini küçültmek için buraya dokunun</string>
   <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
-  <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>  
+  <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>
+  <string name="tax_rate_provider_east_money">Yeni vergi düzenlemelerine göre hesaplandı. Veriler East Money tarafından sağlanmaktadır.</string>  
 </resources>

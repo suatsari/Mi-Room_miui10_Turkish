@@ -283,5 +283,33 @@
     <plurals name="collage_select_image_dynamic_range">
         <item quantity="other">Kolajlar 1-%d arası fotoğraf içerebilir</item>
         <item quantity="one">Kolajlar 1-%d arası fotoğraf içerebilir</item>
+    </plurals>
+	<plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">Seçilen %d fotoğrafı kaydet ve gerisini sil?</item>
+        <item quantity="one">Seçilen %d fotoğrafı kaydet ve gerisini sil?</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Seçilen %d fotoğrafı kaydet</item>
+        <item quantity="one">Seçilen %d fotoğrafı kaydet</item>
+    </plurals>
+	<plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">Mi Bulut ve tüm eşitlenmiş cihazlardan %d seri çekim silinsin mi?</item>
+        <item quantity="one">Mi Bulut ve tüm eşitlenmiş cihazlardan %d seri çekim silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">%d seri çekim silinsin mi?</item>
+        <item quantity="one">%d seri çekim silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">%d seri çekim Mi Bulut ve bu cihazdan silinsin mi?</item>
+        <item quantity="one">%d seri çekim Mi Bulut ve bu cihazdan silinsin mi?</item>
+    </plurals>
+	<plurals name="delete_third_party_burst_photo">
+        <item quantity="other">%d seri çekim cihazınızdan silinsin mi?</item>
+        <item quantity="one">%d seri çekim cihazınızdan silinsin mi?</item>
     </plurals>	
 </resources>

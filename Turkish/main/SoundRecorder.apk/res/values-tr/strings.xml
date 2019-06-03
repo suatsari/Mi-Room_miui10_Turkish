@@ -72,7 +72,7 @@
   <string name="preference_enable_earpiece_summary">Harici oynatmak için alıcı hoparlör kullanın</string>
   <string name="preference_enable_earpiece_title">Ses çalmak için alıcı kullanın</string>
   <string name="preference_led_indicator">Kilit ekranı bildirimleri</string>
-  <string name="preference_led_indicator_prompt">Kayıt işlemi devam ederken kilit ekranında durum çubuğunda ve yanıp sönen bildirim ışığı göster</string>
+  <string name="preference_led_indicator_prompt">Kayıt yaparken, durum çubuğu kısayolunu ve yanıp sönen bildirim ışığını göster</string>
   <string name="preference_record_scenes_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_record_type_title">Kayıt tipi:</string>
@@ -271,5 +271,12 @@
   <string name="korea_permission_record">Mikrofon</string>
   <string name="korea_permission_record_resc">Ses kaydı için</string>
   <string name="korea_permission_storage">Depolama</string>
-  <string name="korea_permission_storage_desc">Kayıtları kaydetmek için</string>  
+  <string name="korea_permission_storage_desc">Kayıtları kaydetmek için</string>
+  <string name="call_record_list_group_all">Tümü</string>
+  <string name="call_record_list_group_connected">Bağlı</string>
+  <string name="call_record_list_group_unconnected">Bağlı değil</string>
+  <string name="preference_status_bar_indicator_prompt">Kayıt sırasında durum çubuğunda kısayolu göster</string>
+  <string name="shortcut_records">Kayıtlar</string>
+  <string name="shortcut_start_record">Kayda başla</string>
+  <string name="shortcut_stop_record">Kaydı durdur</string>  
 </resources>
