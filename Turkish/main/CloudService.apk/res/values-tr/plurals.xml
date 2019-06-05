@@ -73,7 +73,7 @@
     <item quantity="one">Mi Bulut ile %s hizmet eşitlenecek</item>
   </plurals>
   <plurals name="dirty_phrase_count">
-    <item quantity="other">%d sık ifade</item>
-    <item quantity="one">%d sık ifade</item>
+    <item quantity="other">%d sık kullanılan ifade</item>
+    <item quantity="one">%d sık kullanılan ifade</item>
   </plurals>  
 </resources>
