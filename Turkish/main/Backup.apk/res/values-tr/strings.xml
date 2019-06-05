@@ -607,5 +607,5 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="dialog_backup_password_auto_backup_tips">Yedekleme şifresi açıkken öğeler otomatik olarak yedeklenemiyor. Önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi Mover kullanılamaz. Önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın.</string>
-  <string name="iCloud_ID_verification_tip">Apple kimliğinizle ilişkilendirilmiş telefon numarasına gönderilen SMS doğrulama kodunu girin. İPhone/'unuzun ekranında görüntülenen açılır kodu dikkate almayın.</string>  
+  <string name="iCloud_ID_verification_tip">Apple kimliğinizle ilişkilendirilmiş telefon numarasına gönderilen SMS doğrulama kodunu girin. İPhone\'unuzun ekranında görüntülenen açılır kodu dikkate almayın.</string>  
 </resources>
