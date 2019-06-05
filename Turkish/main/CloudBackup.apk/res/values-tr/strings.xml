@@ -8,7 +8,7 @@
   <string name="as_new_device_summary">Önceki Mi Bulut yedeklerini silin</string>
   <string name="authentication_failed">Hesap doğrulanamadı.</string>
   <string name="back_up_task_in_process">Yedekleniyor…</string>
-  <string name="back_up_task_unfinished">Yedekleme bitmedi</string>
+  <string name="back_up_task_unfinished">Yedeklenemedi</string>
   <string name="backing_up_to_micloud">Yedekleniyor…</string>
   <string name="backup_fail_wifi_needed">Yedeklenemedi, WLAN gerekli.</string>
   <string name="backup_finished_notification_content">Ana Ekran Uygulamaları, Sistem Ayarları, vb yedekleyin.</string>
@@ -218,5 +218,11 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="provision_restore_data">Öğeler geri yükleniyor</string>
   <string name="hint_restore_cross_space">Öğeleri alanlar arasında aktarırsanız, Ana ekran düzeni yanlış görüntülenebilir.</string>
   <string name="selected">Seçili</string>
-  <string name="unselected">Seçili değil</string>  
+  <string name="unselected">Seçili değil</string>
+  <string name="backup_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Mi Bulut üzerinde yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın.</string>
+  <string name="restore_task_unfinished">Geri yüklenemedi</string>
+  <string name="restore_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>  
 </resources>

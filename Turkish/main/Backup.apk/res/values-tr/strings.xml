@@ -156,7 +156,7 @@
   <string name="feature_title_call_log">Çağrı geçmişi</string>
   <string name="feature_title_contacts">Kişiler</string>
   <string name="feature_title_mms">MMS</string>
-  <string name="feature_title_mms_setting">MMS Ayarları</string>
+  <string name="feature_title_mms_setting">Mesajlaşma ayarları</string>
   <string name="feature_title_sms">Mesajlar</string>
   <string name="file_uploading">Yükleniyor…</string>
   <string name="files_backup_info">SD karttaki tüm dosyalar (fotoğraflar, şarkılar, videolar, uygulama verileri vb. dahil)</string>
@@ -602,5 +602,10 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="dialog_backup_password_cancel">İptal</string>
   <string name="dialog_backup_password_to_settings">Ayarlar</string>
   <string name="gallery_summary">Galeri ayarları (fotoğraflar dahil değil)</string>
-  <string name="user_feedback">Geri bildirim</string>  
+  <string name="user_feedback">Geri bildirim</string>
+  <string name="trans_complete_restoring">Başarıyla transfer edildi. Uygulama verileri geri yükleniyor...</string>
+  <string name="dialog_backup_password_auto_backup_tips">Yedekleme şifresi açıkken öğeler otomatik olarak yedeklenemiyor. Önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi Mover kullanılamaz. Önce yedekleme şifresini kapatın.</string>
+  <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın.</string>
+  <string name="iCloud_ID_verification_tip">Apple kimliğinizle ilişkilendirilmiş telefon numarasına gönderilen SMS doğrulama kodunu girin. İPhone/'unuzun ekranında görüntülenen açılır kodu dikkate almayın.</string>  
 </resources>

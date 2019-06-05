@@ -905,6 +905,7 @@ d MMMM"</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonunuzu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuz fabrika ayarlarına sıfırlanacak ve tüm kullanıcı verileri silinecek.\n  </string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Şifreyi %d kez yanlış girdiniz. %d kez daha başarısız deneme yaparsanız, telefonunuzu Mi Hesabı kullanarak açmanız istenecek.\n\n %d saniye sonra tekrar deneyin.</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefonu açmak için gerekli olan şifreyi %d kez yanlış girdiniz. Telefonunuz şimdi fabrika ayarlarına geri döndürülecek.</string>
+  <string name="lock_screen_magazine_label">Duvar Kağıdı Döngüsü açık</string>
   <string name="lockscreen_none">Yok</string>
   <string name="lockscreen_shortcut_left">Sol kısayol</string>
   <string name="lockscreen_shortcut_right">Sağ kısayol</string>
@@ -972,10 +973,10 @@ d MMMM"</string>
   <string name="monitoring_description_management_ca_certificate">Şirketiniz bu cihaza bir sertifika yetkilisi yükledi. Güvenli ağınız izleniyor veya değiştirilmiş olabilir.</string>
   <string name="monitoring_description_management_network_logging">Yöneticiniz cihazınızın internet trafiğini izleyen ağ günlüğü özelliğini etkinleştirdi.</string>
   <string name="monitoring_description_named_management">Cihazınız %1$s tarafından yönetiliyor.\n\nYöneticiniz ayarlarınızı, kurumsal erişimleri, cihazınızdaki ve cihazınızla ilgili verileri ve cihazınızın konum verilerini izleyebilir ve yönetebilir.\n\nDaha fazla bilgi için yöneticinizle iletişime geçin.</string>
-  <string name="monitoring_description_named_vpn">Ağ etkinliğinizi, e-postalarınız, uygulamalarınız ve ziyaret ettiğiniz internet siteleri ile beraber izleyebilen %1$s ağına bağlısınız.</string>
+  <string name="monitoring_description_named_vpn">E-postalar, uygulamalar ve web siteleri dahil olmak üzere ağ etkinliğinizi izleyebilen %1$s ağına bağlısınız.</string>
   <string name="monitoring_description_network_logging">Yöneticiniz, cihazınızdaki trafiği izleyen ağ günlüğünü açtı.\n\nDaha fazla bilgi için yöneticinize başvurun.</string>
   <string name="monitoring_description_personal_profile_named_vpn">Kişisel profiliniz ağ etkinliğinizi, e-postalarınız, uygulamalarınız ve ziyaret ettiğiniz internet siteleri ile beraber izleyebilen %1$s ağına bağlandı.</string>
-  <string name="monitoring_description_two_named_vpns">Ağ etkinliğinizi, e-postalarınız, uygulamalarınız ve ziyaret ettiğiniz internet siteleri ile beraber izleyebilen %1$s ve %2$s ağlarına bağlısınız.</string>
+  <string name="monitoring_description_two_named_vpns">E-postalar, uygulamalar ve web siteleri dahil olmak üzere ağ etkinliğinizi izleyebilen %1$s ve %2$s ağlarına bağlısınız.</string>
   <string name="monitoring_description_vpn">VPN bağlantısı kurmak için bir uygulama izni verdiniz.\n\nBu uygulama, e-postalar, uygulamalar ve web siteleri dahil olmak üzere cihazınızı ve ağ etkinliğinizi izleyebilir.</string>
   <string name="monitoring_description_vpn_profile_owned">İş profiliniz %1$s tarafından yönetiliyor.\n\nYöneticiniz e-postalar, uygulamalar ve web siteleri dahil olmak üzere ağ etkinliğinizi izleyebilir.\n\nDaha fazla bilgi için yöneticinize başvurun.\n\nAğ etkinliğinizi izleyebilecek bir VPN\'e de bağlandınız.</string>
   <string name="monitoring_description_vpn_settings">VPN ayarlarını aç</string>

@@ -71,5 +71,9 @@
   <plurals name="provision_sync_items_status_title">
     <item quantity="other">Mi Bulut ile %s hizmet eşitlenecek</item>
     <item quantity="one">Mi Bulut ile %s hizmet eşitlenecek</item>
+  </plurals>
+  <plurals name="dirty_phrase_count">
+    <item quantity="other">%d sık ifade</item>
+    <item quantity="one">%d sık ifade</item>
   </plurals>  
 </resources>

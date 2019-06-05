@@ -1619,5 +1619,9 @@ Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."
   <string name="wifi_call_setting_vodafone_de">WLAN çağrısı</string>
   <string name="wifi_call_setting_vodafone_uk">WLAN çağrısı</string>
   <string name="jump_to_mobile_network_setting">Mobil ağ ayarları</string>
-  <string name="select_dds_dialog_title">Varsayılan mobil veri SIM\'ini seçin</string>  
+  <string name="select_dds_dialog_title">Varsayılan mobil veri SIM\'ini seçin</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM otomatik</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM otomatik</string>
+  <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Sadece GSM</string>
+  <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Sadece WCDMA</string>  
 </resources>

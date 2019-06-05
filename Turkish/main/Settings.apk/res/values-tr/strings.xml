@@ -1273,20 +1273,24 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="data_summary_format">%2$s beri kullanılan %1$s</string>
   <string name="data_switch_started">Veri SIM geçişi yap, bu birkaç dakika sürebilir...</string>
   <string name="data_usage_accounting">Operatörünüzün veri hesapları cihazınızdan farklı olabilir.</string>
-  <string name="data_usage_app">Uygulama Kullanımı</string>
-  <string name="data_usage_app_info_label">Uygulama Bilgisi</string>
+  <string name="data_usage_app">Uygulama kullanımı</string>
+  <string name="data_usage_app_info_label">UYGULAMA BİLGİSİ</string>
   <string name="data_usage_app_items_header_text">Uygulama kullanımı</string>
-  <string name="data_usage_app_restrict_background">Arkaplan Verisi</string>
-  <string name="data_usage_app_restrict_background_summary">Hücresel verilerin arkaplanda kullanımını etkinleştir</string>
-  <string name="data_usage_app_restrict_background_summary_disabled">Bu uygulama için arkaplan verileri sınırlamak için öncelikle bir hücresel veri sınırını ayarlayın.</string>
-  <string name="data_usage_app_restrict_dialog">Bu özellik yalnızca hücresel şebekelerin kullanılabilir olduğunda çalışanı durdurmak için arkaplan verilerine dayalı bir uygulamaya neden olabilir.\n\nUygulamada içindeki ayarlarda daha uygun veri kullanım denetimlerini bulabilirsiniz.</string>
-  <string name="data_usage_app_restrict_dialog_title">Arkaplan verileri kısıtlansın mı?</string>
-  <string name="data_usage_app_restricted">Kısıtlandı</string>
-  <string name="data_usage_app_settings">Uygulama Ayarları</string>
+  <string name="data_usage_app_restrict_background">Arka plan verisi</string>
+  <string name="data_usage_app_restrict_background_summary">Arka planda mobil veri kullanımını etkinleştir</string>
+  <string name="data_usage_app_restrict_background_summary_disabled">Bu uygulama için arka plan verilerini kısıtlamak için önce bir mobil veri sınırı ayarlayın.</string>
+  <string name="data_usage_app_restrict_dialog">"Bu özellik, yalnızca mobil ağ mevcut olduğunda arka plan verilerine bağlı bir uygulamanın çalışmayı durdurmasına neden olabilir.
+
+Uygulama içinde mevcut olan ayarlardan daha uygun veri kullanım kontrollerini bulabilirsiniz."</string>
+  <string name="data_usage_app_restrict_dialog_title">Arkaplan verisi kısıtlansın mı?</string>
+  <string name="data_usage_app_restricted">kısıtlandı</string>
+  <string name="data_usage_app_settings">Uygulama ayarları</string>
   <string name="data_usage_app_summary_title">Uygulama veri kullanımı</string>
-  <string name="data_usage_auto_sync_off_dialog">Bu veri ve pil kullanımını azaltır, ancak son bilgileri toplamak için elle her hesabı eşitlemek gerekir. Güncellemeler olduğunda bildirim almazsınız.</string>
+  <string name="data_usage_auto_sync_off_dialog">Bu veri ve pil kullanımını koruyacaktır, ancak son bilgileri toplamak için her bir hesabı manuel olarak eşitlenmeniz gerekir. Ayrıca, güncellemeler gerçekleştiğinde bildirim almayacaksınız.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Otomatik eşitleme kapatılsın mı?</string>
-  <string name="data_usage_auto_sync_on_dialog">Web\'de ki hesaplarınızda yaptığınız tüm değişiklikler otomatik olarak telefonunuza kopyalanır.\n\nBazı hesaplar da otomatik olarak telefonda yaptığınız değişiklikleri Web\'e kopyalayabilir. Google Hesabı bu şekilde çalışır.\n\nEşitleme ile ilgili hesaplara erişmek için Ayarlar &gt; Hesaplar bölümününe gidin.</string>
+  <string name="data_usage_auto_sync_on_dialog">"Web\'de hesaplarınızda yaptığınız tüm değişiklikler otomatik olarak telefonunuza kopyalanacaktır.
+
+Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak da kopyalayabilir. Bir Google Hesabı bu şekilde çalışır."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="data_usage_background_label">Arkaplan:</string>
   <string name="data_usage_cellular_data">Hücresel Veri</string>
@@ -2136,7 +2140,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="input_methods_settings_label_format">%1$s ayarları</string>
   <string name="input_methods_settings_title">Metin girişi</string>
   <string name="input_settings">Giriş ayarları</string>
-  <string name="install_all_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasız. Bu kaynaktan uygulamalar yükleyerek, telefonunuzdaki hasarlardan veya kullanımlarından kaynaklanabilecek veri kaybından sorumlu olduğunuzu kabul edersiniz.</string>
+  <string name="install_all_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamaların saldırılarına karşı daha savunmasızdır. Bu kaynaktan uygulamalar yükleyerek, telefonunuzdaki hasarlardan veya kullanımlarından kaynaklanabilecek veri kaybından sorumlu olduğunuzu kabul edersiniz.</string>
   <string name="install_applications">Bilinmeyen kaynaklar</string>
   <string name="install_applications_title">Tüm uygulama kaynaklarına izin ver</string>
   <string name="install_no_market_app_summary">Uygulama Mağazası dışındaki kaynaklardan uygulamaların yüklenmesine izin ver</string>
@@ -6458,8 +6462,8 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="choose_keyguard_clock_summary">Bu ayar üçüncü taraf temalarla çalışmaz</string>
   <string name="choose_unlock_face_msg">Yüz verilerini kaydetmeden önce bir ekran kilidi ayarlayın.</string>
   <string name="choose_unlock_fingerprint_msg">Parmak izinizi eklemeden önce ekran kilidini ayarlayın.</string>
- <string name="miui_lab_gesture_title">Tam ekran hareketleri</string>
- <string name="miui_lab_gesture_desc">Gezinme için düğmeler yerine hareketleri kullanın</string>
+  <string name="miui_lab_gesture_title">Tam ekran hareketleri</string>
+  <string name="miui_lab_gesture_desc">Gezinme için düğmeler yerine hareketleri kullanın</string>
   <string name="search_ambient_display_screen_title">Ortam ekranı</string>
   <string name="search_doze_always_on_title">Her zaman açık</string>
   <string name="usage_state_date">d MMM</string>
@@ -6519,5 +6523,23 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="backup_set_new_exit">Çıkış</string>
   <string name="backup_set_new_pw_confirm_hint">Dikkat</string>
   <string name="backup_set_new_pw_confirm_summary">Öğeleriniz şimdi otomatik olarak yedeklendi. Bir yedekleme şifresi oluşturmak otomatik yedeklemeyi durduracaktır. Yine de devam edilsin mi?</string>
-  <string name="device_miui_version_parameters">MIUI sürümü</string>  
+  <string name="device_miui_version_parameters">MIUI sürümü</string>
+  <string name="quick_reply_title">Hızlı cevaplar</string>
+  <string name="a11y_settings_label">Erişilebilirlik ayarları</string>
+  <string name="accessibility_menu_description">"Erişilebilirlik menüsü cihazınızı kontrol etmenizi sağlayan kullanışlı kısayollar sağlar.
+
+Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirlik düğmesine dokunun."</string>
+  <string name="accessibility_menu_service_name">Erişilebilirlik menüsü</string>
+  <string name="accessibility_menu_summary">Uygun kısayolları kullanarak cihazınızı kontrol edin</string>
+  <string name="confirm_fingerprint">Parmak izinizi doğrulayın</string>
+  <string name="confirm_password_with_fingerprint">Parmak izi kullan</string>
+  <string name="confirm_password_with_password">Şifrenizi girin</string>
+  <string name="google_assistant_label">Google Asistan</string>
+  <string name="lockscreen_label">Kilit ekranı</string>
+  <string name="notification_label">Bildirimler</string>
+  <string name="power_label">Güç</string>
+  <string name="quick_settings_label">Düğmeler</string>
+  <string name="recent_apps_label">Son kullanılanlar</string>
+  <string name="screenshot_label">Ekran görüntüsü</string>
+  <string name="volume_label">Ses</string>  
 </resources>

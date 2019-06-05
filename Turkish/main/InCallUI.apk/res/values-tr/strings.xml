@@ -1087,5 +1087,10 @@ mevcut değil"</string>
   <string name="description_message_list_title">Hızlı cevaplar listesi</string>
   <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>
   <string name="supp_service_notification_call_waiting">Aradığınız numara meşgul. Lütfen bekleyin…</string>
-  <string name="call_not_support_high_frequency_click">Bu düğmeye çok sık dokunmayın</string>  
+  <string name="call_not_support_high_frequency_click">Bu düğmeye çok sık dokunmayın</string>
+  <string name="sim1_heduohao_card">Sub1</string>
+  <string name="sim2_heduohao_card">Sub2</string>
+  <string name="sim3_heduohao_card">Sub3</string>
+  <string name="select_sim_hint_for_heduohao">SIM %1$d Sub %2$d kullanımda iken, diğerlerini kullanamazsınız.</string>
+  <string name="select_one_sim_title_for_heduohao">Sadece SIM %1$d Sub %2$d kullanılabilir</string>  
 </resources>

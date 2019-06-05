@@ -2667,5 +2667,13 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="pc_abnormal_scan_reason_runtime_exception">Anormal çalışır</string>
   <string name="pc_abnormal_scan_reason_wake_system">Sistemi çok sık uyandırır</string>
   <string name="pc_abnormal_scan_reason_reconnect">Ağa çok sık bağlanmaya çalışır</string>
-  <string name="pc_abnormal_scan_button_text">Uygulamaları kapat</string>  
+  <string name="pc_abnormal_scan_button_text">Uygulamaları kapat</string>
+  <string name="gamebox_display_1">Yok</string>
+  <string name="gamebox_display_2">Doygun</string>
+  <string name="gamebox_display_3">Parlak</string>
+  <string name="gamebox_display_4">Parlak &amp; doygun</string>
+  <string name="gamebox_display_set">"Görsel geliştirme: "</string>  
+  <string name="quick_reply_title">Hızlı cevaplar</string>
+  <string name="quick_replay_list_title">Mevcut uygulamalar</string>
+  <string name="qucick_replay_instrument">Seçilen habercilerin bildirimlerinde hızlı cevapları kullanın (örn. WhatsApp, WeChat, QQ)</string>  
 </resources>
