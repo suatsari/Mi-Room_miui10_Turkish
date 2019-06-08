@@ -6541,5 +6541,9 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="quick_settings_label">Düğmeler</string>
   <string name="recent_apps_label">Son kullanılanlar</string>
   <string name="screenshot_label">Ekran görüntüsü</string>
-  <string name="volume_label">Ses</string>  
+  <string name="volume_label">Ses</string>
+  <string name="close_privacy_thumbnail_blur_title">Önizlemeler bulanık değil</string>
+  <string name="open_privacy_thumbnail_blur_title">Önizlemeler bulanık</string>
+  <string name="privacy_thumbnail_blur_progress_message">Sadece bir saniye…</string>
+  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>  
 </resources>

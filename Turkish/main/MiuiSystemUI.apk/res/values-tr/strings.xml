@@ -912,7 +912,9 @@ d MMMM"</string>
   <string name="lockscreen_sim_error_message_short">SIM kart geçersiz.</string>
   <string name="lockscreen_unlock_left">Ayrıca sol kısayol kilidi açar</string>
   <string name="lockscreen_unlock_right">Ayrıca sağ kısayol kilidi açar</string>
-  <string name="long_screenshot_not_support_msg">Mevcut uygulama uzun ekran görüntülerini desteklemiyor</string>
+  <string name="long_screenshot_guide_text">"Kayan ekran görüntüsü
+almak için dokunun"</string>
+  <string name="long_screenshot_not_support_msg">Mevcut uygulama kayan ekran görüntülerini desteklemiyor</string>
   <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
   <string name="long_screenshot_processing">İşleniyor…</string>
   <string name="long_screenshot_stop">Tamamlandı</string>
