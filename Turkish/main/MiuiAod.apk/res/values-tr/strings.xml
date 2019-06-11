@@ -4,7 +4,7 @@
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
-  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
   <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
@@ -33,17 +33,24 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="accessibility_battery_level">Pil yüzdesi %d.</string>
   <string name="accessibility_battery_level_charging">Pil şarj oluyor, yüzde %d.</string>
+  <string name="always_style">Her zaman</string>
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
   <string name="aod_lock_screen_date">d MMMM, EE</string>
   <string name="aod_lock_screen_date_12">d MMMM, EE</string>
+  <string name="aod_mode_preview">Önizleme</string>
   <string name="aod_mode_style">Saat stili ve arka plan</string>
+  <string name="aod_mode_style_title">Daha fazla seçenek</string>
   <string name="aod_mode_summary">Bu özellik sistem güç tüketimini arttırır. Cihaz uzun süre kullanılmadığında veya Pil tasarrufu kısıtlamaları uygulandığında kapatılır.</string>
   <string name="aod_mode_time_summary">Her zaman açık modunu açıp kapatmak için zaman planlayın</string>
   <string name="aod_mode_time_title">Zamanlama</string>
   <string name="aod_mode_title">Her zaman açık modu</string>
+  <string name="aod_show_style_title">Öğeleri görüntüle</string>
   <string name="aod_to_close">Kapat</string>
   <string name="cancel">İptal</string>
   <string name="paper_mode_end_time_title">Kapat</string>
   <string name="paper_mode_start_time_title">Aç</string>
+  <string name="scheduled_style">Planlanmış</string>
   <string name="search_menu_title">Ara</string>
+  <string name="summary">Güç tüketimini azaltmak için, öğeler aşağıdaki durumlarda görüntülenmez:\n1. Cihazınızın ekranı uzun süre kapalı kaldığında.\n2. Rahatsız etme modu açık olduğunda.</string>
+  <string name="temporary_style">Dokunduktan sonra 10 saniye boyunca</string>
 </resources>

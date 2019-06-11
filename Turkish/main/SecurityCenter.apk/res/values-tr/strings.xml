@@ -2677,5 +2677,25 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="gamebox_display_set">"Görsel geliştirme: "</string>  
   <string name="quick_reply_title">Hızlı cevaplar</string>
   <string name="quick_replay_list_title">Mevcut uygulamalar</string>
-  <string name="qucick_replay_instrument">Seçilen habercilerin bildirimlerinde hızlı cevapları kullanın (örn. WhatsApp, WeChat, QQ)</string>  
+  <string name="qucick_replay_instrument">Seçilen habercilerin bildirimlerinde hızlı cevapları kullanın (örn. WhatsApp, Instagram, Telegram)</string>
+  <string name="user_guide">Daha yeni oyunlar keşfetmek için yukarı kaydırın</string>
+  <string name="power_center_dialog_msg_top">Pil tasarrufu açık olduğunda, MIUI aşağıdaki optimizasyonları gerçekleştirir:</string>
+  <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$ds %2$dd kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
+  <string name="power_dialog_super_save_msg">Ultra pil tasarrufu, güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin (örneğin, çağrılar, SMS ve ağa bağlanma) mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını azaltır. Ultra pil tasarrufu açılsın mı?</string>
+  <string name="power_dialog_super_save_title">Ultra pil tasarrufu</string>
+  <string name="power_center_power_save_title_text">Pil tasarrufu</string>
+  <string name="power_center_super_save_title_text">Ultra pil tasarrufu</string>
+  <string name="power_center_super_save_summary_text">Kalan süreyi %1$ds %2$dd kadar artırabilirsiniz</string>
+  <string name="power_center_power_save_summary_text">Kalan süreyi %1$ds %2$dd kadar artırabilirsiniz</string>
+  <string name="power_center_battery_last">%s kaldı</string>
+  <string name="power_center_one_key_save">Optimize</string>
+  <string name="power_setting_power_save_summary_text">Pil tasarrufu için sistem ayarlarını optimize edin</string>
+  <string name="power_setting_super_save_summary_text">Pil tasarrufu için çoğu sistem özelliklerini kısıtlayın</string>
+  <string name="power_setting_category_other">Ek ayarlar</string>
+  <string name="power_setting_background_app_save_title">Arka plan pil tasarrufu</string>
+  <string name="power_setting_background_app_save_summary">İşlevselliği etkilemeden arka planda uygulamaların etkinliğini sınırla</string>
+  <string name="power_settings_lock_screen_saver_title">Kilit ekranı ayarları</string>
+  <string name="quick_optimize_sub_summary_with_battery_text">%1$s eklendi, yaklaşık %2$s kaldı</string>
+  <string name="quick_optimize_sub_battery_text">Yaklaşık %s kaldı</string>
+  <string name="user_guide_title">Joystick Seçtikleri</string>  
 </resources>

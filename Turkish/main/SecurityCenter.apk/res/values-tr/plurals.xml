@@ -394,5 +394,17 @@
   <plurals name="pc_abnormal_scan_result_model_result_title">
     <item quantity="other">%d uygulama pili boşaltıyor</item>
     <item quantity="one">%d uygulama pili boşaltıyor</item>
+  </plurals>
+  <plurals name="pc_main_power_center_battery_day">
+    <item quantity="other">%s gün</item>
+    <item quantity="one">%s gün</item>
+  </plurals>
+  <plurals name="pc_main_power_center_battery_hour">
+    <item quantity="other">%s saat</item>
+    <item quantity="one">%s saat</item>
+  </plurals>
+  <plurals name="pc_main_power_center_battery_minute">
+    <item quantity="other">%s dakika</item>
+    <item quantity="one">%s dakika</item>
   </plurals>  
 </resources>
