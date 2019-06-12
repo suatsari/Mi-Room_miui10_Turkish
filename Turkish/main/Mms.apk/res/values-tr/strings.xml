@@ -164,6 +164,7 @@
   <string name="delete_wild_sims_title">Seçili numaraları sil</string>
   <string name="delivery_report_activity">Teslim raporu</string>
   <string name="delivery_toast_body">Mesaj %s tarafından alındı.</string>
+  <string name="dialog_complain_tips">Öğeleri rapor edebilmek için Mesajlaşma\'nın ağa bağlanmasına izin verin.</string>
   <string name="dialog_message_fake_cell_detect_error">Bu mesajla ilgili bilgileri düzeltin? Bunu yapmak için, MIUI\'nin telefon numarasını (%1$s), mesajın içeriğini ve yakındaki konum hakkındaki bilgileri kendi sunucularına yüklemesi gerekir.</string>
   <string name="dialog_message_mx">Mi Mesaj, ücret ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajı etkinleştirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi Mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz.</string>
   <string name="dialog_message_networking">Mesajlaşma, Gönderen Kimliğini tanıması için Sarı sayfaları kullanmalıdır. Mesajlaşma ve Sarı sayfaların normal olarak çalışması için internete bağlanması ve konumunuza erişmesi gerekir. İzin ver?</string>
@@ -405,7 +406,7 @@
   <string name="networking_allow_desc_without_mx">Mi Mesaj\'ın normal çalışabilmesi için internet bağlantısı gerekiyor. Bilinmeyen numaraları tanımak, spam filtrelemek ve diğer özellikleri etkinleştirmek için Mi Mesaj\'ın Sarı Sayfalar\'ı kullanması gerekir. Sarı Sayfalar\'ın internete bağlanmasına, konum bilgilerinizi almasına ve rehberinizi okumasına izin verilsin mi?</string>
   <string name="networking_allow_title">Dikkat</string>
   <string name="new_message">Oluştur</string>
-  <string name="new_message_arrived">Yeni bir mesajınız var</string>
+  <string name="new_message_arrived">Görüntülemek için tıklayın</string>
   <string name="new_phrase">Cavap ekle</string>
   <string name="new_phrase_hint">Yeni cevap girin</string>
   <string name="no">İptal</string>
@@ -787,7 +788,7 @@
   <string name="undelivered_msg_dialog_title">Teslim edilmemiş mesaj</string>
   <string name="undelivered_sms_dialog_body">Bu mesaj gönderilemedi.</string>
   <string name="unknown_num">Bilinmeyen numara</string>
-  <string name="unknown_sender">Bilinmeyen gönderici</string>
+  <string name="unknown_sender">Yeni bir mesajınız var</string>
   <string name="unstick">Sabitten kaldır</string>
   <string name="unstick_conversation">Geçerli sohbetin iğnesini kaldır</string>
   <string name="unsticked_conversation">Konuşma zaten sabitten kaldırılmış</string>
@@ -830,7 +831,7 @@
   <string name="rcs_auto_resend_as_sms_remind_title">SMS\'e dönüştür</string>
   <string name="rcs_hello_from_pc">Dosyaları aktarmak için bilgisayarınızda Fetion\'da oturum açın.</string>
   <string name="rcs_offline">UC\'de oturum açılmamış. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="select_copy_text">Kopyalanacak metni seçin</string>
+  <string name="select_copy_text">Metni seç ve kopyala</string>
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="recipients_contain_sub_sim_number">Alıcılar arasında ikincil bir SIM numarası var gibi görünüyor. Bu mesajı ikincil SIM kullanarak gönderin.</string>
   <string name="sub_sim_card">Sub</string>

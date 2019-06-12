@@ -3,8 +3,8 @@
   <string name="about_hide_mode">Uygulama pil tasarrufu hakkında</string>
   <string name="app_list_title">Uygulamaları seç</string>
   <string name="app_name">Pil ve performans</string>
-  <string name="app_preload_policies_summary">Kullanması en muhtemel uygulamaları tahmin etmek için makine öğrenimini kullanın, ve kaynakları önceden yükleyin.</string>
-  <string name="app_preload_policies_title">AI önyüklemesi</string>  
+  <string name="app_preload_policies_summary">En çok kullandığınız uygulamaları tahmin etmek için makine öğrenimini kullanın ve kaynakları önceden yükleyin.</string>
+  <string name="app_preload_policies_title">AI ön yükleme</string>  
   <string name="base_info">Temel bilgi</string>
   <string name="cloud_addr_info">Bulut bilgisi</string>
   <string name="cloud_china_addr">Çinli sunucu verilerini güncelleme</string>
