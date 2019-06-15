@@ -6412,7 +6412,7 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="usage_state_noti_mourth_day">%s üzerinden bildirim</string>
   <string name="usage_state_notification">Bildirimleri yönet</string>
   <string name="usage_state_notification_manager">Uygulama bildirimlerini yönet</string>
-  <string name="usage_state_remind_summary">Ekran süresi uyarıları almak için açın. Hafta içi ve hafta sonu için farklı zaman sınırları belirleyebilirsiniz.</string>
+  <string name="usage_state_remind_summary">Ekran süresi uyarıları almak için açın.</string>
   <string name="usage_state_remind_title">Ekran süresi uyarısı</string>
   <string name="usage_state_rest_day">Hafta sonu</string>
   <string name="usage_state_saturday">Cmt</string>
@@ -6545,5 +6545,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="close_privacy_thumbnail_blur_title">Önizlemeler bulanık değil</string>
   <string name="open_privacy_thumbnail_blur_title">Önizlemeler bulanık</string>
   <string name="privacy_thumbnail_blur_progress_message">Sadece bir saniye…</string>
-  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>  
+  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
+  <string name="dark_color_summary_lcd">"Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Karanlık mod, cihazınızı karanlıkta kullanırken göz yorgunluğunu gidermenize yardımcı olabilir."</string>
+  <string name="dark_color_summary_oled">Sistem arka planları ve uyumlu uygulamalar için koyu renk paleti kullanın. Karanlık mod, güç tüketimini azaltır ve göz yorgunluğunu gidermeye yardımcı olur.</string>  
 </resources>
