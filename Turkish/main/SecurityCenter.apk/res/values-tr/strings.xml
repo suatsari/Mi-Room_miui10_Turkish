@@ -2701,5 +2701,16 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="button_dark_mode">Düzeltme</string>
   <string name="summary_dark_mode">Bazı sayfalar, üçüncü taraf hizmetleri nedeniyle siyah olarak görüntüleniyor</string>
   <string name="title_dark_mode">Bazı öğeler doğru görüntülenmiyor</string>
-  <string name="toast_dark_mode_fixed">Başarıyla düzeltildi. Değişiklikleri uygulamak için bu sayfadan ayrılın.</string>  
+  <string name="toast_dark_mode_fixed">Başarıyla düzeltildi. Değişiklikleri uygulamak için bu sayfadan ayrılın.</string>
+  <string name="power_main_battery_last_day_hour">%1$sg %2$ss kaldı</string>
+  <string name="power_main_battery_last_hour_minute">%1$ss %2$sd kaldı</string>
+  <string name="pc_main_battery_text_day">%1$sd eklendi, yaklaşık %2$sg kaldı</string>
+  <string name="pc_main_battery_text_day_hour">%1$sd eklendi, yaklaşık %2$sg %3$ss kaldı</string>
+  <string name="pc_main_battery_text_hour">%1$sd eklendi, yaklaşık %2$ss kaldı</string>
+  <string name="pc_main_battery_text_hour_minute">%1$sd eklendi, yaklaşık %2$ss %3$sd kaldı</string>
+  <string name="pc_main_battery_text_minute">%1$sd eklendi, yaklaşık %2$sd kaldı</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$sg %2$ss kaldı</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$ss %2$sd kaldı</string>
+  <string name="pc_main_power_manager_day_hour">Tamamen şarj olmasına %1$sg %2$ss</string>
+  <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$ss %2$sd</string>  
 </resources>

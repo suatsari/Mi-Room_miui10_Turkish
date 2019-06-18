@@ -406,5 +406,41 @@
   <plurals name="pc_main_power_center_battery_minute">
     <item quantity="other">%s dakika</item>
     <item quantity="one">%s dakika</item>
+  </plurals>
+  <plurals name="power_main_battery_last_day">
+    <item quantity="other">%s gün kaldı</item>
+    <item quantity="one">%s gün kaldı</item>
+  </plurals>
+  <plurals name="power_main_battery_last_hour">
+    <item quantity="other">%s saat kaldı</item>
+    <item quantity="one">%s saat kaldı</item>
+  </plurals>
+  <plurals name="power_main_battery_last_minute">
+    <item quantity="other">%s dakika kaldı</item>
+    <item quantity="one">%s dakika kaldı</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_day">
+    <item quantity="other">%s gün kaldı</item>
+    <item quantity="one">%s gün kaldı</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_hour">
+    <item quantity="other">%s saat kaldı</item>
+    <item quantity="one">%s saat kaldı</item>
+  </plurals>
+  <plurals name="pc_main_sub_battery_text_minute">
+    <item quantity="other">%s dakika kaldı</item>
+    <item quantity="one">%s dakika kaldı</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_day">
+    <item quantity="other">Tamamen şarj olmasına %s gün</item>
+    <item quantity="one">Tamamen şarj olmasına %s gün</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_hour">
+    <item quantity="other">Tamamen şarj olmasına %s saat</item>
+    <item quantity="one">Tamamen şarj olmasına %s saat</item>
+  </plurals>
+  <plurals name="pc_main_power_manager_minute">
+    <item quantity="other">Tamamen şarj olmasına %s dakika</item>
+    <item quantity="one">Tamamen şarj olmasına %s dakika</item>
   </plurals>  
 </resources>

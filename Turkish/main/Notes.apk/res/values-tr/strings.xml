@@ -134,13 +134,13 @@
   <string name="permission_intro_phone">Çağrılar sırasında alınan notları işaretlemek için</string>
   <string name="permission_intro_storage">Notları ve ekleri kaydetmek için</string>
   <string name="permlab_accessNote">Notlar\'a erişim</string>
-  <string name="pref_desc_skip_confirm_for_quick_delete">Hareket kullanarak notu silerken onay isteme</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
   <string name="pref_title_cloud_trash_bin">Mi Bulut\'taki notları sil</string>
   <string name="pref_title_common">Ek ayarlar</string>
   <string name="pref_title_font_size">Yazı tipi boyutu</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_show_root_folder_in_homepage">Başlangıç ​​sayfasında yalnızca hızlı notları göster</string>
-  <string name="pref_title_skip_confirm_for_quick_delete">Hızlı sil</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Hareket kullanarak sil</string>
   <string name="recover_notes_hint">Bir hata oluştu, notları geri yüklemek için i.mi.com adresine gidin.</string>
   <string name="redo">Yeniden yap</string>
   <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin.</string>
@@ -233,4 +233,5 @@
   <string name="unknown_source">Bilinmeyen kaynak</string>
   <string name="widget_content_loading">Sadece bir saniye…</string>
   <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için widgete basılı tutun.</string>
+  <string name="toast_pic_is_not_really">Resim kaydediliyor…</string>  
 </resources>

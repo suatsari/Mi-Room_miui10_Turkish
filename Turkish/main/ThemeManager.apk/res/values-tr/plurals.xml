@@ -39,5 +39,9 @@
     <plurals name="try_3_day">
         <item quantity="other">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
         <item quantity="one">3 günlük ücretsiz deneme (Bugün için %1$d öğe kaldı)</item>
+    </plurals>
+    <plurals name="guide_used_number">
+        <item quantity="other">%1$d cihazda uygulandı</item>
+        <item quantity="one">%1$d cihazda uygulandı</item>
     </plurals>	
 </resources>

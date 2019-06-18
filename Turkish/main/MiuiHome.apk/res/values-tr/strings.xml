@@ -373,5 +373,18 @@
   <string name="announce_for_search_bar">Arama çubuğu</string>
   <string name="announce_for_xiaoai">Mi AI</string>
   <string name="privacy_thumbnail_blur_summary">Son kullanılanlar bölümünde uygulama önizlemelerini bulanıklaştırın</string>
-  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>  
+  <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
+  <string name="all_apps_setting_desktop_desc">Yüklü tüm uygulamalar ekranda gösterilir. Eylemleri görüntülemek için bir uygulama simgesine dokunun ve basılı tutun.</string>
+  <string name="all_apps_setting_desktop_title">Standart mod</string>
+  <string name="all_apps_setting_drawer_desc">Yüklü uygulamaların listesini görüntülemek için menü düğmesine tıklayın.</string>
+  <string name="all_apps_setting_drawer_title">Klasik mod</string>
+  <string name="all_apps_setting_title">Masaüstü Modu</string>
+  <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınızın tamamen yeniden başlatılmasını bekleyin</string>
+  <string name="default_folder_title_meitu">Meitu uygulamaları</string>  
+  <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
+  <string name="shake_to_align_icons">Boş hücreleri simgelerle doldurmak için cihazı sallayın</string>
+  <string name="shake_to_align_icons_summary">Boş hücreleri simgelerle otomatik olarak doldurmak için düzenleme modunda cihazınızı sallayın</string>
+  <string name="shake_to_align_icons_title">Boş hücreleri doldurmak için sallayın</string>  
+  <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
+  <string name="wallpaper_scrolling">tüm</string>  
 </resources>
