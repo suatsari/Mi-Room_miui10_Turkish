@@ -385,6 +385,5 @@
   <string name="shake_to_align_icons">Boş hücreleri simgelerle doldurmak için cihazı sallayın</string>
   <string name="shake_to_align_icons_summary">Boş hücreleri simgelerle otomatik olarak doldurmak için düzenleme modunda cihazınızı sallayın</string>
   <string name="shake_to_align_icons_title">Boş hücreleri doldurmak için sallayın</string>  
-  <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>
-  <string name="wallpaper_scrolling">tüm</string>  
+  <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>  
 </resources>
