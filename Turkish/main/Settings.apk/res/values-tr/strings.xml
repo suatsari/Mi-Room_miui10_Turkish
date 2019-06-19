@@ -6562,5 +6562,9 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="usage_app_set_limit_time">Sınırı ayarla</string>
   <string name="usage_app_system_app_summary">Sistem uygulamaları için ekran süresi sınırlandırılamıyor</string>
   <string name="usage_app_weekday_limit">Hafta içi</string>
-  <string name="usage_app_weekend_limit">Hafta sonları</string>  
+  <string name="usage_app_weekend_limit">Hafta sonları</string>
+  <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
+  <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
+  <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
+  <string name="popup_gesture_summary">Ön kamerayı otomatik olarak açmak için telefonu kaldırın ve ekrana bakın</string>  
 </resources>
