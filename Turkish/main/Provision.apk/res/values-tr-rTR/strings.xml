@@ -58,7 +58,8 @@
   <string name="other_settings_auto_update">Otomatik olarak güncelle</string>
   <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi anı seçecektir</string>
   <string name="other_settings_enhanced_lockscreen">Duvar Kağıdı Döngüsü</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. Şartlar ve koşullar geçerlidir.</string>
+  <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik Politikası</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak Kilit ekranınıza gönderilen görüntüleri ve hikayelerini alın. Şartlar, koşullar ve Gizlilik Politikası geçerlidir.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Uygulamaların konumunuza erişmesine izin verin</string>

@@ -856,5 +856,44 @@ Mutlu Ol"</string>
   <string name="search_hint_online">Sanatçıları, albümleri, şarkıları, çalma listelerini ve videoları çevrimiçi arayın</string>
   <string name="tab_playlist">Çalma listeleri</string>
   <string name="tab_video">Videolar</string>
-  <string name="voice_search_first_hint">Sesli arama deneyin!</string>  
+  <string name="voice_search_first_hint">Sesli aramayı deneyin!</string>
+  <string name="April">Nisan</string>
+  <string name="August">Ağustos</string>
+  <string name="December">Aralık</string>
+  <string name="February">Şubat</string>
+  <string name="January">Ocak</string>
+  <string name="July">Temmuz</string>
+  <string name="June">Haziran</string>
+  <string name="March">Mart</string>
+  <string name="May">Mayıs</string>
+  <string name="November">Kasım</string>
+  <string name="October">Ekim</string>
+  <string name="September">Eylül</string>
+  <string name="Updated_at">"Güncellendi: "</string>
+  <string name="back">Geri</string>
+  <string name="home_tab_joox">JOOX Müzik</string>
+  <string name="home_tab_yandex">Yandex Müzik</string>
+  <string name="hungama_category_chart">En iyi</string>
+  <string name="hungama_playlist_category">Çalma listesi kategorisi</string>
+  <string name="hungama_privacy_desc">Hungama Gizlilik Politikası (isteğe bağlı)</string>
+  <string name="hungama_privacy_tips_content">Çevrimiçi içeriğe erişmek için &lt;a href="/link/click">Hungama Gizlilik Politikası&lt;/a> kabul etmeniz gerekir.</string>
+  <string name="hungama_privacy_tips_title">Hungama Gizlilik Politikası</string>
+  <string name="online_apk_install_alert_continue">Devam et</string>
+  <string name="online_apk_install_alert_failed_text">İndirilemedi. Tekrar deneyin.</string>
+  <string name="online_apk_install_alert_mobile_net_text">Şimdi mobil veri kullanıyorsunuz. Öğeleri indirmek için mobil veri kullanmak ek ücretler oluşturabilir.</string>
+  <string name="online_apk_install_alert_note_new">Çevrimiçi içerik %s tarafından sağlandı</string>
+  <string name="online_apk_install_alert_pause">Duraklat</string>
+  <string name="online_apk_install_alert_retry">Tekrar dene</string>
+  <string name="online_apk_install_alert_start">Başlat</string>
+  <string name="online_apk_install_completed">Çevrimiçi içerik başarıyla yüklendi. Görüntülemek için %s öğesine dokunun.</string>
+  <string name="online_apk_install_failed_with_reason" formatted="false">Çevrimiçi içerik yüklenemedi. Tekrar denemek için %s öğesine dokunun. Hata kodu: %d.</string>
+  <string name="online_apk_install_in_background">Arka planda çevrimiçi içerik yükleniyor…</string>
+  <string name="online_apk_install_network_change_paused">Mobil veri kullanıyorsunuz. Şimdilik yükleme öğeleri duraklatıldı. Görüntülemek için %s öğesine dokunun.</string>
+  <string name="online_apk_install_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="online_playlist_category">Çalma listeleri</string>
+  <string name="playlist_recommend_title">Tavsiye et</string>
+  <string name="search_empty_subtitle_online_music">%s öğesini açmak için aşağıdaki düğmeye dokunun.</string>
+  <string name="search_empty_title_online_music">Henüz burada öğe yok.</string>
+  <string name="today">Bugün</string>
+  <string name="top_chart_title">En iyiler</string>  
 </resources>

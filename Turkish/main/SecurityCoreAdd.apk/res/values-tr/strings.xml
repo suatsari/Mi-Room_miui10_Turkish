@@ -188,8 +188,8 @@
   <string name="install_error">Yüklenemedi. Tekrar deneyin.</string>
   <string name="invalid_qr_code">Geçersiz QR kodu</string>
   <string name="list_empty_text">Boş</string>
-  <string name="list_empty_text_xspace">WeChat/QQ/Weibo\'yu yükleyin, Klonlu uygulamalar oluşturun ve tekrar deneyin.</string>
-  <string name="loading">Biraz bekleyin...</string>
+  <string name="list_empty_text_xspace">Daha fazla klonlu uygulama oluşturun ve tekrar deneyin.</string>
+  <string name="loading">Biraz bekleyin…</string>
   <string name="loading_apps">Uygulamalar yükleniyor…</string>
   <string name="loading_space">Sadece bir saniye…</string>
   <string name="loading_success">Başarıyla yüklendi</string>
@@ -251,8 +251,8 @@
   <string name="qq_send">QQ arkadaşlarına/bilgisayarına gönder</string>
   <string name="radio_button_icon_switch_title">Bir kısayol kullanın</string>
   <string name="radio_button_password_switch_title">Bir şifre kullanın</string>
-  <string name="remove_button">Kaldır ve yeniden başlat</string>
-  <string name="remove_button_time">Kaldır ve yeniden başlat (%ds)</string>
+  <string name="remove_button">Sil</string>
+  <string name="remove_button_time">Sil (%ds)</string>
   <string name="remove_second_space_msg">İkinci alan silindiğinde tüm İkinci alan uygulama verileride silinir. İkinci alan silinsin mi?</string>
   <string name="remove_user_click_message">*İkinci alanda önemli bir öğeniz yoksa, %s</string>
   <string name="remove_user_click_message_action">ikinci alanı silebilir ve şimdi cihazınızı yeniden başlatabilirsiniz.</string>
@@ -362,8 +362,8 @@
   <string name="start_setting_guide_desc_title">Ayarlanacak birkaç şey var</string>
   <string name="startSet">Ayarla</string>
   <string name="startTransfer">Taşı</string>
-  <string name="stop_xspace_alert_content">Tüm klonlu uygulamalar ve verileri kalıcı olarak silinecek. Bu değişikliği uygulamak için cihazınızı yeniden başlatmanız gerekecek. Hesaplar şimdi silinsin mi?</string>
-  <string name="stop_xspace_alert_title">Klonlu uygulama hesaplarını silme</string>
+  <string name="stop_xspace_alert_content">Hesapları ve uygulama verileriyle birlikte tüm klonlu uygulamalar silinsin mi? Bu değişikliği uygulamak için cihazınız yeniden başlatılacak.</string>
+  <string name="stop_xspace_alert_title">Klonlu uygulamaların hesaplarını sil</string>
   <string name="summary_switch_apps_settings">Geçerli alanda kullanılacak uygulamaları seç</string>
   <string name="support_desc">Spaces Mobile tarafından sağlanan güvenlik hizmetleri</string>
   <string name="sure_to_use">Onayla</string>
@@ -411,7 +411,7 @@
   <string name="undo_grant_dialog_message">Yetkilendirmeyi iptal ettikten sonra Xiaomi bu özellik için gereken bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge vb.) toplamayı durduracaktır. Şimdi iptal edilsin mi?</string>
   <string name="undo_privacy_menu">Yetkilendirmeyi iptal et</string>
   <string name="undo_success">Başarıyla iptal edildi</string>
-  <string name="use_xiaoai_open">Ses asistanını kullanarak uyandırma</string>
+  <string name="use_xiaoai_open">Mi AI kullanarak uyan</string>
   <string name="wating">Sadece bir saniye…</string>
   <string name="weibo_send">Weibo\'ya gönderin</string>
   <string name="weixin_pay">WeChat ödeme</string>
@@ -420,13 +420,13 @@
   <string name="xspace_account">Klonlu uygulama hesabı</string>
   <string name="xspace_chocie">Klonlu uygulama desteği</string>
   <string name="xspace_creating">Klonlu uygulama oluşturuluyor…</string>
-  <string name="xspace_default_app_summary">Ödemeler, paylaşım, sık kullanılanlar ve daha fazlası için varsayılan uygulamayı ayarlayın.</string>
-  <string name="xspace_default_app_title">Varsayılan uygulama</string>
+  <string name="xspace_default_app_title">Kişiselleştirme</string>
+  <string name="xspace_default_app_summary">Oturum açma, paylaşma ve sesli yardımcı için kullanılan varsayılan uygulamaları seçin.</string>
   <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>
   <string name="xspace_default_guide_notification_main_title">Varsayılan uygulamayı kullanma</string>
   <string name="xspace_default_guide_notification_xspace_title">Klonlu uygulama kullanma</string>
   <string name="xspace_default_setting_dialog_title">" varsayılan"</string>
-  <string name="xspace_default_setting_label">Varsayılan uygulama</string>
+  <string name="xspace_default_setting_label">Kişiselleştirme</string>
   <string name="xspace_description">Klonlu uygulamalar, farklı bir hesapla ayrı olarak kullanılabilecek uygulama kopyalarıdır.\n\nBazı klonlu uygulamalar Google Himetleri Çerçevesi desteği gerektirir. Bu gibi durumlarda, klonlu Google Hizmetleri Çerçevesi oluşturulur.</string>
   <string name="xspace_guide_des">Geçiş yapmadan 2 hesap kullanın</string>
   <string name="xspace_guide_title">Klonlu uygulama oluştur</string>
@@ -447,5 +447,13 @@
   <string name="dual_animation">Animasyonlu başlat</string> 
   <string name="dual_animation_description">Klonlu uygulamalar başlatıldığında animasyonu göster</string>
   <string name="kid_mode_label">Çocuk alanı</string>
-  <string name="close_kid_space_success">Çocuk alanı silindi</string>  
+  <string name="close_kid_space_success">Çocuk alanı silindi</string>
+  <string name="xspace_whatsapp_title">WhatsApp</string>
+  <string name="whatsapp_send">Whatsapp\'a gönder</string>
+  <string name="xspace_facebook_title">Facebook</string>
+  <string name="facebook_send">Facebook\'a gönder</string>
+  <string name="facebook_login">Facebook\'ta oturum aç</string>
+  <string name="xspace_instagram_title">Instagram</string>
+  <string name="instagram_send">Instagram\'a gönder</string>
+  <string name="use_google_open">Google Asistan\'ı kullanarak uyan</string>  
 </resources>

@@ -125,7 +125,8 @@
   <string name="bind_sns_description">%s ile oturum aç</string>
   <string name="bind_weibo_description">Sina Weibo\'dan arkadaşlarınızı ekleyin</string>
   <string name="binded">Bağlandı</string>
-  <string name="binded_description" formatted="false">%s, Mi Hesabınıza bağlandı. Profiliniz, %s Hesabınızdaki bilgilerle güncellendi.</string>
+  <string name="binded_description" formatted="false">"%s Mi Hesabınıza bağlandı.
+Şimdi %s kullanarak Mi Hesabınıza giriş yapabilirsiniz."</string>
   <string name="button_unbind">Bağlantıyı Kes</string>
   <string name="change_activate_email">E-Posta adresini değiştir</string>
   <string name="change_email_address">E-Posta adresini değiştir</string>
@@ -526,5 +527,10 @@
   <string name="user_avatar_uploading">Biraz bekleyin...</string>
   <string name="vip_account_settings">VIP Ayarları</string>
   <string name="vip_settings_info">VIP ayarları</string>
-  <string name="xiao_mi_vip">Mi VIP</string> 
+  <string name="xiao_mi_vip">Mi VIP</string>
+  <string name="weixin">WeChat</string>
+  <string name="bind_weixin">WeChat hesabınızı bağlayın</string>
+  <string name="need_install_wechat">Önce WeChat\'i yükleyin</string>
+  <string name="google">Google</string>
+  <string name="bind_google">Google Hesabınızı bağlayın</string>  
 </resources>

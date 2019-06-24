@@ -113,7 +113,7 @@
   <string name="setting_alarm_arriving_title">Zil çalmadan önce bildirim</string>
   <string name="settings">Ayarlar</string>
   <string name="shutdown_alarm_disable_summary">Cihaz kapatıldıktan sonra alarm kapanmaz</string>
-  <string name="shutdown_alarm_enable_summary">Cihazınızı kapattıktan sonra en az 5 dakika süreyle ayarlandıysa alarm kapanır</string>
+  <string name="shutdown_alarm_enable_summary">Cihazınızı kapattıktan sonra en az 10 dakika süreyle ayarlandıysa alarm kapanır</string>
   <string name="shutdown_alarm_title">Kapatma alarmı</string>
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
@@ -175,11 +175,11 @@
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="module_download_cancel">Hayır teşekkürler</string>
-  <string name="module_download_data_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirin?</string>
-  <string name="module_download_data_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirin?</string>
+  <string name="module_download_data_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
+  <string name="module_download_data_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
   <string name="module_download_fail">Ek ses indirilemedi</string>
-  <string name="module_download_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Şimdi indirin?</string>
-  <string name="module_download_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Şimdi indirin?</string>
+  <string name="module_download_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Şimdi indirilsin mi?</string>
+  <string name="module_download_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_download_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="module_download_ok">İzin ver</string>
   <string name="module_download_success">Ek ses başarıyla indirildi</string>
@@ -265,5 +265,9 @@
   <string name="update_notification_info">Arka planda veri güncelleniyor…</string>
   <string name="shortcut_new_alarm">Alarmı ayarla</string>
   <string name="shortcut_start_timer">Zamanlayıcıyı başlat</string>
-  <string name="shortcut_stop_watch">Kronometreyi başlat</string>  
+  <string name="shortcut_stop_watch">Kronometreyi başlat</string>
+  <string name="edit_systemtime_setting_summary">Tarih, saat ve Çift saat</string>
+  <string name="worldclock_resident_city_text">İkinci saat: %s</string>
+  <string name="worldclock_resident_city_text_detail">Çift saat açık</string>
+  <string name="worldcolock_date_display_prefix">Şu anda: </string>  
 </resources>

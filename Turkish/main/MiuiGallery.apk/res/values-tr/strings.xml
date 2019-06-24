@@ -1164,6 +1164,7 @@
   <string name="photo_editor_talkback_confirm">Onayla</string>
   <string name="photo_editor_talkback_crop_16_9">On altıya dokuz</string>
   <string name="photo_editor_talkback_crop_1_1">Bire bir</string>
+  <string name="photo_editor_talkback_crop_3_2">Üçe iki</string>  
   <string name="photo_editor_talkback_crop_3_4">Üçe dört</string>
   <string name="photo_editor_talkback_crop_4_3">Dörde üç</string>
   <string name="photo_editor_talkback_crop_9_16">Dokuza onaltı</string>
@@ -1316,7 +1317,7 @@ mevcut"</string>
   <string name="story_rename_invalid_prefix">"Anı başlıkları \".\" veya \"_\" ile başlatılamaz"</string> 
   <string name="collage_select_image_range">Kolajlar 1-6 arası fotoğraf içerebilir</string>
   <string name="frame_not_support_image_ratio">Bu en boy oranı desteklenmiyor</string>
-  <string name="operation_produce">Yaratıcılık</string>
+  <string name="operation_produce">Sanatsal</string>
   <string name="photo_editor_crop_auto_tips">Otomatik olarak kırpılmış</string>
   <string name="photo_editor_frame">Çerçeve</string>
   <string name="photo_movie_select_image_range">Klipler 3-20 arası fotoğraf içerebilir</string>
@@ -1339,10 +1340,10 @@ mevcut"</string>
   <string name="ext_sdcard_operation_failed_text">Galeri SD karta erişmek için izinlere ihtiyaç duyar.</string>
   <string name="ext_sdcard_operation_failed_title">Bu işlem tamamlanamadı</string>
   <string name="ext_sdcard_permission_request_button_text">Anladım</string>
-  <string name="ext_sdcard_permission_request_reason">Galeri SD karta erişmek için izninize ihtiyaç duyar. SD kartınızda saklanan fotoğrafları ve videoları silmenize ve düzenlemenize olanak tanır.</string>
-  <string name="ext_sdcard_permission_request_title">"Galeri'nin SD karta erişmesine izin ver"</string>
+  <string name="ext_sdcard_permission_request_reason">Galeri SD karta erişmek için izninize ihtiyaç duyuyor. Bu SD kartınızda saklanan fotoğrafları ve videoları silmenize ve düzenlemenize olanak tanır.</string>
+  <string name="ext_sdcard_permission_request_title">"Galeri'nin SD karta erişmesine izin verin"</string>
   <string name="ext_sdcard_request_failed_button_text">Tamam</string>
-  <string name="ext_sdcard_request_succeed_toast_text">Taşmaya hazırsın!</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Taşımaya hazırsın!</string>
   <string name="photo_editor_talkback_crop_screen">Tam ekran en boy oranı</string>
   <string name="card_description_annual_events">Birlikte geçirilen değerli zamanlar</string>
   <string name="card_description_annual_foods">Bir gıda günlüğü</string>

@@ -6566,5 +6566,22 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
-  <string name="popup_gesture_summary">Ön kamerayı otomatik olarak açmak için telefonu kaldırın ve ekrana bakın</string>  
+  <string name="popup_gesture_summary">Ön kamerayı otomatik olarak açmak için telefonu kaldırın ve ekrana bakın</string>
+  <string name="miui_lab_3d_gesture_title">3B desenler</string>
+  <string name="miui_lab_3d_gesture_slogan">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
+  <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
+  <string name="miui_lab_3d_gesture_desc">Ana ekranınızı açın ve seçilen uygulamaları açmak için havada telefonunuzdaki desenlerden birini çizin</string>
+  <string name="miui_lab_home_feed_desc">Parlak fikirler. İlgi uyandıran hikayeler.</string>
+  <string name="miui_lab_home_feed_title">Medya Merkezi</string><string name="support_gesture_title">3B desenler</string>
+  <string name="customize_function">Mevcut desenler</string>
+  <string name="gesture_m">M desen</string>
+  <string name="gesture_w">W desen</string>
+  <string name="gesture_c">C desen</string>
+  <string name="gesture_z">Z desen</string>
+  <string name="gesture_open_music">Müziği aç</string>
+  <string name="gesture_open_camera">Kamerayı aç</string>
+  <string name="gesture_open_wechat">WeChat\'i aç</string>
+  <string name="gesture_open_alipay">Alipay\'i aç</string>
+  <string name="bluetooth_disable_inband_ringing">Bant içi zil sesini devre dışı bırak</string>
+  <string name="bluetooth_disable_inband_ringing_summary">Bluetooth kulaklıklarda özel telefon zil sesleri çalma</string>  
 </resources>

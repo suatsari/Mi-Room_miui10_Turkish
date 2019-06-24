@@ -168,6 +168,7 @@
   <string name="micloud_find_device_verify_close">Cihazı bul özelliğini kapat</string>
   <string name="micloud_find_device_verify_fail">Cihazı bul yeniden etkinleştirilemedi</string>
   <string name="micloud_find_device_verify_progress">Cihazı bul yeniden etkinleştiriliyor…</string>
+  <string name="micloud_last_sync_canceled">Eşitleme iptal edildi. Tekrar deneyin.</string>
   <string name="micloud_main_button_set_internet">Ayar</string>
   <string name="micloud_main_head_menu_cloud_backup">Ana ekran yedekleme</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Cihazı bul ikinci alanda kullanılamaz, ilk alanda kullanabilirsiniz.</string>

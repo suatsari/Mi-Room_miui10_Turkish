@@ -135,5 +135,9 @@ Yenilemek için yardım ister misiniz?"</item>
   <plurals name="vip_remain_days_hint">
     <item quantity="other">%d gün kaldı</item>
     <item quantity="one">%d gün kaldı</item>
+  </plurals>
+  <plurals name="days_ago">
+    <item quantity="other">%d gün önce</item>
+    <item quantity="one">%d gün önce</item>
   </plurals>  
 </resources>

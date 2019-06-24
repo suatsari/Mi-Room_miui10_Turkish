@@ -278,5 +278,11 @@
   <string name="preference_status_bar_indicator_prompt">Kayıt sırasında durum çubuğunda kısayolu göster</string>
   <string name="shortcut_records">Kayıtlar</string>
   <string name="shortcut_start_record">Kayda başla</string>
-  <string name="shortcut_stop_record">Kaydı durdur</string>  
+  <string name="shortcut_stop_record">Kaydı durdur</string>
+  <string name="text_btn_backward_3_seconds">3 saniye geri</string>
+  <string name="text_btn_forward_3_seconds">3 saniye ileri</string>
+  <string name="text_play_speed_0_5">0.5X oynatma hızı</string>
+  <string name="text_play_speed_1_0">Normal oynatma hızı</string>
+  <string name="text_play_speed_1_5">1.5X oynatma hızı</string>
+  <string name="text_play_speed_2_0">2X oynatma hızı</string>  
 </resources>

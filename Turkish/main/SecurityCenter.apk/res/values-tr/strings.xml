@@ -2712,5 +2712,7 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="pc_main_sub_battery_text_day_hour">%1$sg %2$ss kaldı</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$ss %2$sd kaldı</string>
   <string name="pc_main_power_manager_day_hour">Tamamen şarj olmasına %1$sg %2$ss</string>
-  <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$ss %2$sd</string>  
+  <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$ss %2$sd</string>
+  <string name="sms_delete_all_hint">Engellenen tüm mesajları sil?</string>
+  <string name="delete_all_sms">Tümünü sil</string>  
 </resources>
