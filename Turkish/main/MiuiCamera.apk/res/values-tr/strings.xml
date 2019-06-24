@@ -903,5 +903,10 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="pref_camera_zoom_mode_entry_macro">MAKRO</string>
   <string name="lying_direct_hint">Geçerli oryantasyon</string>
   <string name="calibration_guide_tittle">Kalibre edilmemiş kamera</string>
-  <string name="calibration_hint_usage">Kalibre edilmemiş kamera, görüntü kalitesi üzerinde olumsuz bir etki yaratacaktır. Lütfen satış sonrası servis ile irtibata geçin.</string>  
+  <string name="calibration_hint_usage">Kalibre edilmemiş kamera, görüntü kalitesi üzerinde olumsuz bir etki yaratacaktır. Lütfen satış sonrası servis ile irtibata geçin.</string>
+  <string name="pref_watermark_title">Filigran</string>
+  <string name="pref_watermark_on">Açık</string>
+  <string name="pref_watermark_off">Kapalı</string>
+  <string name="pref_camera_lying_title">Yatay ve dikey kılavuz çizgileri</string>
+  <string name="pref_camera_lying_summary">Cep telefonu yere paralel olduğunda, fotoğrafın yönü kamera arayüzünde gerçek zamanlı olarak verilecektir</string>  
 </resources>
