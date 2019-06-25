@@ -1260,6 +1260,9 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="daltonizer_mode_tritanomaly">Renk Körlüğü (mavi-sarı)</string>
   <string name="daltonizer_type">Düzeltme Modu</string>
   <string name="daltonizer_type_overridden">%1$s tarafından geçersiz kıl</string>
+  <string name="dark_ui_mode">Gece modu</string>
+  <string name="dark_ui_mode_title">Gece modunu ayarla</string>
+  <string name="dashboard_suggestion_condition_footer_content_description">Daralt</string>  
   <string name="dangerous_option">Yüksek riskli geliştirici seçenekleri</string>
   <string name="dangerous_option_hint">%1$s etkin. Ayarları değiştirmek için dokunun.</string>
   <string name="dangerous_option_hint_title">Yüksek riskli özellik etkin</string>
@@ -3105,6 +3108,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="operator_warning">Operatör veri hesabı cihaz hesabından farklı olabilir</string>
   <string name="optimization_cancel">İptal</string>
   <string name="ota_disable_automatic_update">Otomatik sistem güncellemeleri</string>
+  <string name="ota_disable_automatic_update_summary">Cihaz yeniden başlatıldığında güncellemeleri uygula</string>
   <string name="other_advanced_settings">Ek ayarlar</string>
   <string name="other_device_info">Diğer</string>
   <string name="other_personal_settings">Ek ayarlar</string>
