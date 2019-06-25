@@ -632,5 +632,20 @@
   <string name="talk_back_tab_switch">Görünümler arasında geçiş yap</string>
   <string name="preferences_popup_alert_smart_summary">MIUI, hangi etkinliklerin en alakalı olduğunu otomatik olarak belirleyecektir.</string>
   <string name="preferences_popup_alert_smart_tips">Önemli etkinliklerin atlanmasını önlemek için geleneksel bildirimleri açılır uyarılar ile değiştirin. Oyun oynarken, tam ekran video izlerken veya Araba modunu kullanırken açılır uyarılar görünmez.</string>
-  <string name="preferences_popup_alert_title">Açılır uyarılar</string>  
+  <string name="preferences_popup_alert_title">Açılır uyarılar</string>
+  <string name="fb_birthday_failure">Facebook\'tan doğum günleri alınamadı. Tekrar deneyin.</string>
+  <string name="fb_birthday_import_pref_desc">Arkadaşlarınızın doğum günlerini Facebook\'tan içe aktarın</string>
+  <string name="fb_birthday_import_pref_title">Şimdi içe aktar</string>
+  <string name="fb_birthday_logout_failure">Henüz Facebook hesabınızı eklemediniz</string>
+  <string name="fb_birthday_logout_pref_desc">Facebook hesabını arkadaşlarınızın doğum günleriyle birlikte kaldır</string>
+  <string name="fb_birthday_logout_pref_title">Facebook hesabını kaldır</string>
+  <string name="fb_birthday_logout_success">Facebook hesabı başarıyla kaldırıldı</string>
+  <string name="fb_birthday_region_warning">Bu özellik bölgenizde mevcut değil</string>
+  <string name="fb_birthday_success">Facebook\'tan doğum günleri başarıyla alındı</string>
+  <string name="fb_calendar_account_name">Mi Yerel Takvim</string>
+  <string name="fb_calendar_display_name">Facebook arkadaşlarının doğum günleri</string>
+  <string name="fb_calendar_owner_account">Mi Takvim</string>
+  <string name="guide_card_primary_fb_text">Facebook arkadaşlarının doğum günleri</string>
+  <string name="guide_card_second_fb_text">Arkadaşlarınızın doğum günlerini asla kaçırmayın</string>
+  <string name="setting_fb_birthdays_title">Facebook\'tan doğum günlerini içe aktar</string>  
 </resources>
