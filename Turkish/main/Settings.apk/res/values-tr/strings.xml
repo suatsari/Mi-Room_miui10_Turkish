@@ -1092,7 +1092,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="close_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
   <string name="cloud_backup_section_title">Mi Bulut yedeklemesi</string>
   <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
-  <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükler</string>
+  <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükleyin</string>
   <string name="cloud_restore_section_title">Mi Bulut\'tan geri yükle</string>
   <string name="cmcc_hardware_version">Donanım sürümü</string>
   <string name="color_black">Siyah</string>
@@ -2322,7 +2322,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="list_bg_header_text">Arka plan bağlantısını kısıtlarsanız, yeni uygulamalar yüklemeden sonra arka planda internete bağlanamaz. Bundan sonra mesaj alamaz veya içerik indiremezler.</string>
   <string name="list_empty_text">Boş</string>
-  <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
+  <string name="loading_notification_apps">Uygulamalar yükleniyor…</string>
   <string name="local_auto_backup_off">Kapat</string>
   <string name="local_auto_backup_on">Açık</string>
   <string name="local_auto_backup_section_title">Otomatik Yedekle</string>
@@ -2332,7 +2332,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="local_backup_password_toast_confirmation_mismatch">Yeni şifre ve onayı eşleşmiyor</string>
   <string name="local_backup_password_toast_success">Yeni yedekleme şifresini ayarla</string>
   <string name="local_backup_password_toast_validation_failure">Yedek şifre ayarlanamıyor</string>
-  <string name="local_backup_section_summary">Sistem ayarlarını, hesap bilgilerini ve uygulamaları yedekleme</string>
+  <string name="local_backup_section_summary">Sistem ayarlarını, hesap bilgilerini ve uygulamaları yedekleyin</string>
   <string name="local_backup_section_title">Yerel yedeklemeler</string>
   <string name="locale_default">Varsayılan</string>
   <string name="locale_not_translated">Bazı uygulamalarda kullanılamayabilir</string>
