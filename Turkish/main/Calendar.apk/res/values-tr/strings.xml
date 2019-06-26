@@ -647,5 +647,23 @@
   <string name="fb_calendar_owner_account">Mi Takvim</string>
   <string name="guide_card_primary_fb_text">Facebook arkadaşlarının doğum günleri</string>
   <string name="guide_card_second_fb_text">Arkadaşlarınızın doğum günlerini asla kaçırmayın</string>
-  <string name="setting_fb_birthdays_title">Facebook\'tan doğum günlerini içe aktar</string>  
+  <string name="setting_fb_birthdays_title">Facebook\'tan doğum günlerini içe aktar</string>
+  <string name="birthday_term_chinese_calendar">%1$s doğum günü (Geleneksel Çin takvimi)</string>
+  <string name="content_confirm_close_chinese_calendar">Bu özelliği kapattıktan sonra, Geleneksel Çin takvimine göre olan tüm etkinlikleriniz Gregoryen takvimine dönüştürülür. Gregoryen takviminin yılları ve ayları tekrarlanan etkinlikler için kullanılacak.</string>
+  <string name="lunar_day_chinese_calendar">农历%1$s</string>
+  <string name="lunar_to_solar_chinese_calendar">Çince-Gregoryen</string>
+  <string name="repeat_lunar_monthly_chinese_calendar">农历每月</string>
+  <string name="repeat_lunar_monthly_detail_chinese_calendar">农历每月（%1$s）</string>
+  <string name="repeat_lunar_yearly_chinese_calendar">农历每年</string>
+  <string name="repeat_lunar_yearly_detail_chinese_calendar">农历每年（%1$s）</string>
+  <string name="rest_day_indication_chinese_calendar">休</string>
+  <string name="setting_chinese_calendar">Çin takvimi</string>
+  <string name="shortcut_new_event">Etkinlik ekle</string>
+  <string name="shortcut_next_agenda">Sonraki etkinlik</string>
+  <string name="shortcut_settings">Ayarlar</string>
+  <string name="solar_to_lunar_chinese_calendar">Gregoryen-Çince</string>
+  <string name="title_confirm_close_chinese_calendar">Çin takvimi kapatma</string>
+  <string name="work_day_indication_chinese_calendar">班</string>  
+  <string name="solar_lunar_convert_description">Geleneksel Çince-Gregoryen</string>
+  <string name="solar_lunar_convert_tab">Dönüştür</string>  
 </resources>
