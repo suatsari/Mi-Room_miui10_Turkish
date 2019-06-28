@@ -174,7 +174,6 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="account_settings_menu_auto_sync">Verileri otomatik eşitle</string>
   <string name="account_settings_menu_auto_sync_personal">Kişisel verileri otomatik eşitle</string>
   <string name="account_settings_menu_auto_sync_work">Çalışma verilerini otomatik eşitle</string>
-  <string name="account_settings_title">Hesaplar</string>
   <string name="account_sync_settings_title">Eşitle</string>
   <string name="account_sync_title">Hesap senkronizasyonu</string>
   <string name="Accounts_settings_title">Hesaplar</string>
@@ -6589,7 +6588,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="bluetooth_disable_inband_ringing">Bant içi zil sesini devre dışı bırak</string>
   <string name="bluetooth_disable_inband_ringing_summary">Bluetooth kulaklıklarda özel telefon zil sesleri çalma</string>
   <string name="account_settings_title">Google &amp; hesaplar</string>
-  <string name="ambient_display_screen_title">Ortam ekranı</string>
   <string name="ambient_display_screen_summary_always_on">Her zaman açık / Artan pil kullanımı</string>
   <string name="ambient_display_screen_summary_notifications">Yeni bildirimler</string>
   <string name="aod_and_lock_screen_settings_title">Ortam ekranı &amp; Kilit ekranı</string>   
@@ -6617,7 +6615,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
   <string name="screen_settings">Kilit ekranı</string>
   <string name="settings_new_version_btn">Güncelleştirme</string>
-  <string name="status_bar_settings">Bildirimler &amp; durum çubuğu</string>
   <string name="status_bar_title">Durum çubuğu</string>
   <string name="unlock_mode_title">Ekran kilidi</string>
   <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın.</string>
