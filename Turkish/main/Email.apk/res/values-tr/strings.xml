@@ -933,7 +933,7 @@
   <string name="recognize_ticket_train_return">İade</string>
   <string name="recognize_ticket_train_user_name">Yolcu: %1$s</string>
   <string name="recognize_title">Seyahat Bilgileri</string>
-  <string name="recommend_protocal">Tavsiye protokolü</string>
+  <string name="recommend_protocal">Öneriler Kullanım Protokolü</string>
   <string name="reduce_the_receiving_frequencye_summary">Rahatsız Etme açıkken gelen kutusu daha az sıklıkla eşitlenir</string>
   <string name="reduce_the_receiving_frequencye_title">Kısa Aralıklarla Eşitle</string>
   <string name="refresh">Yenile</string>
@@ -1073,7 +1073,8 @@
   <string name="toast_bar_no_connection_network">İnternet bağlantısı yok</string>
   <string name="toast_bar_open_gmail_synchronization">Gmail proxy sunucusunu kullanmak için dokunun</string>
   <string name="toast_bar_send_fail_remind">E-posta gönderilemedi. \"Giden klasörü\"ne kaydedildi.</string>
-  <string name="toast_bar_sync_failed_mi_authority">Senkronize edilemedi. Bir iki dakika bekleyin ve tekrar deneyin. İlk kez oturum açıyorsanız, cihazınızı intranet/SMS belirteci ile yetkilendirin.</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Eşitlenemedi. Bir veya iki dakika bekleyin ve tekrar deneyin. Ayrıntıları görüntüle.
+(Yetkisiz bir cihaz kullanıyorsanız, intranete bağlanın veya bir doğrulama kodu kullanın.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Takvim bilgilerini ve kişileri senkronize etmek için, Ayarlarda gerekli izinleri Postaya verin</string>
   <string name="toastbar_calendar_permission_switch_close">Takvim hatırlatıcılarını almak için, Postaya Ayarlarda gerekli izinleri verin.</string>
   <string name="toastbar_contacts_permission_switch_close">Kartvizit eklemek için Postaya Ayarlarda gerekli izinleri verin.</string>
@@ -1105,8 +1106,8 @@
   <string name="unread_string">Okunmamış Posta</string>
   <string name="unzip_file_failed">Dosya açılamadı</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-  <string name="update_domain_summary">Etki Alanı Listesini ve Yapılandırmayı Güncelle</string>
-  <string name="update_domain_title">Etki Alanını Güncelle</string>
+  <string name="update_domain_summary">Kullanılabilir etki alanları ve yapılandırmaların listesini güncelleyin</string>
+  <string name="update_domain_title">Etki alanı ayarlarını güncelle</string>
   <string name="update_to_wps_mail">WPS Mail ile daha fazla özellikten yararlanın</string>
   <string name="updated_at">" %1$s\'da yenilendi"</string>
   <string name="upload_log">Gönder</string>
@@ -1146,4 +1147,19 @@ Postayı bir kez eşitlemek için "&lt;b>Şimdi Eşitle&lt;/b>ye veya bu hesapta
   <string name="you_are_in_mobile_network">Mobil veri bağlantısı kullanarak günlük gönderilsin mi? Eğer planladığınız veri kullanımının üzerine çıkarsanız, öperatörünüz sizden ek ücret talep edebilir.</string>
   <string name="youfuli">Promosyon</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
+  <string name="contact_add_options">Kişilere ekle</string>
+  <string name="contact_add_options_details1">Tümü</string>
+  <string name="contact_add_options_details2">Sadece alıcılar</string>
+  <string name="get_oauth_code">Kod al</string>
+  <string name="help_weixin_title">"Herhangi bir sorunuz varsa, resmi WeChat hesabımıza bir satır bırakmaktan çekinmeyin: "</string>
+  <string name="login_qq_psw">QQ şifresi/kimlik doğrulayıcı/doğrulama kodunu kullanarak giriş yapın</string>
+  <string name="mi_sync_erroe_toast">"Bir ağ hatası oluştu: "</string>
+  <string name="mi_sync_erroe_toast_other">"Bir ağ hatası oluştu: "</string>
+  <string name="no_more_mail">Başka mesaj yok</string>
+  <string name="no_search_results">Sonuç bulunamadı</string>
+  <string name="pull_load_more">Daha fazla yüklemek için yukarı çekin</string>
+  <string name="remote_search_body_too_large_prompt">"Bu e-posta çok uzun.
+Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntüleyin."</string>
+  <string name="search_remote_again">Ağ kullanılamıyor, Yeniden Dene\'yi tıklayın</string>
+  <string name="sync_failed_mi_authority_view_detail">Ayrıntıları görüntüle</string>  
 </resources>

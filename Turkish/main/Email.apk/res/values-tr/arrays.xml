@@ -100,4 +100,8 @@
         <item>Feragat</item>
         <item>E-Posta feragatı</item>
     </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Tümü</item>
+        <item>Sadece alıcılar</item>
+    </string-array>	
     </resources>
