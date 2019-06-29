@@ -6575,7 +6575,8 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
   <string name="miui_lab_3d_gesture_desc">Ana ekranınızı açın ve seçilen uygulamaları açmak için havada telefonunuzdaki desenlerden birini çizin</string>
   <string name="miui_lab_home_feed_desc">Parlak fikirler. İlgi uyandıran hikayeler.</string>
-  <string name="miui_lab_home_feed_title">Medya Merkezi</string><string name="support_gesture_title">3B desenler</string>
+  <string name="miui_lab_home_feed_title">Medya Merkezi</string>
+  <string name="support_gesture_title">3B desenler</string>
   <string name="customize_function">Mevcut desenler</string>
   <string name="gesture_m">M desen</string>
   <string name="gesture_w">W desen</string>
@@ -6618,5 +6619,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="status_bar_title">Durum çubuğu</string>
   <string name="unlock_mode_title">Ekran kilidi</string>
   <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın.</string>
-  <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>  
+  <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
+  <string name="miui_sos_emergency_delete">Sil</string>  
 </resources>

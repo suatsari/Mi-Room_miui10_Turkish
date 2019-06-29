@@ -206,5 +206,9 @@
   <string name="xspace_resolver_activity_title">Uygulama seç</string>
   <string name="sim_lock_non_ais_msg">SIM kartınız bu telefonla tam olarak çalışmıyor çünkü aboneliğinizin şartlarına ve koşullarına uymuyor. Herhangi bir sorunuz veya bu konuda daha fazla bilgiye ihtiyacınız varsa, lütfen Xiaomi servis merkezlerine veya size ürünü satan mağazaya başvurun.</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
-  <string name="popup_camera_front_when_use">Kamera uygulamasının ön kamerayı tekrar açması gerekir. Şimdi açılsın mı?</string>  
+  <string name="popup_camera_front_when_use">Kamera uygulamasının ön kamerayı tekrar açması gerekir. Şimdi açılsın mı?</string>
+  <string name="autofill_save_ok">İzin ver</string>
+  <string name="autofill_save_title">Şifreleri otomatik olarak kaydet</string>
+  <string name="autofill_save_message">MIUI\'ın hesaplarınızı ve şifrelerinizi kaydetmesine izin verilsin mi?</string>
+  <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar &gt; Ek ayarlar &gt; Gizlilik &gt; Şifreleri yönet bölümünde yönetebilirsiniz.</string>  
 </resources>
