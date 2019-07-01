@@ -277,7 +277,7 @@
   <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Masaüstü</string>
   <string name="current_version_phone">Telefon</string>
-  <string name="custom_head_card_text">Daima harika birşeyin gerçekleşmek üzere olduğuna inanıyoruz</string>
+  <string name="custom_head_card_text">Daima harika bir şeyin gerçekleşmek üzere olduğuna inanıyoruz</string>
   <string name="custom_head_content_pull_down_text">aşağı çek</string>
   <string name="custom_head_pull_down_text">Akış bilgisini gir</string>
   <string name="data_monitor">Trafik izleme hatırlatıcısı</string>
@@ -585,6 +585,7 @@
   <string name="mw_actionbar_share">Paylaş</string>
   <string name="mw_actionbar_textselection_title">Metin seçimi</string>
   <string name="mw_actionbar_web_search">İnternette ara</string>
+  <string name="mw_add_to_dictionary">Sözlüğe ekle</string>
   <string name="mw_autofill_card_unmask_new_card_link">Yeni kart?</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc">CVC\'nizi kontrol edin ve tekrar deneyin</string>
   <string name="mw_autofill_card_unmask_prompt_error_try_again_cvc_and_expiration">Son kullanma tarihini ve CVC\'yi kontrol edin ve tekrar deneyin</string>
@@ -650,6 +651,7 @@
   <string name="mw_date_picker_dialog_set">Ayarla</string>
   <string name="mw_date_picker_dialog_title">Tarihi ayarla</string>
   <string name="mw_date_time_picker_dialog_title">Tarihi ve saati ayarla</string>
+  <string name="mw_delete_suggestion_text">Sil</string>
   <string name="mw_external_payment_app_leave_incognito_warning">Gizli mod ile harici bir uygulama üzerinden ödeme yapma. Devam et?</string>
   <string name="mw_find_next">Sonrakini Bul</string>
   <string name="mw_find_previous">Öncekini Bul</string>
@@ -745,17 +747,15 @@
   <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobil veri) %s1 apn ayarlarını %s2 sıfırlayın.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">Girdiğiniz URL\'yi kontrol edin.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) %s1 proxy sunucu ayarları %s2 .</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Önbelleği temizle ( %s1 Ayarlar %s2 - Net veriler).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Önbellek ve çerezleri temizle ( %s1 Ayarlar %s2 - Verileri temizle, hesap bilgileriniz kaybolabilir).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Önbelleği ve çerezleri temizle (hesap bilgileriniz kaybolabilir).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Önbelleği temizle.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache">Önbelleği temizle.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Önbelleği ve çerezleri temizle (hesap bilgileriniz kaybolabilir).</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Internete bağlandıktan sonra tekrar yükleyin</string>
   <string name="mw_miuichromium_error_page_suggestion_contact_admin">Sistem yöneticinize başvurun.</string>
   <string name="mw_miuichromium_error_page_suggestion_correct_url">Girdiğiniz adresi kontrol edin ve doğru URL\'yi kullanarak tekrar deneyin.</string>
   <string name="mw_miuichromium_error_page_suggestion_grant_permission">Tarayıcıya internete erişim izni verdikten sonra tekrar yükleyin.</string>
   <string name="mw_miuichromium_error_page_suggestion_title">Bunu dene:</string>
   <string name="mw_miuichromium_error_page_title">Bir hata oluştu</string>
-  <string name="mw_miuichromium_error_page_unknown_error">Hoop! Birşeyler yanlış gitti</string>
+  <string name="mw_miuichromium_error_page_unknown_error">Tüh! Bir şeyler yanlış gitti</string>
   <string name="mw_miuichromium_error_page_wlan">Kablosuz bağlantıyı aç</string>
   <string name="mw_month_picker_dialog_title">Ayı ayarla</string>
   <string name="mw_mr_button_content_description">Aktarma düğmesi</string>

@@ -786,7 +786,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="free_time_traffic_title">Serbest veri sınırını girin</string>
   <string name="free_traffic_settings">Serbest veri kullanım ayarları</string>
   <string name="function_close">Kapalı</string>
-  <string name="function_shield_voice_trigger">Mi AI\'yi sesli olarak uyandır</string>
+  <string name="function_shield_voice_trigger">Mi AI\'yi sesli olarak uyandırma</string>
   <string name="fw_blocked">Engelli Listesi</string>
   <string name="fw_blocked_count">Engelli</string>
   <string name="fw_blocked_join">" ve "</string>

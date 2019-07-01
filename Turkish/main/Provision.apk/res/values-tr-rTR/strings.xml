@@ -41,6 +41,8 @@
   <string name="item_lock_screen_password">Sadece ekran kilidi</string>
   <string name="language_picker_other_languages_title">Daha fazla dil</string>
   <string name="language_settings">Dil seçin</string>
+  <string name="font_hint_normal">Metin boyutunu arttır</string>
+  <string name="font_hint_large">Varsayılan metin boyutu</string>  
   <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
   <string name="locale_picker_title">Bölgenizi seçin</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını %s adresinden görüntüleyin.</string>

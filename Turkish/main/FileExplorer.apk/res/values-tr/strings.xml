@@ -360,7 +360,7 @@
   <string name="no_recent_files">Sık kullanılan dosya yok</string>
   <string name="no_search_content">Sonuç bulunamadı</string>
   <string name="no_topic">Başlık yok</string>
-  <string name="no_videos">Burada birşey yok, önce aşağıyı kontrol edin!</string>
+  <string name="no_videos">Burada bir şey yok, önce aşağıyı kontrol edin!</string>
   <string name="no_wifi">Bağlantı bulunmadı.</string>
   <string name="no_wifi_hint">Bağlantı yok.</string>
   <string name="not_installed_documentsui">DocumentsUI yüklenmedi</string>

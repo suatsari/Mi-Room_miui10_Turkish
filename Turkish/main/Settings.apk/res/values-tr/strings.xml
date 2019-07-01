@@ -1554,7 +1554,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="display_summary">%1$s süreyle işlem yapılmadığında uyku moduna geç</string>
   <string name="display_summary_example">10 dakika işlem yapılmadığında uyku moduna geç</string>
   <string name="display_vr_pref_low_persistence">Düşük hareket bulanıklığı ayarlarını kullan</string>
-  <string name="display_vr_pref_off">Birşey yapma</string>
+  <string name="display_vr_pref_off">Bir şey yapma</string>
   <string name="display_vr_pref_title">"Cihaz VR modundayken: "</string>
   <string name="dlg_cancel">İptal</string>
   <string name="dlg_close">Kapat</string>
@@ -2960,7 +2960,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="no_memory_use_summary">Son üç saattir hafıza meşgul değil</string>
   <string name="no_nearby_wifi">Ağ tespit edilemedi.</string>
   <string name="no_notification_listeners">Bildirim dinleyici yüklenmedi.</string>
-  <string name="no_running_services">Hiçbirşey çalışmıyor</string>
+  <string name="no_running_services">Hiçbir şey çalışmıyor</string>
   <string name="no_services">Aktif hizmet yok</string>
   <string name="no_trust_agents">Kullanılabilir güvenli ajan yok</string>
   <string name="no_update_found">MIUI\'nin son sürümünü çalıştırıyorsun</string>
@@ -6613,12 +6613,13 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="password_security_settings_title">Şifreler &amp; güvenlik</string>
   <string name="password_unlock_title">Şifre</string>
   <string name="privacy_protection_title">Gizlilik</string>
-  <string name="recommend_tip">Diğer ayarlara mı ihtiyacınız var?</string>
+  <string name="recommend_tip">Diğer ayarlara ihtiyacınız var mı?</string>
   <string name="screen_settings">Kilit ekranı</string>
   <string name="settings_new_version_btn">Güncelleştirme</string>
   <string name="status_bar_title">Durum çubuğu</string>
   <string name="unlock_mode_title">Ekran kilidi</string>
-  <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın.</string>
+  <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
-  <string name="miui_sos_emergency_delete">Sil</string>  
+  <string name="miui_sos_emergency_delete">Sil</string>
+  <string name="lock_screen_tip_toast">lütfen önce bildirim uygulaması ayarlarından izin verin</string>  
 </resources>

@@ -271,5 +271,7 @@
   <string name="tts_hour_weather_date_time">%2$s %1$s itibaren %4$s %3$s saatine kadar</string>
   <string name="tts_max_wind_power">En yüksek rüzgar hızı</string>
   <string name="shortcut_short_label_24_hour_forecast">24 saatlik hava tahmini</string>
-  <string name="shortcut_short_label_recent_forecast">Hava durumunu kontrol et</string>  
+  <string name="shortcut_short_label_recent_forecast">Hava durumunu kontrol et</string>
+  <string name="feedback_result_fail_no_reason">Geri bildiriminiz için teşekkür ederiz!</string>
+  <string name="feedback_result_fail_same_type">Raporunuz şu anki hava koşullarından farklı görünmüyor. Tekrar deneyin.</string>  
 </resources>

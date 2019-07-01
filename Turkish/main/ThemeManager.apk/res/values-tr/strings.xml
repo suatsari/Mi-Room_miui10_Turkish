@@ -449,7 +449,7 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="resource_network_diagnostics"><u>Ağ testi</u></string>
     <string name="resource_no_match_app">Bu eylemi gerçekleştirecek uygulama bulunamadı.</string>
     <string name="resource_no_network_text">Ağ bağlantısı yok.</string>
-    <string name="resource_no_result">Birşey bulunamadı</string>
+    <string name="resource_no_result">Bir şey bulunamadı</string>
     <string name="resource_notification_default">Bildirimler</string>
     <string name="resource_on_trial">Deneniyor: %1$s</string>
     <string name="resource_online">Çevrimiçi</string>

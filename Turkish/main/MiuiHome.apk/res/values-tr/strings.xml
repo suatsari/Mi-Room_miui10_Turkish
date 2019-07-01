@@ -209,7 +209,7 @@
   <string name="lock_screen_failed_message">Kilit ekranı duvar kağıdı ayarlanamıyor</string>
   <string name="lock_screen_success_message">Kilit ekranına uygulandı</string>
   <string name="lock_screen_wallpaper">Kilit ekranı duvar kağıdı</string>
-  <string name="memory_clear_nothing_result">Önbellekte temizlenecek birşey yok</string>
+  <string name="memory_clear_nothing_result">Önbellekte temizlenecek bir şey yok</string>
   <string name="memory_clear_result">%1$sB temizlendi</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_auto_fill">Boş hücreleri doldur</string>

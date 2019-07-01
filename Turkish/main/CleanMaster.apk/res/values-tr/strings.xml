@@ -144,7 +144,7 @@
   <string name="deepclean_list_item_from_sdcard">SD Kart</string>
   <string name="deepclean_normal_item_desc1">Çöp dosyalar</string>
   <string name="deepclean_normal_item_desc2">Temizleyicinin etkinliği sistem performansını etkilemez\"</string>
-  <string name="deepclean_normal_item_summary_empty">Herşey güzel gözüküyor, temizlenecek birşey yok</string>
+  <string name="deepclean_normal_item_summary_empty">Herşey güzel gözüküyor, temizlenecek bir şey yok</string>
   <string name="deepclean_normal_title">Otomatik Temizle</string>
   <string name="deepclean_similar_ignore">Yoksay</string>
   <string name="deepclean_similar_summary_empty">Herşey güzel gözüküyor, silinecek fotoğraf yok</string>
@@ -176,7 +176,7 @@
   <string name="dialog_title_check_all">Tümü</string>
   <string name="dialog_title_delete_image">Seçilen görüntüleri sil</string>
   <string name="dialog_title_esc_cleanmaster">Temizleyiciden çık</string>
-  <string name="dialog_title_load_cleanup_engine_error">Birşeyler ters gitti!</string>
+  <string name="dialog_title_load_cleanup_engine_error">Bir şeyler ters gitti!</string>
   <string name="dialog_title_stop_scan">Taramayı Durdur</string>
   <string name="dialog_title_uninstall_apps">Kaldır</string>
   <string name="download">İndir</string>
@@ -186,7 +186,7 @@
   <string name="empty_content_no_similar_image">Fotoğraf yok</string>
   <string name="empty_title_ad">Eski dosya bulunamadı</string>
   <string name="empty_title_apk">Yükleme paketi bulunamadı</string>
-  <string name="empty_title_garbage_cache">Temizlenecek birşey yok</string>
+  <string name="empty_title_garbage_cache">Temizlenecek bir şey yok</string>
   <string name="empty_title_garbage_white_list">İstisna yok.</string>
   <string name="empty_title_installed_apps">Boş</string>
   <string name="empty_title_large_files">Boş</string>

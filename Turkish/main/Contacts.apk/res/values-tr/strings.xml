@@ -1217,7 +1217,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
     <string name="yellowpage_navigation_clear_search_history">Geçmişi Temizle</string>
     <string name="yellowpage_navigation_more_items">Daha</string>
     <string name="yellowpage_navigation_more_items_title">Diğer Servisler</string>
-    <string name="yellowpage_navigation_no_content">Hiçbirşey bulamadı</string>
+    <string name="yellowpage_navigation_no_content">Hiçbir şey bulamadım</string>
     <string name="yellowpage_navigation_search_city_name_hint">Şehir</string>
     <string name="yellowpage_navigation_search_history">Geçmiş</string>
     <string name="yellowpage_navigation_search_offline_hint">Çevrimdışısınız</string>
