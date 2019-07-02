@@ -6164,7 +6164,10 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="page_layout_35">Notlar</string>
   <string name="switch_access_service_on">Erişim Anahtarı</string>
   <string name="words_title">Metin</string>  
-  <string name="bootloader_tips">Mi Hesabınızı ekledikten sonra, oturumu kapatma, fabrika ayarlarına sıfırlama veya sistem uygulamalarının verilerini silme. Yukarıdakilerden herhangi birini yaparsanız, hesabınızı tekrar ekleyemez veya cihazınızın kilidini açamazsınız.</string>
+  <string name="bootloader_tips">"%s
+
+Yukarıdakilerden herhangi birini zaten yaptıysanız, Mi Hesabınızı tekrar ekleyin; Aksi takdirde, cihazınızın kilidini açamazsınız."</string>
+  <string name="bootloader_tips_warning">Ağ bağlantısını kesmeyin, Mi Hesabınızdan çıkmayın, fabrika ayarlarına sıfırlama yapmayın veya sistem verilerini silmeyin.</string>
   <string name="bootloader_tips_ok">Anladım</string>
   <string name="keyguard_notification_status_title">Ekran kapalı bildirim geldiğinde</string>
   <string name="others">Diğer</string>
@@ -6174,8 +6177,9 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="ai_settings_long_click_category">AI düğmesine basılı tutun</string>
   <string name="ai_settings_long_click_title">Basın ve basılı tutun</string>
   <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
-  <string name="miui_sos_call_log_time_unit">%1$dm %2$ds</string>
+  <string name="miui_sos_call_log_time_unit">%1$dd %2$ds</string>
   <string name="single_press_AI_button">AI düğmesine basın</string>
+  <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>
   <string name="ambient_display_screen_title">Ortam ekranı</string>
   <string name="keywords_ambient_display_screen">Ortam ekranı, Kilit ekranı</string>
   <string name="long_press_power_key_half_of_second">Google Asistan\'ı açmak için güç düğmesine 0,5 saniye basılı tutun.</string>
@@ -6185,7 +6189,7 @@ Bu özellik konumunuza erişmek, mobil ağları kullanmak ve kişilerinizi okuma
   <string name="power_key_how_power_off_detail">Güç düğmesine basın ve 3 saniye basılı tutun</string>
   <string name="power_key_how_start">Google Asistan\'ı nasıl uyandırırım?</string>
   <string name="power_key_how_start_detail">Güç düğmesine 0,5 saniye basılı tutun. Konuşmak için bırakın.</string>
-  <string name="power_key_start_enjoy">Google Asistan hakkında daha fazla bilgi edinin.</string>
+  <string name="power_key_start_enjoy">Google Asistan hakkında daha fazla bilgi edinin</string>
   <string name="power_key_start_guide">Tam ekran cihazlarda Güç düğmesini kullanarak Google Asistan\'ı uyandırma</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
   <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
@@ -6621,5 +6625,5 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
   <string name="miui_sos_emergency_delete">Sil</string>
-  <string name="lock_screen_tip_toast">lütfen önce bildirim uygulaması ayarlarından izin verin</string>  
+  <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>  
 </resources>

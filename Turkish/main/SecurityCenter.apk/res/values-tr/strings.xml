@@ -2715,5 +2715,10 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="pc_main_power_manager_day_hour">Tamamen şarj olmasına %1$sg %2$ss</string>
   <string name="pc_main_power_manager_hour_minute">Tamamen şarj olmasına %1$ss %2$sd</string>
   <string name="sms_delete_all_hint">Engellenen tüm mesajları sil?</string>
-  <string name="delete_all_sms">Tümünü sil</string>  
+  <string name="delete_all_sms">Tümünü sil</string>
+  <string name="gb_first_guide_function_shiled_title">Oyun Turbo açıkken sistem özelliklerini kapatın</string>
+  <string name="gb_first_guide_gamebox_des">Oyun oynarken kısayolları kullanın</string>
+  <string name="gb_first_guide_handsfree_des">Arka planda çağrıları cevapla</string>
+  <string name="gb_first_guide_shortcut_des">Oyun Turbo için bir Ana ekran kısayolu oluşturuldu</string>
+  <string name="gb_first_guide_title">Sistem düzeyinde hızı ve performansı artırın</string>  
 </resources>

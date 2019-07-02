@@ -14,14 +14,14 @@
     <item>Özel</item>
   </string-array>
   <string-array name="date_of_app_all">
-    <item>Dün (veri)</item>
-    <item>Bugün (veri)</item>
-    <item>Son ay (veri)</item>
-    <item>Bu ay (veri)</item>
-    <item>Dün WLAN</item>
-    <item>Bugün WLAN</item>
-    <item>Geçen ay WLAN</item>
-    <item>Bu ay WLAN</item>
+    <item>"Dün (mobil veri) "</item>
+    <item>"Bugün (mobil veri) "</item>
+    <item>"Geçen ay (mobil veri) "</item>
+    <item>"Bu ay (mobil veri) "</item>
+    <item>"Dün WLAN "</item>
+    <item>"Bugün WLAN "</item>
+    <item>"Geçen ay WLAN "</item>
+    <item>"Bu ay WLAN "</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>"Dün "</item>
@@ -92,7 +92,12 @@
     <item>Son güncelleme zamanı</item>
   </string-array>
   <string-array name="traffic_type">
-    <item>"Mobil kullanım "</item>
+    <item>"Mobil veri kullanımı "</item>
     <item>"WLAN kullanımı "</item>
   </string-array>
+  <string-array name="traffic_package_type">
+    <item>Aylık veri planı</item>
+    <item>Günlük veri planı</item>
+    <item>Sınırsız veri planı</item>
+  </string-array>  
 </resources>

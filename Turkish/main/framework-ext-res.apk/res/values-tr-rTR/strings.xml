@@ -210,5 +210,9 @@
   <string name="autofill_save_ok">İzin ver</string>
   <string name="autofill_save_title">Şifreleri otomatik olarak kaydet</string>
   <string name="autofill_save_message">MIUI\'ın hesaplarınızı ve şifrelerinizi kaydetmesine izin verilsin mi?</string>
-  <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar &gt; Ek ayarlar &gt; Gizlilik &gt; Şifreleri yönet bölümünde yönetebilirsiniz.</string>  
+  <string name="autofill_save_sub_message">Kayıtlı şifreleri Ayarlar &gt; Ek ayarlar &gt; Gizlilik &gt; Şifreleri yönet bölümünde yönetebilirsiniz.</string>
+  <string name="popup_camera_cancel_popup">İptal</string>
+  <string name="popup_camera_continue_popup">Kamerayı aç</string>
+  <string name="popup_camera_hid_device_name">Black Shark</string>
+  <string name="popup_camera_remove_hid_device">Cihazınız bir oyun kumandasına bağlı gibi görünüyor. Bir oyun kumandası bağlandığında ön kamerayı açamayabilirsiniz.</string>  
 </resources>
