@@ -18,10 +18,10 @@
     <item>"Bugün (mobil veri) "</item>
     <item>"Geçen ay (mobil veri) "</item>
     <item>"Bu ay (mobil veri) "</item>
-    <item>"Dün WLAN "</item>
-    <item>"Bugün WLAN "</item>
-    <item>"Geçen ay WLAN "</item>
-    <item>"Bu ay WLAN "</item>
+    <item>"Dün (WLAN) "</item>
+    <item>"Bugün (WLAN) "</item>
+    <item>"Geçen ay (WLAN) "</item>
+    <item>"Bu ay (WLAN) "</item>
   </string-array>
   <string-array name="date_of_traffic">
     <item>"Dün "</item>

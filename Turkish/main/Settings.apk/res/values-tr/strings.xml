@@ -6625,5 +6625,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="volume_launch_camera_summary">Ekran kilitliyken Kamera\'yı açmak için ses düğmesine iki kez basın</string>
   <string name="wakeup_and_sleep_settings_category_name">Kilit ekranı ayarları</string>
   <string name="miui_sos_emergency_delete">Sil</string>
-  <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>  
+  <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>
+  <string name="manage_password">Şifreleri yönet</string>
+  <string name="manage_password_summary">Kayıtlı hesapları ve şifreleri otomatik doldur</string>  
 </resources>
