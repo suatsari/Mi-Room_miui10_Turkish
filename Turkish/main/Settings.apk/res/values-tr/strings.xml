@@ -94,7 +94,7 @@
   <string name="accessibility_personal_account_title">Kişisel Hesap - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşu ile çağrıyı sonlandır</string>
   <string name="accessibility_preference_magnification_summary">Ekranı yakınlaştırın</string>
-  <string name="accessibility_screen_magnification_enable">Büyütme Hareketleri</string>
+  <string name="accessibility_screen_magnification_enable">Büyütme hareketleri</string>
   <string name="accessibility_screen_magnification_gestures_title">Üç kez dokunarak büyütme</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Erişilebilirlik düğmesi %1$s olarak ayarlandı. Büyütmeyi kullanmak için Erişilebilirlik düğmesine dokunup basılı tutun, ardından büyütmeyi seçin.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Yakınlaştırmak için bir düğmeye dokunun</string>
@@ -121,7 +121,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
 "<li>Uzaklaştırmak için parmağınızı kaldırın</li> </ul>"
 
 Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
-  <string name="accessibility_screen_magnification_title">Büyütme Hareketleri</string>
+  <string name="accessibility_screen_magnification_title">Büyütme hareketleri</string>
   <string name="accessibility_service_default_description">Açıklama yok.</string>
   <string name="accessibility_settings">Erişilebilirlik</string>
   <string name="accessibility_settings_summary">Ekran okuyucular, ekran, etkileşim kontrolleri</string>
@@ -614,8 +614,8 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="battery_saver">Pil Tasarrufu</string>
   <string name="battery_saver_desc_turn_on_auto_never">Asla otomatik olarak açma</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Pil %1$s olduğunda otomatik olarak aç</string>
-  <string name="battery_saver_off_summary">Kapalı / %1$s</string>
-  <string name="battery_saver_on_summary">Açık / %1$s</string>
+  <string name="battery_saver_off_summary">Kapalı</string>
+  <string name="battery_saver_on_summary">Açık</string>
   <string name="battery_saver_turn_on_automatically_never">Asla</string>
   <string name="battery_saver_turn_on_automatically_pct">%1$s pilde</string>
   <string name="battery_saver_turn_on_automatically_title">Otomatik aç</string>
@@ -1029,7 +1029,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="captioning_preview_text">Altyazı böyle görünecek</string>
   <string name="captioning_preview_title">Önizle</string>
   <string name="captioning_standard_options_title">Standart Seçenekler</string>
-  <string name="captioning_text_size">Yazı Boyutu</string>
+  <string name="captioning_text_size">Yazı boyutu</string>
   <string name="captioning_typeface">Yazı Tipleri</string>
   <string name="captioning_window_color">Altyazı pencere rengi</string>
   <string name="captioning_window_opacity">Altyazı penceresi opaklığı</string>
@@ -2380,7 +2380,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="location_network_based">WLAN &amp; mobil ağ</string>
   <string name="location_no_recent_apps">Son zamanlarda hiçbir uygulama konum talep etmedi</string>
   <string name="location_off_summary">Kapalı</string>
-  <string name="location_on_summary">Açık / %1$s</string>
+  <string name="location_on_summary">Açık</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Sistem uygulamalarının ve hizmetlerinin Bluetooth cihazlarını herhangi bir zamanda algılamasına izin vererek konumu iyileştirin.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth tarama</string>
   <string name="location_scanning_screen_title">Tarama</string>
@@ -3479,6 +3479,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="qtifeedback_settings_title">Donanım Geri Bildirimi</string>
   <string name="query_hint_text">Arama Ayarları</string>
   <string name="quick_settings_developer_tiles">Hızlı ayarlar geliştirici düğmeleri</string>
+  <string name="quick_settings_under_keyguard_summary">Cihaz kilitliyken hızlı ayarlara erişime izin ver</string>
+  <string name="quick_settings_under_keyguard_title">Hızlı ayarlara erişim</string>  
   <string name="quiet">Rahatsız Etme</string>
   <string name="quiet_group">Rahatsız Etme</string>
   <string name="quiet_important_interruptions_mode">Sadece istisnalar izinli</string>
@@ -3764,11 +3766,11 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="screen_zoom_conversation_timestamp_3">Salı 6:02ÖS</string>
   <string name="screen_zoom_conversation_timestamp_4">Salı 6:03ÖS</string>
   <string name="screen_zoom_keywords">ekran yoğunluğu, ekran yakınlaştırma, ölçek, ölçekleme</string>
-  <string name="screen_zoom_make_larger_desc">Büyük olsun</string>
-  <string name="screen_zoom_make_smaller_desc">Küçük olsun</string>
-  <string name="screen_zoom_preview_title">Önizle</string>
-  <string name="screen_zoom_short_summary">Ekrandaki öğeleri daha büyük veya daha küçük yapın</string>
-  <string name="screen_zoom_summary">Ekranınızdaki öğeleri daha küçük veya daha büyük yapın. Ekranınızdaki bazı uygulamalar konumunu değiştirebilir.</string>
+  <string name="screen_zoom_make_larger_desc">Büyüt</string>
+  <string name="screen_zoom_make_smaller_desc">Küçült</string>
+  <string name="screen_zoom_preview_title">Önizleme</string>
+  <string name="screen_zoom_short_summary">Ekrandaki öğeleri büyütün veya küçültün</string>
+  <string name="screen_zoom_summary">Ekranınızdaki öğeleri küçültün veya büyütün. Ekranınızdaki bazı uygulamaların konumunu değişebilir.</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
   <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Koskocaman</string>
@@ -3879,7 +3881,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="search_empty">Arama sonucu bulunamadı</string>
   <string name="search_enable_adb">USB Hata Ayıklama</string>
   <string name="search_fluency_mode">Sistem Animasyonları</string>
-  <string name="search_font">Sistem Fontu;Font;Yazı Tipleri;Yazı Boyutu, Font Boyu</string>
+  <string name="search_font">Sistem Fontu;Font;Yazı Tipleri;Yazı boyutu, Font Boyu</string>
   <string name="search_force_touch">3D Dokunma</string>
   <string name="search_gesture_wakeup_title">Ekrana çift dokununca uyandır</string>
   <string name="search_gps">GPS;Konum Erişimi</string>
@@ -4173,7 +4175,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="share_remote_bugreport_dialog_message_finished">BT yöneticiniz bu cihazla ilgili sorunları gidermenize yardımcı olması için bir hata raporu talep etti. Uygulamalar ve veriler paylaşılabilir.</string>
   <string name="share_remote_bugreport_dialog_title">Hata raporu paylaşılsın mı?</string>
   <string name="sharing_remote_bugreport_dialog_message">Bu hata raporu BT yöneticinizle paylaşılıyor. Daha fazla ayrıntı için onlarla iletişime geçin.</string>
-  <string name="short_summary_font_size">Metni daha büyük veya daha küçük yapın</string>
+  <string name="short_summary_font_size">Metni büyüt veya küçült</string>
   <string name="show_all_anrs">Tüm ANR\'leri göster</string>
   <string name="show_all_anrs_summary">Arkaplan uygulamalar için Uygulama Yanıt Vermiyor mesajını göster</string>
   <string name="show_all_apps">Tam cihaz kullanımını göster</string>
@@ -4701,14 +4703,14 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="timezone_settings">Zaman dilimi</string>
   <string name="title_color_calibration">Renk düzeltme ön ayarı</string>
   <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürülüyor</string>
-  <string name="title_font">Yazı Tipi</string>
-  <string name="title_font_current">Yazı Tipi</string>
-  <string name="title_font_current2">Yazı Tipi</string>
-  <string name="title_font_size">Yazı Boyutu</string>
-  <string name="title_font2">Yazı Tipi</string>
+  <string name="title_font">Yazı tipi</string>
+  <string name="title_font_current">Yazı tipi</string>
+  <string name="title_font_current2">Yazı tipi</string>
+  <string name="title_font_size">Yazı boyutu</string>
+  <string name="title_font2">Yazı tipi</string>
   <string name="title_hdmi_color_calibration">Renk düzeltme ön ayarı</string>
-  <string name="title_layout_current">Yazı Boyutu</string>
-  <string name="title_layout_current2">Yazı Boyutu</string>
+  <string name="title_layout_current">Yazı boyutu</string>
+  <string name="title_layout_current2">Yazı boyutu</string>
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi Hesabınızda oturum açın</string>
   <string name="total">Rahatsız etme</string>
@@ -5120,8 +5122,9 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="virus_scanner_select_trust_lib">Virüs tanımlarını seçin</string>
   <string name="virus_scanner_title">Virüs Tarayıcı</string>
   <string name="virus_scanner_update_lib">Veritabanını güncelle</string>
-  <string name="vision_settings_description">Bu aygıtı gereksinimlerinize uyacak şekilde özelleştirebilirsiniz. Bu erişilebilirlik özellikleri daha sonra Ayarlar\'dan değiştirilebilir.</string>
-  <string name="vision_settings_title">Görme Ayarları</string>
+  <string name="vision_settings_description">Bu cihazı ihtiyaçlarınızı karşılayacak şekilde özelleştirebilirsiniz. Bu erişilebilirlik özellikleri daha sonra Ayarlar\'dan değiştirilebilir.</string>
+  <string name="vision_settings_suggestion_title">Yazı tipi boyutunu değiştir</string>
+  <string name="vision_settings_title">Görüş Ayarları</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Konuşma</string>
   <string name="voice_helper_title">Ses asistanı</string>

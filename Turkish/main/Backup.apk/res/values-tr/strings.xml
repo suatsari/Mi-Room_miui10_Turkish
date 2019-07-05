@@ -582,7 +582,7 @@
   <string name="user_name">Apple ID veya eposta</string>
   <string name="user_name_null">Kullanıcı adı boş olamaz</string>
   <string name="user_notice_declaration_ignore">Tekrar gösterme</string>
-  <string name="user_notice_message">Bazı özellikler normal çalışması için internet bağlantısı gerekir.</string>
+  <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısı gerekir.</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="view_password_description">Şifreyi göster</string>
   <string name="wait_link">"Eski cihazda Mi Mover uygulamasını açın,

@@ -1149,7 +1149,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="menu_item_notification_antispam_text_normal">Engelli Listesi</string>
   <string name="menu_item_notification_garbage_text">%s</string>
   <string name="menu_item_notification_power_text">Pil optimizasyonu</string>
-  <string name="menu_item_notification_title">Bildirim çubuğunda göster</string>
+  <string name="menu_item_notification_title">Menüyü bildirim alanında göster</string>
   <string name="menu_item_shortcut_summary">Sık kullanılan özellikleri Ana Ekrana yerleştir</string>
   <string name="menu_item_shortcut_title">Kısayolları yönet</string>
   <string name="menu_item_uninstall">Kaldır</string>
@@ -1175,7 +1175,6 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Hızlandır</string>
   <string name="menu_text_power_manager">Pil optimizasyonu</string>
-  <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
   <string name="menu_white">Hariç tutulan</string>
   <string name="mi_pay_lucky">小米钱包</string>

@@ -16,9 +16,9 @@
   <string name="list_title_disable_notification">Bildirimlere izin verilmiyor</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="lock_screen_display_rules">Biçim</string>
-  <string name="lock_screen_tip_toast">Önce \\"Uygulama bildirimleri\\" bölümünden bildirimlere izin ver</string>
+  <string name="lock_screen_tip_toast">Önce \"Uygulama bildirimleri\" bölümünden bildirimlere izin ver</string>
   <string name="lockscreen_notifications">Kilit ekranı bildirimleri</string>
-  <string name="not_sent_recently">Yakın zamanda değil</string>
+  <string name="not_sent_recently">Yakınlarda yok</string>
   <string name="notch_and_status_bar_setting">Çentik &amp; durum çubuğu</string>
   <string name="notification_display_setting">Bildirim alanı</string>
   <string name="notification_display_style">Bildirim tarzı</string>
