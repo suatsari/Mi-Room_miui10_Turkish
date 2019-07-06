@@ -1758,7 +1758,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="sms_service">Hizmeti Önle</string>
   <string name="sms_smart_engine_update">Mesaj filtresini otomatik güncelle</string>
   <string name="sms_smart_engine_update_now">Güncelleme</string>
-  <string name="sms_stranger_block">Yabancıyı Engelle</string>
+  <string name="sms_stranger_block">Engellendi</string>
   <string name="SMSpass">SMS\'e izin ver</string>
   <string name="sorted_dialog_title">Sırala</string>
   <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin.</string>
@@ -2719,5 +2719,8 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="gb_first_guide_gamebox_des">Oyun oynarken kısayolları kullanın</string>
   <string name="gb_first_guide_handsfree_des">Arka planda çağrıları cevapla</string>
   <string name="gb_first_guide_shortcut_des">Oyun Turbo için bir Ana ekran kısayolu oluşturuldu</string>
-  <string name="gb_first_guide_title">Sistem düzeyinde hızı ve performansı artırın</string>  
+  <string name="gb_first_guide_title">Sistem düzeyinde hızı ve performansı artırın</string>
+  <string name="power_ambient_display">Ortam ekranı</string>
+  <string name="battery_desc_ambient_display">Ortam ekranı tarafından tüketilen güç</string>
+  <string name="st_antispam_title_mms">MMS</string>  
 </resources>

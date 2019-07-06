@@ -151,16 +151,16 @@
   <string name="goToSecondSpacce">İkinci alana git</string>
   <string name="gpg_message">Oyunlar için klonlu uygulamalar oluşturmak, Google Play Oyunlar ile çalışmayı gerektirir. Google Play Oyunlar için klonlu bir uygulama oluşturulsun mu?</string>
   <string name="gpg_title">Google Play Oyunlar için klonlu uygulama</string>
-  <string name="green_guard">Ebeveyn denetimleri</string>
+  <string name="green_guard">Aile Koruması</string>
   <string name="green_guard_des1">Uzaktan yönetmek için cihaz ekleyin</string>
   <string name="green_guard_des2">Yönetilen cihazların tam olarak nerede olduğunu bilin</string>
   <string name="green_guard_des3">Yüklü uygulamaları kontrol edin ve kullanımı sınırlayın</string>
   <string name="green_guard_title2">Konum bilgisini görüntüle</string>
   <string name="green_guard_title3">Uygulamaları yönet</string>
-  <string name="greenguard_child_des">Bağlı kalmak için uygulamamızı kullanın</string>
-  <string name="greenguard_child_des_title">Arkadaşlarımın ve ailemin yardımına ihtiyacım var</string>
-  <string name="greenguard_parent_des">Uygulamamızı indirin ve diğer kişilerin cihazlarını ekleyin</string>
-  <string name="greenguard_parent_des_title">Arkadaşlarıma ve aileme yardım etmeliyim</string>
+  <string name="greenguard_child_des_title">Cihaz eklemek için QR kodunu tarayın</string>
+  <string name="greenguard_child_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
+  <string name="greenguard_parent_des_title">Cihaz eklemek için Kite Guard\'ı kullanın</string>
+  <string name="greenguard_parent_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
   <string name="guide_contact_sub_title_desc">İkinci alana eklenen kişiler özel olacak.\nMesajlar sadece İkinci alanda görünecektir.</string>
   <string name="guide_contact_suc_sub_title_desc">İkinci alanda yalnızca özel kişiler ve mesajlar gösterilecek</string>
   <string name="guide_contact_suc_title_desc">Başarıyla ayarlandı</string>
@@ -455,5 +455,7 @@
   <string name="facebook_login">Facebook\'ta oturum aç</string>
   <string name="xspace_instagram_title">Instagram</string>
   <string name="instagram_send">Instagram\'a gönder</string>
-  <string name="use_google_open">Google Asistan\'ı kullanarak uyan</string>  
+  <string name="use_google_open">Google Asistan\'ı kullanarak uyan</string>
+  <string name="greenguard_functional_description">"Cihazları uzaktan yönetin, konum bilgisini görüntüleyin,
+yüklü uygulamaları kontrol edin ve kullanımı kısıtlayın"</string>  
 </resources>

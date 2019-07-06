@@ -179,7 +179,8 @@
   <string name="hsa_send_again_countdown">Tekrar gönderin (%ds)</string>
   <string name="hsa_send_failed">Doğrulama kodu gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="hsa_sending">Gönderiliyor...</string>
-  <string name="hsa_tip_message">1. Doğrulama kodunu içeren bir mesaj, Apple Kimliğinizle ilişkili cihaza gönderildi.\n2. Doğrulama kodu işe yaramazsa iki faktörlü kimlik doğrulamayı kapatın.</string>
+  <string name="hsa_tip_message">"1. Doğrulama kodunu alamıyorsanız, Apple cihazınızda iCloud\'da zaten oturum açtığınızdan emin olun.
+2. Doğrulama kodunu girmek yardımcı olmazsa, iki faktörlü kimlik doğrulamayı kapatın."</string>
   <string name="hsa_tip_message_shutdown_hsa">İki faktörlü kimlik doğrulama nasıl kapatılır?</string>
   <string name="hsa_tip_message_with_device">1. Doğrulama kodunu içeren bir mesaj, Apple Kimliğinizle ilişkili %s ye gönderildi.\n2. Doğrulama kodu işe yaramazsa, iki faktörlü kimlik doğrulamayı kapatın.</string>
   <string name="hsa_tip_title">İpuçları:</string>
@@ -607,5 +608,5 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="dialog_backup_password_auto_backup_tips">Yedekleme şifresi açıkken öğeler otomatik olarak yedeklenemiyor. Önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_change_device_restore_tips">Yedekleme şifresi açıkken Mi Mover kullanılamaz. Önce yedekleme şifresini kapatın.</string>
   <string name="dialog_backup_password_restore_tips">Yedekleme şifresi açıkken öğeler geri yüklenemez. Önce yedekleme şifresini kapatın.</string>
-  <string name="iCloud_ID_verification_tip">Apple kimliğinizle ilişkilendirilmiş telefon numarasına gönderilen SMS doğrulama kodunu girin. İPhone\'unuzun ekranında görüntülenen açılır kodu dikkate almayın.</string>  
+  <string name="iCloud_ID_verification_tip">Doğrulama kodunun görünmesi için Apple cihazınızda \"İzin ver\" seçeneğine dokunun. Doğrulama kodunu buraya girin.</string>  
 </resources>

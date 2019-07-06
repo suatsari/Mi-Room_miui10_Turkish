@@ -2023,7 +2023,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="gesture_preference_title">Hareketler</string>
   <string name="gesture_setting_off">Kapalı</string>
   <string name="gesture_setting_on">Açık</string>
-  <string name="gesture_wakeup_title">Ekranı açmak için iki kez dokun</string>
+  <string name="gesture_wakeup_title">Ekranı uyandırmak veya kapatmak için iki kez dokun</string>
   <string name="getConfiguredNetworks">Yapılandırılmış ağa bakın</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
@@ -6363,12 +6363,12 @@ OTG, 10 dakika kullanılmadığında otomatik olarak kapanır."</string>
   <string name="none">Yok</string>
   <string name="notifi_channels">Bildirim kategorileri</string>
   <string name="notifi_channels_other">Diğer</string>
-  <string name="notifi_importance_default">Her yerde gösterilir, ses çıkarır, ancak görsel yok.</string>
-  <string name="notifi_importance_high">Her yerde gösterilir, ses çıkarır ve göz atılabilir. Tam ekran girişlerini kullanabilir.</string>
-  <string name="notifi_importance_low">Her yerde gösterilir, ama müdahale edilemez.</string>
-  <string name="notifi_importance_min">Sadece bildirim alanında gösterilir</string>
-  <string name="notifi_importance_none">Kapalı</string>
-  <string name="notifi_importance_unspecified">Uygulama karar versin</string>
+  <string name="notifi_importance_default">Ses çıkar</string>
+  <string name="notifi_importance_high">Ses çıkar ve ekranda açılır</string>
+  <string name="notifi_importance_low">Sessizce göster</string>
+  <string name="notifi_importance_min">Sessizce göster ve küçült</string>
+  <string name="notifi_importance_none">Hiçbir zaman bildirim gösterme</string>
+  <string name="notifi_importance_unspecified">Sese izin ver</string>
   <string name="notifi_no_channels">Bu uygulama herhangi bir bildirim göndermemiş</string>
   <string name="notification_fold_description1">Bildirimler klasörü MIUI 9 da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve ayrı bir klasöre yerleştirir.</string>
   <string name="notification_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlar ve ardından birden çok ölçüt kullanarak önemli olup olmadıklarını belirler.</string>
@@ -6630,5 +6630,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="miui_sos_emergency_delete">Sil</string>
   <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>
   <string name="manage_password">Şifreleri yönet</string>
-  <string name="manage_password_summary">Kayıtlı hesapları ve şifreleri otomatik doldur</string>  
+  <string name="manage_password_summary">Kayıtlı hesapları ve şifreleri otomatik doldur</string>
+  <string name="gesture_wakeup_summary">Bu özellik, Varsayılan veya Klasik tema uygulandığında çalışır</string>  
 </resources>
