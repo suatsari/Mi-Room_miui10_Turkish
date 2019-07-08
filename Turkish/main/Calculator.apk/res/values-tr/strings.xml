@@ -282,6 +282,7 @@
   <string name="mortgage_item_years">İpotek Dönemi</string>
   <string name="mortgage_loans_amount">İpotek Tutarı</string>
   <string name="mortgage_provident_found_interest_rate">Fonun faiz oranı</string>
+  <string name="mortgage_provider_east_money">Veriler East Money tarafından sağlanmıştır</string>
   <string name="mortgage_repayment_amount">Geri Ödeme Tutarı</string>
   <string name="mortgage_result">Sonuç</string>
   <string name="mortgage_show_details">Detayları Göster</string>

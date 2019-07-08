@@ -8,6 +8,7 @@
   <string name="enable_float_notification">Kayan bildirimlere izin verilir</string>
   <string name="enable_lockscreen_notification">Kilit ekranı bildirimlerine izin verilir</string>
   <string name="enable_show_badge_notification">Bildirim rozetlerine izin verilir</string>
+  <string name="expand_top_notification">Üst bildirimi genişlet</string>
   <string name="expandable_under_keyguard">Kilit ekranında Bildirim alanını aç</string>
   <string name="float_notifications">Kayan bildirimler</string>
   <string name="hint_search_all">Uygulamaları ara</string>

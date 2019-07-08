@@ -413,6 +413,7 @@
   <string name="no_block_button_msg">Engeli kaldır</string>
   <string name="no_conversations">Konuşma yok</string>
   <string name="no_delivery_report">Teslim raporu yok</string>
+  <string name="no_longer_recommend">Tekrar gösterme</string>
   <string name="no_subject">(Konu yok)</string>
   <string name="no_subject_view">(Konu yok)</string>
   <string name="non_english_subject_limit">13 karakter</string>

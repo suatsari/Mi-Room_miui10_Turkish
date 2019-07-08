@@ -776,7 +776,7 @@
   <string name="keyguard_charging_info_click_to_detail">Detaylara bak</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%%%s</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Boşalma</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
@@ -1533,7 +1533,7 @@ d MMM"</string>
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
   <string name="unlockscreen_low_battery">Lütfen, şarj cihazını bağlayın.</string>
   <string name="unlockscreen_recharge_completed">Şarj oldu</string>
-  <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
+  <string name="unlockscreen_recharging_message">Şarj %d%%</string>
   <string name="usb_accessory_confirm_prompt">Bu USB aksesuarı bağlandığında %1$s açılsın mı?</string>
   <string name="usb_accessory_permission_prompt">%1$s uygulamasına USB aksesuarına erişim izni verilsin mi?</string>
   <string name="usb_accessory_uri_prompt">Bu USB aksesuarı ile çalışan yüklü uygulama yok. Bu aksesuar hakkında daha fazla bilgi edinmek için %1$s adresini ziyaret edin</string>

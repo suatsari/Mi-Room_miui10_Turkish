@@ -26,7 +26,7 @@
   <string name="app_label">Saat</string>
   <string name="auto_silence_never">Asla</string>
   <string name="auto_silence_title">Otomatik susma</string>
-  <string name="battery_charging_level">%%%d</string>
+  <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Doğum günü alarmı</string>
   <string name="birthday_alarm_summary">Doğum gününüzde varsayılan alarm yerine \"Mutlu Yıllar\" alarm sesini çalın</string>
   <string name="cancel">İptal</string>

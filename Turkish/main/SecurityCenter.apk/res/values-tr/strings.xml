@@ -1283,7 +1283,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="om_cpu_overload_proc_activity_title">Problemler</string>
   <string name="om_cpu_overload_proc_title">Problemler</string>
   <string name="om_cpu_usage_warn_title_text">Bu uygulama cihazınızı yavaşlatabilir</string>
-  <string name="om_formatted_percent_string">%%%s</string>
+  <string name="om_formatted_percent_string">%s%%</string>
   <string name="om_ill_proc_activity_title">Problemler</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Pil kullanımıyla ilgili sorunları gidermek için bu uygulamayı kaldırın.</string>
   <string name="om_ill_proc_handle_unstaill_title">%s kaldırılsın mı?</string>
@@ -1410,10 +1410,10 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="pc_install_manager">USB üzerinden yükleyin</string>
   <string name="pc_to_phone_install">USB üzerinden %s yüklenmesi engellendi</string>
   <string name="per_month_pkg_traffic_settings">Veri sınırını ayarla</string>
-  <string name="percent_formatted_text">%%%s</string>
+  <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
-  <string name="percent_text_formatted">%%%s</string>
-  <string name="percentage">%%%d</string>
+  <string name="percent_text_formatted">%s%%</string>
+  <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Kabul</string>
   <string name="permission_action_prompt">Bildir</string>
   <string name="permission_action_reject">Reddet</string>
@@ -1447,7 +1447,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="power_center_auto_shutdown">Güç açma/kapama zamanlaması</string>
   <string name="power_center_back">Geri</string>
   <string name="power_center_charge_time">Tam doluma %1$s</string>
-  <string name="power_center_main_percent_formatted">%%%s</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Zaman ile gücü aç</string>
   <string name="power_center_ontime_shutdown">Zaman ile gücü kapat</string>
   <string name="power_center_repeat">Tekrarla</string>
@@ -1683,7 +1683,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="scan_installed_games">Yüklü oyunları kontrol et…</string>
   <string name="scan_status_risk">Riskli</string>
   <string name="scan_status_safe">Güvenli</string>
-  <string name="scanning_bar_number">%%%d</string>
+  <string name="scanning_bar_number">%d%%</string>
   <string name="screenrecord_not_find">Ekran Kaydedicinin son sürümünü yükleyin ve tekrar deneyin.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
   <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>

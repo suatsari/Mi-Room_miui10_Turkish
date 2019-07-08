@@ -231,6 +231,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="other">Diğer</string>
   <string name="other_filter">Diğer</string>
   <string name="package_filter">Paketler</string>
+  <string name="path_not_available">Yol mevcut değil</string>
   <string name="pause_download">Duraklat</string>
   <string name="paused">Durduruldu</string>
   <string name="paused_by_app">Durduruldu</string>
