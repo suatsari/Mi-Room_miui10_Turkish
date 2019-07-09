@@ -1537,5 +1537,14 @@ mevcut"</string>
   <string name="video_editor_audio_electronics">Elektro</string>
   <string name="video_editor_audio_quiet">Zen</string>
   <string name="video_editor_audio_summertime">Yaz</string>
-  <string name="video_editor_audio_vitality">Dinç</string>  
+  <string name="video_editor_audio_vitality">Dinç</string>
+  <string name="assistant_page_discovery">Keşfet</string>
+  <string name="assistant_page_server_error">Ağ ayarlarınızı kontrol edin</string>
+  <string name="movie_audio_antiquity">Retro</string>
+  <string name="movie_audio_dream">Rüya</string>
+  <string name="movie_audio_electronics">Elektro</string>
+  <string name="movie_audio_quiet">Zen</string>
+  <string name="movie_audio_summertime">Yaz</string>
+  <string name="movie_audio_vitality">Dinç</string>
+  <string name="movie_customer_unsupport_audio_file">Desteklenmeyen ses dosyası</string>  
 </resources>

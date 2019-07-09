@@ -311,5 +311,9 @@
 	<plurals name="delete_third_party_burst_photo">
         <item quantity="other">%d seri çekim cihazınızdan silinsin mi?</item>
         <item quantity="one">%d seri çekim cihazınızdan silinsin mi?</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d saniye</item>
+        <item quantity="one">%1$d saniye</item>
     </plurals>	
 </resources>

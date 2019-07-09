@@ -80,5 +80,9 @@
     <plurals name="rcs_group_notification_invitation_receive">
        <item quantity="other">%d grup sohbeti davetiyesi aldınız</item>
        <item quantity="one">%d grup sohbeti davetiyesi aldınız</item>
+    </plurals>
+    <plurals name="notification_multiple">
+       <item quantity="other">"%s mesaj | "</item>
+       <item quantity="one">"%s mesaj | "</item>
     </plurals>	
 </resources>

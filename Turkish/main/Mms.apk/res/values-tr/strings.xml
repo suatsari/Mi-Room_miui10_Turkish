@@ -406,7 +406,7 @@
   <string name="networking_allow_desc_without_mx">Mi Mesaj\'ın normal çalışabilmesi için internet bağlantısı gerekiyor. Bilinmeyen numaraları tanımak, spam filtrelemek ve diğer özellikleri etkinleştirmek için Mi Mesaj\'ın Sarı Sayfalar\'ı kullanması gerekir. Sarı Sayfalar\'ın internete bağlanmasına, konum bilgilerinizi almasına ve rehberinizi okumasına izin verilsin mi?</string>
   <string name="networking_allow_title">Dikkat</string>
   <string name="new_message">Oluştur</string>
-  <string name="new_message_arrived">Görüntülemek için tıklayın</string>
+  <string name="new_message_arrived">Okunmamış</string>
   <string name="new_phrase">Cavap ekle</string>
   <string name="new_phrase_hint">Yeni cevap girin</string>
   <string name="no">İptal</string>
@@ -431,7 +431,6 @@
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">Mesajlar gönderilmedi</string>
   <string name="notification_group_name">Mesajlaşma</string>
-  <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Yeni mesajlar</string>
   <string name="number_add_hint">Telefon numarasını girin</string>
   <string name="number_recognition_partner">Gönderen kimliği tanıma servis sağlayıcıları</string>
@@ -789,7 +788,7 @@
   <string name="undelivered_msg_dialog_title">Teslim edilmemiş mesaj</string>
   <string name="undelivered_sms_dialog_body">Bu mesaj gönderilemedi.</string>
   <string name="unknown_num">Bilinmeyen numara</string>
-  <string name="unknown_sender">Yeni bir mesajınız var</string>
+  <string name="unknown_sender">Bilinmeyen gönderici</string>
   <string name="unstick">Sabitten kaldır</string>
   <string name="unstick_conversation">Geçerli sohbetin iğnesini kaldır</string>
   <string name="unsticked_conversation">Konuşma zaten sabitten kaldırılmış</string>
@@ -837,5 +836,7 @@
   <string name="recipients_contain_sub_sim_number">Alıcılar arasında ikincil bir SIM numarası var gibi görünüyor. Bu mesajı ikincil SIM kullanarak gönderin.</string>
   <string name="sub_sim_card">Sub</string>
   <string name="sub_sim_card_indicator">Sub%d</string>
-  <string name="sub_sim_not_support_mms">İkincil SIM kullanarak MMS gönderilemiyor</string>  
+  <string name="sub_sim_not_support_mms">İkincil SIM kullanarak MMS gönderilemiyor</string>
+  <string name="click_to_view">Görüntülemek için dokunun</string>
+  <string name="you_have_new_message">Yeni mesajlarınız var</string>	  
 </resources>
