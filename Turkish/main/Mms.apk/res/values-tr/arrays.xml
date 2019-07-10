@@ -72,5 +72,30 @@
     <item>Spam</item>
     <item>Diğer</item>
     <item>İptal</item>
+  </string-array>
+  <string-array name="message_sending_method">
+    <item>Önerilen Mesajlaşma Servisi</item>
+    <item>SMS, MMS</item>
+    <item>RCS sohbet, RCS Dosya Aktarımı</item>
+  </string-array>
+  <string-array name="rcs_ft_fallback">
+    <item>Asla sorma ve her zaman SMS Bağlantısı olarak gönder</item>
+    <item>Asla sorma ve asla SMS Bağlantısı olarak gönderme</item>
+    <item>Her zaman sor</item>
+  </string-array>
+  <string-array name="rcs_message_fallback">
+    <item>Asla sorma ve her zaman SMS olarak gönder</item>
+    <item>Asla sorma ve asla SMS olarak gönderme</item>
+    <item>Her zaman sor</item>
+  </string-array>
+  <string-array name="rcs_picture_quality_setting">
+    <item>her zaman sor</item>
+    <item>asla yeniden boyutlandırma</item>
+    <item>her zaman varsayılan bir değer olarak saklanan seçili bir seçeneği yeniden boyutlandır</item>
+  </string-array>
+  <string-array name="rcs_video_quality_setting">
+    <item>her zaman sor</item>
+    <item>asla yeniden boyutlandırma</item>
+    <item>her zaman varsayılan bir değer olarak saklanan seçili bir seçeneği yeniden boyutlandır</item>
   </string-array>  
 </resources>
