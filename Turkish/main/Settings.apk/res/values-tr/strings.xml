@@ -4628,7 +4628,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sync_now">Eşitle</string>
   <string name="sync_one_time_sync">Şimdi eşitlemek için dokunun\n%1$s</string>
   <string name="sync_plug">&lt;font fgcolor=\"#ffffffff\"&gt;Google eşitlemeye hoşgeldiniz!&lt;/font&gt;\" \nGoogle veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye istediğinizden yerden ulaşabilirsiniz. \"</string>
-  <string name="sync_settings">Eşitle</string>
+  <string name="sync_settings">Hesaplar &amp; eşitleme</string>
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
@@ -6576,7 +6576,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
-  <string name="popup_gesture_summary">Ön kamerayı otomatik olarak açmak için telefonu kaldırın ve ekrana bakın</string>
+  <string name="popup_gesture_summary">Ana ekrana geri dönün, telefonu kaldırın ve ön kamerayı otomatik olarak açmak için ekrana bakın.</string>
   <string name="miui_lab_3d_gesture_title">3B desenler</string>
   <string name="miui_lab_3d_gesture_slogan">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
   <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
@@ -6631,5 +6631,13 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="disallow_lock_screen_summary">Önce \"Uygulama bildirimleri\" içinden bildirimlere izin verin</string>
   <string name="manage_password">Şifreleri yönet</string>
   <string name="manage_password_summary">Kayıtlı hesapları ve şifreleri otomatik doldur</string>
-  <string name="gesture_wakeup_summary">Bu özellik, Varsayılan veya Klasik tema uygulandığında çalışır</string>  
+  <string name="gesture_wakeup_summary">Varsayılan veya Klasik tema uygulandığında ekranı kapatmak için iki kez dokunabilirsiniz</string>
+  <string name="notch_style_mod_description">Çentik ve durum çubuğu görüntüleme seçenekleri</string>
+  <string name="notch_style_mod_title">Çentiği gizle</string>
+  <string name="notch_style_show">Gizleme</string>
+  <string name="notch_style_status_bar_inside">Durum çubuğunu taşımadan gizle</string>
+  <string name="notch_style_status_bar_outside">Durum çubuğunu gizle ve taşı</string>
+  <string name="lock_screen_settings_title">Kilit ekranı</string>
+  <string name="xiaomi_cloud_service_description_contact">kişiler ve</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Bulut %s fotoğraflarınızı senkronize eder, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul\'u kullanarak telefonunuzu bulmanıza yardımcı olur.</string>  
 </resources>
