@@ -846,16 +846,16 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_search_for_devices">Yenile</string>
   <string name="bluetooth_searching_for_devices">Aranıyor...</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Ses Örnek Başına Bit Sayısı</string>
-  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Bluetooth Ses Codec\'ini Seçin:\nÖrnek Başına Bit Sayısı</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">Bluetooth Ses Kodeğini Seçin:\nÖrnek Başına Bit Sayısı</string>
   <string name="bluetooth_select_a2dp_codec_channel_mode">Bluetooth Ses Kanalı Modu</string>
-  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Bluetooth Ses Codec\'ini Seçin:\nKanal Modu</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Ses LDAC Codec\'i: Oynatma Kalitesi</string>
-  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Bluetooth Ses LDAC Codec\'ini Seçin:\nOynatma Kalitesi</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">Bluetooth Ses Kodeğini Seçin:\nKanal Modu</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Bluetooth Ses LDAC Kodeği: Oynatma Kalitesi</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">Bluetooth Ses LDAC Kodeğini Seçin:\nOynatma Kalitesi</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate">Bluetooth Ses Örnek Hızı</string>
-  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Bluetooth Ses Codec\'ini Seçin:\nÖrnek Hızı</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">Bluetooth Ses Kodeğini Seçin:\nÖrnek Hızı</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Akış: %1$s</string>
-  <string name="bluetooth_select_a2dp_codec_type">Bluetooth Ses Codec\'i</string>
-  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Ses Codec\'ini Seçin</string>
+  <string name="bluetooth_select_a2dp_codec_type">Bluetooth Ses Kodeği</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Bluetooth Ses Kodeğini Seçin</string>
   <string name="bluetooth_select_avrcp_version_dialog_title">Bluetooth AVRCP Sürümünü seçin</string>
   <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Sürümü</string>
   <string name="bluetooth_settings">Bluetooth</string>
@@ -6639,5 +6639,13 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="notch_style_status_bar_outside">Durum çubuğunu gizle ve taşı</string>
   <string name="lock_screen_settings_title">Kilit ekranı</string>
   <string name="xiaomi_cloud_service_description_contact">kişiler ve</string>
-  <string name="xiaomi_cloud_service_description_format">Mi Bulut %s fotoğraflarınızı senkronize eder, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul\'u kullanarak telefonunuzu bulmanıza yardımcı olur.</string>  
+  <string name="xiaomi_cloud_service_description_format">Mi Bulut %s fotoğraflarınızı senkronize eder, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul\'u kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="wireless_charging_settings">Diğer cihazları kablosuz olarak şarj edin</string>
+  <string name="wireless_opened">Açık</string>
+  <string name="wireless_closed">Kapalı</string>
+  <string name="wireless_tip">"Diğer cihazları kablosuz olarak şarj etmek için telefonunuzu kullanın.
+
+
+Şarj etme 90 saniye içinde başlamazsa bu özellik otomatik olarak kapanacaktır."</string>
+  <string name="wireless_button">Diğer cihazları kablosuz olarak şarj edin</string>  
 </resources>
