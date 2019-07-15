@@ -391,7 +391,7 @@
   <string name="headset_and_audio_effect_title">Kulaklıklar ve ses efektleri</string>
   <string name="hide_album">Albümü Gizle</string>
   <string name="hide_lyric">Sözleri Gizle</string>
-  <string name="higher_quality_music">Yüksek kaliteli müzik</string>
+  <string name="higher_quality_music">Mi Müzik için abone olun</string>
   <string name="higher_quality_music_summary">Daha yüksek bit hızında müzik indir ve aktar</string>
   <string name="home_tab_local">Müziğim</string>
   <string name="home_tab_online">Çevrimiçi müzik</string>
@@ -402,7 +402,8 @@
   <string name="hungama_subscribe_message">Yüksek kalitede müzik indirmek için PRO üyeliği satın alın.</string>
   <string name="hungama_subscribe_positive_button">PRO üyeliğini satın al</string>
   <string name="i_know">Tamam</string>
-  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Gizlilik Politikamızı&lt;/a&gt; okumalı ve kabul etmelisiniz.</string>
+  <string name="impunity_declaration_content">Bu ürünü kullanmadan önce &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisiniz.</string>
+  <string name="impunity_declaration_content_live">Bu ürünü kullanmadan önce %1$s ve %2$s okumalı ve kabul etmelisiniz.</string>
   <string name="impunity_declaration_ignore">Tekrar gösterme</string>
   <string name="impunity_declaration_negative_text">Çık</string>
   <string name="impunity_declaration_positive_text">Kabul</string>

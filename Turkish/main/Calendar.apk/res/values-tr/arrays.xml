@@ -312,5 +312,10 @@
     <item>Kapalı</item>
     <item>Tüm etkinlikler için</item>
     <item>En alakalı etkinlikler için</item>
+  </string-array>
+  <string-array name="prefEntries_alerts_popup_new">
+    <item>Kapalı</item>
+    <item>Tüm etkinlikler için</item>
+    <item>Zamana duyarlı olaylar için</item>
   </string-array>  
 </resources>

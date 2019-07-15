@@ -175,10 +175,10 @@
   <string name="dynamic_alarm_speech">Akıllı alarm</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="module_download_cancel">Hayır teşekkürler</string>
-  <string name="module_download_data_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
+  <string name="module_download_data_msg">MIUI akıllı alarmlarını kullanılabilir hale getirmek için, Saat\'in ses dosyalarını indirmesi gerekir. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
   <string name="module_download_data_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Bu indirme için ≈20MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
   <string name="module_download_fail">Ek ses indirilemedi</string>
-  <string name="module_download_msg">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Şimdi indirilsin mi?</string>
+  <string name="module_download_msg">MIUI akıllı alarmlarını kullanılabilir hale getirmek için, Saat\'in ses dosyalarını indirmesi gerekir. Akıllı alarmlar, mevcut hava durumu bilgilerinin alarmlara eklenmesini sağlayan ses özellikleri içerir. Şimdi indirilsin mi?</string>
   <string name="module_download_msg_golbal">Saat\'in MIUI akıllı alarmları için ses dosyaları indirmesi gerekiyor. Şimdi indirilsin mi?</string>
   <string name="module_download_no_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="module_download_ok">İzin ver</string>
@@ -269,5 +269,9 @@
   <string name="edit_systemtime_setting_summary">Tarih, saat ve Çift saat</string>
   <string name="worldclock_resident_city_text">İkinci saat: %s</string>
   <string name="worldclock_resident_city_text_detail">Çift saat açık</string>
-  <string name="worldcolock_date_display_prefix">Şu anda: </string>  
+  <string name="worldcolock_date_display_prefix">Şu anda: </string>
+  <string name="module_update_success">MIUI akıllı alarmları için güncellenmiş ses başarıyla indirildi. MIUI akıllı alarmlarını Saat ayarlarından ayarlayabilirsiniz.</string>
+  <string name="module_update_success_control">Anladım</string>
+  <string name="no_alarm_setting">Burada alarm yok</string>
+  <string name="no_worldclock">Burada saat yok</string>  
 </resources>

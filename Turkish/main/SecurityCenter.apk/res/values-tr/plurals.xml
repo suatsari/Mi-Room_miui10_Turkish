@@ -195,9 +195,11 @@
   </plurals>
   <plurals name="people">
     <item quantity="other">%1$d kişi tarafından indirildi</item>
+	<item quantity="one">%1$d kişi tarafından indirildi</item>
   </plurals>
   <plurals name="people_million">
     <item quantity="other">%1$d kişi tarafından indirildi</item>
+	<item quantity="one">%1$d kişi tarafından indirildi</item>
   </plurals>
   <plurals name="power_center_battery_day">
     <item quantity="other">"%d gün "</item>

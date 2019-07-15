@@ -1173,7 +1173,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
     <string name="upgrade_out_of_memory_retry">Güncellemeyi Yeniden Dene</string>
     <string name="upgrade_out_of_memory_uninstall">Bazı Uygulamaları Kaldırın</string>
     <string name="use_photo_as_primary">Bu Resmi Kullan</string>
-    <string name="use_photo_as_primary2">" %1$s kişinin fotoğrafını kullan "</string>
+    <string name="use_photo_as_primary2">%1$s kişi fotoğrafını kullan</string>
     <string name="useful_numbers">Yararlı Numaralar</string>
     <string name="user_profile_contacts_list_header">Ben</string>
     <string name="vcard_export_request_rejected_message">vCard dışa aktarma isteği reddedildi. Daha sonra deneyin.</string>
@@ -1503,5 +1503,7 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="menu_share_text">Metin</string>
     <string name="menu_share_vcard_file">Dosya</string>
     <string name="share_contact_as">Kişi olarak paylaş</string>
-    <string name="share_qrcode">QR kodunu paylaş</string> 	
+    <string name="share_qrcode">QR kodunu paylaş</string>
+    <string name="shortcut_new_contact_label">Yeni kişi</string>
+    <string name="shortcut_scan_label">Kartviziti tara</string> 	
 </resources>

@@ -2722,5 +2722,17 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="gb_first_guide_title">Sistem düzeyinde hızı ve performansı artırın</string>
   <string name="power_ambient_display">Ortam ekranı</string>
   <string name="battery_desc_ambient_display">Ortam ekranı tarafından tüketilen güç</string>
-  <string name="st_antispam_title_mms">MMS</string>  
+  <string name="st_antispam_title_mms">MMS</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">%1s hoş geldiniz! Bu uygulama aşağıdaki özelliği kullanmanızı sağlar: %2s.</string>
+  <string name="system_permission_declare_privacy_declare">"Gizliliğinize saygı duyuyor ve koruyoruz.
+%1s için verilerinizi toplaması ve normal çalışması için aşağıdaki izinlerin gerekli olduğunu unutmayın:"</string>
+  <string name="system_permission_declare_use_network">Ağa bağlan</string>
+  <string name="system_permission_declare_no_say_no">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama normal şekilde çalışamaz.</string>
+  <string name="system_permission_declare_revoke_path">Bu uygulamayı kaldırabilir, hesabınızdan çıkabilirsiniz, veya Güvenlik > Uygulamaları yönet > İzinler > Diğer izinler bölümündeki izinlerinizi ve yetkilendirmenizi yönetebilirsiniz.</string>
+  <string name="system_permission_declare_double_link"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="system_permission_declare_agree">Kabul et</string>
+  <string name="system_permission_perm_send_mms">MMS gönder</string>
+  <string name="system_permission_perm_read_mms">MMS oku</string>
+  <string name="system_permission_perm_answer_call">Çağrı yap</string>
+  <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>  
 </resources>

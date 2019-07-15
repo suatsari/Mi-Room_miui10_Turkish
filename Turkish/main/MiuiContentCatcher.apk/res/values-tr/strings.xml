@@ -27,5 +27,7 @@
   <string name="save_content_tip">Aşağıdaki öğeler kaydedilecek:</string>
   <string name="search">Arama</string>
   <string name="settings_clear_data_confirmation_title">Şifreleri silme</string>
+  <string name="settings_clear_data_confirmation_description">"Şifreleri şimdi silerseniz, bir sonraki oturum açışınızda manuel olarak girmeniz gerekir.
+Şifre silinsin mi?"</string>  
   <string name="using_miui_autofill_message">MIUI, şifreleri otomatik olarak girmek için, hesap bilgilerinizi ve şifrelerinizi cihazınıza kaydeder.</string>
 </resources>

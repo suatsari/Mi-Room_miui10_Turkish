@@ -665,5 +665,10 @@
   <string name="title_confirm_close_chinese_calendar">Çin takvimi kapatma</string>
   <string name="work_day_indication_chinese_calendar">班</string>  
   <string name="solar_lunar_convert_description">Geleneksel Çince-Gregoryen</string>
-  <string name="solar_lunar_convert_tab">Dönüştür</string>  
+  <string name="solar_lunar_convert_tab">Dönüştür</string>
+  <string name="preferences_popup_alert_smart_summary_new">Zamana duyarlı olaylar, tam zamanı olan olaylardır</string>
+  <string name="setting_desc_import_todo">Zamanlanmış görevleri Notlar\'dan içe aktar</string>
+  <string name="setting_title_import_todo">Görevleri içe aktar</string>
+  <string name="todo_audio_event">"[Sesli görev] "</string>
+  <string name="todo_event">Yaklaşan görevler</string>  
 </resources>

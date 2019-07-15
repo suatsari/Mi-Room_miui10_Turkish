@@ -1819,5 +1819,8 @@ d MMM"</string>
   <string name="keyguard_charging_quick_and_level_tip">Hızlı şarj %d%%</string>
   <string name="keyguard_charging_super_quick_and_level_tip">Hızlı şarj %d%%</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Daha</string>
-  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Giriş</string>  
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Giriş</string>
+  <string name="recents_task_screening">Yansıtılıyor…</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">Yansıtma yaparken Bölünmüş ekranı kullanamazsınız</string>
+  <string name="recents_dimiss_task">Temizle</string>  
 </resources>

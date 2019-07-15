@@ -63,5 +63,9 @@
     <plurals name="minute">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">Erteleme aralığı %d dakika olarak değiştirildi</item>
+        <item quantity="one">Erteleme aralığı %d dakika olarak değiştirildi</item>
     </plurals>	
 </resources>

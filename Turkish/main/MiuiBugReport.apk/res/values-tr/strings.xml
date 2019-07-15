@@ -461,7 +461,7 @@
   <string name="feedback_title_reproductivity">Tekrarlanabilir olanı seçin</string>  
   <string name="app_search">Uygulamaları ara</string>
   <string name="issue_search">Arama</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;"Ekleriniz (varsa) ve kayıtlar (yükleme yapmak istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte geri bildiriminiz, MIUI sunucularına ve geliştiriciler için MIUI Forum\'un kısıtlı bir bölümüne gönderilecektir. Konularınız ve forum etkinliğiniz hakkındaki bilgiler, analiz ve daha fazla iletişim için de toplanacaktır. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global"><Data>"Geri bildiriminiz, ekleri (varsa) ve günlükleri (yüklemek istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte MIUI sunucularına gönderilir. Günlükler kişisel bilgilerinizi ve konum verilerinizi içerebilir. \"Kabul et\" öğesini seçmek, &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmesi&lt;/a> metnini okuduğunuz ve kabul ettiğiniz anlamına gelir."</Data></string>
   <string name="feedback_status_collect_log_failed">Günlükler alınamadı</string>
   <string name="feedback_status_get_and_save_bbs_info_failed">Ek URL adresi alınamadı</string>
   <string name="feedback_status_save_log_info_failed">Ek URL adresi alınamadı</string>
@@ -484,7 +484,7 @@
   <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
   <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
   <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
-  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel verimliliğini etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
+  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel performansını etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
   <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
   <string name="catch_full_log_item_content_catch_direct">"1. Rapor etmek ve çoğaltmak istediğiniz özelliğe geri dönün.
 2. Bu sayfaya geri dönün ve \"Bitir ve yükle\"\'ye dokunun."</string>
