@@ -428,10 +428,12 @@
   <string name="notification_channel_sim2_description">SIM 2 mesajları ile ilgili bildirimler</string>
   <string name="notification_channel_sim2_name">SIM 2 mesajları</string>
   <string name="notification_copy">OTP kopyala</string>
+  <string name="notification_delete">Sil</string>
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">Mesajlar gönderilmedi</string>
   <string name="notification_group_name">Mesajlaşma</string>
   <string name="notification_multiple_title">Yeni mesajlar</string>
+  <string name="notification_seen">Okundu işaretle</string>
   <string name="number_add_hint">Telefon numarasını girin</string>
   <string name="number_recognition_partner">Gönderen kimliği tanıma servis sağlayıcıları</string>
   <string name="open_audio_record_panel">Ses kaydı için paneli açın</string>
