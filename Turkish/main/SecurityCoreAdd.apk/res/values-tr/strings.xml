@@ -20,6 +20,7 @@
   <string name="can_not_delete_when_calling">Bir çağrı sırasında alan silinemez</string>
   <string name="can_not_switch_when_calling">Çağrı sırasında alanlar arasında geçiş yapamazsınız</string>
   <string name="can_not_switch_when_green_kid_active">İkinci alana geçiş ebeveyn denetimleri tarafından kısıtlanmış</string>
+  <string name="can_not_switch_when_super_power_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamazsınız</string>
   <string name="cancel_button">İptal</string>
   <string name="cancelClosePassword">Kapatma!</string>
   <string name="changePassword">Şifreyi değiştir</string>

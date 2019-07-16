@@ -2274,6 +2274,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="keywords_wifi">wifi WLAN ağ bağlantısı</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, çağrı, arama</string>
   <string name="keywords_write_settings">sistem ayarlarını değiştir</string>
+  <string name="kid_space_settings">Çocuk alanı</string>
   <string name="kilobyte_per_second">K/sn</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_mi_stats">Mi analizi</string>

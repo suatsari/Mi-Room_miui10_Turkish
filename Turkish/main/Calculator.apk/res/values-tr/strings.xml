@@ -833,5 +833,13 @@
   <string name="float_window_guide_text">Hesap makinesini küçültmek için buraya dokunun</string>
   <string name="hint_floatwindow_alpha_guide_text">Opaklığı ayarlamak için dokunun</string>
   <string name="view_float_window_move">Küçültülmüş Hesap makinesini taşı</string>
-  <string name="tax_rate_provider_east_money">Yeni vergi düzenlemelerine göre hesaplandı. Veriler East Money tarafından sağlanmaktadır.</string>  
+  <string name="tax_rate_provider_east_money">Yeni vergi düzenlemelerine göre hesaplandı. Veriler East Money tarafından sağlanmaktadır.</string>
+  <string name="choose_radix">Sayısal sistemi seçin</string>
+  <string name="convertion_unit_radix">Sayısal sistem</string>
+  <string name="item_title_radix">Sayısal sistem</string>
+  <string name="unit_data_display_currency_bdt">Bangladeş takası</string>
+  <string name="unit_data_display_radix_10">Ondalık</string>
+  <string name="unit_data_display_radix_16">Onaltılık</string>
+  <string name="unit_data_display_radix_2">İkilik</string>
+  <string name="unit_data_display_radix_8">Sekizlik</string>  
 </resources>

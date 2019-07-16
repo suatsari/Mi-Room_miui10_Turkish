@@ -220,5 +220,6 @@
   <string name="content_description_web_url">Gözat</string>
   <string name="content_description_translate">Çevir</string>
   <string name="content_description_share">Paylaş</string>
-  <string name="frequent_email">Sık e-posta</string>  
+  <string name="user_switching_dialog_switch_into_kid_space">Çocuk alanına geçiliyor…</string>
+  <string name="user_switching_dialog_switch_out_kid_space">Çocuk alanından çıkılıyor…</string>  
 </resources>
