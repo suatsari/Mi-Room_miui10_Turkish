@@ -2598,7 +2598,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="master_clear_desc_erase_external_storage">\"\n\nMüzik, resim, ve diğer kullanıcı verilerini temizlemek içine \"SD kart silinmek zorunda...</string>
   <string name="master_clear_erase_application_progress">Uygulamalar siliniyor...</string>
   <string name="master_clear_failed">Sistem Temizleme hizmeti kullanılamadığından sıfırlama yapılmadı.</string>
-  <string name="master_clear_final_button_text">Herşeyi sil</string>
+  <string name="master_clear_final_button_text">Her şeyi sil</string>
   <string name="master_clear_final_desc">Tüm kişisel bilgileriniz ve indirilen uygulamalar silinsin mi? Bu işlemi geri alamazsınız!</string>
   <string name="master_clear_not_available">Fabrika sıfırlaması bu kullanıcı için geçerli değildir</string>
   <string name="master_clear_other_users_present">\n\nBurada diğer kullanıcılar va\n</string>
@@ -4533,7 +4533,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="storage_wizard_format_progress_title">^1 biçimlendiriliyor…</string>
   <string name="storage_wizard_init_external_summary">Fotoğraflar ve diğer medya arasında taşıyın.</string>
   <string name="storage_wizard_init_external_title">Taşınabilir depolama olarak kullan</string>
-  <string name="storage_wizard_init_internal_summary">Bu cihazda sadece herşey depolanıyor, uygulama ve fotoğraflar ekleniyor. Diğer cihazlarla biçimlendirme isteğini engelle.</string>
+  <string name="storage_wizard_init_internal_summary">Uygulamalar ve fotoğraflar da dahil olmak üzere yalnızca bu cihazda bir şey saklamak için. Diğer cihazlarla çalışmasını engelleyen biçimlendirme gerektirir.</string>
   <string name="storage_wizard_init_internal_title">Dahili depolama olarak kullan</string>
   <string name="storage_wizard_init_title">^1 Ayarla</string>
   <string name="storage_wizard_migrate_body">Fotoğraflar, dosyalar ve bazı uygulamalar yeni ^1 taşınabilir.\n\nDahili depolamada ^2 ve ^3 taşınacak. Bazı uygulamalar bunun sonucunda çalışmayabilir.</string>

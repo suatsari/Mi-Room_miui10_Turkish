@@ -658,24 +658,24 @@
     <item>Standart</item>
   </string-array>
   <string-array name="color_picker">
-    <item>Yeşilimsi Mavi</item>
+    <item>Yeşilimsi mavi</item>
     <item>Mavi</item>
-    <item>Çivit Mavisi</item>
+    <item>Çivit mavisi</item>
     <item>Mor</item>
     <item>Pembe</item>
     <item>Kırmızı</item>
   </string-array>
   <string-array name="common_password_business_names">
-    <item>Kilit Ekranı</item>
-    <item>Gizlilik Şifresi</item>
-    <item>Çocuk Modu</item>
-    <item>Dosya Gezgini</item>
-    <item>Uygulama Kilidi</item>
-    <item>İkinci Alan</item>
+    <item>Kilit ekranı</item>
+    <item>Gizlilik şifresi</item>
+    <item>Çocuk modu</item>
+    <item>Dosya gezgini</item>
+    <item>Uygulama kilidi</item>
+    <item>İkinci alan</item>
   </string-array>
   <string-array name="connect_mode_entries">
-    <item>Uyumluluk Modu</item>
-    <item>Yüksek Mod</item>
+    <item>Uyumluluk modu</item>
+    <item>Yüksek mod</item>
   </string-array>
   <string-array name="data_usage_data_range">
     <item>Son 30 gün</item>

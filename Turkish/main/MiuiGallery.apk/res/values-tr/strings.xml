@@ -221,7 +221,7 @@
   <string name="cleaner_slim_start">Optimize</string>
   <string name="cleaner_slim_title">Fotoğrafları optimize et</string>
   <string name="cleaner_space_description">serbest bırakılabilir</string>
-  <string name="cleaner_space_detail_description">Depolama alanınızı boşaltmak için Galerinizdeki fotoğrafları temizleyin</string>
+  <string name="cleaner_space_detail_description">Depolama alanını boşaltmak için Galeri\'nizden fotoğrafları temizleyin</string>
   <string name="cleaner_stop_scan">Taramayı durdur</string>
   <string name="click_download_gif">gif indirmek için tıklayın</string>
   <string name="click_top_right">Bu simgeye dokunun</string>
