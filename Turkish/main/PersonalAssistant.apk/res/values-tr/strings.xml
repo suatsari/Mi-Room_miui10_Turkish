@@ -3,7 +3,7 @@
   <string name="access_change_text" formatted="false">Şu anda seçilen öğe, %d öğesiyle değiştirilen %d öğesidir.</string>
   <string name="access_select">%s seçili</string>
   <string name="access_unselect">%s seçimi kaldırıldı</string>
-  <string name="accessibility_title">Uygulama Kasası</string>
+  <string name="accessibility_title">Uygulama kasası</string>
   <string name="accordingto_position">GPS kullanarak sık kullanılan yerleri tanı</string>
   <string name="account_address">Adres</string>
   <string name="add_stock">Ekle</string>
@@ -51,7 +51,7 @@
   <string name="alipay_sdk_tiemout">Oturum süresi doldu. Tekrar oturum açın.</string>
   <string name="already">Tamamlanan:</string>
   <string name="amount_ten_million_format">%s万</string>
-  <string name="app_label">Uygulama Kasası</string>
+  <string name="app_label">Uygulama kasası</string>
   <string name="app_setting">Bilgi asistanı ayarları</string>
   <string name="app_setting_add_header_bg">Arka plan resmi ekle</string>
   <string name="app_setting_datetime">Tarih göstergesi</string>
@@ -150,7 +150,7 @@
   <string name="card_expand_note_clear">Temizle</string>
   <string name="card_expand_note_clear_all">Temizle</string>
   <string name="card_expand_note_dialog_button">Anladım</string>
-  <string name="card_expand_note_dialog_message">Uygulama Kasası\'nda \"Kaydet\" düğmesine her dokunuşunuzda yeni bir not oluşturulur.</string>
+  <string name="card_expand_note_dialog_message">Uygulama kasasında \"Kaydet\" düğmesine her dokunuşunuzda yeni bir not oluşturulur.</string>
   <string name="card_expand_note_dialog_title">Notları kaydet</string>
   <string name="card_expand_note_sure_clear_all">Şimdi temizle</string>
   <string name="card_expand_note_toast_clear_null">Başarıyla silindi</string>
@@ -212,7 +212,7 @@
   <string name="cta_dialog_miot_text_all">Mi Ev\'in normal şekilde çalışabilmesi için, ağınızı, konumunuzu, Bluetooth\'unuzu açmak için yetkilendirilmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>
   <string name="cta_dialog_negative">Çık</string>
   <string name="cta_dialog_positive">Kabul et</string>
-  <string name="cta_dialog_text_all">Uygulama Kasası\'nı kullanmak için %1$s \"Kullanıcı Sözleşmesi\" %2$s ve %3$s \"Gizlilik Politikası\" %4$s okumalı ve kabul etmelisiniz. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor.</string>
+  <string name="cta_dialog_text_all">Uygulama kasasını kullanmak için %1$s \"Kullanıcı Sözleşmesi\" %2$s ve %3$s \"Gizlilik Politikası\" %4$s okumalı ve kabul etmelisiniz. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor.</string>
   <string name="cta_dialog_title">Şartlar ve Hükümler</string>
   <string name="cta_negative">Kapat</string>
   <string name="cta_positive">Ayrıntılar</string>
@@ -705,7 +705,7 @@
   <string name="miot_device_network_error">Bağlantı yok</string>
   <string name="miot_device_no_recent_frame">Görüntülemek için dokunun</string>
   <string name="miot_device_personal_assistant_eula">Kullanıcı Sözleşmesi</string>
-  <string name="miot_device_personal_assistant_eula_priv">" ve Uygulama Kasası\'nın "</string>
+  <string name="miot_device_personal_assistant_eula_priv">" ve Uygulama kasasının "</string>
   <string name="miot_device_personal_assistant_priv">Gizlilik Politikası</string>  
   <string name="miot_device_show_frame_toast">Resim görüntüsü</string>
   <string name="miot_device_shrink_list">Daralt</string>
@@ -743,7 +743,7 @@
   <string name="navigation_network_location_enable">Kabul</string>
   <string name="navigation_network_location_enable_later">İptal</string>
   <string name="navigation_network_location_enabled">Konum hizmetleri açık. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
-  <string name="navigation_network_location_not_enabled_summary">Uygulama Kasası bulunduğunuz yere göre önerilerde bulunur. Daha iyi bir deneyim için konum servislerini açın.</string>
+  <string name="navigation_network_location_not_enabled_summary">Uygulama kasası bulunduğunuz yere göre önerilerde bulunur. Daha iyi bir deneyim için konum servislerini açın.</string>
   <string name="navigation_network_location_not_enabled_title">Konum servislerini aç</string>
   <string name="navigation_search_automatically_positioned_city">Bulunduğu yeri kullanarak şehir hakkında bilgi edinin</string>
   <string name="navigation_search_current_city">Şu anki şehir:</string>
@@ -770,7 +770,7 @@
   <string name="notification_content_fail_not_support">Ödeme bilgisi alınamadı, kaydı elle ekleyin.</string>
   <string name="notification_content_fail_stay_longer">Ödeme sayfasında en az 1 saniye bekleyin</string>
   <string name="notification_express_app_open">Aç</string>
-  <string name="notification_express_content">Uygulama Kasası\'nı kullanarak siparişleri takip et</string>
+  <string name="notification_express_content">Uygulama kasasını kullanarak siparişleri takip et</string>
   <string name="notification_express_title">Alışveriş uygulamalarından kartları aç</string>
   <string name="notification_title">Favorilere eklendi</string>
   <string name="notification_title_fail">Ödeme eklenemedi</string>
@@ -816,7 +816,7 @@
   <string name="payment_pref_source_mms_summary">Metin mesajlarından ödeme bilgilerini al</string>
   <string name="payment_pref_source_wechat_summary">WeChat\'ten ödeme bilgilerini al</string>
   <string name="payment_privacy_dialog_cancel">Çıkış</string>
-  <string name="payment_privacy_dialog_message">\"Ödemelerim\", büyük ödeme uygulamalarından faturaları tek bir yerde toplamanıza olanak tanır. Tüm ödeme bilgileri şifrelenecek ve cihazınızda güvenli bir şekilde saklanacaktır. Mi Bulut ile senkronize edilmez veya başka bir sunucuya yüklenmez. Ayarlar\'dan \"Ödemelerim\" özelliğini kapatabilir veya bu hizmeti kullanmayı durdurmak için bu kartı Uygulama Kasası\'ndan kaldırabilirsiniz.. Kabul?</string>
+  <string name="payment_privacy_dialog_message">\"Ödemelerim\", büyük ödeme uygulamalarından faturaları tek bir yerde toplamanıza olanak tanır. Tüm ödeme bilgileri şifrelenecek ve cihazınızda güvenli bir şekilde saklanacaktır. Mi Bulut ile senkronize edilmez veya başka bir sunucuya yüklenmez. Ayarlar\'dan \"Ödemelerim\" özelliğini kapatabilir veya bu hizmeti kullanmayı durdurmak için bu kartı Uygulama kasasından kaldırabilirsiniz.. Kabul?</string>
   <string name="payment_privacy_dialog_ok">Kabul</string>
   <string name="payment_privacy_dialog_title">\"Ödemelerim\" Gizlilik Politikası</string>
   <string name="payment_record_add">Ödeme ekle</string>
@@ -984,7 +984,7 @@
   <string name="shopping_support">Desteklenen uygulamalar</string>
   <string name="shortcut">Kısayollar</string>
   <string name="show_more">Daha fazla göster</string>
-  <string name="smart_assistant_enter_tip">Uygulama Kasası</string>
+  <string name="smart_assistant_enter_tip">Uygulama kasası</string>
   <string name="sms_address">Adres</string>
   <string name="sms_airline">Havayolu</string>
   <string name="sms_button_add_calendar">Takvime Ekle</string>
@@ -1080,7 +1080,7 @@
   <string name="trip_quick">Sürücü</string>
   <string name="trip_taxi">Taksi</string>
   <string name="try_again">Tekrar dene</string>
-  <string name="understandassistant">Uygulama Kasası Hakkında</string>
+  <string name="understandassistant">Uygulama kasası Hakkında</string>
   <string name="uninstall">Yüklü değil</string>
   <string name="unusual_weather">Hava durumu uyarıları</string>
   <string name="unusual_weather_open">Hava Durumu Alarmını aç</string>
