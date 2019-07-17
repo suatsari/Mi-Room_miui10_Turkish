@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Evrensel Oynatıcı Hizmeti</string>
-  <string name="notification_rc_desc">En iyi televizyon yardımcısıdır. Xiaomi fotoğraf ve uygulama kutusudur. Şimdi deneyebilirsiniz</string>
   <string name="casting_tips">Taranıyor...</string>
   <string name="console_guide_btn_got_it">Anladım</string>
   <string name="console_guide_subtitle_hang_up">Telefonun ekranı kapandığı tarafından yayın yapmayı kesmeyin. Bu özellik güç tüketimini artırabilir.</string>
