@@ -331,6 +331,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="local_backup_password_toast_validation_failure">Yedek şifre ayarlanamıyor</string>
   <string name="managed_user_title">Tüm iş uygulamaları</string>
   <string name="media_category">Medya</string>
+  <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="mobile_data_always_on">Hücresel veriler her zaman aktif</string>
   <string name="mobile_data_always_on_summary">Wi-Fi etkin olsa bile, mobil verileri her zaman aktif tutun (hızlı ağ değiştirmek için).</string>
   <string name="mock_location_app">Sahte konum uygulaması seçin</string>

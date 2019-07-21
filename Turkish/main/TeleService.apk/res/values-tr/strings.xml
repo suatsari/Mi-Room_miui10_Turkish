@@ -1525,9 +1525,9 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="volte_provision_title">VoLTE çağrılarını aktifleştir</string>
   <string name="volte_switch_not_support_summary">Mobil veri SIM kartı için VoLTE aramaları desteklenmiyor.</string>
   <string name="volte_switch_not_support_summary2">VoLTE görüşmeleri operatör tarafından desteklenmiyor.</string>
-  <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE kullanın</string>
+  <string name="volte_switch_summary">Sesli çağrıların kalitesini artırmak için VoLTE kullanın</string>
   <string name="volte_switch_summary2">Operatörün açılmadan önce bu özelliği desteklediğini onaylayın.. Aksi takdirde, normal çağrılar etkilenebilir.</string>
-  <string name="volte_switch_title">VoLTE etkin</string>
+  <string name="volte_switch_title">VoLTE kullan</string>
   <string name="volte_tips_when_turn_on">Çin Telecom VoLTE servisleri sadece VoLTE şebeke kapsama alanı olan alanlarda sağlanmaktadır. VoLTE hizmetleri operatör tarafından sağlanmaktadır.</string>
   <string name="vpn_settings_not_available">Bu kullanıcı için VPN ayarları mevcut değil</string>
   <string name="vvm_unsupported_message_format">Desteklenmeyen mesaj türü, dinlemek için %s arayın.</string>
@@ -1570,7 +1570,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="wrong_password">Girdiğiniz şifre yanlış</string>
   <string name="msim_cmcc_dds_switch_not_support">Operatör kısıtlamaları nedeniyle SIM kart değiştiremezsiniz.</string>
   <string name="vice_card_data_in_use_alert">Ek veri ücretleri oluşturulabilir.</string>
-  <string name="volte_switch_title_ct">VoLTE etkin</string>  
+  <string name="volte_switch_title_ct">VoLTE</string>  
   <string name="voice_service_cannot_call_notification_content">Arama yapmaya çalışırken bağlantı sorunları yaşayabilirsiniz.</string>
   <string name="voice_service_cannot_call_notification_title">Mevcut ağda arama yapılamıyor</string>
   <string name="voice_service_switch_summary">VoLTE şebekelerinde VoLTE arama işlevini kullanabilmek için açın</string>

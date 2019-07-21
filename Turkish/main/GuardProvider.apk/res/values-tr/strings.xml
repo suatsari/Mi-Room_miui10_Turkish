@@ -12,7 +12,7 @@
   <string name="avast_dialog_cloudscan"/>
   <string name="avast_dialog_dbupdate"/>
   <string name="avast_dialog_header">"Bu özellik şifrelidir ve Avast'ın sunucularına (%s) cihazınızın kimliği bu şekilde gönderilir."</string>
-  <string name="avast_dialog_policy">Kullanım Şartlarına gözat</string>
+  <string name="avast_dialog_policy">Gizlilik Politikası</string>
   <string name="avast_dialog_title">"Avast'ın Kullanım Şartları"</string>
   <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
   <string name="avast_virus_type_adware_description">Bu virüs reklam içeriklidir. Otomatik olarak oluşturanın reklamlarını gösterir.</string>
@@ -30,7 +30,7 @@
   <string name="avast_virus_type_unknown_description">Bilinmeyen enfeksiyon türü.</string>
   <string name="avast_virus_type_worm_description">Bu virüs solucandır. Diğer cihazlara yayılmak için kendini çoğaltır, bağımsız bir malware tabanlıdır. (Örneğin ağ gibi) sisteminin dosya veya bilgi taşıma özelliklerinden yararlanır, herhangi bir insan eylemi olmaksızın seyahat edebilir. Solucanlar hemen hemen her zaman ağ için az bir zarar verebilir.</string>
   <string name="avl_dialog_header">"Bu özellik cihaz kimliğini şifleyerek AVL sunucularına gönderir (%s)."</string>
-  <string name="avl_dialog_policy">Gizlilik Kurallarına Gözat</string>
+  <string name="avl_dialog_policy">Gizlilik Politikası</string>
   <string name="avl_dialog_title">"AVL'nin Gizlilik Kuralı"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
   <string name="hello_world">Merhaba Dünya!</string>
@@ -38,7 +38,7 @@
   <string name="tencent_dialog_cloudscan">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntıları tarayın.</string>
   <string name="tencent_dialog_dbupdate">Virus tanımlamalarını otomatik olarak güncelle</string>
   <string name="tencent_dialog_header">"Bu özellik cihaz kimliğini şifreleyerek Tencent sunucularına gönderir (%s)."</string>
-  <string name="tencent_dialog_policy">Gizlilik Kuralına Gözat</string>
+  <string name="tencent_dialog_policy">Gizlilik Politikası</string>
   <string name="tencent_dialog_title">Tencent’in Gizlilik Kuralı</string>
   <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
   <string name="title_activity_main">Esas Faaliyet</string>

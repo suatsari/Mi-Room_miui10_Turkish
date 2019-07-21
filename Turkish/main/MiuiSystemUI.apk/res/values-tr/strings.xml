@@ -664,6 +664,7 @@
   <string name="guest_wipe_session_message">Oturuma devam etmek ister misin?</string>
   <string name="guest_wipe_session_title">Hoş geldin, misafir!</string>
   <string name="guest_wipe_session_wipe">Baştan başla</string>
+  <string name="gxzw_add_fingerprint_area">Parmak izi tarayıcısı</string>
   <string name="gxzw_area">Parmak izi tarayıcısı</string>
   <string name="gxzw_press_harder">Biraz daha sert basın</string>
   <string name="gxzw_try_again">Tekrar deneyin</string>

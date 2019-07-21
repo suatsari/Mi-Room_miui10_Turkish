@@ -146,7 +146,8 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="restore_home_screen_apps">Mi Bulut yedeğinden geri yükle</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
-  <string name="restore_unfinished">Geri yüklüyor, daha sonra tekrar deneyin</string>
+  <string name="restore_unfinished">Geri yükleniyor, daha sonra tekrar deneyin</string>
+  <string name="restoring_data">Veriler geri yükleniyor…</string>
   <string name="retry">Yeniden Dene</string>
   <string name="settings_backup">Sistem Ayarları</string>
   <string name="size_unknown">Boyut bilinmiyor</string>

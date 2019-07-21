@@ -104,7 +104,7 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntılarını yükleyin ve tarayın.</string>
   <string name="antivirus_privacy_dialog_ok">Tamam</string>
   <string name="antivirus_privacy_dialog_summary">Bu özellik, cihaz kimliğinizi Avast, AVL ve Tencent sunucularına şifreler ve yükler (%s).</string>
-  <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikasını görüntüle</string>
+  <string name="antivirus_privacy_dialog_summary_link">Gizlilik Politikası</string>
   <string name="antivirus_privacy_dialog_title">Gizlilik Politikası</string>
   <string name="antivirus_sec_network_unavailable">İnternet bağlantısını kısıtladığınız için Güvenlik uygulaması güncellenemiyor. Güvenliğin internete bağlanmasına izin verilsin mi?</string>
   <string name="antivirus_toast_already_update">Güncel</string>
@@ -2762,5 +2762,17 @@ Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanab
   <string name="system_permission_perm_send_mms">MMS gönder</string>
   <string name="system_permission_perm_read_mms">MMS oku</string>
   <string name="system_permission_perm_answer_call">Çağrı yap</string>
-  <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>  
+  <string name="system_permission_perm_read_numbers">Telefon numaralarını oku</string>
+  <string name="gamebox_milink">Yansıt</string>
+  <string name="stop_milink_connect">Yansıtma durduruldu</string>
+  <string name="other_milink_connect">Yansıtılamadı. Şuan başka bir özellik yansıtılıyor.</string>
+  <string name="alert_back_milink_hangup_tips_content">Bir çağrıyı bitirirken yansıtma kesintiye uğramaz. Ekranı uyandırmak için Güç düğmesine basabilirsiniz.</string>
+  <string name="system_permission_declare_privacy_no_permission">"%1s normal çalışması için verilerinizi toplaması gerektiğini unutmayın.
+Gizliliğinize saygı duyuyor ve koruyoruz."</string>
+  <string name="system_permission_declare_use_network_no_permission">Ağa bağlan</string>
+  <string name="system_permission_declare_revoke_uninstallable">Bu uygulamayı kaldırabilir veya izinlerinizi ve yetkilendirmenizi  Güvenlik &gt; Uygulamalrı yönet &gt; İzinler &gt; Diğer izinler bölümünde yönetebilirsiniz.</string>
+  <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string> - from this app? it's wrong English, already reported
+  <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="system_permission_declare_disagree">Kabul etmiyorum</string>  
 </resources>
