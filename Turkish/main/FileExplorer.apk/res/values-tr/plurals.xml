@@ -208,4 +208,9 @@
     <item quantity="few">%1$s görüntüle</item>
     <item quantity="many">%1$s görüntüle</item>
   </plurals>
+  <plurals name="text_group_count">
+    <item quantity="other">%d öğe</item>
+    <item quantity="zero"> %1$d öğe</item>
+    <item quantity="one">%d öğe</item>
+  </plurals>   
 </resources>

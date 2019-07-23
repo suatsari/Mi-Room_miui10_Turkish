@@ -1648,5 +1648,18 @@ Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."
   <string name="fiveg_upperlayer_indication1">"Üst Katman Gösterge Durumu[Slot1] : "</string>
   <string name="fiveg_upperlayer_indication2">"Üst Katman Gösterge Durumu[Slot2] : "</string>
   <string name="china_mobile_palm_category">Operatör Hizmeti</string>
-  <string name="china_mobile_palm_title">CMCC Çevrimiçi Servis Salonu</string>  
+  <string name="china_mobile_palm_title">CMCC Çevrimiçi Servis Salonu</string>
+  <string name="clear_all_set_button">ayarı temizle</string>
+  <string name="clear_all_set_title">bu düğme tüm ayarları silmek içindir</string>
+  <string name="eps_only_set_button">sadece eps ayarla</string>
+  <string name="eps_only_set_title">bu düğme sadece eps ayarlamak içindir</string>
+  <string name="frequecy_num">lte kanal numarası</string>
+  <string name="lte_band_sel_setting">bant listesi</string>
+  <string name="lte_band_set_status">lte bantı ayarla</string>
+  <string name="lte_freq_set_button">frekans ve pci ayarla</string>
+  <string name="modem_set_title">MODEM AYARI</string>
+  <string name="modem_setting_button_title">Ayar menüsüne girin</string>
+  <string name="modem_setting_info">MODEM AYAR BİLGİSİ</string>
+  <string name="modem_setting_text_title">modem test özelliği ayarı</string>
+  <string name="pci_num">lte pci numarası</string>  
 </resources>

@@ -12,7 +12,7 @@
   <string name="album_name">Günlük Seçilen: %s</string>
   <string name="all_topic">Tüm başlıklar</string>
   <string name="already_liked">Zaten bu öğeyi beğenildi</string>
-  <string name="app_name">Dosyalar</string>
+  <string name="app_name">@string/home_title</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Paketler</string>
@@ -325,7 +325,7 @@
   <string name="mobile_network_dialog_tip">Bu sayfayı görüntülemek için mobil veri bağlantısı kullanılsın mı? Bu işlemi gerçekleştirmek operatörünüzün mobil kullanımdan dolayı ücret talep etmesine neden olabilir.</string>
   <string name="mobile_network_dialog_title">Mobil Veri Uyarısı</string>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">Kesilemiyor</string>
+  <string name="move_failed">Öğeler taşınamadı</string>
   <string name="move_icon_to_desktop_hint">Gezginin daha verimli dosyaları yönetmesi için ana ekrana kısayolunu oluşturun.</string>
   <string name="move_icon_to_desktop_success">Kısayol Ana Ekrana eklendi.</string>
   <string name="move_to">Taşı:</string>
@@ -338,7 +338,7 @@
   <string name="need_login">Önce oturum açın</string>
   <string name="need_read_storage_permission">Çalışmak için tasarlanan gezginin cihazın dahili depolamasına erişimesi gerekiyor</string>
   <string name="network_dialog_checkbox_tip">Tekrar gösterme</string>
-  <string name="network_not_available">Ağa bağlanamıyor</string>
+  <string name="network_not_available">Ağa bağlanılamıyor</string>
   <string name="network_spent_reminding">Bu sayfayı görüntülemek için mobil veri bağlantısı kullanılsın mı? Mobil verinin artmasından dolayı operatörünüz ek ücret talep edebilir.</string>
   <string name="network_spent_reminding_title">Veri Kullanım Bildirimi</string>
   <string name="new_comments">Yeni Yorumlar</string>
@@ -395,7 +395,7 @@
   <string name="operation_hide_sys">Gizli dosyaları gösterme</string>
   <string name="operation_info">Ayrıntılar</string>
   <string name="operation_like">Favoriler</string>
-  <string name="operation_move">Kes</string>
+  <string name="operation_move">Taşı</string>
   <string name="operation_moving">Taşınıyor...</string>
   <string name="operation_other_apps">Başka bir uygulamada aç</string>
   <string name="operation_paste">Yapıştır</string>
@@ -819,5 +819,19 @@
   <string name="request_document_permission_title">İzin gerekli</string>
   <string name="ftp_anonymous_warning_msg">Anonimleştirme özellikleri güvenlik riskleri oluşturabilir. Yine de özelliği kullan?</string>
   <string name="ftp_anonymous_warning_title">Dikkat</string>
-  <string name="home_action_up">Geri</string>  
+  <string name="home_action_up">Geri</string>
+  <string name="category_source">Kaynak</string>
+  <string name="category_time">Zaman</string>
+  <string name="create_folder">Oluştur</string>
+  <string name="doc_all">Tümü</string>
+  <string name="home_title">Dosyalar</string>
+  <string name="otg_file_security_confirm">telefona kopyala</string>
+  <string name="otg_file_security_details">Lütfen telefona kopyalayın</string>
+  <string name="otg_file_security_note">OTG Güvenliği</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="start_doc">Dosyalar</string>
+  <string name="start_phone">Depolama</string>
+  <string name="tab_app">Daha fazla</string>
+  <string name="text_select_all">Tümünü seç</string>
+  <string name="text_select_nothing">Hiçbirini seçme</string>  
 </resources>

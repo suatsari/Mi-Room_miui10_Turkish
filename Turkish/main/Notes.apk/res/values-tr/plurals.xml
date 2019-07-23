@@ -40,4 +40,36 @@
     <item quantity="other">%d karakter</item>
     <item quantity="one">%d karakter</item>
   </plurals>
+  <plurals name="date_calculate_days_after">
+    <item quantity="other">%1$d gün sonra</item>
+    <item quantity="one">%1$d gün sonra</item>
+  </plurals>
+  <plurals name="date_calculate_days_ago">
+    <item quantity="other">%1$d gün önce</item>
+    <item quantity="one">%1$d gün önce</item>
+  </plurals>
+  <plurals name="todo_N_days_after">
+    <item quantity="other">%1$d gün içinde</item>
+    <item quantity="one">%1$d gün içinde</item>
+  </plurals>
+  <plurals name="todo_N_days_ago">
+    <item quantity="other">%1$d gün önce</item>
+    <item quantity="one">%1$d gün önce</item>
+  </plurals>
+  <plurals name="todo_alert_message_delete">
+    <item quantity="other">%1$s görev silinsin mi?</item>
+    <item quantity="one">%1$s görev silinsin mi?</item>
+  </plurals>
+  <plurals name="todo_event_description_days_ago">
+    <item quantity="other">%1$d gün önce</item>
+    <item quantity="one">%1$d gün önce</item>
+  </plurals>
+  <plurals name="todo_event_description_days_later">
+    <item quantity="other">%1$d gün içinde</item>
+    <item quantity="one">%1$d gün içinde</item>
+  </plurals>
+  <plurals name="todo_terms">
+    <item quantity="other">%1$s not</item>
+    <item quantity="one">%1$s not</item>
+  </plurals>  
 </resources>
