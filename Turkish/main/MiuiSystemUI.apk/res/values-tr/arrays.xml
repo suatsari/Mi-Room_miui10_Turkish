@@ -78,6 +78,7 @@
     <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+	<item>LHDC</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
@@ -89,6 +90,7 @@
     <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+	<item>LHDC</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>

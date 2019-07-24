@@ -330,12 +330,12 @@
     <item quantity="one">%d uygulama</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">%d uygulama gizlenebilir</item>
-    <item quantity="one">%d uygulama gizlenebilir</item>
+    <item quantity="other">%d uygulamala için Ana ekran simgesi gizlendi</item>
+    <item quantity="one">%d uygulamala için Ana ekran simgesi gizlendi</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">%d uygulama gizli</item>
-    <item quantity="one">%d uygulama gizli</item>
+    <item quantity="other">%d uygulamala için Ana ekran simgesi gizli değil</item>
+    <item quantity="one">%d uygulamala için Ana ekran simgesi gizli değil</item>
   </plurals>
   <plurals name="reset_data_dialog_ok_tick">
     <item quantity="other">Fabrika sıfırlama (%ds)</item>

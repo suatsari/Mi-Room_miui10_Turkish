@@ -6660,5 +6660,19 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="screen_dark_mode_advanced_title">Gelişmiş</string>
   <string name="screen_dark_mode_smart_dark_title">Küresel karanlık modu</string>
   <string name="screen_dark_mode_smart_dark_summary">Üçüncü taraf uygulamalara da karanlık modu uygulayın. Bazı uygulamalar yanlış görüntülenebilir</string>
-  <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>  
+  <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency">Bluetooth Ses LHDC Kodeği: Gecikme</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Bluetooth Ses LHDC Kodeğini Seçin:
+Gecikme"</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Bluetooth Ses LHDC Kodeği: Oynatma Kalitesi</string>
+  <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Bluetooth Ses LHDC Kodeğini Seçin:
+Oynatma Kalitesi"</string>
+  <string name="bt_lhdc_declaration">Bir Bluetooth cihazı LHDC desteklediğinde, varsayılan olarak bağlanacaktır. LHDC yüksek kaliteli bir ses deneyimi sağlar, ancak aynı zamanda güç tüketimini artırır. Bluetooth donanım sınırlamaları nedeniyle oynatma sırasında sorunlar oluşabilir.</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC, yüksek kaliteli bir ses deneyimi sağlar ve aynı zamanda daha yüksek güç tüketir
+Bu özellik [Ayarlar] \'dan kapatılabilir"</string>
+  <string name="bt_lhdc_dialog_title">Mevcut cihaz, varsayılan olarak bağlı olan LHDC destekliyor:</string>
+  <string name="bt_lhdc_open_dialog_summary">LHDC, yüksek kaliteli bir ses deneyimi sağlar, ancak aynı zamanda güç tüketimini artırır. Bluetooth donanım sınırlamaları nedeniyle oynatma sırasında sorunlar oluşabilir.</string>
+  <string name="bt_lhdc_open_dialog_title">LHDC açılsın mı?</string>
+  <string name="bt_lhdc_pre_title">LHDC</string>
+  <string name="bt_lhdc_property">Öznitelik</string>  
 </resources>

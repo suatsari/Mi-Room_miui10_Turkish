@@ -12,7 +12,7 @@
   <string name="ac_pre_notification_contentText">Kişisel bilgilerinizi koruyun</string>
   <string name="ac_pre_notification_contentTitle">Uygulama kilidini deneyin</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
-  <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gerekiyor</string>
+  <string name="ac_summaryOn">Korumalı uygulamaları açmak için şifreyi girin</string>
   <string name="ac_unmask_all_apps">Tüm uygulamalar için göster</string>
   <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmak izi ile kilidi açmadan önce şifreyi girin</string>
@@ -1248,8 +1248,8 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="notification_battery_consume_abnormal_title">Pil çok hızlı boşalıyor</string>
   <string name="notification_exit_power_save_mode">Pil Tasarrrufu kapatıldı</string>
   <string name="notification_exit_power_save_mode_subtitle">Pil %s şarj edildi.</string>
-  <string name="notification_mask_summary">Kilit Ekranı ve Bildirim alanındaki bildirim içeriğini gösterme</string>
-  <string name="notification_mask_title">İçeriği gizle</string>
+  <string name="notification_mask_summary">Korunan uygulamalar için bildirim içeriğini görüntüleme</string>
+  <string name="notification_mask_title">Bildirim içeriğini gizle</string>
   <string name="notification_masked_item">Bildirimleri gizle</string>
   <string name="notification_masked_subtitle">Uygulama kilidi ile korunan uygulamaların bildirimlerini gizle</string>
   <string name="notification_summary_cmcc_app_check">Detayları görüntülemek için dokunun.</string>
@@ -2774,5 +2774,11 @@ Gizliliğinize saygı duyuyor ve koruyoruz."</string>
   <string name="system_permission_declare_revoke_system">Bu uygulamadan çıkabilirsiniz.</string>
   <string name="system_permission_declare_user_agreement"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmesi&lt;/a> okuyun ve kabul edin.</Data></string>
   <string name="system_permission_declare_privacy_policy"><Data>Bu özelliği kullanmadan önce &lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> okuyun ve kabul edin.</Data></string>
-  <string name="system_permission_declare_disagree">Kabul etmiyorum</string>  
+  <string name="system_permission_declare_disagree">Kabul etmiyorum</string>
+  <string name="privacy_apps_shield_message_title">Bildirimleri gösterme</string>
+  <string name="privacy_apps_shield_message_summary">Korunan uygulamalar için bildirimleri gösterme</string>
+  <string name="privacy_apps_begin_use">Başla</string>
+  <string name="privacy_apps_next_stup">Sonraki</string>
+  <string name="privacy_apps_button_know">Anladım</string>
+  <string name="privacy_apps_tutorial_dlg_title">Gizli uygulamalar nasıl bulunur</string>  
 </resources>
