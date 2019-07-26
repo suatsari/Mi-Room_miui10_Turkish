@@ -31,9 +31,9 @@
   <string name="christmas_day">Yılbaşı</string>
   <string name="clank">Şıkırtı</string>
   <string name="clear_and_bright">Açık ve Parlak</string>
-  <string name="cloud_state_disabled">Mi Bulut ile eşitleme kapalı</string>
-  <string name="cloud_state_finished">Mi Bulut ile Eşitlendi</string>
-  <string name="cloud_state_syncing">Mi Bulut ile Eşitlendi</string>
+  <string name="cloud_state_disabled">Bulut ile eşitleme kapalı</string>
+  <string name="cloud_state_finished">Bulut ile eşitlendi</string>
+  <string name="cloud_state_syncing">Bulut ile eşitlendi</string>
   <string name="cold_dews">Soğuk Günler</string>
   <string name="country">Ülke</string>
   <string name="cowboy">Kovboy</string>

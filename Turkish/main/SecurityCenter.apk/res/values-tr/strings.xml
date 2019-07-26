@@ -447,7 +447,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="btn_start_diagnostic">Ağı Test Et</string>
   <string name="btn_stop_diagnostic">Dur</string>
   <string name="btn_text_already_opened">Açık</string>
-  <string name="btn_text_goto_power_rank">Pil sıralamasını görüntüle</string>
+  <string name="btn_text_goto_power_rank">Tüm istatistikleri görüntüle</string>
   <string name="btn_text_goto_setup">Ayarlar\'a git</string>
   <string name="btn_text_network_speed_detail">Bağlantı</string>
   <string name="btn_text_open_now">Aç</string>
@@ -2780,5 +2780,16 @@ Gizliliğinize saygı duyuyor ve koruyoruz."</string>
   <string name="privacy_apps_begin_use">Başla</string>
   <string name="privacy_apps_next_stup">Sonraki</string>
   <string name="privacy_apps_button_know">Anladım</string>
-  <string name="privacy_apps_tutorial_dlg_title">Gizli uygulamalar nasıl bulunur</string>  
+  <string name="privacy_apps_tutorial_dlg_title">Gizli uygulamalar nasıl bulunur</string>
+  <string name="battery_statistics_activity_title">Pil kullanım istatistikleri</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Sıralama</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Ayrıntılar</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Yüzde</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Miliamper saat</string>
+  <string name="pc_battery_detail_curve_reference_now">Şimdi</string>
+  <string name="pc_battery_detail_device_item_title">Pil kullanım istatistikleri</string>
+  <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
+  <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
+  <string name="pc_statistics_battery_use_hour_minute">Son şarjdan bu yana %1$ds %2$dd</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$ds %2$dd kaldı</string>  
 </resources>

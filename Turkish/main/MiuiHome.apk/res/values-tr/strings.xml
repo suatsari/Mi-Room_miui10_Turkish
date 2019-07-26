@@ -238,6 +238,7 @@
   <string name="multi_selecting_tips">Bir uygulamayı almak için simgesini sürükleyip buraya bırakın.</string>
   <string name="no_detail_page">Ayrıntı sayfası yok</string>
   <string name="no_space_toast">Yeterli alan yok</string>
+  <string name="no_space_toast_when_click_widget">Bu sayfada yeterli yer yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin.</string>
   <string name="normal_wallpaper">Duvar kağıdı</string>
   <string name="notification_installed">Başarıyla yüklendi</string>
   <string name="notification_open_button">Aç</string>

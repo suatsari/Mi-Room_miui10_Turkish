@@ -6654,8 +6654,8 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
 Şarj etme 90 saniye içinde başlamazsa bu özellik otomatik olarak kapanacaktır."</string>
   <string name="wireless_button">Diğer cihazları kablosuz olarak şarj edin</string>
   <string name="privacy_password_settings_summary">Gizlilik koruması şifresi, hassas bilgiler içerebilecek uygulamalar için kullanılır</string>
-  <string name="bluetooth_disable_mi_fast_connect">Mi Hızlı Bağlantı\'yı devre dışı bırak</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Mi Hızlı Bağlantı Özelliği\'ni devre dışı bırakın</string>
+  <string name="bluetooth_disable_mi_fast_connect">Mi Bağlantı\'yı devre dışı bırak</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Mi Hızlı Bağlantı özelliğini devre dışı bırakın</string>
   <string name="screen_dark_mode_time_title">Zamanlama</string>
   <string name="screen_dark_mode_advanced_title">Gelişmiş</string>
   <string name="screen_dark_mode_smart_dark_title">Küresel karanlık modu</string>

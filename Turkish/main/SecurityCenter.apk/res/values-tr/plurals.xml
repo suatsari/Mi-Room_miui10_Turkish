@@ -444,5 +444,21 @@
   <plurals name="pc_main_power_manager_minute">
     <item quantity="other">Tamamen şarj olmasına %s dakika</item>
     <item quantity="one">Tamamen şarj olmasına %s dakika</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_use_minute">
+    <item quantity="other">Son şarjdan bu yana %d dakika</item>
+    <item quantity="one">Son şarjdan bu yana %d dakika</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_use_second">
+    <item quantity="other">Son şarjdan bu yana %d saniye</item>
+    <item quantity="one">Son şarjdan bu yana %d saniye</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_last_minute">
+    <item quantity="other">%d dakika kaldı</item>
+    <item quantity="one">%d dakika kaldı</item>
+  </plurals>
+  <plurals name="pc_statistics_battery_last_hour">
+    <item quantity="other">%d saat kaldı</item>
+    <item quantity="one">%d saat kaldı</item>
   </plurals>  
 </resources>
