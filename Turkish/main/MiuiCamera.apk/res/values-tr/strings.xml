@@ -912,5 +912,14 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="pref_camera_lying_summary">Telefon yere paralel olduğunda mevcut yönlendirme hakkında bilgilendir</string>
   <string name="user_define_watermark_save">Kaydet</string>
   <string name="user_define_watermark_cancel">İptal</string>
-  <string name="zoom_no_support_tip_64M">64MP ultra net modda yakınlaştırma desteklenmiyor</string>  
+  <string name="zoom_no_support_tip_64M">64MP ultra net modda yakınlaştırma desteklenmiyor</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD kapalı</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD açık</string>
+  <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
+  <string name="ultra_pixel_32mp">32MP</string>
+  <string name="ultra_pixel_48mp">48MP</string>
+  <string name="ultra_pixel_64mp">64MP</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD kapalı</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD açık</string>
+  <string name="ultra_pixel_zoom_no_support_tip">Yakınlaştırma %s Ultra HD modunda çalışmıyor</string>  
 </resources>

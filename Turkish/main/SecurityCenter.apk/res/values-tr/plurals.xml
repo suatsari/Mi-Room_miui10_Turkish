@@ -316,7 +316,7 @@
   <plurals name="menu_text_antivirus_2">
     <item quantity="other">%d öğe</item>
     <item quantity="one">%d öğe</item>
-   </plurals>
+  </plurals>
   <plurals name="menu_text_antivirus_3">
     <item quantity="other">%d gün</item>
     <item quantity="one">%d gün</item>
@@ -330,12 +330,12 @@
     <item quantity="one">%d uygulama</item>
   </plurals>
   <plurals name="privacy_apps_enable_header_title">
-    <item quantity="other">%d uygulamala için Ana ekran simgesi gizlendi</item>
-    <item quantity="one">%d uygulamala için Ana ekran simgesi gizlendi</item>
+    <item quantity="other">%d uygulama simgesi gizli değil</item>
+    <item quantity="one">%d uygulama simgesi gizli değil</item>
   </plurals>
   <plurals name="privacy_apps_disable_header_title">
-    <item quantity="other">%d uygulamala için Ana ekran simgesi gizli değil</item>
-    <item quantity="one">%d uygulamala için Ana ekran simgesi gizli değil</item>
+    <item quantity="other">%d uygulama simgesi gizlendi</item>
+    <item quantity="one">%d uygulama simgesi gizlendi</item>
   </plurals>
   <plurals name="reset_data_dialog_ok_tick">
     <item quantity="other">Fabrika sıfırlama (%ds)</item>

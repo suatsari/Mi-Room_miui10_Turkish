@@ -1997,6 +1997,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="system_app">Sistem Uygulamaları</string>
   <string name="system_application">Sistem Uygulamaları</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Gerekli izinleri vermemeyi seçerseniz veya verilerinizi toplamamıza ve kullanmamıza izin vermezseniz, bu uygulama kısmen çalışamaz.</string>
   <string name="tab_blacklist">Engelli Listesi</string>
   <string name="tab_block_log_unKnowNumber">Özel Numara</string>
   <string name="tab_call">Çağrılar</string>

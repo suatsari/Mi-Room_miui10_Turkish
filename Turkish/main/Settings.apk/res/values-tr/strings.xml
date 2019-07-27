@@ -1061,8 +1061,9 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="check_update">Güncellemeleri denetle</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimler için gelen çağrı ses seviyesini kullan</string>
   <string name="checking_decryption">Denetleniyor…</string>
-  <string name="checking_find_device_status">Cihazı Bul durumu denetleniyor...</string>
-  <string name="checking_for_updates">Güncellemeler denetleniyor...</string>
+  <string name="checking_find_device_status">Cihazı Bul durumu denetleniyor…</string>
+  <string name="checking_for_updates">Güncellemeler denetleniyor…</string>
+  <string name="child_mode_settings">Ebeveyn denetimleri</string>
   <string name="choose_a_card_to_reset">Sıfırlamak için SIM kartı seçin</string>
   <string name="choose_profile">Profili seç</string>
   <string name="choose_smartcover_type">Kapak tipini seçin</string>
@@ -2019,7 +2020,12 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="gadget_wifi">WLAN</string>
   <string name="gallery_privacy_password_role_instruction">Özel fotoğraflarınız burada saklanır</string>
   <string name="game_controller_settings_category">Oyun Denetleyici</string>
+  <string name="game_mode_cta_dialog_agree">Kabul</string>
+  <string name="game_mode_cta_dialog_cancel">İptal</string>
+  <string name="game_mode_cta_dialog_message">Oyun modunun normal çalışması için internete bağlanması gerekir. Kabul ediyor musunuz?</string>
+  <string name="game_mode_cta_dialog_title">Gerekli izinler</string>
   <string name="game_mode_settings">Oyun modu</string>
+  <string name="game_mode_summary">Diğer uygulamalar için eşitleme ve arka plan ağ bağlantısını kısıtlarken, oyunlar için performansı artırın.</string>
   <string name="game_storage_settings">Oyunlar</string>
   <string name="gesture_preference_summary">Telefonunuzu kontrol etmek için hızlı hareketler</string>
   <string name="gesture_preference_title">Hareketler</string>
@@ -2694,6 +2700,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="mi_pay_summary">Otobüs kartı/Mi Ödeme/Kart Emülatörü</string>
   <string name="mi_service_app_detail">Veri kullanım detayları</string>
   <string name="mi_shopping_mall">Grup VKontakte</string>
+  <string name="mi_transfer">Mi Transfer</string>
   <string name="mi_upi_settings">Mi Ödeme Hesabı</string>
   <string name="misc_files">Çeşitli Dosyalar</string>
   <string name="misc_files_selected_count">" %2$d\'den %1$d seçildi"</string>
@@ -4049,7 +4056,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="security_relative">Güvenlik</string>
   <string name="security_settings_billing_desc">Bu uygulama sizden para alabilir:</string>
   <string name="security_settings_desc">Bu uygulama telefonunuzda aşağıdakilere erişebilir:</string>
-  <string name="security_settings_desc_multi">Bu uygulama telefonunuzda aşağıdakilere erişebilir. Performansı artırmak ve bellek kullanımını azaltmak için, bu izinlerin bazıları %1$s için kullanılabilir çünkü %2$s ile aynı süreçte çalışır:</string>
+  <string name="security_settings_desc_multi">Bu uygulama cihazınızda aşağıdakilere erişebilir. Performansı artırmak ve bellek kullanımını azaltmak için, bu izinlerin bazıları %1$s kullanabilir çünkü %2$s ile aynı süreçte çalışır:</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Sil</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">İsim</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Tamam</string>

@@ -642,7 +642,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="unlike">Hayır. Teşekkürler</string>
   <string name="untrusted_external_source_warning">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzdaki olası hasarlardan veya bu uygulamaların neden olabileceği kişisel verilerinizin sorumluluğunu üstlenmeyi kabul edersiniz.
 
-"<font size="15">Ayarlar > Ek ayarlar > Gizlilik > Özel uygulama erişimi > Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
+"<font size="15">Ayarlar &gt; Ek ayarlar &gt; Gizlilik &gt; Özel uygulama erişimi &gt; Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
   <string name="user_is_not_allowed_dlg_text">Geçerli kullanıcının bu kaldırma işlemini gerçekleştirmesine izin verilmiyor</string>
   <string name="user_is_not_allowed_dlg_title">İzin verilmedi</string>
   <string name="wear_app_channel">Android Wear uygulamalarını yükleme veya kaldırma</string>
@@ -662,7 +662,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="miui_failed_solution_1">Bu uygulamanın geçerli sürümünü kaldırın ve uygulamayı tekrar yükleyin.</string>
   <string name="miui_failed_solution_2">Yükleme paketi bozulmuş olabilir. Uygulamayı tekrar indirin.</string>
   <string name="miui_failed_solution_3">Yükleme paketini farklı bir yere kaydetmeyi deneyin.</string>
-  <string name="miui_failed_solution_4">Güvenlik > Temizleyici bölümünden depolama alanı boşaltın ve tekrar deneyin.</string>
+  <string name="miui_failed_solution_4">Güvenlik &gt; Temizleyici bölümünden depolama alanı boşaltın ve tekrar deneyin.</string>
   <string name="miui_failed_solution_5">Uyumlu bir yükleme paketi kullanmayı deneyin.</string>
   <string name="miui_failed_solution_6">Bu uygulamayı İkinci alandan kaldırın ve tekrar deneyin.</string>
   <string name="miui_failed_solution_7">GetApps\'tan bu uygulamanın en son sürümünü indirin.</string>
@@ -678,6 +678,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="untrusted_external_source_title">\"%1$s\" için uygulamaları yüklemesine izin verilsin mi?</string>
   <string name="untrusted_external_source_warning_2">"Bilinmeyen kaynaklardan gelen uygulamalar cihazınıza ve kişisel verilerinize zarar verebilir. Bu kaynaktan uygulamalar yükleyerek, telefonunuzdaki olası hasarlar veya bu uygulamaların neden olabileceği kişisel verileriniz için sorumluluğu kabul etmiş olursunuz.
 
-"<font size="15">Ayarlar > Ek ayarlar > Gizlilik > Özel uygulama erişimi > Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
+"<font size="15">Ayarlar &gt; Ek ayarlar &gt; Gizlilik &gt; Özel uygulama erişimi &gt; Bilinmeyen uygulamaları yükle bölümünden izinleri verebilir ve kısıtlayabilirsiniz.</font></string>
   <string name="virus_title_subtext">"Bu uygulama virüs içerebilir: "</string>  
 </resources>
