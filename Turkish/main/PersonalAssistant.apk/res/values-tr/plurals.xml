@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="agenda_count_down">
+    <item quantity="other">%d dakika içinde</item>
+    <item quantity="one">%d dakika içinde</item>
+  </plurals>
   <plurals name="assistant_day">
     <item quantity="other">%d gün içinde</item>
     <item quantity="one">%d gün içinde</item>
+  </plurals>
+  <plurals name="book_start_interval">
+    <item quantity="other">%d gün içinde kalkıyor</item>
+    <item quantity="one">%d gün içinde kalkıyor</item>
   </plurals>
   <plurals name="days_ago">
     <item quantity="other">%1$dgün önce</item>
