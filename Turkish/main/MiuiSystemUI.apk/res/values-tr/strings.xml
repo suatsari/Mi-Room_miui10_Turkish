@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-  <string name="abc_action_bar_home_description">Eve git</string>
+  <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
@@ -12,7 +12,7 @@
   <string name="abc_capital_on">Açık</string>
   <string name="abc_search_hint">Arama…</string>
   <string name="abc_searchview_description_clear">Sorguyu temizle</string>
-  <string name="abc_searchview_description_query">Arama sorgusu</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
   <string name="abc_searchview_description_search">Arama</string>
   <string name="abc_searchview_description_submit">Sorguyu gönder</string>
   <string name="abc_searchview_description_voice">Sesli arama</string>
@@ -1067,7 +1067,7 @@ almak için dokunun"</string>
   <string name="oldman_airplane_mode_text">Uçak modu</string>
   <string name="oldman_incall_text">Aramaya dön</string>
   <string name="open_camera_hint_text">Kamera\'yı açmak için simgeyi sürükleyin</string>
-  <string name="open_remote_center_hint_text">Kontrolleri görüntülemek için simgeyi sürükleyin</string>
+  <string name="open_remote_center_hint_text">Kısayolları açmak için sağa kaydırın</string>
   <string name="other">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="overview">Genel bakış</string>
@@ -1746,7 +1746,7 @@ d MMM"</string>
   <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
   <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
   <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
-  <string name="open_lock_screen_magazine_hint_text">Duvar Kağıdı Döngüsü\'nü açmak için simgeyi sürükleyin</string>
+  <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydırın</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
   <string name="recents_title_game">Oyunlar</string>
   <string name="recents_title_garbage_cleanup">Temizleyici</string>

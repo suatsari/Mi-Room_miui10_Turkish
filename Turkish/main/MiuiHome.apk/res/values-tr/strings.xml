@@ -299,7 +299,7 @@
   <string name="reset_scene_prompt">Ekran varsayılan düzene sıfırlanacaktır.</string>
   <string name="reset_title">Geri yükle</string>
   <string name="screen_cells_config_title">Ana ekran düzeni</string>
-  <string name="screen_locked_toast">Ana ekran düzeni kilitlendi.</string>
+  <string name="screen_locked_toast">Ana ekran düzeni kilitli.</string>
   <string name="screen_number">%d ekran</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_frame">Çerçeve</string>
