@@ -88,7 +88,6 @@
   <string name="app_name">Galeri</string>
   <string name="app_name_view_picture">Resimleri Görüntüle</string>
   <string name="app_name_view_video">Videoları Görüntüle</string>
-  <string name="apply">Uygula</string>
   <string name="assistant_page_label">Anılar</string>
   <string name="associate_face_album">Bir albüm seç</string>
   <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik yedekle (Xiaomi hesabı gerekir)</string>
@@ -111,10 +110,6 @@
   <string name="baby_album_sharer_recommand_face">%1$s varolan fotoğraf eklensin mi?</string>
   <string name="baby_album_sharers_page_title">Aile ile Paylaş</string>
   <string name="baby_birthday">Doğum Günü</string>
-  <string name="baby_lock_wallpaper">Kilit Ekran Duvar Kağıdı</string>
-  <string name="baby_lock_wallpaper_cancelled">Kilit ekranı duvar kağıdı varsayılanı olarak değiştirildi</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Geçerli ayarlar uygulansın mı?</string>
-  <string name="baby_lock_wallpaper_title">Kilit ekranı duvar kağıdı olarak bebek fotoğraflarını kullan</string>
   <string name="baby_name_cannot_empty">Adını Girin</string>
   <string name="baby_name_cannot_start_with">Ad \'%s\' ile başlayamaz</string>
   <string name="baby_name_contain_invalidate_char">Ad \'%s\' karakter içeremez</string>
@@ -182,7 +177,6 @@
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Kamera albümü yedeklendi</string>
   <string name="cancel">İptal</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Varsayılan kilit ekran duvar kağıdına geçilsin mi?</string>
   <string name="cancel_download_btn_text">Durdur</string>
   <string name="cancel_hint">Operasyon iptal edildi</string>
   <string name="cannot_remove_creator">Oluşturucu kaldırılamıyor</string>
@@ -929,7 +923,6 @@
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
   <string name="send_too_many_files_error">Bir seferde %d öğeyi gönder</string>
-  <string name="set_as_baby_lock_wallpaper">Kilit Ekran Duvar Kağıdını ayarla</string>
   <string name="set_as_wallpaper_description">Bu resim sadece önizlemedir, orjinali indirilsin mi？</string>
   <string name="set_as_wallpaper_title">Duvar Kağıdı olarak ayarla</string>
   <string name="set_face_group_toast_msg_new_user">Birleştirmek veya yoksaymak için kişiye basılı tutun.</string>
