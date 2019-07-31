@@ -392,7 +392,7 @@
   <string name="downlaod_nonWifi_confirm_message">Bu eki indirmek için mobil veri bağlantısı kullanılsın mı?</string>
   <string name="downlaod_nonWifi_confirm_title">Bu ek indirilsin mi?</string>
   <string name="download_again">Tekrar indir</string>
-  <string name="download_before_sharing">" indirilmesi bitmedi."</string>
+  <string name="download_before_sharing">" indirme işlemi tamamlanmadı."</string>
   <string name="download_cancel_confirm_message">İndirme durdurulacak</string>
   <string name="download_cancel_confirm_title">Bu ek indirilsin mi?</string>
   <string name="download_complete_not_cancel">İndirme tamamlandı</string>
@@ -934,8 +934,8 @@
   <string name="recognize_ticket_train_user_name">Yolcu: %1$s</string>
   <string name="recognize_title">Seyahat Bilgileri</string>
   <string name="recommend_protocal">Öneriler Kullanım Protokolü</string>
-  <string name="reduce_the_receiving_frequencye_summary">Rahatsız Etme açıkken gelen kutusu daha az sıklıkla eşitlenir</string>
-  <string name="reduce_the_receiving_frequencye_title">Kısa Aralıklarla Eşitle</string>
+  <string name="reduce_the_receiving_frequencye_summary">Rahatsız etme açıkken gelen kutusu daha az sıklıkla eşitlenir</string>
+  <string name="reduce_the_receiving_frequencye_title">Daha az sıklıkta eşitle</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor...</string>
   <string name="refreshing_done">Tamam</string>

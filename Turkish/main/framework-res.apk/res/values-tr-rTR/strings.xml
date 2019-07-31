@@ -296,7 +296,7 @@
   <string name="ext_media_browse_action">Bul</string>
   <string name="ext_media_checking_notification_message">Hatalar denetleniyor</string>
   <string name="ext_media_checking_notification_title">%s hazırlanıyor…</string>
-  <string name="ext_media_init_action">Kur</string>
+  <string name="ext_media_init_action">Ayarla</string>
   <string name="ext_media_missing_message">Bu cihazı yeniden yerleştirin</string>
   <string name="ext_media_missing_title">%s bulunamıyor</string>
   <string name="ext_media_move_failure_message">Orijinal konumda veri kaldı</string>

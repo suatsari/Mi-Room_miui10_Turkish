@@ -97,6 +97,7 @@
   <string name="tile_label">Yansıt</string>
   <string name="toast_guide_show_more">Daha fazla bilgi edin</string>
   <string name="toast_guide_title">Yeni özellikleri keşfedin</string>
-  <string name="toast_msg">Uygulamada ekran yansıtmak için küçük pencereyi kullanın.</string>
-  <string name="toast_msg_for_multi_window">Bölünmüş ekran modunda küçük pencerede yansıtma yapamazsınız</string>  
+  <string name="toast_msg_for_multi_window">Bu işlev bölünmüş ekran modunda kullanılamaz</string>
+  <string name="toast_msg_for_small_window">Yansıtmak istediğiniz uygulamayı açtıktan sonra, küçük pencerede projeksiyon işlevini kullanın, ekrandaki uygulama kesintiye uğramaz ve cep telefonu diğer uygulamaları çalıştırabilir.</string>
+  <string name="toast_title_for_small_window">Uygulamadaki ekranı yansıtmak için lütfen küçük pencereyi kullanın.</string>  
 </resources>

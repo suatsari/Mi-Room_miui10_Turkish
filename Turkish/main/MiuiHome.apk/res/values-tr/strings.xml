@@ -57,7 +57,7 @@
   <string name="apply">Ayarla</string>
   <string name="apply_action">Ayarla</string>
   <string name="apply_as_lock_screen">Kilit Ekranı olarak ayarla</string>
-  <string name="apply_as_wallpaper">Ana Ekran olarak ayarla</string>
+  <string name="apply_as_wallpaper">Ana ekran olarak ayarla</string>
   <string name="apply_both">Her ikisine de</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
   <string name="aqi_quality_index_good">İyi</string>
@@ -146,7 +146,7 @@
   <string name="free_style_edit_tab_shortcut">Kısayollar</string>
   <string name="free_style_edit_tab_widget">Widget</string>
   <string name="free_style_enter_tip">Mi Space\'i görmek için iki parmağınızla yukardan aşağıya doğru kaydırın ▼</string>
-  <string name="free_style_exit_tip">Ana Ekrana dönmek için iki parmağınızla aşağıdan yukarıya doğru kaydırın ▲</string>
+  <string name="free_style_exit_tip">Ana ekrana dönmek için iki parmağınızla aşağıdan yukarıya doğru kaydırın ▲</string>
   <string name="free_style_londing_text">Sadece bir saniye…</string>
   <string name="gadget_calculator_label">Hesap makinesi</string>
   <string name="gadget_calendar_label">Takvim</string>
@@ -246,9 +246,9 @@
   <string name="online_wallpaper">Çevrimiçi</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
-  <string name="open_personal_assistant_dialog_desc">Uygulama Kasası\'nı kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
-  <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama Kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
-  <string name="open_personal_assistant_dialog_title">Uygulama Kasası\'nı kapat</string>
+  <string name="open_personal_assistant_dialog_desc">Uygulama kasasını kullanamaz ve güncellemelerini alamazsınız. Şimdi kapatılsın mı?</string>
+  <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
+  <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
   <string name="open_personal_assistant_title">Uygulama kasası</string>
   <string name="out_of_space">Bu Ana ekranda daha fazla yer yok</string>
   <string name="permdesc_install_shortcut">Uygulamaya, kullanıcı müdahalesi olmadan kısayol ekleme izni verir.</string>
@@ -383,7 +383,7 @@
   <string name="all_apps_setting_desktop_title">Standart mod</string>
   <string name="all_apps_setting_drawer_desc">Yüklü tüm uygulamaları görüntülemek için menü düğmesine dokunun.</string>
   <string name="all_apps_setting_drawer_title">Klasik mod</string>
-  <string name="all_apps_setting_title">Masaüstü Modu</string>
+  <string name="all_apps_setting_title">Masaüstü modu</string>
   <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınızın tamamen yeniden başlatılmasını bekleyin</string>
   <string name="default_folder_title_meitu">Meitu uygulamaları</string>  
   <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>

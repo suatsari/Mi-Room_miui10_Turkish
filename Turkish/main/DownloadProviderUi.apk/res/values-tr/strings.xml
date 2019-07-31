@@ -265,7 +265,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="rebind_btn">Tekrar ekle</string>
   <string name="recommend_downloading">İndiriliyor…</string>
   <string name="recommend_failed">Başarısız</string>
-  <string name="recommend_install">Kur</string>
+  <string name="recommend_install">Ayarla</string>
   <string name="recommend_installing">Kuruluyor…</string>
   <string name="recommend_loading">Yükleniyor…</string>
   <string name="recommend_open">Aç</string>
@@ -345,7 +345,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="sniff_result_num_website_suffix">web sitesi</string>
   <string name="sniff_result_website_intro">Toplam &lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; öğe | Kaynak: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Boyut: %1$s</string>
-  <string name="sniff_search_install">Kur</string>
+  <string name="sniff_search_install">Ayarla</string>
   <string name="sniff_shortcut_cloudconfig_btn">Anladım</string>
   <string name="sniff_shortcut_cloudconfig_context">Kaynak güncelleniyor…</string>
   <string name="sniff_shortcut_cloudconfig_title">Biraz bekleyin...</string>
