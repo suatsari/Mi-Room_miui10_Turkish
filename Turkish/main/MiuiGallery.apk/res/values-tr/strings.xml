@@ -263,10 +263,10 @@
   <string name="confirm_merge_face_albums">" \" %s bu albümle birleştirilsin mi? \" "</string>
   <string name="confirm_merge_many_face_albums">" \" %s bu albümle birleştirilsin mi? \" "</string>
   <string name="confirm_not_face">Eşleşme yok</string>
-  <string name="confirm_recommandation_face_is">" \" Eminseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. \" "</string>
-  <string name="confirm_recommandation_face_not">" \" Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" \" Eminseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Bu yüz onaylandıktan sonra \"%2$s\" albüme taşınacak. \" "</string>
-  <string name="confirm_recommandation_multiple_faces_not">" \" Emin değilseniz: &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? \" "</string>
+  <string name="confirm_recommandation_face_is">" "<Data> Bunun &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olduğundan emin misiniz? Bu kişi \"%2$s\" albümüne taşınacak. </Data>" "</string>
+  <string name="confirm_recommandation_face_not">" "<Data>" Bunun &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olmadığından emin misiniz? "</Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "<Data> Bunların &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olduğundan emin misiniz? Bu kişiler \"%2$s\" albümüne taşınacak. </Data>" "</string>
+  <string name="confirm_recommandation_multiple_faces_not">" "<Data>" Bunların &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font> olmadığından emin misiniz? "</Data>" "</string>
   <string name="contact_tip">Kişi</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
