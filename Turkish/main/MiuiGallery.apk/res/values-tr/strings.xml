@@ -1567,10 +1567,18 @@ mevcut"</string>
   <string name="fmt_date_short_month_day">d MMM</string>
   <string name="fmt_date_short_year_month">MMM yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_time_millis">"S'ms'"</string>
+  <string name="fmt_time_second">"s's'"</string>
+  <string name="fmt_time_second_millis">"s.S's'"</string>
+  <string name="fmt_time_minute">"m'dak'"</string>
+  <string name="fmt_time_minute_second">"m'dak' s's'"</string>
+  <string name="fmt_time_minute_second_millis">"m'dak' s.S's'"</string>
+  <string name="fmt_time_12hour">"'saat' h"</string>
+  <string name="fmt_time_24hour">"'saat' H"</string>  
   <string name="friday">Cuma</string>
   <string name="friday_short">Cuma</string>
   <string name="friday_shortest">C</string>
-  <string name="midnight">GY</string>
+  <string name="midnight">ÖÖ</string>
   <string name="monday">Pazartesi</string>
   <string name="monday_short">Pzt</string>
   <string name="monday_shortest">P</string>
@@ -1699,5 +1707,6 @@ mevcut"</string>
   <string name="tuesday_shortest">S</string>
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çar</string>
-  <string name="wednesday_shortest">Çrş</string>  
+  <string name="wednesday_shortest">Çrş</string>
+  <string name="early_morning">ÖÖ</string>  
 </resources>
