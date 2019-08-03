@@ -846,7 +846,7 @@ Favoriler listenize bir kişi eklemek için:
     <string name="picker_number_title">Bir numara seçin</string>
     <string name="picker_postal_title">Bir posta kodu seçin</string>
     <string name="picker_recent_list_empty">Sık aranan kişi yok</string>
-    <string name="pkgLabel">Kişiler ve Arayan</string>
+    <string name="pkgLabel">Kişiler ve çevirici</string>
     <string name="play_add_incall_show_entry">Oynat veya video ekle</string>
     <string name="play_incall_show_entry">Videoyu Oynat</string>
     <string name="postalLabelsGroup">Adres</string>

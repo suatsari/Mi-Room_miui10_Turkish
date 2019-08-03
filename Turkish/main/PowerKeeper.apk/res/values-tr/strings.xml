@@ -106,5 +106,5 @@ Pil tasarrufu önemli uygulamalara seçici davranacaktır."</string>
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapalı</string>
   <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
   <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
-  <string name="adaptive_battery_title">Adaptif Pİl kullanımı</string>  
+  <string name="adaptive_battery_title">Adaptif Pil kullanımı</string>  
 </resources>
