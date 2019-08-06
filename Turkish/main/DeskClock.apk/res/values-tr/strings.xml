@@ -273,5 +273,48 @@
   <string name="module_update_success">MIUI akıllı alarmları için güncellenmiş ses başarıyla indirildi. MIUI akıllı alarmlarını Saat ayarlarından ayarlayabilirsiniz.</string>
   <string name="module_update_success_control">Anladım</string>
   <string name="no_alarm_setting">Burada alarm yok</string>
-  <string name="no_worldclock">Burada saat yok</string>  
+  <string name="no_worldclock">Burada saat yok</string>
+  <string name="confirm">Confirm</string>
+  <string name="life_post_setting_open_background_subtitle">İlgili alarmlar için arka plan resimlerini göster</string>
+  <string name="life_post_setting_open_background_title">Arka plan resmini göster</string>
+  <string name="life_post_setting_open_summary">4:00-10:00 arasında kapatılacak olan ilk alarma hava durumu bilgilerini ekleyin</string>
+  <string name="listen_news_privacy"><Data>Kişiselleştirilmiş hizmetler sağlamak ve alarmlarınıza sabah haberlerini dahil etmek için, Saat\'in internete bağlanması gerekiyor.  Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_dialog_negative">Kabul etmiyorum</string>
+  <string name="module_dialog_neutral">Anladım</string>
+  <string name="module_dialog_positive">Kabul</string>
+  <string name="module_download_failure">Ses indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="module_weather_ringtone_download_data">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_weather_ringtone_download_data_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_weather_ringtone_download_wifi">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_weather_ringtone_download_wifi_privacy"><Data>Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_weather_ringtone_introduce">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer. Ayrıca sabahları mevcut hava durumu bilgilerini dinlemenizi sağlar.</string>
+  <string name="module_weather_ringtone_introduce_global">Hava durumu alarmı, mevcut hava durumuna göre farklı zil sesleri seçer.</string>
+  <string name="module_weather_ringtone_update_data">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_weather_ringtone_update_success">Hava durumu alarmı şimdi arka plan müziği ve daha iyi sesli duyurular ile birlikte geliyor. Bu özelliği Saat ayarlarından açabilirsiniz.</string>
+  <string name="module_week_ringtone_download_data">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_download_data_privacy"><Data>Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in ≈30MB ses dosyasını indirmek için internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_download_wifi">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_download_wifi_privacy"><Data>Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Ses dosyası indirmek için Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="module_week_ringtone_introduce">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar.</string>
+  <string name="module_week_ringtone_update_data">Haftalık alarm, haftanın her günü farklı doğa sesleri çalar. Saat\'in bunun için ≈30MB ses dosyası indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_week_ringtone_update_success">Haftalık alarm haftanın her günü için arka plan müziği ile birlikte gelir. Bu özelliği Saat ayarlarından açabilirsiniz.</string>
+  <string name="module_white_noise_download_data">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Bu indirme için ≈30MB mobil veri gerekecektir. Şimdi indirilsin mi?</string>
+  <string name="module_white_noise_download_data_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyaları indirmek (≈30MB) ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Şu anda mobil verileri kullanıyorsun. Kabul ediyor musun?</Data></string>
+  <string name="module_white_noise_download_wifi">Saat\'in zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirmesi gerekiyor. Şimdi indirilsin mi?</string>
+  <string name="module_white_noise_download_wifi_privacy"><Data>Zamanlayıcı bölümündeki ortam sesleri için ses dosyalarını indirebilmek ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="network_privacy"><Data>Yerel resmi tatil günleri hakkında daha fazla bilgi edinmek, alarmları ayarlamak ve kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="network_privacy_global"><Data>Kişiselleştirilmiş hizmetler sağlamak için, Saat\'in internete bağlanması gerekiyor. Saat\'i kullanmadan önce &lt;a href=\"%1$s\">Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\"%2$s\">Gizlilik Politikamızı&lt;/a> okumalı ve kabul etmelisin. Kabul ediyor musun?</Data></string>
+  <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="ringtone_other">Daha fazla zil sesi</string>
+  <string name="ringtone_weather">Hava alarmı zil sesleri</string>
+  <string name="ringtone_week">Haftalık alarm zil sesleri</string>
+  <string name="setting_alarm_arriving_subtitle">Alarmlar çalmadan önce bildirimlerini göster</string>
+  <string name="shutdown_alarm_alert_enable_summary">Kapatma alarmları, cihazınızı kapattıktan en az 10 dakika sonra kapanacak</string>
+  <string name="shutdown_alarm_alert_title">Kapatma alarmı</string>
+  <string name="system_permission_phone_desc">Farklı cihazları tanımlamak için</string>
+  <string name="system_permission_purpose">Alarmlar, kronometre, zamanlayıcılar, dünya saati</string>
+  <string name="system_permission_storage_desc">Alarm zil seslerine erişmek için</string>
+  <string name="timer_alert_type_spring_rain">Yaz yağmuru</string>
+  <string name="volume_button_setting_desc">Güç ve Ses +/- düğmeleri için işlev atama</string>
+  <string name="worldcolock_timezone_current_date">dd/MM/yyyy</string>  
 </resources>

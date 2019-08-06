@@ -20,6 +20,7 @@
   <string name="all_folder_name">Tüm notlar</string>
   <string name="all_terms">%1$s ve %2$s</string>
   <string name="app_name">Notlar</string>
+  <string name="app_notification_info">Notlar arka planda çalışıyor</string>
   <string name="app_widget">Notlar</string>
   <string name="application_icon">Uygulama simgesi</string>
   <string name="audio_panel_time_counter_default">00:00</string>
@@ -28,6 +29,7 @@
   <string name="audio_toast_network_is_not_available">Ağa bağlanılamadı</string>
   <string name="call_folder_name">Çağrı notları</string>
   <string name="cancel_alarm_description">Alarmı iptal et</string>
+  <string name="check_in_todo_app">Görevleri görüntüle</string>
   <string name="cloud_service_state_open_reminder">Notları eşitlemek için Bulut ile eşitlemeyi açın.</string>
   <string name="cloud_trash_bin_title">Bulut\'taki notları sil</string>
   <string name="cta_confirm_cancel">İzin verme</string>
@@ -262,6 +264,7 @@
   <string name="todo_event_description_today">Bugün</string>
   <string name="todo_event_description_tomorrow">Yarın</string>
   <string name="todo_event_description_yesterday">Dün</string>
+  <string name="todo_float_permission_open_reminder">Bu özelliği kullanabilmek için Notlar\'ın diğer uygulamalarda kayan pencereleri görüntülemesine izin verin.</string>
   <string name="todo_item_group_expired">Süresi doldu</string>
   <string name="todo_item_group_finished">Tamamlanan</string>
   <string name="todo_item_group_further">Sonra</string>
@@ -273,6 +276,7 @@
   <string name="todo_item_status_unfinished">Tamamlanmamıs</string>
   <string name="todo_menu_add_audio_description">Sesli görev ekle</string>
   <string name="todo_menu_add_description">Görev ekle</string>
+  <string name="todo_menu_cancel">İptal</string>
   <string name="todo_menu_delete">Sil</string>
   <string name="todo_module_name">Görevler</string>
   <string name="todo_notify_alarm_title">Görev hatırlatıcısı</string>
@@ -285,9 +289,11 @@
   <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
   <string name="todo_search_hint">Görev ara</string>
   <string name="todo_time_picker_title">Hatırlatıcıyı ayarla</string>
-  <string name="todo_user_guide_tip1">\"Görevler\"\'e hoş geldiniz!</string>
-  <string name="todo_user_guide_tip2">Bu bir görevdir. Tamamlamak için kutuyu işaretleyebilirsiniz.</string>
-  <string name="todo_user_guide_tip3">Bir görev oluşturmak için aşağıdaki artı işaretine dokunun. Ayrıca bir sesli görevde ekleyebilirsiniz.</string>
-  <string name="todo_user_guide_tip4">Görevlerinizi unutmamak için hatırlatıcılar ayarlayın.</string>
+  <string name="todo_user_guide_fw_pop">Ana ekran kısayolu ekle</string>
+  <string name="todo_user_guide_tip1">Görevler\'e hoş geldiniz!</string>
+  <string name="todo_user_guide_tip2">Burada metin ve ses görevleri ekleyebilirsiniz.</string>
+  <string name="todo_user_guide_tip3">Bir metin görevini düzenlemek için, sadece dokunun.</string>
+  <string name="todo_user_guide_tip4">Görevler için bir Ana ekran kısayolu oluşturmayı unutmayın.</string>
+  <string name="todo_user_guide_tip5">Oyunun içinde kalın ve önemli bir şeyi asla kaçırmayın!</string>
   <string name="todoalert_done">Tamam</string>  
 </resources>

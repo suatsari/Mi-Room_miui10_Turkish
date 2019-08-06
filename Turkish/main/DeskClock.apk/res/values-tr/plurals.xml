@@ -67,5 +67,9 @@
     <plurals name="snooze_duration_changed_info">
         <item quantity="other">Erteleme aralığı %d dakika olarak değiştirildi</item>
         <item quantity="one">Erteleme aralığı %d dakika olarak değiştirildi</item>
-    </plurals>	
+    </plurals>
+  <plurals name="snooze_duration_desc">
+      <item quantity="other">Her %1$s dak. bir, %2$s kez kapanacak</item>
+      <item quantity="one">Her %1$s dak. bir, %2$s kez kapanacak</item>
+   </plurals>	
 </resources>

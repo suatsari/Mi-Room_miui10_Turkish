@@ -1095,7 +1095,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="close_optimization_option">Kapat</string>
   <string name="close_sdcard_optimization_title">Taklit sdcard optimizasyonunu kapat</string>
   <string name="close_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
-  <string name="cloud_backup_section_title">Mi Bulut yedeklemesi</string>
+  <string name="cloud_backup_section_title">Bulut yedekleme</string>
   <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
   <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükleyin</string>
   <string name="cloud_restore_section_title">Mi Bulut\'tan geri yükle</string>
@@ -2548,7 +2548,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
   <string name="lockscreen_remote_input">Cihaz kilitliyse, bildirimlerde cevap yazma veya diğer metinleri engelle</string>
   <string name="lockscreen_settings_title">Kilit ekranı tercihleri</string>
-  <string name="login_account_dialog_message">Mi Hesabınızda oturum açın ve Mi Bulut ile eşitleyin.</string>
+  <string name="login_account_dialog_message">Mi Hesabınızda oturum açın ve Bulut ile eşitleyin.</string>
   <string name="login_account_dialog_title">Mi Hesabınız ile oturum açın</string>
   <string name="login_action">Oturum aç</string>
   <string name="long_press_back_key">Geri tuşuna uzun bas</string>
@@ -4154,7 +4154,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
   <string name="settings_manual_activity_title">Elle</string>
   <string name="settings_manual_activity_unavailable">Yüklemede bir problem oldu.</string>
-  <string name="settings_notify_need_backup">Telefonunuzu değiştirdikten sonra onlara erişmek için ayarlarınızı Mi Bulut\'a yedekleyin.</string>
+  <string name="settings_notify_need_backup">Telefonunuzu değiştirdikten sonra onlara erişmek için ayarlarınızı Bulut\'a yedekleyin.</string>
   <string name="settings_notify_phone_recycled">Telefon numaranız başarıyla silindi. Farklı bir telefon numarası eklemek için dokunun.</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
@@ -5764,8 +5764,9 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="write_tag">Yaz</string>
   <string name="wrong_pin_code_pukked">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatörünüzle irtibata geçin.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
-  <string name="xiaomi_cloud_service">Mi Bulut</string>
-  <string name="xiaomi_cloud_service_description">Mi Bulut kişilerinizi ve fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Telefonu Bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="xiaomi_cloud_service">Bulut</string>
+  <string name="xiaomi_cloud_service_description">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_disabled">Kapalı</string>
   <string name="xiaomi_cloud_service_unknown">Bilinmiyor</string>
   <string name="xiaomi_money_service">Mi Kredisi</string>
@@ -6654,8 +6655,6 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="notch_style_status_bar_inside">Durum çubuğunu taşımadan gizle</string>
   <string name="notch_style_status_bar_outside">Durum çubuğunu gizle ve taşı</string>
   <string name="lock_screen_settings_title">Kilit ekranı</string>
-  <string name="xiaomi_cloud_service_description_contact">kişiler ve</string>
-  <string name="xiaomi_cloud_service_description_format">Mi Bulut %s fotoğraflarınızı senkronize eder, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul\'u kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="wireless_charging_settings">Diğer cihazları kablosuz olarak şarj edin</string>
   <string name="wireless_opened">Açık</string>
   <string name="wireless_closed">Kapalı</string>
@@ -6690,5 +6689,25 @@ Bu özellik [Ayarlar] \'dan kapatılabilir"</string>
   <string name="color_led_red_packets_summary">Kırmızı zarf asistanı açık durumdayken, WeChat ve QQ\'dan kırmızı zarf efektlerini göster</string>
   <string name="color_led_special_scene_title">Özel efektler</string>
   <string name="color_led_summary">Rahatsız etme modunda çalışmaz</string>
-  <string name="color_led_game_mode_summary">Oyun Turbo açık olduğunda oyunlar için efektleri göster</string>  
+  <string name="color_led_game_mode_summary">Oyun Turbo açık olduğunda oyunlar için efektleri göster</string>
+  <string name="full_screen_keyboard_optimization">Klavyeyi geliştirin</string>
+  <string name="input_method_function_clipboard">Pano ve sık kullanılan ifadeler</string>
+  <string name="input_method_function_clipboard_des">Pano içeriğini ve sık kullanılan cümleleri görüntülemek için dokunun</string>
+  <string name="input_method_function_no_function">Yok</string>
+  <string name="input_method_function_no_function_des">Herhangi bir kısayol gösterme</string>
+  <string name="input_method_function_switch">Klavyeler arasında geçiş yap</string>
+  <string name="input_method_function_switch_des">Farklı bir klavyeye geçmek için dokunun</string>
+  <string name="input_method_function_voice">Sesli giriş</string>
+  <string name="input_method_function_voice_des">Sesli girişi kullanmak için dokunun</string>
+  <string name="input_method_function_xiaoai">Mi AI sesli giriş</string>
+  <string name="input_method_function_xiaoai_des">Mi AI sesli girişi kullanmak için dokunun</string>
+  <string name="left_function_key">Sol kısayol</string>
+  <string name="normal_bottom_height_of_keyboard">Normal</string>
+  <string name="power_usage_summary_title_new">Pil &amp; performans</string>
+  <string name="raise_bottom_height_of_keyboard">Geliştirilmiş</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Gelişmiş moda geçerseniz, klavyenin altında özelleştirilebilir kısayolları olan bir çubuk görünür</string>
+  <string name="raise_bottom_height_of_keyboard_title">Klavyeyi tam ekrana ayarlayın</string>
+  <string name="right_function_key">Sağ kısayol</string>
+  <string name="long_press_power_key">Güç düğmesine uzun basın</string>
+  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>  
 </resources>

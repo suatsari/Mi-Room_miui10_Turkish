@@ -1071,6 +1071,7 @@
   <string name="pref_notifications_title">Bildirimler</string>
   <string name="pref_other_title">Diğer</string>
   <string name="pref_paper_mode_title">Okuma modu</string>
+  <string name="pref_personalized_customization">Kişiselleştirilmiş özelleştirme</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içeriği ve veritabanlarını sil</string>
   <string name="pref_privacy_clear_cache_summary">Yerel önbelleğe alınmış içeriği ve veritabanlarını temizle</string>

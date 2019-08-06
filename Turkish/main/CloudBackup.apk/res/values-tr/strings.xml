@@ -2,10 +2,10 @@
 <resources>
   <string name="about_to_recover">Biraz bekleyin...</string>
   <string name="app_is_running">Uygulama çalışıyor…</string>
-  <string name="app_name">Mi Bulut Yedeklemesi</string>
+  <string name="app_name">Bulut yedekleme</string>
   <string name="arrange_restore_order">Uygulamaları yeniden düzenle…</string>
   <string name="as_new_device">Bir önceki Ana Ekran ve Ayarları değiştirin</string>
-  <string name="as_new_device_summary">Önceki Mi Bulut yedeklerini silin</string>
+  <string name="as_new_device_summary">Önceki Xiaomi Bulut yedeklerini silin</string>
   <string name="authentication_failed">Hesap doğrulanamadı.</string>
   <string name="back_up_task_in_process">Yedekleniyor…</string>
   <string name="back_up_task_unfinished">Yedeklenemedi</string>
@@ -31,7 +31,7 @@
   <string name="cancel_restore_home">İptal ediliyor...</string>
   <string name="click_try_to_restore_again">Denemek için dokunun</string>
   <string name="cloud_app_backup_success">Uygulamalar başarıyla yedeklendi</string>
-  <string name="cloud_app_check_data">Mi Bulut ile haberleşiyor…</string>
+  <string name="cloud_app_check_data">Xiaomi Bulut ile haberleşiyor…</string>
   <string name="cloud_app_current_device">Geçerli Cihaz</string>
   <string name="cloud_app_dont_restore">Yeni cihaz olarak kur</string>
   <string name="cloud_app_no_data">Yedekleme yok</string>
@@ -41,14 +41,14 @@
   <string name="cloud_app_restore_data">Kişisel veriler ve önceden yüklenmiş uygulamalar cihazınızda otomatik görülür</string>
   <string name="cloud_app_restore_error">Geri yüklenemedi</string>
   <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
-  <string name="cloud_app_restore_wifi_prompt">Bir Mi Bulut yedeklemesini geri yüklemek için, bir WLAN ağına bağlanmanız gerekir.</string>
+  <string name="cloud_app_restore_wifi_prompt">Bulut yedeklemesinden geri yükleyin.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN\'a bağlandığında, bu öğeler Mi Bulut\'a yedeklenecek:
+  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN\'a bağlandığında, bu öğeler Xiaomi Bulut\'a yedeklenecek:
 *  Uygulamalar, Ana ekran düzeni ve duvar kağıtları
 *  Alarm, saat ve zaman Ayarları 
 *  Bildirim ayarları 
 *  MIUI ve sistem ayarları
-Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
+Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</string>
   <string name="cloud_back_up_frequence_choice_title">Yedekleme Planı</string>
   <string name="cloud_back_up_frequence_long">Her 7 günde bir</string>
   <string name="cloud_back_up_frequence_short">Hergün</string>
@@ -59,18 +59,18 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="cloud_back_up_subscribe_vip_discription">Daha fazla depolama alanı, günlük yedeklemeler ve daha fazlasını edinin.</string>
   <string name="cloud_back_up_subscribe_vip_title">Mi Hesabı\'nı yükselt</string>
   <string name="cloud_back_up_task">Yedekleniyor…</string>
-  <string name="cloud_backup">Mi bulut yedeklemeleri</string>
+  <string name="cloud_backup">Bulut yedekleri</string>
   <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
   <string name="cloud_backup_detail_frequence">Yedekleme Planı</string>
   <string name="cloud_backup_detail_manage">Yedekleri Yönet</string>
   <string name="cloud_backup_detail_state">Otomatik yedekleme</string>
-  <string name="cloud_backup_detail_state_summary">WLAN\'a bağlandığında Mi Bulut yedeklemeyi otomatik olarak başlatın.</string>
+  <string name="cloud_backup_detail_state_summary">WLAN\'a bağlandığında Xiaomi Bulut yedeklemeyi otomatik olarak başlatın.</string>
   <string name="cloud_backup_detail_time">Son Yedekleme: %1$s</string>
   <string name="cloud_backup_detail_title">Ana ekran, uygulamalar ve ayarlar.</string>
-  <string name="cloud_backup_have_data">Mi Bulut\'ta yedek bulundu</string>
+  <string name="cloud_backup_have_data">Xiaomi Bulut\'ta yedek bulundu</string>
   <string name="cloud_backup_in_cancel">İptal</string>
   <string name="cloud_backup_in_process">Yedekleme…</string>
-  <string name="cloud_backup_select_recover">Mi Bulut\'tan yedeği seçin</string>
+  <string name="cloud_backup_select_recover">Xiaomi Bulut\'tan yedeği seçin</string>
   <string name="cloud_restore_from_other_device">%s geri yüklemek ve yedeği silmek istiyor musunuz? Bu eylem geri döndürülemez.</string>
   <string name="cloud_restore_task">Geri yükleniyor…</string>
   <string name="cloud_task_in_process">%s yedek durdurulsun ve silinsin mi? Bu eylem geri döndürülemez.</string>
@@ -115,7 +115,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="name_model">%1$s\'nın %2$s</string>
   <string name="network_error">Ağa bağlan</string>
   <string name="no_account">Mi Hesabında oturum açılmadı.</string>
-  <string name="no_backup">Mi Bulut\'da yedek yok.</string>
+  <string name="no_backup">Xiaomi Bulut\'ta yedek yok.</string>
   <string name="notification_channel_remind">Hatırlatma</string>
   <string name="notification_channel_service">Hizmet</string>
   <string name="open_backup_switch">Yedek anahtarını değiştirin</string>
@@ -126,8 +126,8 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="provision_error_connect_msg">Ağı test edebilir ve tekrar deneyebilirsiniz. Geçerli bir ağ olmadan yedekleme işlevi kullanılamaz.</string>
   <string name="provision_error_connect_title">Bağlanamıyor</string>
   <string name="query_restore_description">Bu yedeği kullanarak Ana Ekran uygulamalarını ve ayarları geri yükleyin. Cihazda yüklü uygulamaların üstüne aynı uygulamanın verileri yazılır. En son yüklenen uygulamalar bu işleme tabi değildir.</string>
-  <string name="query_restore_summary">Bu cihaz için Mi Bulut yedeklemesi bulundu. Ana ekran uygulamaları ve ayarları geri yüklemek veya yeni bir cihaz olarak kullanmak için önce önceki Mi Bulut yedeklerini silmek ister misiniz?</string>
-  <string name="recover_from_micloud">Mi Bulut yedeğinden geri yükle</string>
+  <string name="query_restore_summary">Bu cihaz için Xiaomi Bulut yedeklemesi bulundu. Ana ekran uygulamaları ve ayarları geri yüklemek veya yeni bir cihaz olarak kullanmak için önce önceki Xiaomi Bulut yedeklerini silmek ister misiniz?</string>
+  <string name="recover_from_micloud">Xiaomi Bulut yedeğinden geri yükle</string>
   <string name="recover_home_settings">Ana Ekran Ayarlarını geri yükle</string>
   <string name="recover_miui_settings">Sistem ayarlarını geri yükle</string>
   <string name="recover_settings_description">Cihazınızı bu işlem bitene kadar kapatmayın</string>
@@ -136,14 +136,14 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="remove_task_in_process">Kaldırılıyor…</string>
   <string name="remove_task_unfinished">Kaldırma işlemi henüz bitmedi</string>
   <string name="remove_unfinished">Kaldırılıyor, daha sonra tekrar deneyin</string>
-  <string name="restore_cloud_backup_to_phone">Mi Bulut öğelerini geri yükle</string>
+  <string name="restore_cloud_backup_to_phone">Öğeleri buluttan geri yükle</string>
   <string name="restore_data_summary">Bu özelliğin internet bağlantısına ihtiyacı var.</string>
   <string name="restore_data_title">Verileri geri yükle</string>
   <string name="restore_finished_notification_content">Geri yüklenen Ana ekran uygulamaları, sistem ayarları, vb.</string>
-  <string name="restore_from_cloud">Mi Bulut yedeğinden geri yükle</string>
+  <string name="restore_from_cloud">Bulut yedeklemesinden geri yükle</string>
   <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
   <string name="restore_home_failed">Ana ekran geri yüklenemedi.</string>
-  <string name="restore_home_screen_apps">Mi Bulut yedeğinden geri yükle</string>
+  <string name="restore_home_screen_apps">Bulut yedeklemesinden geri yükle</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
   <string name="restore_unfinished">Geri yükleniyor, daha sonra tekrar deneyin</string>
@@ -151,7 +151,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="retry">Yeniden Dene</string>
   <string name="settings_backup">Sistem Ayarları</string>
   <string name="size_unknown">Boyut bilinmiyor</string>
-  <string name="start_backup_to_micloud">Uygulamaları Mi Bulut\'a yedekle</string>
+  <string name="start_backup_to_micloud">Uygulamaları Xiaomi Bulut\'a yedekle</string>
   <string name="start_recover">%s geri yükle</string>
   <string name="success_open_cloudbackup">Ana Ekran uygulamaları için yedeklemeyi aç</string>
   <string name="total_space">Toplam alan: %s</string>
@@ -169,7 +169,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="btn_restore_resume">Devam</string>
   <string name="btn_restore_retry">Tekrar dene</string>
   <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
-  <string name="msg_alert_restore_error">Mi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
+  <string name="msg_alert_restore_error">Xiaomi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="title_alert_cancel_restore">Geri yüklemeyi durdur</string>
   <string name="title_alert_restore_error">Geri yüklenemedi</string> 
   <string name="error_retry_later">Eylem tamamlanamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
@@ -183,7 +183,7 @@ Not: Yüklediğiniz uygulamaların verileri, Mi Bulut\'a yedeklenmez."</string>
   <string name="backup_stopped_title">Yedekleme duraklatıldı</string>
   <string name="dialog_btn_cancel_backup">İptal</string>
   <string name="dialog_btn_overwrite_backup">Üzerine yaz</string>
-  <string name="dialog_msg_overwrite_backup">Yerel yedekleme, Mi Bulut\'ta olandan farklıdır. Devam ederseniz, geçerli yedek bir öncekinin üzerine yazılacaktır.</string>
+  <string name="dialog_msg_overwrite_backup">Yerel yedekleme, Xiaomi Bulut\'ta olandan farklıdır. Devam ederseniz, geçerli yedek bir öncekinin üzerine yazılacaktır.</string>
   <string name="other_device_main_space">İlk alan</string>
   <string name="other_device_second_space">İkinci alan</string>
   <string name="self_device_main_space">Bu telefonun İlk alanı</string>
@@ -222,7 +222,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="unselected">Seçili değil</string>
   <string name="backup_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>
-  <string name="backup_failed_reason_cloud_space_not_enough">Mi Bulut üzerinde yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın.</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi Bulut üzerinde yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın.</string>
   <string name="restore_task_unfinished">Geri yüklenemedi</string>
   <string name="restore_failed_reason_network_error">Ağ hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="restore_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın.</string>  

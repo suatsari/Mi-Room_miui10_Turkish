@@ -248,6 +248,8 @@
   <string name="group_title_extra_new">Yeni</string>
   <string name="handsome_boy">Erkek</string>
   <string name="has_installed">Yüklendi</string>
+  <string name="hint_switch_to_grid_mode">Izgara görünümüne geçildi</string>
+  <string name="hint_switch_to_list_mode">Liste görünümüne geçildi</string>  
   <string name="homepage_tab_category">Kategoriler</string>
   <string name="homepage_tab_file_view_phone">Depolama</string>
   <string name="homepage_tab_recent">Geçmiş</string>

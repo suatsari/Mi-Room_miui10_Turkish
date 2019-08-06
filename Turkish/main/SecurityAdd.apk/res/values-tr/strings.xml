@@ -73,6 +73,7 @@
   <string name="superpower_date">dd MMMM, EEEE</string>
   <string name="superpower_dialog_app_select_content">Üçüncü taraf uygulamalar normalde sistem uygulamalarından daha fazla güç tüketir. Yine de eklensin mi?</string>
   <string name="superpower_dialog_app_select_title">Dikkat</string>
+  <string name="superpower_exit_hint">Ultra pil tasarrufu kapatılıyor…</string>
   <string name="superpower_incharging">Şarj oluyor</string>
   <string name="superpower_progress_battery_last">Kalan %s</string>
   <string name="superpower_progress_left_time">%1$ds %2$dd</string>
