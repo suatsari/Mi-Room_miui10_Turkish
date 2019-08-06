@@ -179,14 +179,11 @@
     <string name="cloud_antispam_mark">Raporla</string>
     <string name="cloud_antispam_marked">Raporlanan</string>
     <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
-    <string name="cloud_recommend_msg">Kişileri Mi Bulut ile eşitlemek için dokunun</string>
-    <string name="cloud_state_disabled">Eşitleme kapalı</string>
+    <string name="cloud_recommend_msg">Kişileri bulutla eşitlemek için dokunun.</string>
+    <string name="cloud_state_disabled">Kişileri bulutla eşitle</string>
     <string name="cloud_state_loading">Biraz bekleyin…</string>
-    <string name="cloud_state_sync_finished">Mi Bulut ile eşitlendi</string>
+    <string name="cloud_state_sync_finished">Bulut ile eşitlendi</string>
     <string name="cloud_state_syncing">Mi Bulut ile eşitlendi</string>
-    <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-    <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
-%2$s"</string>
     <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
     <string name="composer_has_no_exportable_contact">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
     <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>

@@ -1067,7 +1067,7 @@ almak için dokunun"</string>
   <string name="oldman_airplane_mode_text">Uçak modu</string>
   <string name="oldman_incall_text">Aramaya dön</string>
   <string name="open_camera_hint_text">Kamera\'yı açmak için simgeyi sürükleyin</string>
-  <string name="open_remote_center_hint_text">Kısayolları açmak için sağa kaydırın</string>
+  <string name="open_remote_center_hint_text">Kısayolları görüntülemek için sağa kaydırın</string>
   <string name="other">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="overview">Genel bakış</string>
@@ -1076,11 +1076,11 @@ almak için dokunun"</string>
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
   <string name="phone_locked_foget_password_mehod_back">Geri</string>
   <string name="phone_locked_foget_password_method">Parolanızı mı unuttunuz?</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Fotoğraflarınız ve kişileriniz de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e&gt;tüm verileri silmeniz &lt;/font&gt; ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_content"><Data>Fotoğraflar ve kişiler de dahil olmak üzere cihazınızdaki &lt;font color=#a5220e>tüm verileri silmeniz &lt;/font> ve ardından yeni bir Kilit ekranı şifresi belirlemeniz gerekir.</Data></string>
   <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Cihazınızı kapatın, ardından &lt;font color=#a5220e&gt;Güç tuşu&lt;/font&gt; ve &lt;font color=#a5220e&gt;Ses açma tuşu&lt;/font&gt; aynı anda Mi logosunu görene kadar basılı tutun.&lt;/Data&gt;</string>
-  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;&lt;font color=#a5220e&gt;\"Sil &amp;amp; Sıfırla\"&lt;/font&gt; seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Cihazınızı kapatın, Mi logosunu görene kadar  &lt;font color=#a5220e>Güç tuşu&lt;/font> ve &lt;font color=#a5220e>Ses açma tuşu&lt;/font>na aynı anda basılı tutun.</Data></string>
+  <string name="phone_locked_forget_password_suggesstion_two_content"><Data>&lt;font color=#a5220e>\"Sil &amp;amp;amp; Sıfırla\"&lt;/font> seçin ve cihaz yeniden başlatılıncaya kadar bekleyin.</Data></string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
   <string name="picture_color_mode">Resim renk modu</string>

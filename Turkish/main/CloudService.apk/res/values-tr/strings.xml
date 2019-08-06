@@ -76,7 +76,7 @@
   <string name="member_entrance_title_premium_high_case_a">Xiaomi Bulut planını değiştirin</string>
   <string name="member_entrance_title_premium_high_case_b">Yenile</string>
   <string name="member_entrance_title_premium_low_case_a">Daha fazla depolama alanı edinin</string>
-  <string name="member_entrance_title_premium_low_case_b">Bulut planını yükseltin</string>
+  <string name="member_entrance_title_premium_low_case_b">Xiaomi Bulut planını yükseltin</string>
   <string name="member_entrance_title_ultra_high_case_a">Yenile</string>
   <string name="member_entrance_title_ultra_high_case_b">Yenile</string>
   <string name="member_entrance_title_ultra_low_case_a">Yenile</string>
@@ -94,7 +94,7 @@
   <string name="micloud_all_sub_resend_sms">\'Cihazı bul\'u açtığınızda, SIM kartları değiştirdikten sonra bir etkinleştirme SMS\'i gönderilebilir.</string>
   <string name="micloud_battery_low_notification_message">Eşitleme için şarj cihazını bağlayın</string>
   <string name="micloud_battery_low_notification_title">Düşük pil</string>
-  <string name="micloud_buy_member_safe">Daha fazla Xiaomi Bulut depolama alanı edinin</string>
+  <string name="micloud_buy_member_safe">Daha fazla bulut depolama alanı edinin</string>
   <string name="micloud_check_sim_notify_text">SIM kartınız değişmiş gibi görünüyor.  Xiaomi Bulut\'u\nyeniden etkinleştirmek için Mi Hesabınıza giriş yapın</string>
   <string name="micloud_check_sim_notify_title">Xiaomi Bulut\'u yeniden etkinleştir</string>
   <string name="micloud_check_sim_title">SIM kartınız değişmiş gibi görünüyor.  Xiaomi Bulut\'u\nyeniden etkinleştirmek için Mi Hesabınıza giriş yapın</string>
@@ -390,8 +390,8 @@
   <string name="warning_bar_action_turn_on_sync">Aç</string>
   <string name="warning_bar_action_upgrade_vip">Xiaomi Bulut planını yükseltin</string>
   <string name="warning_bar_add_short_cut_success">Başarıyla eklendi</string>
-  <string name="warning_bar_title_cloud_space_already_full">Xiaomi Bulut depolama alanı azalıyor. Fotoğraflarınız eşitlenmemiş olabilir.</string>
-  <string name="warning_bar_title_cloud_space_full">Xiaomi Bulut depolama alanı dolu. Eşitleme duraklatıldı.</string>
+  <string name="warning_bar_title_cloud_space_already_full">Bulut depolama alanı azalıyor. Fotoğraflarınız eşitlenmemiş olabilir.</string>
+  <string name="warning_bar_title_cloud_space_full">Bulut depolama alanı dolu. Eşitleme duraklatıldı.</string>
   <string name="warning_bar_title_master_sync_off">Otomatik eşitleme kapalı</string>
   <string name="warning_bar_title_network_unconnected">Ağa bağlanılamadı</string>
   <string name="warning_bar_title_short_cut">Xiaomi Bulut için bir Ana ekran kısayolu eklensin mi?</string>
@@ -411,10 +411,10 @@
   <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="waiting_for_sync">Bekliyor…</string>
   <string name="system_busy_or_network_error">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="sync_setting_title">Eşitleme Ayarları</string>
-  <string name="cloud_lab_title">Bulut Laboratuvarı</string>
-  <string name="cloud_storage_already_used">Kullanılan: %1$s/%2$s</string>
-  <string name="cloud_storage_info_type_others">Diğerleri</string>
-  <string name="cloud_storage_manage_title">Bulut alanını yönet</string>
-  <string name="data_protection_title">Veri Koruması</string>  
+  <string name="sync_setting_title">Eşitleme ayarları</string>
+  <string name="cloud_lab_title">Laboratuvar</string>
+  <string name="cloud_storage_already_used">Doluluk: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">Diğer</string>
+  <string name="cloud_storage_manage_title">Depolamayı yönet</string>
+  <string name="data_protection_title">Verileri koru</string>  
 </resources>
