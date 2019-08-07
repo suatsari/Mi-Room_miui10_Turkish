@@ -1350,15 +1350,15 @@
     <item>Uzun gecikme (300~500ms)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
-    <item>Bağlantı Kalitesi için Optimize Edilmiş</item>
-    <item>Dengeli Ses ve Bağlantı Kalitesi</item>
-    <item>Ses Kalitesi için Optimize Edilmiş</item>
-    <item>En iyi Çaba (Otomatik Bit Hızı)</item>
+    <item>Bağlantı kalitesi için optimize edilmiş</item>
+    <item>Dengeli ses ve bağlantı kalitesi</item>
+    <item>Ses kalitesi için optimize edilmiş</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
-    <item>Bağlantı Kalitesi için Optimize Edilmiş (400kbps)</item>
-    <item>Dengeli Ses ve Bağlantı Kalitesi (500/560kbps)</item>
-    <item>Ses Kalitesi için Optimize Edilmiş (900kbps)</item>
-    <item>En iyi Çaba (Otomatik Bit Hızı)</item>
+    <item>Bağlantı kalitesi için optimize edilmiş (400kbps)</item>
+    <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
+    <item>Ses kalitesi için optimize edilmiş (900kbps)</item>
+    <item>En iyi çaba (Otomatik bit hızı)</item>
   </string-array>  
 </resources>

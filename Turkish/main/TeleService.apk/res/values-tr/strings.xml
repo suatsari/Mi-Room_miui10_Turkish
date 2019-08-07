@@ -731,7 +731,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="incommingcall_title">Gelen sonrası</string>
   <string name="international_disable">Uluslararası haberler devre dışı</string>
   <string name="international_enable">Uluslararası haberler etkin</string>
-  <string name="international_roaming_setting">Veri Dolaşımı</string>
+  <string name="international_roaming_setting">Veri dolaşımı</string>
   <string name="internet_phone">İnternetten Ara</string>
   <string name="invalid_password">4 sayı uzunluğunda bir şifre girin</string>
   <string name="invalid_pin">4 ila 8 rakamdan oluşan bir PIN girin.</string>
@@ -988,7 +988,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="other_settings_category">Diğer</string>
   <string name="outgoingcall_title">Giden sonrası</string>
   <string name="overlay_display_devices_title">İkincil ekranları taklit edin</string>
-  <string name="overseas_roaming_setting">Veri Dolaşımı</string>
+  <string name="overseas_roaming_setting">Veri dolaşımı</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>

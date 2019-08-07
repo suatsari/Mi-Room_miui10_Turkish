@@ -379,6 +379,7 @@
   <string name="pref_camera_show_gender_age_title">Yaş &amp; cinsiyet</string>
   <string name="pref_camera_snap_enable_title">Hızlı çekim modu</string>
   <string name="pref_camera_snap_entry_off">Kapalı</string>
+  <string name="pref_camera_snap_entry_summary">Fotoğraf çekmek için ekran kapalıyken Ses kısma düğmesine basılı tutun</string>
   <string name="pref_camera_snap_entry_take_movie">Hızlı çekim modu (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Hızlı çekim modu (resim)</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>

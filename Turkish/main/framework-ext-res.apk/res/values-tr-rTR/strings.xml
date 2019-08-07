@@ -278,8 +278,8 @@
   <string name="input_method_switch_settings_text">Klavye ayarları</string>
   <string name="input_method_tab_clipboard_text">Pano</string>
   <string name="input_method_tab_phrase_text">Sık kullanılan ifadeler</string>
-  <string name="slavewifi">Çift WLAN</string>
+  <string name="slavewifi">Çift bant WLAN</string>
   <string name="slavewifi_disconnect">Bağlantıyı kes</string>
-  <string name="slavewifi_notification_title">Çift WLAN hızlandırma</string>
-  <string name="slavewifi_settings">Yapılandırmayı değiştirmek için dokunun</string>  
+  <string name="slavewifi_notification_title">Çift bant WLAN kullan</string>
+  <string name="slavewifi_settings">Ayarları değiştirmek için dokunun</string>  
 </resources>

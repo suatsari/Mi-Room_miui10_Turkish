@@ -81,5 +81,8 @@
   <string name="superpower_select_app_title">Ana ekran düzeni</string>
   <string name="superpower_settings">Ultra pil tasarrufu</string>
   <string name="superpower_system">Tavsiye edilen</string>
-  <string name="superpower_third">Üçüncü parti uygulamalar</string>  
+  <string name="superpower_third">Üçüncü parti uygulamalar</string>
+  <string name="gdpr_msg"><Data>"Güvenlik temel özelliklerini kullanmak için, Güvenlik özelliklerini (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılımlarla ilgili bilgiler ve ayrıca cihazınızla ilgili temel bilgiler) ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Gizlilik Politikası&lt;/a>nda belirtilen diğer bilgi türlerini içeren bilgiler de dahil olmak üzere Xiaomi'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmelisiniz."</Data></string>
+  <string name="gamebooster_network_dialog_message">Allow Security to connect to the network in order to use all features of the Game speed booster?</string>
+  <string name="gamebooster_network_dialog_title">"Some features aren't available"</string>  
 </resources>
