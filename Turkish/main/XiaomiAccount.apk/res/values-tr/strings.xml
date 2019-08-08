@@ -132,7 +132,7 @@
   <string name="change_email_address">E-Posta adresini değiştir</string>
   <string name="change_password">Şifreyi değiştir</string>
   <string name="change_phone_number">Telefon numarasını değiştir</string>
-  <string name="cloud_service">Mi Bulut</string>
+  <string name="cloud_service">Xiaomi Bulut</string>
   <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
   <string name="completed">Hepsi hazır!</string>
   <string name="confirm_activate_email">Doğrulandı</string>
@@ -222,8 +222,8 @@
   <string name="mipay_others">Diğer</string>
   <string name="mipay_transit_card">Taşıma Kartı</string>
   <string name="multi_user_not_show_sync_activity_message_1">İlk Alandaki Mi Hesabını kullanıyorsunuz gibi görünüyor.</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Bu durumda, tüm veriler İkinci alanınızda eşitlenir. Bunu önlemek için, Mi Bulut ile eşitlemeyi açmayın.</string>
-  <string name="multi_user_not_show_sync_activity_title">Mi Bulut ile eşitlemeyi açma!</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Bu durumda, tüm veriler İkinci alanınızda eşitlenir. Bunu önlemek için, bulut ile eşitlemeyi açmayın.</string>
+  <string name="multi_user_not_show_sync_activity_title">Bulut ile eşitlemeyi açma</string>
   <string name="my_device_title">Geçerli cihaz</string>
   <string name="no_network_btn">Yenile</string>
   <string name="no_network_title">Ağa bağlanılamıyor.</string>
@@ -421,7 +421,7 @@
   <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Ayarlar\'dan daha sonra bir Mi Hesabı ekleyebilirsiniz.</string>
-  <string name="passport_skip_setup_account_title">Mi Bulut\'u kullanma?</string>
+  <string name="passport_skip_setup_account_title">Xiaomi Bulut kullanmıyor musunuz?</string>
   <string name="passport_sms_send_success">Gönderildi</string>
   <string name="passport_sms_verification_code_login">SMS doğrulama kodu giriş</string>
   <string name="passport_sms_verification_code_login_or_register">SMS kullanarak giriş yapın veya hesap oluşturun</string>
@@ -492,7 +492,7 @@
   <string name="search_app_name">Mi Hesabı</string>
   <string name="search_mi_account">Mi Hesabı</string>
   <string name="search_mi_account_desc">Mi Hesabı</string>
-  <string name="search_mi_account_key_words">Mi Hesabı,Oturum aç,hesap oluştur,Mi Bulut,Mi Kredisi,Mi Cüzdan,Mi Şifre,Mi Sigorta,Hesap Ayarları,Hesap Yönetimi</string>
+  <string name="search_mi_account_key_words">Xiaomi Bulut,Hesap ayarları,Mi Ödeme bilgisi,Oturumu kapat</string>
   <string name="search_mi_account_path">Ayarlar/Mi Hesabı</string>
   <string name="search_user_detail">Kişisel bilgi</string>
   <string name="search_user_detail_bottom_key_words">Geliri değiştir,Eğitimi değiştir,Konumu değiştir,Bölgeyi değiştir</string>

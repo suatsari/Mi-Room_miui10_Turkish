@@ -1661,5 +1661,8 @@ Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde yapılabilir."
   <string name="modem_setting_button_title">Ayar menüsüne girin</string>
   <string name="modem_setting_info">MODEM AYAR BİLGİSİ</string>
   <string name="modem_setting_text_title">modem test özelliği ayarı</string>
-  <string name="pci_num">lte pci numarası</string>  
+  <string name="pci_num">lte pci numarası</string>
+  <string name="smsc_dialog_message">Girdiğiniz numaranın doğru olduğundan emin olun. Aksi takdirde, SMS gönderemez veya alamazsınız. SMSC numaranızı onaylamak için operatörünüze başvurun.</string>  
+  <string name="location">Alan</string>
+  <string name="operator">Operatör</string>  
 </resources>
