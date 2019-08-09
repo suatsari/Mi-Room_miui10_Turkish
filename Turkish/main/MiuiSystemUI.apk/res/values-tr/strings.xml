@@ -1621,6 +1621,15 @@ d MMM"</string>
   <string name="wait_for_debugger_summary">Hata ayıklanan uygulama, çalıştırılmadan önce hata ayıklayıcının eklenmesini bekler</string>
   <string name="wallpaper_global_des_drop_down_notify_text">Ayrıntıları görmek için bırakın</string>
   <string name="weather_publish_time">Güncellendi: %1$s</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
+  <string name="wifi_auto_sel_wapi_cert">Otomatik seç</string>
+  <string name="wifi_cant_connect">Bağlanılamıyor</string>
+  <string name="wifi_cant_connect_to_ap">\'%1$s\' noktasına bağlanılamıyor</string>
+  <string name="wifi_check_password_try_again">Şifreyi kontrol edin ve tekrar deneyin</string>
+  <string name="wifi_connected_mac_randomization">MAC randomizasyonu bağlı</string>
+  <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>
+  <string name="wifi_coverage_extend">WLAN kapsama uzantısını aç</string>
+  <string name="wifi_coverage_extend_summary">Bağlantı noktası kullanarak WLAN kapsamını genişlet</string>  
   <string name="wifi_aggressive_handover">Kablosuzdan mobil ağa agresif geçiş</string>
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, kablosuz ağ sinyali zayıfken veri bağlantısının mobil ağa geçirilmesinde daha agresif olunur</string>
   <string name="wifi_allow_scan_with_traffic">Kablosuz Dolaşım Taramalarına daima izin ver</string>

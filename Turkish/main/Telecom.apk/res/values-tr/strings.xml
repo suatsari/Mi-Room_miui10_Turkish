@@ -559,7 +559,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_verbose_logging">Kablosuz Ayrıntılı Günlüğü Etkinleştir</string>
   <string name="wifi_verbose_logging_summary">Wi-Fi günlük seviyesini artırın, her RSSI başına bir Wi-Fi Seçici göster</string>
-  <string name="window_animation_scale_title">Animasyon Penceresinin Ölçeği</string>
+  <string name="window_animation_scale_title">Pencere animasyonu ölçeği</string>
   <string name="close">Kapat</string>
   <string name="video_call_not_allowed_if_tty_enabled">Video görüşmeleri yapmak için TTY Modunu kapatın.</string>
   <string name="notification_channel_incoming_call">Gelen aramalar</string>

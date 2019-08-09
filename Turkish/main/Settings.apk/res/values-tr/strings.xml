@@ -5349,7 +5349,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_assistant_summary">WLAN bağlantısı zayıf olduğunda WLAN ağları ve mobil veri arasında geçiş yapın</string>
   <string name="wifi_assistant_switch_data">Mobil veri kullan</string>
   <string name="wifi_assistant_switch_wifi">Ağı değiştir</string>
-  <string name="wifi_auto_connect">Otomatik Bağlan</string>
+  <string name="wifi_auto_connect">Otomatik bağlan</string>
   <string name="wifi_available_title">WLAN ağına bağlan</string>
   <string name="wifi_avoid_poor_network_detection_summary">Sadece iyi bir internet bağlantısına sahip ağları kullanın</string>
   <string name="wifi_band_5ghz">5GHz</string>
@@ -5363,10 +5363,11 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_calling_suggestion_summary">Mobil şebeke yerine WLAN kullanın</string>
   <string name="wifi_calling_suggestion_title">WLAN Aramasını Aç</string>
   <string name="wifi_cancel">İptal</string>
-  <string name="wifi_cellular_data_fallback_summary">WLAN\'ın İnternet erişimi olmadığında mobil verileri kullan. Veri kullanımı geçerli olabilir.</string>
+  <string name="wifi_cellular_data_fallback_summary">WLAN internet erişimi olmadığında mobil veri kullanın. Veri kullanım ücretleri geçerli olabilir.</string>
   <string name="wifi_cellular_data_fallback_title">Mobil veriye otomatik olarak geç</string>
   <string name="wifi_certificate">Sertifika</string>
-  <string name="wifi_click_login_wlan">Giriş/Yetkilendirme gerekiyor.</string>
+  <string name="wifi_check_password_try_again">Şifreyi kontrol edin ve tekrar deneyin</string>
+  <string name="wifi_click_login_wlan">Giriş/yetkilendirme gerekiyor</string>
   <string name="wifi_click_share_wlan">Şifreyi paylaşmak için dokunun</string>
   <string name="wifi_config_info">WLAN yapılandırması</string>
   <string name="wifi_configure_settings_preference_summary_wakeup_off">WLAN otomatik olarak tekrar açılmıyor</string>

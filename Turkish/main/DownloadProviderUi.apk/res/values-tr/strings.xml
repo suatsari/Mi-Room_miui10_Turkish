@@ -19,7 +19,7 @@
   <string name="all_share_files_content">Seçtiğiniz dosyalar zaten silindi.</string>
   <string name="all_the_internet">Tüm Ağlar</string>
   <string name="apk_filter">APK</string>
-  <string name="app_downloads">%s indirilenler</string>
+  <string name="app_downloads">%s indirme</string>
   <string name="app_label">İndirilenler</string>
   <string name="auth_activity_title">Xunlei Hesabı</string>
   <string name="auth_fail">Yetki alınamadı</string>
@@ -248,7 +248,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
   <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için Wi-Fi bağlantısını bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçerik indirmek için mobil veri bağlantısı kullanırken açılır pencerede bildirim göster</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s\'i aşarsa Wi-Fi\'yi bekle</string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s değerini aşarsa Wi-Fi\'yi bekle</string>
   <string name="pref_summary_no_limit_popup">Limitsiz</string>
   <string name="pref_title_enable_max_bytes_popup">Veri kullanım uyarısını göster</string>
   <string name="preferences_title">Ayarlar</string>
