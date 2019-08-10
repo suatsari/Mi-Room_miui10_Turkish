@@ -14,11 +14,6 @@
         <item>Kas</item>
         <item>Ara</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>Cevapla</item>
-        <item>Tümünü cevapla</item>
-        <item>Yönlendir</item>
-    </string-array>
     <string-array name="calendar_remind_string_array">
         <item>Bu gece</item>
         <item>Yarın</item>
@@ -26,6 +21,11 @@
         <item>Gelecek hafta</item>
         <item>Gelecek ay</item>
         <item>Tarih seç</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>Cevapla</item>
+        <item>Tümünü cevapla</item>
+        <item>Yönlendir</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Çok küçük</item>
@@ -51,7 +51,10 @@
         <item>Eski postalar</item>
         <item>Gelen kutusu</item>
     </string-array>
-    
+    <string-array name="prefEntries_contact_add">
+        <item>Tümü</item>
+        <item>Sadece alıcılar</item>
+    </string-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
@@ -100,8 +103,4 @@
         <item>Feragat</item>
         <item>E-Posta feragatı</item>
     </string-array>
-    <string-array name="prefEntries_contact_add">
-        <item>Tümü</item>
-        <item>Sadece alıcılar</item>
-    </string-array>	
-    </resources>
+</resources>

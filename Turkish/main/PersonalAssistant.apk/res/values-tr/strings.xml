@@ -137,7 +137,7 @@
   <string name="card_expand_note_clear_all">Temizle</string>
   <string name="card_expand_note_dialog_button">Anladım</string>
   <string name="card_expand_note_dialog_message">Uygulama kasasında \"Kaydet\" düğmesine her dokunuşunuzda yeni bir not oluşturulur.</string>
-  <string name="card_expand_note_dialog_title">Notları kaydet</string>
+  <string name="card_expand_note_dialog_title">Kaydet</string>
   <string name="card_expand_note_sure_clear_all">Şimdi temizle</string>
   <string name="card_expand_note_toast_clear_null">Başarıyla temizlendi</string>
   <string name="card_expand_note_toast_save_done">Notlara kaydedildi</string>

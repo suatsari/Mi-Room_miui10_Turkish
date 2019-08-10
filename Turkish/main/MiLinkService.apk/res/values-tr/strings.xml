@@ -30,13 +30,13 @@
   <string name="hang_up_alert_dialog_content">Telefonunuzun ekranı kapandığında, yansıtma kesintiye uğramaz. Ekranı tekrar açmak için telefonunuzda Güç düğmesine basın.</string>
   <string name="hang_up_alert_dialog_neg">İptal</string>
   <string name="hang_up_alert_dialog_pos">Tamam</string>
-  <string name="hang_up_alert_dialog_title">Ekran kapalıyken yansıtma hakkında</string>
+  <string name="hang_up_alert_dialog_title">Ekran kapalı yansıtma hakkında</string>
   <string name="help_page_text_01">Yardım</string>
   <string name="help_page_text_02">Yansıtma nedir?</string>
-  <string name="help_page_text_03">Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtır. Görüntüleri ve videoları arkadaşlarınızla ve ailenizle paylaşmanıza ve hatta birlikte oyun oynamanıza izin verir. Bu özelliği kullandığınızda telefonunuzun güç tüketimi normalde değişmez.</string>
+  <string name="help_page_text_03">Yansıtma, telefonunuzun ekranındaki öğeleri daha büyük bir harici monitöre yansıtır. Görüntüleri ve videoları arkadaşlarınızla ve ailenizle paylaşmanıza ve hatta birlikte oyun oynamanıza izin verir. Bu özelliği kullandığınızda telefonunuzun güç tüketimi normalden fazla değişmez.</string>
   <string name="help_page_text_04">Öğeleri daha büyük bir ekrana nasıl yansıtırım?</string>
   <string name="help_page_text_05">Adım 1</string>
-  <string name="help_page_text_06">1. Küçük mi TV\'ye bağlanmak için küçük mi el telefonunu kullanın, ağ ortamı olmadan dikey ekran bağlantısı kurabilirsiniz.\n2. Bazı Xiaomi TV\'ler veya akıllı taramayı desteklemeyen diğer marka TV\'ler için, TV\'nizi (veya büyük ekranlı cihazınızı) cep telefonunuz ile aynı kablosuz ağa bağlamanız gerekir.</string>
+  <string name="help_page_text_06">1. Küçük Mi TV\'ye bağlanmak için küçük Mi el telefonunu kullanın, ağ ortamı olmadan dikey ekran bağlantısı kurabilirsiniz.\n2. Bazı Xiaomi TV\'ler veya akıllı taramayı desteklemeyen diğer marka TV\'ler için, TV\'nizi (veya büyük ekranlı cihazınızı) cep telefonunuz ile aynı kablosuz ağa bağlamanız gerekir.</string>
   <string name="help_page_text_07">3. Bazı Xiaomi TV\'ler veya akıllı taramayı desteklemeyen diğer marka TV\'ler. Kablosuz bir ağ yoksa veya TV ile cep telefonu aynı ağa bağlanamıyorsa, TV (veya büyük ekranlı cihaz) [Miracast] Ayna projeksiyon ekranı] anahtarını açmanız gerekir. Bu ad, farklı marka TV markaları için değişebilir, daha fazla bilgi edinmek için bu sayfanın en altına kaydırın.</string>
   <string name="help_page_text_08">Adım 2</string>
   <string name="help_page_text_09">Telefonunuzun Bildirim alanında bulunan \"Yansıt\" düğmesine dokunun. Daha istikrarlı bir bağlantı için hem WLAN hem de Bluetooth\'u açın.</string>
@@ -90,6 +90,15 @@
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>
   <string name="notification_show_more">Daha fazla özellik görüntüleyin</string>
   <string name="private_protect">Gizliliği koruma</string>
+  <string name="privacy_agree">Kabul et</string>
+  <string name="privacy_text_1">　　Yansıtma işlevi ekranına hoşgeldiniz. Ekran yansıtma hizmeti Milian tarafından sağlanır ve ekran yansıtma işlevlerinden bazıları üçüncü taraf şirket yayın ekranları tarafından da desteklenir. Gizliliğinizi sağlamak için lütfen <a href="http://cdn.hpplay.com.cn/xm/privacy.html ">Ekran yayını Gizlilik Politikası</a> ve <a href="http://cdn.hpplay.com.cn/xm/lawer.html">Ekran yayını Kullanım Koşulları</a> bilgilerini okuduğunuzdan emin olun.</string>
+  <string name="privacy_text_2">　　\"Kabul et\" öğesine tıklayarak, yukarıdaki <a href="http://www.miui.com/res/doc/eula/cn.html">Kullanıcı Sözleşmesi</a>, <a href="http://www.miui.com/res/doc/privacy/cn.html">Gizlilik Politikası</a> içeriğini ve verilen ayrıcalığı kabul etmiş olursunuz.</string>
+  <string name="privacy_text_pemission">"　　• WIFI ağ izinleri, cihazları bulmak ve bağlamak için kullanılır.
+　　•Bluetooth, cihazları keşfetmek ve bağlanmak için kullanılır.
+　　•Telefonun belleğini okur, içeriği okuduktan sonra, içeriği büyük ekranlı cihazda yayınlar.
+　　•Telefon bilgilerini alır,Telefon IMEI, Android_id, sürüm ve günlük bilgileri kaydını okur.
+　　•Sesi okuduktan sonra, sesi büyük ekranlı cihaza aktarır.
+　　•Hedefleme izinleri, çevredeki aygıtları bulur ve keşfeder."</string>  
   <string name="service_name">Evrensel Oynatıcı Hizmeti</string>
   <string name="small_window">Pencereyi küçült</string>
   <string name="status_bar_in_casting">Yansıtma</string>
