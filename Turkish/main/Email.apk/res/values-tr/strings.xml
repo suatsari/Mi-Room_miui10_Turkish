@@ -4,7 +4,6 @@
     <string name="SMTP_password_text">Şifre</string>
     <string name="SMTP_username_text">Kullanıcı adı</string>
     <string name="account_add_title">Bir e-posta servisi seçin</string>
-    <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
     <string name="account_duplicate_dlg_message_fmt">Bu kullanıcı adını zaten \"%s\" hesabı için kullanıyorsunuz.</string>
     <string name="account_duplicate_dlg_title">Yinelenen hesap</string>
     <string name="account_failure">Oturum zaman aşımına uğradı</string>
@@ -330,7 +329,6 @@
     <string name="contextmenu_send_mail">E-Posta gönder</string>
     <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Konuşma İçeriği Sağlayıcısı</string>
     <string name="conversation_detail_hide">Gizle</string>
     <string name="conversation_detail_show">Ayrıntılar</string>
     <string name="conversation_folder_moved">%1$s bölümüne taşındı</string>
@@ -510,7 +508,6 @@
     <string name="forward_attribution_no_headers">---------- Yönlendirilmiş Posta ----------</string>
     <string name="forward_download_failed_ticker">Bir veya daha fazla ek yönlendirilemedi.</string>
     <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
-    <string name="forward_subject_label">Yönl:</string>
     <string name="free_period_text">Faizsiz dönem</string>
     <string name="from_heading">"Kimden: "</string>
     <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
@@ -598,15 +595,6 @@
     <string name="mailbox_name_display_sent">Gönderilen</string>
     <string name="mailbox_name_display_starred">Yıldızlı</string>
     <string name="mailbox_name_display_trash">Çöp</string>
-    <string name="mailbox_name_display_unread">Okunmamış</string>
-    <string name="mailbox_name_server_all_unread">Okunmamış</string>
-    <string name="mailbox_name_server_drafts">Taslaklar</string>
-    <string name="mailbox_name_server_inbox">Gelen kutusu</string>
-    <string name="mailbox_name_server_junk">Önemsiz</string>
-    <string name="mailbox_name_server_outbox">Giden kutusu</string>
-    <string name="mailbox_name_server_sent">Gönderilen</string>
-    <string name="mailbox_name_server_starred">Yıldızlı</string>
-    <string name="mailbox_name_server_trash">Çöp</string>
     <string name="mailbox_settings_activity_title">Eşitleme ayarları</string>
     <string name="mailbox_settings_activity_title_with_mailbox">Eşitleme ayarları (%s)</string>
     <string name="mailbox_settings_mailbox_sync_window_label">Postayı eşitle</string>
@@ -979,7 +967,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
     <string name="refreshing_done">Tamam</string>
     <string name="release_to_refresh">Yenilemek için bırakın</string>
     <string name="remind_attachment_size_limit">"E-Postalarınız %sMB'tan az olmalıdır"</string>
-    <string name="remote_no_mail">Sunucuda başka e-posta yok.</string>
     <string name="remote_search_body_too_large_prompt">"Bu e-posta çok uzun.
 Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntüleyin."</string>
     <string name="remove_account">Hesabı kaldır</string>
@@ -989,7 +976,6 @@ Tamamen eşitleninceye kadar bekleyin veya mesajı bilgisayarınızda görüntü
     <string name="reply_add_bodycontent">Hızlı cevap metni posta içeriğine eklensin mi?</string>
     <string name="reply_all">Tümünü cevapla</string>
     <string name="reply_attribution">%1$s üzerinden, %2$s yazdı:</string>
-    <string name="reply_subject_label">Cvp:</string>
     <string name="report_phishing">Kimlik avı bildir</string>
     <string name="report_rendering_improvement">İyi görünüyor</string>
     <string name="report_rendering_improvement_desc">Bu mesaj iyi görünüyor.</string>
