@@ -1461,7 +1461,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="power_center_state_on">Açık</string>
   <string name="power_center_time_to_boot">Gücün açılacağı zaman</string>
   <string name="power_center_time_to_shutdown">Gücün kapanacağı zaman</string>
-  <string name="power_center_title">Pil optimizasyonu</string>
+  <string name="power_center_title">Pil &amp; performans</string>
   <string name="power_consume_hardware_total_format">Donanım: %s</string>
   <string name="power_consume_other">Diğer</string>
   <string name="power_consume_rank_hardware">Donanım</string>
@@ -2498,7 +2498,7 @@ Kalan veriler, bir önceki aydan aktarılmış olan verileri içerir."</string>
   <string name="handle_title_system">Sistem pil kullanımı</string>
   <string name="hide_mode_result_summary_text">Bireysel uygulamalar için Pil tasarrufu ayarlarını özelleştirme</string>
   <string name="pc_main_activity_back">Geri</string>
-  <string name="pc_settings_title">Pil optimizasyonu ayarları</string>
+  <string name="pc_settings_title">Pil &amp; performans ayarları</string>
   <string name="power_center_hints_scan_danger_result">Şimdi pil sorunlarını düzeltebilirsiniz</string>
   <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
   <string name="power_center_list_item_battery_status_time">s</string>
@@ -2797,5 +2797,14 @@ Gizliliğinize saygı duyuyor ve koruyoruz."</string>
   <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
   <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
   <string name="pc_statistics_battery_use_hour_minute">Son şarjdan bu yana %1$ds %2$dd</string>
-  <string name="pc_statistics_battery_last_hour_minute">%1$ds %2$dd kaldı</string>  
+  <string name="pc_statistics_battery_last_hour_minute">%1$ds %2$dd kaldı</string>
+  <string name="battery_and_property">Pil &amp; performans</string>
+  <string name="power_setting_config_scenario_policies_title">Senaryolar</string>
+  <string name="power_setting_features">Özel özellikler</string>
+  <string name="power_setting_important_warning">Dikkat</string>
+  <string name="power_setting_scenario_policies_summary">Pil tasarruf modları arasında otomatik olarak geçiş yapmak için senaryoları belirleyin</string>
+  <string name="power_setting_warm_configure">Sıcaklık kontrolü</string>
+  <string name="power_setting_warm_performance_tip">Yüksek güç tüketimi gerektiren senaryolar, cihazınızın sıcaklığını varsayılan sıcaklık kontrol modu seviyelerinin üzerine çıkartacaktır.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Uyumlu cihazları kablosuz olarak şarj edin</string>
+  <string name="power_setting_wireless_reverse_charging_title">Ters kablosuz şarj</string>  
 </resources>

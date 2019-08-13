@@ -477,6 +477,7 @@
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>
+  <string name="search_action_mode_cancel">İptal</string>
   <string name="search_input_description">Ara</string>
   <string name="search_mode_button_back_description">Geri</string>
   <string name="select_all">Tümü</string>

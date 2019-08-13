@@ -237,4 +237,6 @@
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_psd_toolong">Şifre çok uzun. Şifreyi manuel olarak girin.</string>
+  <string name="wx_not_installed_toast">Bu özelliğin WeChat kullanması gerekir. Önce WeChat\'i yükleyin.</string>
 </resources>

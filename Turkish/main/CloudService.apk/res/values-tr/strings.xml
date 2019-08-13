@@ -406,8 +406,11 @@
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler tek bir yerde</string>
   <string name="enable_sync_setting_title">Bulut hizmetleri yapılandırılıyor…</string>
   <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
-  <string name="user_detail_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="user_detail_privacy_policy">Gizlilik Politikası</string>
+  <string name="pre_privacy_policy">Gizlilik Politikası</string>
+  <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="privacy_and_agreement">Gizlilik ve Sözleşme</string>
+  <string name="sync_normal_summary">Aşağıdaki listedeki bazı öğeler eşitlenemedi</string>
+  <string name="sync_normal_title">Eşitleme tamamlanamadı</string>
   <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="waiting_for_sync">Bekliyor…</string>
   <string name="system_busy_or_network_error">Bir hata oluştu. Bir iki dakika bekleyin ve tekrar deneyin.</string>

@@ -99,5 +99,13 @@
     <item>Aylık veri planı</item>
     <item>Günlük veri planı</item>
     <item>Sınırsız veri planı</item>
+  </string-array> 
+  <string-array name="pc_settings_thermal_entries">
+    <item>Varsayılan</item>
+    <item>Performansa öncelik ver</item>
+  </string-array>
+  <string-array name="pc_settings_thermal_summaries">
+    <item>Varsayılan sıcaklık kontrol modunu kullan</item>
+    <item>Performansı önceliklendir</item>
   </string-array>  
 </resources>
