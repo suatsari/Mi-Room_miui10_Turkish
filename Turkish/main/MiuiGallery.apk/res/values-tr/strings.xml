@@ -1310,7 +1310,7 @@ mevcut"</string>
   <string name="story_rename_invalid_prefix">"Anı başlıkları \".\" veya \"_\" ile başlatılamaz"</string> 
   <string name="collage_select_image_range">Kolajlar 1-6 arası fotoğraf içerebilir</string>
   <string name="frame_not_support_image_ratio">Bu en boy oranı desteklenmiyor</string>
-  <string name="operation_produce">Kolaj&amp;Klip</string>
+  <string name="operation_produce">Kolaj &amp; Klip</string>
   <string name="photo_editor_crop_auto_tips">Otomatik olarak kırpılmış</string>
   <string name="photo_editor_frame">Çerçeve</string>
   <string name="photo_movie_select_image_range">Klipler 3-20 arası fotoğraf içerebilir</string>
