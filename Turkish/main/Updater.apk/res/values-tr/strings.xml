@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
-  <string name="app_name">Sistem Güncelleme</string>
+  <string name="app_name">Güncelleyici</string>
   <string name="battery_low_desc">Lütfen şarj cihazınızı bağlayın ve daha sonra tekrar deneyin</string>
   <string name="battery_low_title">Düşük pil</string>
   <string name="btn_cancel">İptal</string>
