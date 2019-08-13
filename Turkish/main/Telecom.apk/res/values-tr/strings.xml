@@ -354,7 +354,6 @@
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
   <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
   <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısının ana bilgisayar adını girin</string>
-  <string name="process_kernel_label">Android işletim sistemi</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="respond_via_sms_canned_response_1">Şu an konuşamıyorum, ne oldu?</string>
   <string name="respond_via_sms_canned_response_2">Daha sonra seni ararım.</string>
