@@ -1129,6 +1129,8 @@ almak için dokunun"</string>
   <string name="qs_edit">Düzenle</string>
   <string name="qs_paging">Yeni Hızlı ayarları kullanın</string>
   <string name="qs_rearrange">Hızlı ayarları yeniden düzenle</string>
+  <string name="qs_open_night_mode_alert_summary">Bazı ekran ayarları Karanlık mod ile uyumlu değildir. Ancak, Karanlık modu kapattığınızda bunlar geri yüklenir.</string>
+  <string name="quick_settings_nightmode_label">Karanlık mod</string>
   <string name="quick_settings">Hızlı Ayarlar</string>
   <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
   <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>
