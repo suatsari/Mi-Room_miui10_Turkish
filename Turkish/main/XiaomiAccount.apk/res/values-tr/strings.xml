@@ -532,5 +532,12 @@
   <string name="bind_weixin">WeChat hesabınızı bağlayın</string>
   <string name="need_install_wechat">Önce WeChat\'i yükleyin</string>
   <string name="google">Google</string>
-  <string name="bind_google">Google Hesabınızı bağlayın</string>  
+  <string name="bind_google">Google Hesabınızı bağlayın</string>
+  <string name="two_factor_auth">İki faktörlü kimlik doğrulama</string>
+  <string name="two_factor_auth_click_confirm">Oturum açmak için onaylayın</string>
+  <string name="two_factor_auth_click_confirm_summary">Diğer bağlı Mi cihazlarında bir bildirim göreceksiniz. Yeni bir cihazda oturum açmanıza izin vermek için bildirime dokunun.</string>
+  <string name="two_factor_auth_method">Kimlik doğrulama yöntemi</string>
+  <string name="two_factor_auth_need_code">Kodu girin</string>
+  <string name="two_factor_auth_need_code_summary">Diğer bağlı Mi cihazlarında bir kod göreceksiniz. Oturum açmak için bu kodu yeni bir cihaza girin.</string>
+  <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda, diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir.</string>  
 </resources>

@@ -66,7 +66,7 @@
   <string name="last_sync_time_yesterday">Dün</string>
   <string name="license_host_unreachable">Ağa bağlanılamıyor. Bu bilgileri şimdi görüntülemek için, %s adresine gidin.</string>
   <string name="loading">Biraz bekleyin...</string>
-  <string name="master_alert_notif_content">veri eşitlenmedi.</string>
+  <string name="master_alert_notif_content">Önemli bir şeyi kaybetmemek için öğeleri düzenli olarak yedekleyin.</string>
   <string name="master_alert_notif_title">Xiaomi Bulut\'u açın</string>
   <string name="member_entrance_normal_title">Xiaomi Bulut planını değiştirin</string>
   <string name="member_entrance_title_free_high_case_a">Daha fazla depolama alanı edinin</string>
@@ -131,7 +131,8 @@
   <string name="micloud_detail_fail">Eşitlenemedi</string>
   <string name="micloud_detail_not_syncable">Eşitlenmemiş</string>
   <string name="micloud_detail_query_error">Eşitlenme durumu alınamıyor</string>
-  <string name="micloud_dspt">"Verileri eşitlemek, cihazınızı bulmak için Xiaomi Bulut kullanın, "</string>
+  <string name="micloud_dspt">"Tüm cihazlarınızdaki kişilerinizi, mesajlarınızı, arama geçmişinizi ve diğer öğelerinizi eşitleyin.
+Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="micloud_dspt_provision">Xiaomi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_dspt_provision_xms">Verileri eşitlemek için Xiaomi Bulut kullanın.</string>
   <string name="micloud_find_device_close_alert_content">Bu özelliği kapatırsanız cihazınızın kaybolması durumunda cihazınızı bulamazsınız.</string>
@@ -254,7 +255,6 @@
   <string name="micloud_request_permission_confirm">Anladım</string>
   <string name="micloud_request_permission_content">Xiaomi Bulut\'un verileri eşitlemesi için izinlere ihtiyacı var. Xiaomi Bulut\'un Takvim, Rehber, Mi Hesabı, SIM kart durumu, arama geçmişi ve mesajlara erişmesine izin verin.</string>
   <string name="micloud_request_permission_title">Xiaomi Bulut izinlere ihtiyaç duyuyor</string>
-  <string name="micloud_sec_dspt">ve arkadaşlarınızla herşeyi paylaşın.</string>
   <string name="micloud_setting_antispam_summary">İstisnalar ve engellenen telefon numaraları</string>
   <string name="micloud_setting_browser_summary">Yer imleri, geçmiş ve sekmeler</string>
   <string name="micloud_setting_contact_summary">Kişilerin bilgileri ve profil fotoğrafları</string>

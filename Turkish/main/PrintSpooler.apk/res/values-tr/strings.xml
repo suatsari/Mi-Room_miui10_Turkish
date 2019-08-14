@@ -104,7 +104,7 @@
   <string name="printer">Yazıcı</string>
   <string name="printer_busy">Yazıcı meşgul</string>
   <string name="printer_error">Yazıcı hatası</string>
-  <string name="printer_error_msg">Yazıcı hatası:…%1$s</string>
+  <string name="printer_error_msg">Yazıcı hatası: %1$s</string>
   <string name="printer_notification_error_title">%1$s yazdırılamadı</string>
   <string name="printer_unavailable">Yazıcı mevcut değil</string>
   <string name="printing">Yazdırılıyor…</string>

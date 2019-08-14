@@ -244,7 +244,6 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Özelleştir</string>
-    <string name="loop_wallpaper_is_here">Duvar kağıdı slayt gösterileri şu anda hazır</string>
     <string name="mi_wallpaper">MIUI duvar kağıdı</string>
     <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
     <string name="miuishare_account_activate_ok">Etkinleştir</string>
@@ -793,5 +792,17 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="wallpaper_online">Çevrimiçi duvar kağıtları</string>
     <string name="wallpaper_online_no_more">Şimdilik bu kadar</string>
     <string name="wallpaper_online_tip">Daha fazla öğe görüntülemek için ağa bağlanın</string>
-    <string name="wallpaper_static">Statik</string>	
+    <string name="wallpaper_static">Statik</string>
+    <string name="author_attention">Takip et</string>
+    <string name="author_attention_success">Başarıyla takip edildi</string>
+    <string name="author_dialog_message">Bu hesabı şimdi takipten vazgeçilsin mi?</string>
+    <string name="author_dynamic">Durum</string>
+    <string name="author_dynamic_no_resource">Sonuç bulunamadı</string>
+    <string name="detail_author_attention_head">En seçkin tasarımcılarımızdan bazılarını takip edin</string>
+    <string name="detail_author_fans">"Takipçiler: "</string>
+    <string name="detail_author_works">"Öğeler: "</string>
+    <string name="resource_apply_trial">Uygula</string>
+    <string name="resource_download_trial">Deneyin</string>
+    <string name="wallpaper_no_favorite">Henüz bir öğe yok.</string>
+    <string name="wallpaper_no_record">Henüz bir öğe yok.</string>	
 </resources>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">Seçili kayıt silinsin mi?</string>
-  <string name="alert_message_delete_record">Kayıt cihazdan silindiği zaman Mi Bulut üzerinden de silinecek. Şimdi sil?</string>
+  <string name="alert_message_delete_record">Kayıt cihazdan silindiği zaman Xiaomi Bulut üzerinden de silinecek. Şimdi silinsin mi?</string>
   <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
   <string name="app_name">Kaydedici</string>
   <string name="back">Geri</string>
@@ -11,11 +11,11 @@
   <string name="clear_records">Eşitlenmiş kayıtları sil</string>
   <string name="cloud_record">%d eşitlendi</string>
   <string name="cloud_record_open">Kayıtları eşitle</string>
-  <string name="cloud_record_tip">Mi Bulut ile kayıtları eşitle.</string>
+  <string name="cloud_record_tip">Xiaomi Bulut ile kayıtları eşitle.</string>
   <string name="cloud_status_full_dialog_cancel">Şimdi Değil</string>
   <string name="cloud_status_full_dialog_msg">"Bulut depolamanız dolu, tam eşitleme yapılamıyor. Daha geniş alan almak için hesabınızı yükseltin."</string>
   <string name="cloud_status_full_dialog_ok">Yükselt</string>
-  <string name="cloud_status_full_dialog_title">Mi Bulut depolaması dolu</string>
+  <string name="cloud_status_full_dialog_title">Xiaomi Bulut depolaması dolu</string>
   <string name="data_connection_body">Mobil veri bağlantısı kullanarak bu dosyayı indirmek veri kullanımın artmasına neden olacak. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir.</string>
   <string name="data_connection_button_text">Tamam</string>
   <string name="data_connection_title">Veri Kullanım Uyarısı</string>
@@ -24,6 +24,7 @@
   <string name="deleting_message">Siliniyor...</string>
   <string name="details">Detaylar</string>
   <string name="dialog_content_storage_full">"Cihazın depolama alanının az olmasından dolayı kayıt işlemi durduruldu."</string>
+  <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu, uygulamayı neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi? Hesabınızın güvenliğini sağlamak için, Xiaomi Bulut hizmetlerinin yetkilendirmesini iptal etmeden önce i.mi.com adresinde oturum açın.</string>
   <string name="dialog_title_storage_full">Yetersiz alan</string>
   <string name="duration_format_hour">%ss</string>
   <string name="duration_format_minute">%sdak</string>
@@ -94,7 +95,7 @@
   <string name="recognition_status_downloading">İndiriliyor</string>
   <string name="record">Kayıt</string>
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar geriye dokunun</string>
-  <string name="record_download">Mi Bulut\'tan indirin</string>
+  <string name="record_download">Xiaomi Bulut\'tan indirin</string>
   <string name="record_download_activity">İndiricide kaydediliyor</string>
   <string name="record_download_complete">İndirildi</string>
   <string name="record_download_failed">Başarısız</string>
@@ -166,7 +167,7 @@
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string> 
-  <string name="cloud_service_state_open_reminder">Kayıtları eşitlemek için Mi Bulut ile eşitlemeyi açın.</string>
+  <string name="cloud_service_state_open_reminder">Kayıtları eşitlemek için bulutla eşitlemeyi açın.</string>
   <string name="menu">Menü</string>
   <string name="record_format_preference_title">Kayıt formatı</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>

@@ -48,4 +48,16 @@
         <item quantity="other">%1$s | %2$d görüntü</item>
         <item quantity="one">%1$s | %2$d görüntü</item>
     </plurals>
+    <plurals name="detail_update_time_hour">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="detail_update_time_minute">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="wallpaper_quantity">
+        <item quantity="other">%1$d resim</item>
+        <item quantity="one">%1$d resim</item>
+    </plurals>
 </resources>

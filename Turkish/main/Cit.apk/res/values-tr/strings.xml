@@ -333,6 +333,7 @@
   <string name="cit_sim_state_puk_required">Puk kodu gerekli</string>
   <string name="cit_sim_state_ready">Sim kart hazır</string>
   <string name="cit_sim_state_unkown">Bilinmiyor</string>
+  <string name="cit_soft_torch_off">Yumuşak flaş ışığını kapat</string>
   <string name="cit_start_calibration">Kalibre et</string>
   <string name="cit_stop_calibration">Kalibrasyonu durdur</string>
   <string name="cit_tfcard_support_summary">Bu cihazda TF Kartın desteklenip desteklenmediğini kontrol edin</string>

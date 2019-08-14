@@ -298,7 +298,7 @@
   <string name="block_record_notification_title">Bildirimler gizlendi</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Medya sesine bağlanıldı</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
-  <string name="bluetooth_connected">Bağlandı</string>
+  <string name="bluetooth_connected">%1$s bağlandı</string>
   <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (medya yok) | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (telefon yok) | Pil %1$s%2$s</string>
@@ -470,6 +470,7 @@
   <string name="description_direction_left">%s için sola kaydırın.</string>
   <string name="description_direction_up">%s için yukarı doğru kaydırın.</string>
   <string name="description_image_button_answer">Yanıtla</string>
+  <string name="description_image_button_bubble_answer">Hoparlör</string>
   <string name="description_image_button_reject">Reddet</string>
   <string name="description_target_search">Ara</string>
   <string name="dessert_case">Tatlı Kılıf</string>
@@ -622,7 +623,7 @@
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
-  <string name="force_allow_on_external">Harici birimdeki uygulamalara izin vermeye zorla</string>
+  <string name="force_allow_on_external">Harici depolamadaki uygulamalara izin vermeyi zorla</string>
   <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
   <string name="force_hw_ui_summary">2B çizimde GPU kullanımını zorla</string>

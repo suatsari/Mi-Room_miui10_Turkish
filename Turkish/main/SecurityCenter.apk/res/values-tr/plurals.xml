@@ -460,5 +460,9 @@
   <plurals name="pc_statistics_battery_last_hour">
     <item quantity="other">%d saat kaldı</item>
     <item quantity="one">%d saat kaldı</item>
-  </plurals>  
+  </plurals>
+  <plurals name="ew_alert_second_after">
+    <item quantity="other">%d saniye içinde</item>
+    <item quantity="one">%d saniye içinde</item>
+  </plurals>   
 </resources>

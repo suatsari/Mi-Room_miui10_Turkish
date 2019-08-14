@@ -695,7 +695,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="bluetooth_broadcasting">Yayın</string>
   <string name="bluetooth_confirm_passkey_msg">Eşleştirmek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Bu şifreyi gösterdiğinden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
-  <string name="bluetooth_connected">Bağlandı</string>
+  <string name="bluetooth_connected">%1$s bağlandı</string>
   <string name="bluetooth_connected_battery_level">Bağlandı | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp_battery_level">Bağlandı (medya yok) | Pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_headset_battery_level">Bağlandı (telefon yok) | Pil %1$s%2$s</string>
@@ -1943,7 +1943,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="font_size_summary1">Sisteminizin metni hala çok küçükse, deneyin</string>
   <string name="font_size_summary2">Hafif Mod.</string>
   <string name="forbidden_switch_apn_string">Seçili Erişim Noktası Ağının ayarları, geçerli ağ tipiyle eşlenmiyor</string>
-  <string name="force_allow_on_external">Harici uygulamalara izin ver</string>
+  <string name="force_allow_on_external">Harici depolamadaki uygulamalara izin vermeyi zorla</string>
   <string name="force_allow_on_external_summary">Görünen değerler ne olursa olsun, herhangi bir uygulamanın harici depolamaya uygun hale getirilmesini sağlar</string>
   <string name="force_hw_ui">GPU ile görüntü oluşturmaya zorla</string>
   <string name="force_hw_ui_summary">2B çizim için GPU gücü kullan</string>
@@ -2714,6 +2714,8 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="miui_allow_vibrate">Titreşim</string>
   <string name="miui_data_usage_menu_metered">Mobil Paylaşım</string>
   <string name="miui_experience_optimization">MIUI optimizasyonunu açın</string>
+  <string name="miui_lab_aiasst_call_screen_desc">İpuçlarıyla Bağlan</string>
+  <string name="miui_lab_aiasst_call_screen_title">İpuçları Çağrısı</string>
   <string name="miui_lab_ai_cloud_closed">AI önyükleme henüz mevcut değil.</string>
   <string name="miui_lab_ai_preload_desc">AI önyükleme uygulama başlatma hızını artırır</string>
   <string name="miui_lab_ai_preload_title">AI önyükleme</string>
