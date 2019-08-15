@@ -244,6 +244,7 @@ Bu özelliği kapatmak için, Ayarlar > Ses ve titreşim > Profil videosu bölü
     <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Özelleştir</string>
+	<string name="loop_wallpaper_is_here">Duvar kağıdı slayt gösterileri şu anda hazır</string>
     <string name="mi_wallpaper">MIUI duvar kağıdı</string>
     <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
     <string name="miuishare_account_activate_ok">Etkinleştir</string>
