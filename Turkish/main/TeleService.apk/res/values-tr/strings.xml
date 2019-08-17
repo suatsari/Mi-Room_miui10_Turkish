@@ -43,7 +43,7 @@
   <string name="always_enable_mms_summary">Mobil veri kapalı olsa bile MMS alın</string>
   <string name="animator_duration_scale_title">Animatör süre ölçeği</string>
   <string name="answer_features_setting_category">Cevaplama ve Çağrılar</string>
-  <string name="answer_state_setting_summary">Gelen çağrı ek seçenekler</string>
+  <string name="answer_state_setting_summary">Ek gelen çağrı seçenekleri</string>
   <string name="answer_state_setting_title">Gelen çağrı ayarları</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_setting">Engelli listesi</string>
@@ -220,12 +220,12 @@
   <string name="call_settings_admin_user_only">Çağrı ayarları sadece yönetici kullanıcı tarafından değiştirilebilir.</string>
   <string name="call_settings_primary_user_only">Çağrı ayarları yalnızca birincil kullanıcı tarafından değiştirilebilir.</string>
   <string name="call_settings_with_label">Ayarlar (%s)</string>
-  <string name="call_waiting_summary">Görüşme esnasında, gelen çağrıları bana bildir</string>
+  <string name="call_waiting_summary">Bir çağrı sırasında, gelen diğer çağrıları bana bildir</string>
   <string name="call_waiting_title">Çağrı bekletme</string>
-  <string name="call_waiting_tone_continuously">Sürekli bildirim çal</string>
+  <string name="call_waiting_tone_continuously">Sürekli bildirim sesini çal</string>
   <string name="call_waiting_tone_title">Çağrı bekletme bildirimi</string>
-  <string name="call_waiting_tone_twice_and_vibrate">Bildirim sesi çal ve iki kez titret</string>
-  <string name="call_waiting_tone_twice_only">İki kez bildirim çal</string>
+  <string name="call_waiting_tone_twice_and_vibrate">Bildirim sesini çal ve iki kez titret</string>
+  <string name="call_waiting_tone_twice_only">Bildirim sesini iki kez çal</string>
   <string name="callEnded_pulled">Çağrı başka bir cihaza aktarıldı.</string>
   <string name="caller_id_summary">Giden çağrılar için numaramı gizle (operatörünüzün bu özelliği desteklediğini doğrulayın)</string>
   <string name="caller_id_title">Arayan kimliği</string>

@@ -79,7 +79,7 @@
   <string name="app_suspended_more_details">Daha fazla bilgi edin</string>
   <string name="app_suspended_title">Uygulama mevcut değil</string>
   <string name="app_upgrading_toast">%1$s yükseltiyor…</string>
-  <string name="autofill">Otomatik doldurma</string>
+  <string name="autofill">Otomatik doldur</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
@@ -89,8 +89,11 @@
   <string name="autofill_department">Bölüm</string>
   <string name="autofill_district">İlçe</string>
   <string name="autofill_emirate">Emirlik</string>
+  <string name="autofill_error_cannot_autofill">İçerikler otomatik olarak doldurulamıyor</string>
   <string name="autofill_island">Ada</string>
   <string name="autofill_parish">Mahalle</string>
+  <string name="autofill_picker_accessibility_title">Otomatik doldurma seçenekleri</string>
+  <string name="autofill_picker_no_suggestions">Otomatik doldurma önerisi yok</string>
   <string name="autofill_postal_code">Posta Kodu</string>
   <string name="autofill_prefecture">İdari Bölge</string>
   <string name="autofill_province">Vilayet</string>
