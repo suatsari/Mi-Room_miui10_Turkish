@@ -408,7 +408,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="provision_sync_items_loading">Öğeler eşitlemeye hazırlanıyor</string>
   <string name="pre_privacy_policy">Gizlilik Politikası</string>
   <string name="pre_user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="privacy_and_agreement">Gizlilik ve Sözleşme</string>
+  <string name="privacy_and_agreement">Şartlar ve koşullar</string>
   <string name="sync_normal_summary">Aşağıdaki listedeki bazı öğeler eşitlenemedi</string>
   <string name="sync_normal_title">Eşitleme tamamlanamadı</string>
   <string name="micloud_request_sync_too_frequent">Çok fazla istek var. Bir iki dakika bekleyin ve tekrar deneyin.</string>
@@ -419,5 +419,9 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="cloud_storage_already_used">Doluluk: %1$s/%2$s</string>
   <string name="cloud_storage_info_type_others">Diğer</string>
   <string name="cloud_storage_manage_title">Depolamayı yönet</string>
-  <string name="data_protection_title">Verileri koru</string>  
+  <string name="data_protection_title">Verileri koru</string>
+  <string name="cloud_storage_no_data">Henüz bulutta öğe yok</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Kredilerini kullan: %s</string>
+  <string name="pay_info_dialog_confirm_to_pay">%s öde</string>
+  <string name="pay_info_dialog_title">Ödeme türünü seçin</string>  
 </resources>

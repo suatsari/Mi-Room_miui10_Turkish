@@ -909,5 +909,11 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="ultra_pixel_64mp">64MP</string>
   <string name="ultra_pixel_photography_close_tip">%s Ultra HD kapalı</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD açık</string>
-  <string name="ultra_pixel_zoom_no_support_tip">Yakınlaştırma %s Ultra HD modunda çalışmıyor</string>  
+  <string name="ultra_pixel_zoom_no_support_tip">Yakınlaştırma %s Ultra HD modunda çalışmıyor</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Yumuşak ışık</string>
+  <string name="recommend_soft_light_tip">Yumuşak ışık modunda flaş kullanın</string>
+  <string name="macro_mode_use_hint_text_title">Makro</string>
+  <string name="macro_mode_use_hint_text_body">"Küçük nesnelerin fotoğraflarda daha büyük görünmesini sağlamak için
+Makro modunu kullanın"</string>
+  <string name="live_music_author">Xiaomi Kısa Video</string>	
 </resources>

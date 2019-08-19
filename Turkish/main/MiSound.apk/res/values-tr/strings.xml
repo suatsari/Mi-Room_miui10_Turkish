@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">MüzikFX</string>
+  <string name="app_name">Kulaklık</string>
   <string name="eq_auto">Özel</string>
   <string name="eq_blues">Hüzün</string>
   <string name="eq_cancel">İptal</string>
@@ -78,7 +78,7 @@
   <string name="music_headset_mode_settings">Kulaklık Kontrol Tuşları</string>
   <string name="music_headset_mode_volume">Ses Düzeyi Kontrolü</string>
   <string name="music_headset_no_contected">Kulaklık tespit edilemedi</string>
-  <string name="music_headset_settings">Kulaklık &amp; Ses Efektleri</string>
+  <string name="music_headset_settings">Kulaklık</string>
   <string name="music_hifi_summary">Gürültüyü ve bozulmaları azalt ve ses kalitesinin arttır</string>
   <string name="music_hifi_title">Hi-Fi Ses</string>
   <string name="music_mi_effect_summary">Hoparlör kullanırken Mi Ses Artırıcıyı kullan</string>
