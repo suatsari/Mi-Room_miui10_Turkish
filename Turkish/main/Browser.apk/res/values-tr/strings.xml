@@ -207,7 +207,7 @@
   <string name="close_cloud_tab_tip">%s üzerindeki tüm bulut sekmeleri kapatılsın mı?</string>
   <string name="cloud_loading_tips">Eşitlemek için aşağı çekin</string>
   <string name="cloud_no_new_data_toast">Her şey güncel</string>
-  <string name="cloud_sync_closed_toast">Güncellemek için eşitlemeyi açın</string>
+  <string name="cloud_sync_closed_toast">Eşitleme kapalı olduğu için güncellenemiyor</string>
   <string name="cloud_sync_failed_toast">Güncellenemedi</string>
   <string name="cloud_tab">Bulut sekmeleri</string>
   <string name="cloud_tabs_sync_off">Eşitleme kapalı</string>

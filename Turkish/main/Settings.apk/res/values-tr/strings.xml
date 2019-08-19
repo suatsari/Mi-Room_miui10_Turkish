@@ -1098,10 +1098,10 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="close_optimization_option">Kapat</string>
   <string name="close_sdcard_optimization_title">Taklit sdcard optimizasyonunu kapat</string>
   <string name="close_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
-  <string name="cloud_backup_section_title">Bulut yedekleme</string>
+  <string name="cloud_backup_section_title">Xiaomi Bulut yedekleme</string>
   <string name="cloud_backup_settings_section_title">Yedekleme ayarları</string>
   <string name="cloud_restore_section_summary">Sistem ayarlarını, Ana ekran düzenini ve uygulamaları geri yükleyin</string>
-  <string name="cloud_restore_section_title">Mi Bulut\'tan geri yükle</string>
+  <string name="cloud_restore_section_title">Xiaomi Bulut\'tan geri yükle</string>
   <string name="cmcc_hardware_version">Donanım sürümü</string>
   <string name="color_black">Siyah</string>
   <string name="color_blue">Mavi</string>
@@ -2551,7 +2551,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="lockscreen_magazine_title">Duvar Kağıdı Döngüsü</string>
   <string name="lockscreen_remote_input">Cihaz kilitliyse, bildirimlerde cevap yazma veya diğer metinleri engelle</string>
   <string name="lockscreen_settings_title">Kilit ekranı tercihleri</string>
-  <string name="login_account_dialog_message">Mi Hesabınızda oturum açın ve Bulut ile eşitleyin.</string>
+  <string name="login_account_dialog_message">Mi Hesabınızla oturum açın ve bulutla eşitleyin.</string>
   <string name="login_account_dialog_title">Mi Hesabınız ile oturum açın</string>
   <string name="login_action">Oturum aç</string>
   <string name="long_press_back_key">Geri tuşuna uzun bas</string>
@@ -2559,7 +2559,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="long_press_home_key">Ev tuşuna uzun bas</string>
   <string name="long_press_menu_key">Menü tuşuna uzun bas</string>
   <string name="long_press_menu_key_when_lock">Kilit ekranında Menü tuşuna uzun bas</string>
-  <string name="long_press_volume_down">Sesi kısma tuşuna uzunca basın</string>
+  <string name="long_press_volume_down">Sesi kısma tuşuna uzun basın</string>
   <string name="lost_internet_access_cancel">Kablosuz bağlantıda kal</string>
   <string name="lost_internet_access_persist">Bir daha gösterme</string>
   <string name="lost_internet_access_switch">Mobil veriye geç</string>
@@ -3373,7 +3373,7 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="privacy_authorize_cloud_msg">Hesabınızın güvenliğini sağlayan Mi Bulut hizmetleri için yetkilendirmeyi iptal etmek istiyorsanız i.mi.com adresinde oturum açın (eşitleme ve yedeklemeler dahil).</string>
   <string name="privacy_authorize_dialog_agree">Kabul</string>
   <string name="privacy_authorize_dialog_exit">Çıkış</string>
-  <string name="privacy_authorize_dialog_message"><Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul\" seçeneğini seçmek, &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikasını&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Kullanıcı Sözleşmesini&lt;/a> okuduğunuzu ve kabul ettiğinizi gösterir.​"</Data></string>
+  <string name="privacy_authorize_dialog_message"><Data>"Bu servisin temel özellikleri kullanabilmek için, Xiaomi\'nin kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul\" seçeneğini seçmek, &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikasını&lt;/a> ve &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Kullanıcı Sözleşmesini&lt;/a> okuduğunuzu ve kabul ettiğinizi gösterir.​"</Data></string>
   <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin.</string>
   <string name="privacy_authorize_privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_authorize_revoke">Geri al</string>
@@ -4159,7 +4159,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
   <string name="settings_manual_activity_title">Elle</string>
   <string name="settings_manual_activity_unavailable">Yüklemede bir problem oldu.</string>
-  <string name="settings_notify_need_backup">Telefonunuzu değiştirdikten sonra onlara erişmek için ayarlarınızı Bulut\'a yedekleyin.</string>
+  <string name="settings_notify_need_backup">Telefonunuzu değiştirdikten sonra onlara erişmek için ayarlarınızı Xiaomi Bulut\'a yedekleyin.</string>
   <string name="settings_notify_phone_recycled">Telefon numaranız başarıyla silindi. Farklı bir telefon numarası eklemek için dokunun.</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
@@ -5770,8 +5770,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="write_tag">Yaz</string>
   <string name="wrong_pin_code_pukked">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatörünüzle irtibata geçin.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
-  <string name="xiaomi_cloud_service">Bulut</string>
-  <string name="xiaomi_cloud_service_description">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="xiaomi_cloud_service">Xiaomi Bulut</string>
+  <string name="xiaomi_cloud_service_description">Xiaomi Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_description_without_contacts">Bulut fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Cihazı bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_disabled">Kapalı</string>
   <string name="xiaomi_cloud_service_unknown">Bilinmiyor</string>
