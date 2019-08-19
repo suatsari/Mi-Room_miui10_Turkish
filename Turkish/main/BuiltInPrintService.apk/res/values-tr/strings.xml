@@ -18,7 +18,6 @@
   <string name="media_size_8x10in">8x10 inç</string>
   <string name="media_size_54x86mm">54x86 mm</string>
   <string name="media_size_89x119mm">89x119 mm</string>
-  <string name="media_size_l">B</string>
   <string name="no_printer_found">Bu adreste yazıcı bulunamadı</string>
   <string name="printer_busy">Meşgul</string>
   <string name="printer_check">Yazıcıyı kontrol et</string>
