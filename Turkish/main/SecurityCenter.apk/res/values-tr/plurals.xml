@@ -158,8 +158,8 @@
     <item quantity="one">Ağ hızı artırma oturumu sona ermesine %d gün kaldı. Ağ hız problemlerinden kaçınmak için oturumu yenileyin.</item>
   </plurals>
   <plurals name="network_restrict_count">
-    <item quantity="other">Ağa erişim &lt;font color='#ff0000'>%d:&lt;/font> uygulamaları için kısıtlanmıştır</item>
-    <item quantity="one">Ağa erişim &lt;font color='#ff0000'>%d&lt;/font> uygulaması için kısıtlanmıştır</item>
+    <item quantity="other">"Ağa erişim &lt;font color='#ff0000'>%d:&lt;/font> uygulamaları için kısıtlanmıştır"</item>
+    <item quantity="one">"Ağa erişim &lt;font color='#ff0000'>%d&lt;/font> uygulaması için kısıtlanmıştır"</item>
   </plurals>
   <plurals name="notification_title_cmcc_app_check">
     <item quantity="other">Son kontrolden bu yana %d gün</item>

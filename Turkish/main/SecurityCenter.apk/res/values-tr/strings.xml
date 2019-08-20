@@ -1082,7 +1082,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gs_show_way_vertical">Dikey</string>
   <string name="gs_sign_notification">Her gün saat 8 de giriş yapmayı hatırlat</string>
   <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
-  <string name="guide_get_operator_error">&lt;font color='#33b4ff'>&lt;U>Yanlış operatör mü?&lt;/U>&lt;/font></string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>Yanlış operatör mü?&lt;/U>&lt;/font>"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>
   <string name="guide_second_text">Operatörünüzü ayarladıktan sonra MIUI, ücretsiz olarak mobil operatörünüze SMS göndererek mobil veri kullanımınızı günlük olarak izleyecektir. MIUI, veri sınırını aştığınızı tespit ettiğinde, ağ bağlantısını kesip sizi bilgilendirecektir.</string>
@@ -2253,7 +2253,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_diagnostic_all_error_notification_title">Teşhis tamamlanamadı</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Şebeke türünü ayarlamak için dokunun</string>
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
-  <string name="tc_diagnostic_brand_result">&lt;font color='#CC0000'>Sonuç: Yanlış operatör markası&lt;br/>&lt;br/>Markayı ayarla: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Gerçek marka: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font></string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör markası&lt;br/>&lt;br/>Markayı ayarla: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Gerçek marka: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
   <string name="tc_diagnostic_fragment_default">Teşhis hakkında\n1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir.\n2. Teşhis arka planda gerçekleştirilir, bu sayfadan çıkabilirsiniz.</string>
   <string name="tc_diagnostic_location_error_notification_summary">Konumu ayarlamak için dokunun</string>
@@ -2264,24 +2264,24 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="tc_diagnostic_onekey_repair_botton">Düzelt</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Operatör ayarlarını değiştirmek için dokunun</string>
   <string name="tc_diagnostic_operator_error_notification_title">Yanlış operatör</string>
-  <string name="tc_diagnostic_operator_result">&lt;font color='#CC0000'>Sonuç: Yanlış operatör&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Gerçek opeartör: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font></string>
+  <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Gerçek opeartör: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_repair_and_continue">Düzelt ve devam et</string>
-  <string name="tc_diagnostic_repair_location">&lt;font color='#3EC234'>Teşhis tamamlandı, konum sorunları düzeltildi.&lt;/font></string>
-  <string name="tc_diagnostic_repair_location_and_operator">&lt;font color='#3EC234'>Teşhis tamamlandı, konum ve operatör sorunları düzeltildi.&lt;/font></string>
+  <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Teşhis tamamlandı, konum sorunları düzeltildi.&lt;/font>"</string>
+  <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Teşhis tamamlandı, konum ve operatör sorunları düzeltildi.&lt;/font>"</string>
   <string name="tc_diagnostic_repair_success_toast">Başarıyla değiştirildi</string>
-  <string name="tc_diagnostic_result">&lt;font color='#CC0000'>Sonuç: Teşhis işlemi tamamlanamadı&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font></string>
-  <string name="tc_diagnostic_sim_location_result">&lt;font color='#CC0000'>Sonuç: Yanlış konum&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Gerçek konum: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font></string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Sonuç: Teşhis işlemi tamamlanamadı&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font>"</string>
+  <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Sonuç: Yanlış konum&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Gerçek konum: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_status_error_brand">Operatör ağı bulunamadı</string>
-  <string name="tc_diagnostic_status_failure">&lt;font color='#CC0000'>Hata&lt;/font></string>
-  <string name="tc_diagnostic_status_no_network">&lt;font color='#ED9523'>Ağ bağlantısı yok&lt;/font></string>
-  <string name="tc_diagnostic_status_not_get">&lt;font color='#ED9523'>Bilgi alınamadı&lt;/font></string>
-  <string name="tc_diagnostic_status_success">&lt;font color='#3EC234'>Doğru&lt;/font></string>
-  <string name="tc_diagnostic_status_success_brand">&lt;font color='#3EC234'>Operatör ağı yanıt verir&lt;/font></string>
-  <string name="tc_diagnostic_status_timeout">&lt;font color='#CC0000'>Zaman aşımı&lt;/font></string>
+  <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Hata&lt;/font>"</string>
+  <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'>Ağ bağlantısı yok&lt;/font>"</string>
+  <string name="tc_diagnostic_status_not_get">"&lt;font color='#ED9523'>Bilgi alınamadı&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Doğru&lt;/font>"</string>
+  <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'>Operatör ağı yanıt verir&lt;/font>"</string>
+  <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'>Zaman aşımı&lt;/font>"</string>
   <string name="tc_diagnostic_status_updating">Test ediliyor…</string>
   <string name="tc_diagnostic_success_notification_summary">MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin</string>
   <string name="tc_diagnostic_success_notification_title">Operatör ağı ve markası doğru</string>
-  <string name="tc_diagnostic_success_result">&lt;font color='#CC0000'>Sonuç: Operatör ağı ve marka doğru ayarlandı&lt;br/>&lt;br/>Ayarlama tamamlanamadı:&lt;br/>1. Operatör istatistikleri ayın başında veya sonunda güvenilir olmayabilir.&lt;br/>2. Güvenlik uygulaması özellikleri güncellenmedi.&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font></string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Sonuç: Operatör ağı ve marka doğru ayarlandı&lt;br/>&lt;br/>Ayarlama tamamlanamadı:&lt;br/>1. Operatör istatistikleri ayın başında veya sonunda güvenilir olmayabilir.&lt;br/>2. Güvenlik uygulaması özellikleri güncellenmedi.&lt;br/>&lt;br/>MIUI teşhis araçlarını geliştirmeye yardımcı olmak için bu sorunu bildirin&lt;/font>"</string>
   <string name="tc_diagnostic_title">Operatör teşhisi</string>
   <string name="tc_diagnostic_upload_button">Rapor</string>
   <string name="tc_diagnostic_upload_no_network">Geri bildiriminiz için teşekkür ederiz! Ağa bağlandığınızda raporunuz gönderilecektir.</string>
@@ -2463,7 +2463,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="traffic_limit_error_alert_package">\n\nKalan veriler, bir önceki aydan aktarılmış olan verileri içerir.</string>
   <string name="traffic_limit_error_alert_title">%s veri sınırı hatırlatıcısı</string>
   <string name="traffic_none">Yok</string>
-  <string name="traffic_over_purchase_link">Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font></string>
+  <string name="traffic_over_purchase_link">"Veri sınırını aştınız.&lt;br/>Veri kotanızı aştığınız taktirde, operatörünüz sizden ek ücret talep edebilir.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>Şimdi kontör yüklemek için dokunun.&lt;/U>&lt;/font>"</string>
   <string name="traffic_purchase_body">Kontör bakiyeniz için dokunun.</string>
   <string name="traffic_setting_fragment_area">Yerel</string>
   <string name="traffic_setting_fragment_brand">Marka</string>
