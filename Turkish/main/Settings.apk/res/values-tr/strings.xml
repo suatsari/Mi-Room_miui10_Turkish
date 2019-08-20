@@ -6721,8 +6721,6 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="enable_screen_projection_summary">Ekran içeriğini harici bir monitöre yansıt</string>	
   <string name="open_game_accelerate">Oyun Turbo\'yu aç</string>	
   <string name="other">Diğer</string>
-  <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>
-  <string name="screen_dark_mode_time_title">Zamanlama</string>
   <string name="screen_projection">Yansıt</string>
   <string name="screen_projection_characteristics">Ayrıcalıklı özellikler</string>
   <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır.</string>
