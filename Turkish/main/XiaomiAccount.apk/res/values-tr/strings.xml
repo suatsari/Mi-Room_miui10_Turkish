@@ -157,6 +157,7 @@
   <string name="diagnosis_log_send_failed">Tanı günlüğü gönderilemedi.</string>
   <string name="diagnosis_log_sent_format">Tanı günlüğü gönderildi.\nKimlik:%s\nLütfen bu kodu teknisyene gönderin.</string>
   <string name="empty_device_list_notice">Cihaz yok</string>
+  <string name="ep_unsupported">Cihazınız Xiaomi hesabına giriş yapmayı desteklemiyor</string>
   <string name="error_dup_binded_email">Bu E-Posta adresi zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="error_invalid_bind_address">Girdiğiniz E-Posta adresi geçersiz.</string>
   <string name="exceed_binded_phone_times_notice">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>

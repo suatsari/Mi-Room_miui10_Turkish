@@ -464,5 +464,21 @@
   <plurals name="ew_alert_second_after">
     <item quantity="other">%d saniye içinde</item>
     <item quantity="one">%d saniye içinde</item>
-  </plurals>   
+  </plurals>
+  <plurals name="menu_text_antivirus_virus_ex">
+    <item quantity="other">%d uygulama virüs veya kötü amaçlı yazılım içeriyor</item>
+    <item quantity="one">%d uygulama virüs veya kötü amaçlı yazılım içeriyor</item>
+  </plurals>
+  <plurals name="menu_text_antivirus_day_ex">
+    <item quantity="other">%d gün boyunca cihaz taranmadı</item>
+    <item quantity="one">%d gün boyunca cihaz taranmadı</item>
+  </plurals>
+  <plurals name="menu_text_antispam_ex">
+    <item quantity="other">%d mesaj ve çağrı engellendi</item>
+    <item quantity="one">%d mesaj ve çağrı engellendi</item>
+  </plurals>
+  <plurals name="menu_text_app_manager_ex">
+    <item quantity="other">%d güncelleme mevcut</item>
+    <item quantity="one">%d güncelleme mevcut</item>
+  </plurals>  
 </resources>

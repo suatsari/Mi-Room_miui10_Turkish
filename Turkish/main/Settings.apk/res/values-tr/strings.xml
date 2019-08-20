@@ -4375,6 +4375,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sound_settings_summary_vibrate">Telefon zili titreşime ayarlandı</string>
   <string name="sound_vibrate_settings">Ses &amp; titreşim</string>
   <string name="sound_work_settings">İş profili sesleri</string>
+  <string name="speaker">Hoparlör</string>
   <string name="special_access">Özel Erişim</string>
   <string name="spell_checker_not_selected">Seçilmedi</string>
   <string name="spellchecker_language">Dil</string>
@@ -6715,5 +6716,32 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="raise_bottom_height_of_keyboard_title">Klavyeyi tam ekrana ayarlayın</string>
   <string name="right_function_key">Sağ kısayol</string>
   <string name="long_press_power_key">Güç düğmesine uzun basın</string>
-  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>  
+  <string name="long_press_power_key_tips"><Data>Güç düğmesine uzun basın &lt;font color=#999999>Daha hızlı ve daha pratik&lt;/font></Data></string>
+  <string name="connection_and_sharing">Bağlantı &amp; paylaşım</string>
+  <string name="enable_screen_projection_summary">Ekran içeriğini harici bir monitöre yansıt</string>	
+  <string name="open_game_accelerate">Oyun Turbo\'yu aç</string>	
+  <string name="other">Diğer</string>
+  <string name="screen_dark_mode_select_time_error_summary">Başlangıç saati ve bitiş saati aynı olamaz</string>
+  <string name="screen_dark_mode_time_title">Zamanlama</string>
+  <string name="screen_projection">Yansıt</string>
+  <string name="screen_projection_characteristics">Ayrıcalıklı özellikler</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Ekran kapalıyken yansıt</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">Harici monitörlerde kayan bildirimleri, gelen çağrıları ve diğer özel öğeleri görüntülemeyin.</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Özel öğeleri gizle</string>
+  <string name="screen_projection_characteristics_small_window_summary">Telefonunuzun diğer özelliklerini kullanabilmek için yansıtılan pencereyi küçültün.</string>
+  <string name="screen_projection_characteristics_small_window_title">Pencereyi küçült</string>
+  <string name="screen_projection_example_document_summary">Slaytlar arasında geçiş yapmak ve notları görüntülemek için telefonunuzu kullanırken sunumlarınızı harici bir monitörde görüntüleyin. Bu özelliği denemek için Dosya Yöneticisi > Belgeler\'e gidin.</string>
+  <string name="screen_projection_example_document_title">Belgeler</string>
+  <string name="screen_projection_example_gallery_summary">Harici monitörde görüntülemek için Galeri uygulamasında bir öğenin altındaki Paylaş düğmesine dokunun.</string>
+  <string name="screen_projection_example_gallery_title">Fotoğraflar &amp; videolar</string>
+  <string name="screen_projection_example_game_summary">Oyun Turbo, oyunları harici bir ekrana aktarmanıza olanak tanır. Bu özelliği açmak için Oyun Turbo araç kutusundaki kısayolu kullanın.</string>
+  <string name="screen_projection_example_game_title">Oyunlar</string>
+  <string name="screen_projection_help">Yardım</string>
+  <string name="screen_projection_sample_summary">Belgeleri, oyunları, fotoğrafları ve videoları yansıt</string>
+  <string name="screen_projection_sample_title">Demolar</string>
+  <string name="screen_projection_title">Yansıt</string>
+  <string name="search_connection_and_sharing">Daha;Kablosuz</string>
+  <string name="system_print_service_help">Yazdırma hakkında</string>
+  <string name="xiaomi_transfer">Mi Paylaşım</string>  
 </resources>
