@@ -113,5 +113,6 @@
   <string name="retry_connect">Tekrar deneyin</string>
   <string name="search_brand">Arama</string>
   <string name="start_print">Yazdır</string>
-  <string name="wifi_direct">WLAN Direkt</string>  
+  <string name="wifi_direct">WLAN Direkt</string>
+  <string name="system_print_service_help">Yazdırma hakkında</string>  
 </resources>

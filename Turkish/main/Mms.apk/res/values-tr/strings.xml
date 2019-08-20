@@ -85,9 +85,9 @@
   <string name="class_0_message_activity">Sınıf 0 mesajı</string>
   <string name="click_to_update">Güncellemeleri kontrol etmek için dokunun</string>
   <string name="close">Kapat</string>
-  <string name="cloud_state_disabled">Mesajları eşitlemek için Mi Bulut ile eşitlemeyi aç</string>
-  <string name="cloud_state_sync_finished">Mi Bulut ile eşitlendi</string>
-  <string name="cloud_state_syncing">Mi Bulut ile eşitleniyor…</string>
+  <string name="cloud_state_disabled">Mesajları eşitlemek için bulutla eşitlemeyi aç</string>
+  <string name="cloud_state_sync_finished">Xiaomi Bulut ile eşitlendi</string>
+  <string name="cloud_state_syncing">Xiaomi Bulut ile eşitleniyor…</string>
   <string name="cm_privacy_dialog_allow">Kabul</string>
   <string name="cm_privacy_dialog_cancel">İptal</string>
   <string name="cm_privacy_dialog_spannable_tips">Gizlilik Politikası</string>
@@ -233,10 +233,10 @@
   <string name="forward_prefix">"İlet: "</string>
   <string name="found_old_messages">%1$s - %2$s arasındaki mesajlar yüklensin mi?</string>
   <string name="found_old_messages_title">Diğer SIM kartlarınızdaki mesajlar yüklensin mi?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Mi Bulut\'tan gelen mesajları eşitlemek için, Mi Hesabınıza giriş yapın ve SMS eşitlemeyi açın.</string>
-  <string name="found_wild_messages_guide_settings_desc">Mesajlaşma ayarlarından Mi Bulut üzerinden mesajları eşitleyin.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Xiaomi Bulut\'tan gelen mesajları eşitlemek için, Mi Hesabınıza giriş yapın ve SMS eşitlemeyi açın.</string>
+  <string name="found_wild_messages_guide_settings_desc">Mesajlaşma ayarlarından Xiaomi Bulut üzerinden mesajları eşitleyin.</string>
   <string name="found_wild_messages_guide_sync_not_started">Eşitleme henüz başlamadı</string>
-  <string name="found_wild_messages_title">Mi Bulut üzerinden mesajları eşitle</string>
+  <string name="found_wild_messages_title">Xiaomi Bulut üzerinden mesajları eşitle</string>
   <string name="from_label">"Kimden: "</string>
   <string name="from_pkg_name">Uygulama üzerinden:</string>
   <string name="group_already_kicked_hint">Mesaj gönderilemiyor. Bu grup sohbetinin bir üyesi değilsiniz.</string>
@@ -901,5 +901,13 @@
   <string name="pref_title_privacy_authority">Yetkilendirme</string>
   <string name="pref_title_privacy_policy_detail">Gizlilik Politikası</string>
   <string name="pref_title_smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
-  <string name="toast_failed_to_close_priv_auth">Yetkilendirme iptal edilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>  
+  <string name="toast_failed_to_close_priv_auth">Yetkilendirme iptal edilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="mms_block_alert_message">Yetkili gönderenlerden gelen mesajlar dışındaki tüm MMS\'ler engellenir. Yetkili gönderenler ağ taşıyıcıları, ulusal demiryolu rezervasyon sistemlerini vb. içerir.</string>
+  <string name="mms_block_alert_ok">Engelle</string>
+  <string name="mms_block_alert_title">MMS\'i engelle</string>
+  <string name="mms_block_hint">"Bu gönderen kişi listenizde değil.
+Bu mesaj istenmeyen olabilir."</string>
+  <string name="mms_block_hint_highlight">MMS\'i engelle</string>
+  <string name="shortcut_new_msg">Yeni mesaj</string>
+  <string name="shortcut_setting">Ayarlar</string>  
 </resources>
