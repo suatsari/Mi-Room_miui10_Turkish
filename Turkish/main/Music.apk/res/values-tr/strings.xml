@@ -4,7 +4,7 @@
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
   <string name="abc_action_mode_done">Tamam</string>
-  <string name="abc_activity_chooser_view_see_all">Hepsini gör</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
   <string name="abc_capital_off">KAPALI</string>
   <string name="abc_capital_on">AÇIK</string>
@@ -14,7 +14,7 @@
   <string name="abc_searchview_description_search">Arama</string>
   <string name="abc_searchview_description_submit">Sorguyu gönder</string>
   <string name="abc_searchview_description_voice">Sesli arama</string>
-  <string name="abc_shareactionprovider_share_with">İle paylaş</string>
+  <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="account_and_cloud">Hesap</string>
@@ -171,6 +171,10 @@
   <string name="dialog_insufficient_space_on_cache">Dahili depolamada yeterli alan yok</string>
   <string name="dialog_insufficient_space_on_external">Harici depolamada yeterli alan yok</string>
   <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir.</string>
+  <string name="dialog_my_playlist_online_changed_merge">Tut</string>
+  <string name="dialog_my_playlist_online_changed_message">Bu oynatma listesi değişti gibi görünüyor. Yeni sürümle değiştirebilir veya eskisini koruyabilirsiniz.</string>
+  <string name="dialog_my_playlist_online_changed_replace">Değiştir</string>
+  <string name="dialog_my_playlist_set_to_public">Bu şarkı listesini Mi Müzik ile paylaş</string>
   <string name="dialog_queued_body">Bu dosya, gelecekte indirilmek için kuyruğa eklendi.</string>
   <string name="dialog_renew_failure">Üzgünüm, işlem başarısız oldu</string>
   <string name="dialog_renew_free_end">Ücretsiz denemeniz bitti. Hungama PRO\'ya abone misiniz?</string>
@@ -254,7 +258,7 @@
   <string name="download_traffic_dialog_title">Veri Kullanım Uyarısı</string>
   <string name="download_traffic_dialog_title_beyond">Veri kullanımı aşıldı</string>
   <string name="download_traffic_dialog_title_serious">Çok az mobil veri kaldı</string>
-  <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
+  <string name="download_unknown_title">&lt;İsimsiz></string>
   <string name="download_wait_connect">Bağlantıyı bekliyor</string>
   <string name="download_while_playing_no_vip_summary">Otomatik olarak favori şarkılar indirilsin (İçerik ödemeli)</string>
   <string name="download_while_playing_summary">Otomatik olarak çevrimiçi şarkılar indirilsin mi</string>
@@ -453,7 +457,7 @@
   <string name="metered_serious_alert_msg_with_data">Sadece %s mobil veri kaldı. Şarkıları dinlemek için mobil veri kullanılsın mı?</string>
   <string name="metered_serious_allow">Yine de oynat</string>
   <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir.</string>
-  <string name="missing_title">&lt;Bilinmiyor&gt;</string>
+  <string name="missing_title">&lt;Bilinmiyor></string>
   <string name="miuishare_account_login_ok">Oturum aç</string>
   <string name="miuishare_no_network">Ağa bağlı değilsiniz.</string>
   <string name="miuishare_publish">Gönder</string>
@@ -483,6 +487,10 @@
   <string name="my_account">Mi Hesabı</string>
   <string name="my_music_empty">Çalma listesi boş.</string>
   <string name="my_music_empty_goto_online">Şarkı bulunamadı</string>
+  <string name="my_playlist_add_song">Şarkı ekle</string>
+  <string name="my_playlist_create_self_playlist">En sevdiğiniz şarkılarla çalma listeleri oluşturun</string>
+  <string name="my_playlist_set_to_private">Özel yap</string>
+  <string name="my_playlist_set_to_public">Herkese açık yap</string>
   <string name="network_error_and_retry">Bağlanamadı, dokunup yeniden deneyin</string>
   <string name="network_request_error">Ağa bağlanamıyor</string>
   <string name="network_settings_error">Ağa bağlanamıyor</string>
@@ -522,7 +530,7 @@
   <string name="nowplaying_circle_style_rainbow">Gökkuşağı</string>
   <string name="nowplaying_circle_style_wave">Dalga</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
-  <string name="nowplaying_menu_item_delete">Temizle</string>
+  <string name="nowplaying_menu_item_delete">Kuyruktan kaldır</string>
   <string name="October">Ekim</string>
   <string name="ok">Tamam</string>
   <string name="online_apk_acquired">%d%% yüklendi</string>
@@ -574,6 +582,8 @@
   <string name="permission_declaration_negative_text">Sonra</string>
   <string name="permission_declaration_positive_text">Güvenlik bölümüne git</string>
   <string name="permission_declaration_title">Erişim izinli</string>
+  <string name="permission_open">İzin ver</string>
+  <string name="permission_required">Gerekli izinler</string>
   <string name="pick_favorite_song">Favoriler</string>
   <string name="pick_local_song">Yerel şarkılar</string>
   <string name="pick_recent_song">En son çalınan</string>
@@ -622,6 +632,7 @@
   <string name="renew_dialog_title">Pro ol\nMutlu Ol</string>
   <string name="repeat_all_notif">Bütün şarkıları tekrarla</string>
   <string name="repeat_current_notif">Geçerli şarkıyı tekrarla.</string>
+  <string name="request_overlay_permission_desc">Bu özelliği kullanabilmek için Mi Müzik için kayan pencereleri göstermesine izin verin.</string>
   <string name="request_share_info">Sadece bir saniye…</string>
   <string name="request_subscription_status">Sadece bir saniye…</string>
   <string name="restart_immediate">Şimdi Başlat</string>
@@ -654,6 +665,7 @@
   <string name="search_hint_online">Sanatçıları, albümleri, şarkıları, çalma listelerini ve videoları çevrimiçi arayın</string>
   <string name="search_history_clear_all">Temizle</string>
   <string name="search_history_delete_all_dialog_titile">Arama geçmişi şimdi temizlensin mi?</string>
+  <string name="search_in_youtube">Youtube\'da ara</string>
   <string name="search_instant_online_music">Çevrimiçi</string>
   <string name="search_menu_title">Arama</string>
   <string name="search_result_local_songs">Yerel</string>
@@ -694,6 +706,7 @@
   <string name="share_image_error">İndirilen resmin hatalı olmasından dolayı resim paylaşılamadı</string>
   <string name="share_text_list">"Mi Müzik Çalma Listesi: "</string>
   <string name="share_text_song">"Mi Müzikteki Şarkı: "</string>
+  <string name="show_float_first_hint">Oynatıcıyı küçült</string>
   <string name="show_more">%s göster</string>
   <string name="shuffle_music">Karışık oynat</string>
   <string name="shuffle_off_notif">Karışık kapalı.</string>
@@ -768,6 +781,9 @@
   <string name="toast_download_error_by_vip_required">Bu şarkıyı indirmek için Premium Şarkı Paketi edinin.</string>
   <string name="toast_download_in_process">İndirme süreci</string>
   <string name="toast_is_pro">Siz zaten bir PRO üyesiniz.</string>
+  <string name="toast_my_playlist_illegal_name">Bu oynatma listesinin başlığı geçerli değil. Bu oynatma listesini yeniden adlandırın.</string>
+  <string name="toast_my_playlist_set_to_private">Bu oynatma listesi şimdi özel. Diğer insanlar göremez.</string>
+  <string name="toast_my_playlist_set_to_public">Bu oynatma listesi şimdi herkese açık. Diğer insanlar görebilir.</string>
   <string name="toast_new_playlist_name_no_enter">Yeni bir paragraf başlatılamıyor</string>
   <string name="toast_new_playlist_name_too_long">Çalma listesi adı çok uzun</string>
   <string name="toast_normal_songs_for_download">Standart kalite ayarında indiriliyor</string>
