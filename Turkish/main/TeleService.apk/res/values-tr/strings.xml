@@ -56,7 +56,6 @@
   <string name="administrative_enable">Yönetim etkin</string>
   <string name="advanced_options_title">Gelişmiş</string>
   <string name="advanced_settings">İsteğe bağlı ayarlar</string>
-  <string name="advanced_settings_container">gelişmiş ayarlar konteyner</string>
   <string name="advanced_settings_hide">▽ Tümünü gizlemek için dokunun</string>
   <string name="advanced_settings_show">▷ Tümünü göstermek için dokunun</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
@@ -90,7 +89,6 @@
   <string name="audio_mode_earpiece">Ahizeli Kulaklık</string>
   <string name="audio_mode_speaker">Hoparlör</string>
   <string name="audio_mode_wired_headset">Kablolu kulaklık</string>
-  <string name="auth_username">YetkiliKullanıcıAdı</string>
   <string name="auth_username_summary">Kimlik doğrulama için kullanılan kullanıcı adı</string>
   <string name="auth_username_title">Kimlik doğrulama kullanıcı adı</string>
   <string name="auto_answer_delay_entries_delay_3s">3 saniye</string>
@@ -607,7 +605,6 @@
   <string name="disabled">Devre dışı</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
-  <string name="display_name">Görünenİsim</string>
   <string name="display_name_summary">&lt;Kullanıcı adıyla aynı></string>
   <string name="display_name_title">Görünen isim</string>
   <string name="do_not_show_again">Tekrar gösterme</string>
@@ -1109,7 +1106,6 @@
   <string name="other_settings_category">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları taklit edin</string>
   <string name="overseas_roaming_setting">Veri dolaşımı</string>
-  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>
@@ -1621,7 +1617,6 @@
   <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürme</string>
   <string name="track_frame_time">Profil GPU oluşturma</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Taşıma Tipi</string>
   <string name="tts_default_lang_summary">Konuşulan metnin dile özgü sesini ayarlar</string>
   <string name="tts_default_lang_title">Dil</string>
@@ -1672,7 +1667,6 @@
   <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırak</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistem dillerini kullan</string>
   <string name="user_guest">Konuk</string>
-  <string name="username">KullanıcıAdı</string>
   <string name="username_title">Kullanıcıadı</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>

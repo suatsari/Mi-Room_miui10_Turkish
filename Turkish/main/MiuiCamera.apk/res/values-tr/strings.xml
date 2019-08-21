@@ -71,8 +71,8 @@
   <string name="camera_mode_options">Modlar</string>
   <string name="camera_setting">Kamera</string>
   <string name="camera_settings_label">Kamera</string>
-  <string name="camera_snap_mode_title">Hızlı snap modu</string>
-  <string name="camera_snap_mode_title_detail">Detaylara bakmak için dokunun</string>
+  <string name="camera_snap_mode_title">Hızlı çekim modu</string>
+  <string name="camera_snap_mode_title_detail">Ayrıntıları görüntülemek için dokunun</string>
   <string name="cannot_connect_camera_once">Kameraya bağlanılamıyor</string>
   <string name="cannot_connect_camera_twice">Hala kameraya bağlanılamıyor. Cihazınızı yeniden başlatmayı deneyin</string>
   <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, lütfen daha sonra deneyin.</string>
