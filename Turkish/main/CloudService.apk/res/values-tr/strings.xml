@@ -391,7 +391,7 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="warning_bar_action_upgrade_vip">Xiaomi Bulut planını yükseltin</string>
   <string name="warning_bar_add_short_cut_success">Başarıyla eklendi</string>
   <string name="warning_bar_title_cloud_space_already_full">Bulut depolama alanı azalıyor. Fotoğraflarınız eşitlenmemiş olabilir.</string>
-  <string name="warning_bar_title_cloud_space_full">Bulut depolama alanı dolu. Eşitleme duraklatıldı.</string>
+  <string name="warning_bar_title_cloud_space_full">Bulut depolama alanı dolu. Fotoğraflar, arama geçmişi ve diğer öğeler eşitlenemiyor.</string>
   <string name="warning_bar_title_master_sync_off">Otomatik eşitleme kapalı</string>
   <string name="warning_bar_title_network_unconnected">Ağa bağlanılamadı</string>
   <string name="warning_bar_title_short_cut">Xiaomi Bulut için bir Ana ekran kısayolu eklensin mi?</string>
@@ -423,5 +423,20 @@ Cihazınızın kaybolması durumunda bulun ve kilitleyin."</string>
   <string name="cloud_storage_no_data">Henüz bulutta öğe yok</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Kalan Mi Kredilerini kullan: %s</string>
   <string name="pay_info_dialog_confirm_to_pay">%s öde</string>
-  <string name="pay_info_dialog_title">Ödeme türünü seçin</string>  
+  <string name="pay_info_dialog_title">Ödeme türünü seçin</string> 
+  <string name="micloud_setting_calllog_summary">Çağrı geçmişi</string>
+  <string name="micloud_setting_recorder_summary">Ses ve çağrı kayıtları</string> 
+  <string name="micloud_setting_notes_summary">Notlar</string>
+  <string name="micloud_setting_calendar_summary">Etkinlikler</string>
+  <string name="micloud_setting_personal_assistant_summary">Uygulama kasa kartları ve özellikleri</string>
+  <string name="micloud_setting_phrase_summary">Sık kullanılan ifadeler</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Ana ekran düzeni, uygulamalar ve sistem ayarları</string>
+  <string name="micloud_main_head_menu_finddevice_summary">Cihazınız kaybolursa bulun ve kilitleyin</string>
+  <string name="storage_manage_upgrade">Yükselt</string>
+  <string name="storage_manage_expansion">Daha fazlasını alın</string>
+  <string name="storage_manage_renewal">Yenile</string>
+  <string name="storage_manage_list_title">Bulut verileri</string>
+  <string name="storage_manage_list_title_action">Daha fazla göster</string>
+  <string name="cloud_storage_info_type_drive">Mi Drive</string>
+  <string name="cloud_storage_info_type_pdc">Sistem ayarları</string>  
 </resources>

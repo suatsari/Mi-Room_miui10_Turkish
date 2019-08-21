@@ -578,6 +578,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_dialog_negative">Çıkış</string>
   <string name="cta_dialog_positive">Kabul</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
+  <string name="cta_main_purpose">Güvenlik uygulamasına Hoşgeldiniz! Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="cta_settings">İnternet bağlantısına izin ver</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
   <string name="customize_limit_pkg">%s (özel)</string>
@@ -1035,7 +1036,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
   <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
   <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
-  <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"</Data></string>
+  <string name="gdpr_msg"><Data>"Güvenliğin temel özelliklerini kullanmak için, Xiaomi\'nin Güvenlik özelliklerini kullanma yolları hakkında bilgi (örneğin, mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi ve cihazınızla ilgili temel bilgiler) ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik Politikası&lt;/a> ile belirtilen diğer bilgi türleri de dahil olmak üzere kişisel verilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekir.\"</Data></string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Gmail, Google Haritalar ve diğer Google uygulamalarını kullanırken sorun yaşıyorsanız bu özelliği açın. Pil ömrünü biraz azaltacaktır.</string>

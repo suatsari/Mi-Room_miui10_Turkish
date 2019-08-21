@@ -1304,6 +1304,7 @@
   <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM otomatik</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">LTE tercihli</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G tercihli (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G tercihli</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM otomatik</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">5G tercihli</string>
   <string name="preferred_network_type_pref_entries_auto">Otomatik</string>
