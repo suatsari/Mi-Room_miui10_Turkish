@@ -384,6 +384,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="background_restrict_app_dialog_message">Bu uygulama için arka plan ağ erişimini kısıtlamak, uygulamanın normal şekilde çalışmasını, mesajlar almasını, içeriği indirmesini vb. imkansız hale getirebilir. Yine de kısıtlansın mı?</string>
   <string name="background_traffic">Arka plan %s</string>
   <string name="backsound_set_hint">Mesajınızı %s olarak mı ayarladınız?</string>
+  <string name="battery_and_property">Pil &amp; performans</string>
   <string name="battery_capacity_title">Pil kapasitesi</string>
   <string name="battery_charge_estimating">Hesaplanıyor</string>
   <string name="battery_charge_full">Şarj oldu</string>
