@@ -78,7 +78,7 @@
     <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
-	<item>LHDC</item>
+    <item>LHDC</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
@@ -90,12 +90,19 @@
     <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
     <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
-	<item>LHDC</item>
+    <item>LHDC</item>
     <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
     <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
+  <string-array name="bluetooth_audio_active_device_summaries">
+    <item />
+    <item>" | Aktif"</item>
+    <item>" | Aktif (medya)"</item>
+    <item>" | Aktif (telefon)"</item>
+  </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (Varsayılan)</item>
+    <item>AVRCP 1.3</item>
     <item>AVRCP 1.5</item>
     <item>AVRCP 1.6</item>
   </string-array>
@@ -118,10 +125,6 @@
     <item>Kapalı</item>
     <item>Fazla çizilen alanları göster</item>
     <item>Alanları renk körlüğüne uygun olarak göster</item>
-  </string-array>
-  <string-array name="debug_hw_renderer_entries">
-    <item>OpenGL (Varsayılan)</item>
-    <item>OpenGL (Skia)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Hiçbiri</item>
@@ -310,18 +313,4 @@
     <item>Animasyon ölçeği 5x</item>
     <item>Animasyon ölçeği 10x</item>
   </string-array>
-    <string-array name="select_logd_system_levels">
-    <item>Kapalı</item>
-    <item>Hata</item>
-    <item>Uyarma</item>
-    <item>Bilgi</item>
-    <item>Hata ayıklama</item>
-    <item>Ayrıntılı</item>
-    </string-array>
-  <string-array name="bluetooth_audio_active_device_summaries">
-    <item></item>
-    <item>" | Aktif"</item>
-    <item>" | Aktif (medya)"</item>
-    <item>" | Aktif (telefon)"</item>
-  </string-array>	
 </resources>
