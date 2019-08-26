@@ -367,7 +367,7 @@
   <string name="dialog_request_network_message">Mi Transfer\'e Hoşgeldiniz! Öğeleri eski cihazınızdan yenisine aktarmak için bu uygulamayı kullanabilirsiniz. Mi Transfer\'in normal çalışması için internete bağlanması gerekiyor.</string>
   <string name="dialog_tip_upgrade_summary">Mi Transfer sürümü eski görünüyor. Dosyaları aktarabilmek için Mi Transfer\'i en son sürümüne güncelleyin.</string>
   <string name="dialog_tip_upgrade_title">Mi Transfer güncelle</string>
-  <string name="dialog_version_summary_tip">Güncelleme Notları:</string>
+  <string name="dialog_version_summary_tip">Yenilikler:</string>
   <string name="dialog_version_title_tip">Bir güncelleme mevcut</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="document">Belgeler</string>
@@ -841,4 +841,12 @@
   <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleştirme!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor, lütfen SD kartı kontrol edin.</string>
   <string name="yesterday">Dün</string>
+  <string name="dialog_forbidden_use_tips">Mi Transfer şu anda tabletlere veya tabletlerden veri aktarımı desteklemiyor,</string>
+  <string name="close_vpn_summary">Cihazınız şuan bir VPN\’e bağlı görünüyor. Diğer cihazlara bağlanabilmek için VPN\'i kapatın.</string>
+  <string name="close_vpn_title">VPN\'i kapat</string>
+  <string name="miui_need_location_permission_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
+  <string name="miui_need_location_permission_title">Konuma erişime izin ver</string>
+  <string name="miui_need_open_high_accuracy_summary">Yakındaki cihazları bulmak için Mi Transfer\'in konumunuza Yüksek doğruluk modunda erişmesine izin verin. Bu izni vermediğiniz sürece Mi Transfer\'i kullanamazsınız.</string>
+  <string name="miui_need_open_high_accuracy_title">Doğru konum bilgisine erişime izin ver</string>
+  <string name="need_location_permission_summary">Yakındaki cihazları bulabilmek için Mi Transfer\'in konumunuza erişmesine izin verin.</string>
 </resources>

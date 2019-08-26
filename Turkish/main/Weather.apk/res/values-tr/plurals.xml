@@ -48,8 +48,7 @@
         <item quantity="other">%1$s saniye içinde tekrar geri bildirim gönderebilirsiniz</item>
         <item quantity="one">%1$s saniye içinde tekrar geri bildirim gönderebilirsiniz</item>
     </plurals>
-   
-    <plurals name="tts_report_temperature_high_centigrade">
+   <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">En yüksek sıcaklık: %1$s Santigrat derece</item>
         <item quantity="one">En yüksek sıcaklık: %1$s Santigrat derece</item>
     </plurals>
@@ -64,5 +63,9 @@
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">En düşük sıcaklık: %1$s Fahrenhayt derece</item>
         <item quantity="one">En düşük sıcaklık: %1$s Fahrenhayt derece</item>
+    </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">%1$s günlük hava durumu tahmini</item>
+        <item quantity="one">%1$s günlük hava durumu tahmini</item>
     </plurals>	
 </resources>

@@ -136,4 +136,8 @@
     <item quantity="other">%1$d cihaz bağlandı</item>
     <item quantity="one">%1$d cihaz bağlandı</item>
   </plurals>
+  <plurals name="auto_disconnect_timer_tip">
+    <item quantity="other">%1$d saniye içinde kapatılıyor</item>
+    <item quantity="one">%1$d saniye içinde kapatılıyor</item>
+  </plurals>
 </resources>

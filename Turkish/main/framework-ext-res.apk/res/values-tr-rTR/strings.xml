@@ -28,6 +28,7 @@
   <string name="call_record_or">" veya "</string>
   <string name="call_record_sample_prefix_miui">Çağrı</string>
   <string name="caller_info_name_delimiter">" veya "</string>
+  <string name="can_not_transfer_when_screening">Transfer sırasında yansıtma yapılamıyor</string>
   <string name="cancel_action">İptal</string>
   <string name="close">Kapalı</string>
   <string name="configure_input_methods">Klavye seçin</string>

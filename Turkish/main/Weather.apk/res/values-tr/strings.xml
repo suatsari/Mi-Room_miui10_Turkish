@@ -163,7 +163,7 @@
   <string name="more_details">Diğer Detaylar</string>
   <string name="network_not_available">Ağa bağlanamadı.</string>
   <string name="network_unavailable">Ağa bağlanamadı.</string>
-  <string name="night_not_disturb_settings_summary">23:00 ve 07:00 arasında alarmlar sesizde</string>
+  <string name="night_not_disturb_settings_summary">23:00 - 7:00 arasındaki uyarıları engelle</string>
   <string name="night_not_disturb_settings_title">Gece rahatsız etme</string>
   <string name="no_data">Veri yok</string>
   <string name="no_network_btn">Tekrar deneyin</string>
@@ -273,5 +273,13 @@
   <string name="shortcut_short_label_24_hour_forecast">24 saatlik hava tahmini</string>
   <string name="shortcut_short_label_recent_forecast">Hava durumunu kontrol et</string>
   <string name="feedback_result_fail_no_reason">Geri bildiriminiz için teşekkür ederiz!</string>
-  <string name="feedback_result_fail_same_type">Raporunuz şu anki hava koşullarından farklı görünmüyor. Tekrar deneyin.</string>  
+  <string name="feedback_result_fail_same_type">Raporunuz şu anki hava koşullarından farklı görünmüyor. Tekrar deneyin.</string>
+  <string name="about_weather_setting">Hava Durumu hakkında</string>
+  <string name="about_weather_setting_feedback">Geri bildirim</string>
+  <string name="abrupt_weather_settings_summary_type">Beklenen yağışlar, hava kalitesi değişiklikleri ve diğer önemli değişiklikler hakkında uyarılar alın</string>
+  <string name="alert_weather_enable_settings_summary">Resmi hava durumu uyarıları alın</string>
+  <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
+  <string name="feedback">Yanlış hava durumu bilgisini bildir</string>
+  <string name="warning_weather_day_and_night_settings_summary">Saat 7:00 ve 19:00\'da hava durumu bilgisi içeren günlük özetleri alın</string>
+  <string name="warning_weather_day_and_night_settings_title">Günlük özetler</string>  
 </resources>
