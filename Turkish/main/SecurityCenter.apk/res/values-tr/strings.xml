@@ -1699,8 +1699,16 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="power_setting_background_app_save_summary">İşlevselliği etkilemeden arka planda uygulamaların etkinliğini sınırla</string>
   <string name="power_setting_background_app_save_title">Arka plan pil tasarrufu</string>
   <string name="power_setting_category_other">Ek ayarlar</string>
+  <string name="power_setting_config_scenario_policies_title">Senaryolar</string>
+  <string name="power_setting_features">Ayrıcalıklı özellikler</string>
+  <string name="power_setting_important_warning">Dikkat</string>
   <string name="power_setting_power_save_summary_text">Pil tasarrufu için sistem ayarlarını optimize edin</string>
+  <string name="power_setting_scenario_policies_summary">Pil tasarruf modları arasında otomatik olarak geçiş yapmak için senaryolar belirleyin</string>
   <string name="power_setting_super_save_summary_text">Pil tasarrufu için çoğu sistem özelliklerini kısıtlayın</string>
+  <string name="power_setting_warm_configure">Sıcaklık kontrolü</string>
+  <string name="power_setting_warm_performance_tip">Yüksek güç tüketimi gerektiren senaryolar cihazınızın sıcaklığını varsayılan sıcaklık kontrol modu seviyesinin üzerine yükseltir.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Uyumlu cihazları kablosuz olarak şarj edin</string>
+  <string name="power_setting_wireless_reverse_charging_title">Ters kablosuz şarj</string>
   <string name="power_settings_category_title">Pil göstergesi</string>
   <string name="power_settings_lock_screen_saver_title">Kilit ekranı ayarları</string>
   <string name="power_settings_number">Yüzde</string>
