@@ -6741,5 +6741,12 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="screen_projection_title">Yansıt</string>
   <string name="search_connection_and_sharing">Daha;Kablosuz</string>
   <string name="system_print_service_help">Yazdırma hakkında</string>
-  <string name="xiaomi_transfer">Mi Paylaşım</string>  
+  <string name="xiaomi_transfer">Mi Paylaşım</string>
+  <string name="full_screen_keyboard_settings">Tam ekran klavye ayarları</string>
+  <string name="input_method_bottom_close">Kapalı</string>
+  <string name="input_method_bottom_open">Açık</string>
+  <string name="input_method_manage">Klavyeleri yönet</string>
+  <string name="input_method_settings_text">Ayarlar</string>
+  <string name="keyboard_mouse_touch">Klavye, mouse, ve track pad</string>
+  <string name="other_input_settings">Ek klavye ayarları</string>  
 </resources>

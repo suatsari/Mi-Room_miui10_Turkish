@@ -579,6 +579,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_dialog_negative">Çıkış</string>
   <string name="cta_dialog_positive">Kabul</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
+  <string name="cta_HIPS_Perm_Location_Desc">kesin konum al (GPS ve ağ tabanlı)</string>
   <string name="cta_main_purpose">Güvenlik uygulamasına Hoşgeldiniz! Cihazınızdaki çöpleri temizlemek, virüsleri bulmak ve etkisizleştirmek, oyun performansını artırmak, pil tasarrufu yapmak, uygulamaları yönetmek ve daha fazlasını yapmak için bu uygulamayı kullanabilirsiniz.</string>
   <string name="cta_settings">İnternet bağlantısına izin ver</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
