@@ -157,7 +157,7 @@
   <string name="diagnosis_log_send_failed">Tanı günlüğü gönderilemedi.</string>
   <string name="diagnosis_log_sent_format">Tanı günlüğü gönderildi.\nKimlik:%s\nLütfen bu kodu teknisyene gönderin.</string>
   <string name="empty_device_list_notice">Cihaz yok</string>
-  <string name="ep_unsupported">Cihazınızda Mi Hesabı\'nda oturum açamıyorum</string>
+  <string name="ep_unsupported">Cihazınız Xiaomi hesabına giriş yapmayı desteklemiyor</string>
   <string name="error_dup_binded_email">Bu E-Posta adresi zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
   <string name="error_invalid_bind_address">Girdiğiniz E-Posta adresi geçersiz.</string>
   <string name="exceed_binded_phone_times_notice">Bu telefon numarası zaten başka Mi Hesabı ile ilişkilendirilmiş.</string>
@@ -540,5 +540,10 @@
   <string name="two_factor_auth_method">Kimlik doğrulama yöntemi</string>
   <string name="two_factor_auth_need_code">Kodu girin</string>
   <string name="two_factor_auth_need_code_summary">Diğer bağlı Mi cihazlarında bir kod göreceksiniz. Oturum açmak için bu kodu yeni bir cihaza girin.</string>
-  <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda, diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir.</string>  
+  <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda, diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir.</string>
+  <string name="passport_user_agreement_link"><Data>"Xiaomi &lt;a href=%1$s>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik Politikası&lt;/a> okudum ve kabul ediyorum."</Data></string>
+  <string name="system_ad">Sistem uygulamalarındaki reklamlar</string>
+  <string name="system_ad_switch">Sistem uygulamalarındaki reklamlar</string>
+  <string name="system_ad_summary">Sistem uygulamalarında az sayıda reklam gösterilmesine izin vermek için bu özelliği açın. Bu reklamlar ürünlerimizi ve hizmetlerimizi geliştirmemize ve iyileştirmemize yardımcı olur. İstediğiniz zaman bu özelliği kapatmayı seçebilirsiniz. Desteğin için teşekkürler!</string>
+  <string name="system_ad_list">İlgili uygulamaları görüntüleyin.</string>  
 </resources>

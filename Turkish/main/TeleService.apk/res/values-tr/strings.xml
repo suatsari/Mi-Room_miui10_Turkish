@@ -1317,6 +1317,7 @@
   <string name="preferred_network_type_title">Tercih edilen ağ tipi</string>
   <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
   <string name="preferred_wificall_title">Ağ tercihleri</string>
+  <string name="preferred_wificall_roaming_title">Dolaşım tercihleri</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="private_dns_mode_off">Kapalı</string>
   <string name="private_dns_mode_opportunistic">Otomatik</string>

@@ -95,7 +95,7 @@
   <string name="terms_of_use">Hükümler ve Koşullar</string>
   <string name="terms_of_use_label">Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.\n\nMIUI yazılımını kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmelisiniz. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır.</string>
   <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
-  <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyun merkezi, MAB, MIUI Daemon ve MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
+  <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyunlar, MIUI Daemon, MSA sistem bileşenleri, çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">\n\nBu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir.</string>
   <string name="terms_of_use_lable_default_input_method_kika">\n\nBu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerekir.</string>
   <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
@@ -112,4 +112,8 @@
   <string name="welcome">Hoşgeldiniz</string>
   <string name="zone_picker_title">Saat dilimini seç</string>
   <string name="terms_of_use_label_updater">, Güncelleyici</string>
+  <string name="terms_of_use_label_mab">, MAB</string>
+  <string name="terms_of_use_label_Mistore">, Mi Mağaza sistemi eklentisi</string>
+  <string name="terms_of_use_label_package">, Paket yükleyici</string>
+  <string name="terms_of_use_label_phrase">, Sık kullanılan ifadeler</string>
 </resources>
