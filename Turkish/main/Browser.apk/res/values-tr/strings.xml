@@ -24,7 +24,7 @@
   <string name="action">Oturum Aç</string>
   <string name="action_imme_open">Hemen aç</string>
   <string name="action_menu_account_not_login">Oturum açılmadı</string>
-  <string name="action_menu_account_not_login_hint">Mi Bulut ile eşitlemek için oturum açın</string>
+  <string name="action_menu_account_not_login_hint">Bulut ile eşitlemek için oturum açın</string>
   <string name="action_menu_bookshelf">Kitaplık</string>
   <string name="action_menu_current_version">Güncel Sürüm</string>
   <string name="action_menu_download">İndir</string>
@@ -260,8 +260,9 @@
   <string name="data_monitor_dialog_message">Bir şey mobil verinizi boşaltıyor gibi görünüyor. Bunu durdurmak için başlangıç sayfasını açın.</string>
   <string name="data_traffic_continue">Devam</string>
   <string name="data_traffic_download_cancel">İptal</string>
-  <string name="data_traffic_download_prompt">Mevcut video sadece wifi ortamında indirilebilir</string>
+  <string name="data_traffic_download_prompt">Şu anda veri trafiğini kullanarak, videoyu önbelleğe almaya devam etmek istiyor musunuz?</string>
   <string name="data_traffic_download_setting">Ayarlar</string>
+  <string name="data_traffic_download_toast_msg">Şu anda videoyu önbelleğe almak için veri trafiği kullanılıyor</string>
   <string name="data_traffic_prompt_free_data">Videolara göz atmak için mobil veri bağlantınızı kullanmak, veri kullanımınızı artıracaktır. Lütfen ücretsiz veri trafiğine sahip olun.</string>
   <string name="data_traffic_prompt_message">Mobil veri bağlantısı kullanmak videolara bakarken veri kullanımını artıracaktır. Aylık veri limitini aşarsanız, operatörünüz ek ücret uygulayabilir!</string>
   <string name="data_traffic_prompt_title">Veri Kullanımı Uyarısı</string>
@@ -694,8 +695,8 @@
   <string name="novel_toast_hint">Bu web sitesi kitaplığa eklendi</string>
   <string name="ok">Tamam</string>
   <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
-  <string name="open_cloud_sync">Bulut senkronizasyonunu aç</string>
-  <string name="open_cloud_sync_desc">Yer işareti başarıyla eklendi. Diğer cihazlarda eklenen yer işaretlerini eşitlemek için Mi Bulut ile eşitlemeyi açın. Giriş yap ve aç?</string>
+  <string name="open_cloud_sync">Bulut ile eşitlemeyi aç</string>
+  <string name="open_cloud_sync_desc">Yer işareti başarıyla eklendi. Diğer cihazlarda da eklenen yer işaretlerini eşitlemek için bulutla eşitlemeyi açın. Giriş yap ve aç?</string>
   <string name="open_file_explorer_failed">Dosya Yöneticisi açılamıyor</string>
   <string name="open_voice_permission">Mikrofonun internete bağlanmasına izin ver</string>
   <string name="page_hang_message">Geçerli sayfa takılmış ve tarayıcınızı yeniden başlatmanız gerekiyor.</string>
@@ -1111,6 +1112,8 @@
   <string name="video_download_unknown_name">Bilinmeyen isim</string>
   <string name="video_download_unknown_size">Bilinmeyen boyut</string>
   <string name="video_download_unsupport">Desteklenmiyor</string>
+  <string name="video_download_wait_for_caching">Önbelleğe alma için bekleniyor</string>
+  <string name="video_download_wait_for_network">Ağ bekleniyor</string>
   <string name="video_download_wait_for_wifi">Wi-Fi için bekleniyor</string>
   <string name="video_downloaded_group">İndirildi</string>
   <string name="video_downloading_group">İndiriliyor</string>

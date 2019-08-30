@@ -37,14 +37,13 @@
   <string name="help_page_text_04">Öğeleri daha büyük bir ekrana nasıl yansıtırım?</string>
   <string name="help_page_text_05">Adım 1</string>
   <string name="help_page_text_06">1. Küçük Mi TV\'ye bağlanmak için küçük Mi el telefonunu kullanın, ağ ortamı olmadan dikey ekran bağlantısı kurabilirsiniz.\n2. Bazı Xiaomi TV\'ler veya akıllı taramayı desteklemeyen diğer marka TV\'ler için, TV\'nizi (veya büyük ekranlı cihazınızı) cep telefonunuz ile aynı kablosuz ağa bağlamanız gerekir.</string>
-  <string name="help_page_text_07">3. Bazı Xiaomi TV\'ler veya akıllı taramayı desteklemeyen diğer marka TV\'ler. Kablosuz bir ağ yoksa veya TV ile cep telefonu aynı ağa bağlanamıyorsa, TV (veya büyük ekranlı cihaz) [Miracast] Ayna projeksiyon ekranı] anahtarını açmanız gerekir. Bu ad, farklı marka TV markaları için değişebilir, daha fazla bilgi edinmek için bu sayfanın en altına kaydırın.</string>
   <string name="help_page_text_08">Adım 2</string>
   <string name="help_page_text_09">Telefonunuzun Bildirim alanında bulunan \"Yansıt\" düğmesine dokunun. Daha istikrarlı bir bağlantı için hem WLAN hem de Bluetooth\'u açın.</string>
   <string name="help_page_text_10">Öğeleri Galeri veya Mi Video ile yayınlamak isterseniz, bu uygulamalarda bulunan yerleşik yansıtma özelliklerini kullanabilirsiniz.</string>
   <string name="help_page_text_11">Adım 3</string>
   <string name="help_page_text_12">Yansıtma işlemine başlamak için mevcut cihazlar listesinden harici bir cihaz seçin.</string>
   <string name="help_page_text_13">Harici bir cihaza bağlanılamıyor mu?</string>
-  <string name="help_page_text_14">1. Mi TV ekran yansıtma için, lütfen TV uygulaması listesindeki Kablosuz Tarama uygulamasını en son sürüme yükseltin.\n2. Bağlantı başarı oranınızı artırmak için telefonunuzu TV ile aynı LAN\'a bağlamayı deneyebilirsiniz. Bunun sayesinde, (bazı yönlendiriciler ekran için dengeli bir bağlantı ortamı sağlayamaz) hiçbir bağlantıya gerek duymaz ve sık sık kesintiye neden olmaz.\n3. Mi TV kullanıyorsanız, Bluetooth\'u açmak bağlantıyı iyileştirebilir.\n4. Kullanılabilir WLAN ağı yoksa, harici cihazınızın (örn. TV) Miracast işlevselliğini desteklediğinden emin olun. Harici cihazınızdaki yansıtma özelliklerinin adları, cihazınızın markasına bağlı olarak değişebilir. Farklı cihazlarda Miracast işlevselliği hakkında bilgi edinmek için aşağıdaki bilgilere bakın.</string>
+  <string name="help_page_text_14">1. Mi TV ekran yansıtma için, lütfen TV uygulaması listesindeki Kablosuz Tarama uygulamasını en son sürüme yükseltin.\n2. Bağlantı başarı oranınızı artırmak için telefonunuzu TV ile aynı LAN\'a bağlamayı deneyebilirsiniz. Bunun sayesinde, (bazı yönlendiriciler ekran için dengeli bir bağlantı ortamı sağlayamaz) hiçbir bağlantıya gerek duymaz ve sık sık kesintiye neden olmaz.\n3. Mi TV kullanıyorsanız, Bluetooth\'u açmak bağlantıyı iyileştirebilir.</string>
   <string name="help_page_text_15">Farklı cihazlarda Miracast işlevselliği</string>
   <string name="help_page_text_16">Mi TV/Mi Projektörü</string>
   <string name="help_page_text_17">Xiaomi cep telefonu, Miracast işlevini manuel olarak açmak yerine, Bluetooth tooth fonksiyonlu Xiaomi TV\'ye doğrudan bağlanabilir.\nMiracast işlevini el ile açmanız gerekirse, TV ekranından beni seçmek için TV uzaktan kumandasının [Menü] düğmesine basabilirsiniz. Uygulamalar &gt; Kablosuz Tarama &gt; Mi / Android Miracas.</string>
@@ -85,6 +84,8 @@
   <string name="help_page_text_51">LeTV</string>
   <string name="help_page_text_52">Lütfen büyük ekranlı cihaz modelinizin Miracast protokolünü desteklediğinden emin olun. Bazı modellerde, Ayarlar &gt; Ağ &gt; Çoklu Ekran Etkileşimli &gt; Kablosuz Ekran\'ı seçin.</string>
   <string name="help_page_text_53">LeTV müşteri hizmetleri telefonu: 10109000</string>
+  <string name="help_page_text_55">"Herhangi bir Wi-Fi şebekesi yoksa, harici cihazınızın (örn. TV) Miracast işlevselliğini desteklediğinden emin olun. Harici cihazınızdaki yansıtma özelliklerinin adları, cihazınızın markasına bağlı olarak değişebilir. Farklı cihazlarda Miracast işlevselliği hakkında bilgi edinmek için aşağıdaki bilgilere bakın.
+4. Başka sorunların olması durumunda, soru ve önerilerinizi Kullanıcı Geri Bildirimi uygulamasıyla gönderebilirsiniz."</string>
   <string name="help_page_text_end">Cihazınızın markası burada listelenmemişse, yansıtma işlevi hakkında daha fazla bilgi edinmek için üreticiye başvurun.</string>
   <string name="notification_rc_desc">Cep telefonunuz için XiaoMi Box\'a (veya TV) video, fotoğraf ve uygulama yansıtmak için en iyi TV Yardımcısı, şimdi deneyin!</string>
   <string name="notification_rc_title">XiaoMi TV Yardımcısı</string>

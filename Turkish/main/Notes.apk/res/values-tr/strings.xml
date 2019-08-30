@@ -30,8 +30,8 @@
   <string name="call_folder_name">Çağrı notları</string>
   <string name="cancel_alarm_description">Alarmı iptal et</string>
   <string name="check_in_todo_app">Görevleri görüntüle</string>
-  <string name="cloud_service_state_open_reminder">Notları eşitlemek için Bulut ile eşitlemeyi açın.</string>
-  <string name="cloud_trash_bin_title">Bulut\'taki notları sil</string>
+  <string name="cloud_service_state_open_reminder">Notları eşitlemek için bulut ile eşitlemeyi açın.</string>
+  <string name="cloud_trash_bin_title">Buluttan silinmiş notlar</string>
   <string name="cta_confirm_cancel">İzin verme</string>
   <string name="cta_confirm_ok">İzin ver</string>
   <string name="cta_dialog_message">Notlar\'ın normal çalışması için, internete bağlanması, ses kaydetmesi ve kişilerinize erişmesi gerekir. İzin verilsin mi?</string>
@@ -42,10 +42,10 @@
   <string name="date_time_picker_has_not_set_alarm">Alarm ayarlanmadı</string>
   <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>
   <string name="db_downgrade_clear_button">Uygulama verilerini temizle</string>
-  <string name="db_downgrade_clear_date_reminder">MIUI\'ın farklı bir sürümüne geçiş yapmak, Notlar için uygulama verilerini temizlemeyi gerektirir. Bunu yapmadan önce notlarınızı Bulut\'a yedeklediğinizden emin olun.</string>
+  <string name="db_downgrade_clear_date_reminder">MIUI\'ın farklı bir sürümüne geçiş yapmak, Notlar için uygulama verilerini temizlemeyi gerektirir. Bunu yapmadan önce notlarınızı buluta yedeklediğinizden emin olun.</string>
   <string name="default_folder_name">Adsız klasör</string>
   <string name="delete_folder_dialog_tile">Klasörü sil</string>
-  <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu, uygulamayı neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi? Hesabınızın güvenliğini sağlamak için, Bulut hizmetlerinin yetkilendirmesini iptal etmeden önce i.mi.com adresinde oturum açın.</string>
+  <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu, uygulamayı neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi? Hesabınızın güvenliğini sağlamak için, bulut hizmetlerinin yetkilendirmesini iptal etmeden önce i.mi.com adresinde oturum açın.</string>
   <string name="dialog_share_as_pic">Notu resim olarak paylaş</string>
   <string name="dialog_share_as_text">Notu metin olarak paylaş</string>
   <string name="dlg_btn_set_password">Şifre ayarla</string>
@@ -119,7 +119,7 @@
   <string name="menu_unhide">Gizliden çıkar</string>
   <string name="menu_unstick">Sabitten kaldır</string>
   <string name="not_now">Şimdi değil</string>
-  <string name="note_description_content">Notlar uygulaması, fikirlerinizi kaydetmek için harika bir araçtır. Yerleşik hatırlatıcılara sahiptir ve öğelerinizi Bulut ile eşitler, böylece her yerde, istediğiniz zaman erişebilirsiniz. Uygulamayı silmeden önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
+  <string name="note_description_content">Notlar uygulaması, fikirlerinizi kaydetmek için harika bir araçtır. Yerleşik hatırlatıcılara sahiptir ve öğelerinizi bulut ile eşitler, böylece her yerde, istediğiniz zaman erişebilirsiniz. Uygulamayı silmeden önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="note_description_title">Notlar hakkında</string>
   <string name="note_link_email">E-posta oluştur</string>
   <string name="note_link_other">Harita uygulamasını kullanarak aç</string>
@@ -137,7 +137,7 @@
   <string name="permission_intro_storage">Notları ve ekleri kaydetmek için</string>
   <string name="permlab_accessNote">Notlar\'a erişim</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Onaylamadan notları silmek için 2 parmağınızla yukarı kaydırın</string>
-  <string name="pref_title_cloud_trash_bin">Bulut\'taki notları sil</string>
+  <string name="pref_title_cloud_trash_bin">Buluttan silinmiş notlar</string>
   <string name="pref_title_common">Ek ayarlar</string>
   <string name="pref_title_font_size">Yazı tipi boyutu</string>
   <string name="pref_title_note_style">Stil</string>
@@ -187,7 +187,7 @@
   <string name="sns_title_send">Mesaj gönder</string>
   <string name="sns_toast_empty">Boş mesaj gönderilemiyor</string>
   <string name="sns_toast_over_limit">Resim olarak gönderildi</string>
-  <string name="sync_tips">Notları Bulut ile eşitlemek için dokunun.</string>
+  <string name="sync_tips">Notları bulutla eşitlemek için dokunun.</string>
   <string name="theme_blue_description">Mavi</string>
   <string name="theme_green_description">Yeşil</string>
   <string name="theme_red_description">Kırmızı</string>
