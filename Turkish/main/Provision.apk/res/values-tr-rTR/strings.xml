@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Erişilebilirlik etkin.</string>
   <string name="agree">Kabul</string>
-  <string name="agree_terms">Hizmet Şartlarını ve Gizlilik Politikasını okudum ve kabul ediyorum.</string>
+  <string name="agree_terms">Kullanıcı Sözleşmesini ve Gizlilik Politikasını okudum ve kabul ediyorum.</string>
   <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Politikasını okudum ve kabul ediyorum.</string>
   <string name="agree_terms_input_method_kika">Kika Gizlilik Politikasını okudum ve kabul ediyorum.</string>
   <string name="ai_button_desc">Akıllı ses yardımcınıza anında erişin</string>
@@ -22,7 +22,7 @@
   <string name="congratulation_swipe">Sisteme girmek için yukarı kaydırın</string>
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamamlandı</string>
-  <string name="content_description_miui_version">MIUI 10</string>
+  <string name="content_description_miui_version">MIUI 11</string>
   <string name="content_description_start">Başlat</string>
   <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutun.</string>
   <string name="desc_fingerprint">Cihazınızın kilidini açmak, Mi Ödeme işlemlerini doğrulamak veya uygulamalarda ve hizmetlerde oturum açmak için parmak izinizi kullanın.</string>
@@ -46,7 +46,7 @@
   <string name="locale_picker_other_locale_title">Daha fazla bölge</string>
   <string name="locale_picker_title">Bölgenizi seçin</string>
   <string name="miui_privacy_policy_no_network">İnternet bağlantınız yok. Gizlilik Politikasını %s adresinden görüntüleyin.</string>
-  <string name="miui_terms_no_network">İnternet bağlantınız yok. Hizmet Şartlarını %s adresinden görüntüleyin.</string>
+  <string name="miui_terms_no_network">İnternet bağlantınız yok. Kullanıcı Sözleşmesi\'ni %s adresinde görüntüleyin.</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
   <string name="multisim_settings_title">2 SIM kart algılandı</string>
   <string name="navigation_picker_gesture_guide">Hareket kılavuzu</string>
@@ -89,10 +89,10 @@
   <string name="sim_redetection">Tekrar kontrol et</string>
   <string name="sim_scard_detecting_check_mobile_not_available">SIM kartınız geçerli bir operatör ağına bağlanamadı. Bakiyenizin yeterli olduğundan emin olun ve tekrar bağlanmayı deneyin.</string>
   <string name="skip_underline">Bu adımı atla</string>
-  <string name="start_up_slogan">Tam ekran deneyimi için tasarlandı</string>
+  <string name="start_up_slogan">Üretkenliği güçlendir</string>
   <string name="summary_not_set">Ayarlanmadı</string>
   <string name="system_navigation_mode">Sistem gezinme modu</string>
-  <string name="terms_of_use">Hükümler ve Koşullar</string>
+  <string name="terms_of_use">Şartlar ve koşullar</string>
   <string name="terms_of_use_label">Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve sizin için hangi seçeneklerin mevcut olduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.\n\nMIUI yazılımını kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmelisiniz. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır.</string>
   <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
   <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Xiaomi Bulut, Cihazı bul, Ana ekran, Oyunlar, MIUI Daemon, MSA sistem bileşenleri, çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>
@@ -104,7 +104,7 @@
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
   <string name="title_fingerprint">Şifreyi belirle</string>
-  <string name="user_agreement">Hizmet Şartları</string>
+  <string name="user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanızı sağlar, ancak daha fazla güç tüketir (Her saat +1%).</string>
   <string name="voice_assist_condition">Bu durumlarda Mi AI kullanmak mümkün olacak:\n1. Ekran açıkken.\n2. Ekranı kapalı müzik dinlerken.</string>
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
@@ -114,6 +114,6 @@
   <string name="terms_of_use_label_updater">, Güncelleyici</string>
   <string name="terms_of_use_label_mab">, MAB</string>
   <string name="terms_of_use_label_Mistore">, Mi Mağaza sistemi eklentisi</string>
-  <string name="terms_of_use_label_package">, Paket yükleyici</string>
+  <string name="terms_of_use_label_package">, Paket  yükleyici</string>
   <string name="terms_of_use_label_phrase">, Sık kullanılan ifadeler</string>
 </resources>

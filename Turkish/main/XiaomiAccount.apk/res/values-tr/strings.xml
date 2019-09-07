@@ -432,6 +432,8 @@
   <string name="passport_talkback_switch_image_captcha">Resim doğrulama koduna geç</string>
   <string name="passport_talkback_switch_voice_captcha">Ses doğrulama koduna geç</string>
   <string name="passport_talkback_voice_captcha">Ses doğrulama kodunu oynat</string>
+  <string name="passport_ticket_login_select_sim_card">SIM kartı seç</string>
+  <string name="passport_ticket_login_select_sim_card_cancel">İptal</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>
@@ -513,6 +515,7 @@
   <string name="sina_weibo">Sina Weibo</string>
   <string name="sms_send_success">Gönder</string>
   <string name="sns_access_token_expired_warning">Hesap oturum açma süresi doldu. Bu hesabı eklemek için tekrar giriş yapın.</string>
+  <string name="system_ad_switch_failed">Ayar uygulanamadı</string>
   <string name="talkback_scan_barcode">QR kodunu tarayın</string>
   <string name="temporary_not_available">Bu özellik henüz mevcut değil.</string>
   <string name="turn_off_find_device_failed_title">Cihazı bul kapatılamıyor</string>

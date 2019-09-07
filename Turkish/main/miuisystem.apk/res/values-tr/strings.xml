@@ -213,5 +213,8 @@
   <string name="game">Oyun</string>
   <string name="makewishes">Doğum günü dileği</string>
   <string name="robot">Robot</string>
-  <string name="surprise">Sürpriz</string>  
+  <string name="surprise">Sürpriz</string>
+  <string name="windchime">Rüzgar çanları</string>
+  <string name="mihouse">Mi Elektronik</string>
+  <string name="mijazz">Mi Caz</string>  
 </resources>

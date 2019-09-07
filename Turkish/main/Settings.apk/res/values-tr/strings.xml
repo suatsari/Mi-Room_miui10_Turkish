@@ -6081,6 +6081,9 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="aod_close_color_inversion">Bu özellik, renkleri ters çevir ile çalışmaz. Önce renkleri ters çevir özelliğini kapatın.</string>
   <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
+  <string name="aod_notification_style_none">Hiçbir şey yapma</string>
+  <string name="aod_notification_style_screen_on">Ekranı aydınlat</string>
+  <string name="aod_notification_style_animation">Animasyonu göster</string>	
   <string name="following_us_title">Bizi takip edin</string>
   <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
   <string name="bootloader_device_bind_server_token_expired_1">Doğrulanamadı. Hesabınızı ve cihazınızı tekrar eklemeyi deneyin.</string>
@@ -6600,7 +6603,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
   <string name="popup_gesture_title">Ön kamerayı açmak için kaldırın</string>
-  <string name="popup_gesture_summary">Ana ekrana geri dönün, telefonu kaldırın ve ön kamerayı otomatik olarak açmak için ekrana bakın.</string>
+  <string name="popup_gesture_summary">Telefonunuzu önünüzde tutun ve ön kamerayı açmak için hızla 20 cm yukarı kaldırın</string>
   <string name="miui_lab_3d_gesture_title">3B desenler</string>
   <string name="miui_lab_3d_gesture_slogan">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
   <string name="miui_lab_3d_gesture_summary">Bir uygulamayı açmak için telefonunuzla havada bir desen çizin</string>
@@ -6762,5 +6765,27 @@ Bu özellik Ayarlar\'dan kapatılabilir."</string>
   <string name="wifi_link_turbo_no_app">Burada henüz uygulama yok.</string>
   <string name="wifi_link_turbo_off">Kapalı</string>
   <string name="wifi_link_turbo_on">Açık</string>
-  <string name="wifi_link_turbo_summary">WLAN bağlantısı zayıf olduğunda mobil veri kullanacak uygulamaları seçerek bağlantı hızını artırın</string>  
+  <string name="wifi_link_turbo_summary">WLAN bağlantısı zayıf olduğunda mobil veri kullanacak uygulamaları seçerek bağlantı hızını artırın</string>
+  <string name="ring_volume_option_title">Çağrılar, hatırlatıcılar, bildirimler</string>
+  <string name="media_volume_option_title">Müzik, oyunlar, medya</string>
+  <string name="system_haptic_feedback">Dokunsal geri bildirim</string>
+  <string name="calendar_remind">Etkinlikler</string>
+  <string name="notification_remind">Bildirimler</string>
+  <string name="title_layout_current2_weight">Metin boyutu &amp; yazı tipi kalınlığı</string>
+  <string name="weight_light">İnce</string>
+  <string name="weight_heavy">Kalın</string>
+  <string name="weight_setting_toast">Yazı tipi kalınlığını yalnızca varsayılan sistem yazı tipi için değiştirebilirsiniz</string>
+  <string name="auto_clean_title">Hoparlörü temizle</string>
+  <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
+  <string name="auto_clean_description">Bu özellik hakkında\n1. Hoparlörünüzün tozdan hafifçe tıkandığını tespit ederseniz, bu özelliği bir veya iki kez çalıştırın.\n2. Hoparlör çok fazla tıkalıysa, bu özelliği  hoparlör aşağı bakacak şekilde cihazınızı sallayarak 2-5 kez çalıştırın.</string>
+  <string name="dialog_speaker_auto_clean_title">Dikkat</string>
+  <string name="dialog_speaker_auto_clean_content">Temizleme 30 saniye sürer. Bu sayfadan ayrılmayın. En iyi etki için ses seviyesini en üst düzeye çıkarın.</string>
+  <string name="dialog_speaker_auto_clean_button">Anladım</string>
+  <string name="notification_animation_style">Özel efektler</string>
+  <string name="aod_style_title">Stil</string>
+  <string name="aod_style_description">Ekran kapalıyken saati, tarihi, zamanı, bildirimleri ve diğer öğeleri görüntüle</string>
+  <string name="aod_show_mode_title">Öğeleri göster</string>
+  <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
+  <string name="scheduled_style">Zamanlanmış</string>
+  <string name="always_style">Her zaman</string>  
 </resources>

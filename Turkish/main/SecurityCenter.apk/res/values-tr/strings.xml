@@ -1577,6 +1577,17 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="per_month_pkg_traffic_settings">Veri sınırını ayarla</string>
   <string name="perfermance_optimization_summary">Aşırı ısınma ve donanım ile ilgili sorunlardan kaçının</string>
   <string name="perfermance_optimization_title">Performans optimizasyonu</string>
+  <string name="permgroupdesc_contacts">Kişilere erişim</string>
+  <string name="permgroupdesc_location">Konum bilgilerine erişim</string>
+  <string name="permgroupdesc_calendar">Takvim etkinliklerine erişim</string>
+  <string name="permgroupdesc_sms">SMS okuma veya gönderme</string>
+  <string name="permgroupdesc_storage">Cihazdaki fotoğraflara veya dosyalara erişim</string>
+  <string name="permgroupdesc_microphone">Ses kaydı</string>
+  <string name="permgroupdesc_camera">Fotoğraf çekme ve video kaydetme</string>
+  <string name="permgroupdesc_calllog">Çağrı geçmişine erişme ve öğeleri kaydetme</string>
+  <string name="permgroupdesc_phone">Çağrı yapma ve konuşmaları yönetme</string>
+  <string name="permgroupdesc_sensors">Vücut sensör verilerine erişim</string>
+  <string name="permgroupdesc_recognition">Sağlık &amp; aktivite verilerine erişim</string>
   <string name="permission_action_accept">Kabul</string>
   <string name="permission_action_prompt">Bildir</string>
   <string name="permission_action_reject">Reddet</string>

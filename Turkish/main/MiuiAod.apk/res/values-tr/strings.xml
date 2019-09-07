@@ -62,12 +62,12 @@
   <string name="paper_mode_end_time_title">Kapat</string>
   <string name="paper_mode_start_time_title">Aç</string>
   <string name="password_toggle_content_description">Şifreyi göster</string>
-  <string name="scheduled_style">Planlanmış</string>
+  <string name="scheduled_style">Zamanlanmış</string>
   <string name="search_menu_title">Ara</string>
   <string name="show_battery_status">Pil durumunu göster</string>
   <string name="show_notification">Bildirimleri göster</string>
   <string name="standard_style">Standart</string>
   <string name="summary">Güç tüketimini azaltmak için, öğeler aşağıdaki durumlarda görüntülenmez:\n1. Cihazınızın ekranı uzun süre kapalı kaldığında.\n2. Rahatsız etme modu açık olduğunda.</string>
-  <string name="temporary_style">Dokunduktan sonra 10 saniye boyunca</string>
+  <string name="temporary_style">Ekrana dokunduktan 10 saniye sonra</string>
   <string name="text_color">Metin rengi</string>
 </resources>
