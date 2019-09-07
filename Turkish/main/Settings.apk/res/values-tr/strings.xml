@@ -2632,7 +2632,6 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="media_button">Medya Tuşu</string>
   <string name="media_category">Medya</string>
   <string name="media_feedback_enable_title">Ritimle titreştir</string>
-  <string name="media_volume_option_title">Medya Sesi</string>
   <string name="media_volume_summary">Müzik ve videolar için sesi ayarla</string>
   <string name="media_volume_title">Medya</string>
   <string name="megabyte_per_second">M/sn</string>
@@ -3647,7 +3646,6 @@ Bunu daha sonra Ayarlar &gt; Uygulamalar &amp; bildirimler bölümünden değiş
   <string name="retail_demo_reset_next">Sonraki</string>
   <string name="retail_demo_reset_title">Şifre gerekli</string>
   <string name="retry">Tekrarla</string>
-  <string name="ring_volume_option_title">Zil Seviyesi</string>
   <string name="ring_volume_title">Zil Sesi</string>
   <string name="ringtone_slot_setting_title">Tekli SIM Ayarları</string>
   <string name="ringtone_title">Telefon zil sesi</string>
